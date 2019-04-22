@@ -7,4 +7,12 @@
 		"text": "日は<br/>沈んでるかな?<br/>…人の声も<br/>聞こえないけど"
 		,"style": "font-size: 30px;color: black;background-color: white;left: 5.59%;top: 17.14%;width: 32.98%;height: 2.83%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
 	}
+	,{
+		"text": "あっ!"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 69.10%;top: 17.00%;width: 13.09%;height: 0.69%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;transform: rotate(-23deg);font-weight: bold;"
+	}
+	,{
+		"text": "今日のお仕事<br/>サボっちゃった<br/>かな…"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 76.33%;top: 17.59%;width: 20.53%;height: 1.91%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
 ]
