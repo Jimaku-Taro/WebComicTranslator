@@ -1,0 +1,30 @@
+[
+	{
+		"text": "“トップ<br/>シーク<br/>レット”<br/>じゃない…"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 31%;top: 8%;"
+	}
+	,{
+		"text": "…ただ<br/>“プライベート”"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 83%;top: 4.5%;"
+	}
+	,{
+		"text": "言ったろ。<br/>有名な顧客への<br/>超退屈な<br/>配達だって"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 82%;top: 9.5%;"
+	}
+	,{
+		"text": "人生の全ては<br/><ruby>演劇<rp>(</rp><rt>ドラマ</rt><rp>)</rp></ruby>じゃない"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 34.5%;top: 35%;"
+	}
+	,{
+		"text": "OK、うん<br/>頑張って"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 60.5%;top: 34.5%;"
+	}
+	,{
+		"text": "何でぼくに<br/>沢山卵が<br/>必要って<br/>思うんだ？"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 73.5%;top: 70.5%;"
+	}
+	,{
+		"text": "それに、これ<br/><span style=\"font-weight: bold;\">ぼくが</span>掃除<br/>するわけ？"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 81%;top: 77.5%;"
+	}
+]

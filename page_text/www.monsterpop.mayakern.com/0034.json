@@ -1,0 +1,26 @@
+[
+	{
+		"text": "ごめん!<br/>遅れた!"
+		,"style": "font-size: 14px;color: #5F3822;background-color: #FCEE43;left: 24px;top: 45px;width: 66px; height: 50px;text-align: center;"
+	}
+	,{
+		"text": "大丈夫<br/>俺が少し<br/>早すぎた"
+		,"style": "font-size: 14px;color: #753722;background-color: #F29035;left: 84px;top: 140px;width: 74px; height: 67px;text-align: center;"
+	}
+	,{
+		"text": "2枚<br/>頂戴"
+		,"style": "font-size: 14px;color: #753722;background-color: #F29035;left: 320px;top: 26px;width: 52px; height: 38px;text-align: center;"
+	}
+	,{
+		"text": "その、<br/>自分が…"
+		,"style": "font-size: 14px;color: #5F3822;background-color: #FCEE43;left: 292px;top: 160px;width: 58px; height: 37px;text-align: center;"
+	}
+	,{
+		"text": "あ…ありがと<br/>チケットと…<br/>ポップコーン…"
+		,"style": "font-size: 14px;color: #5F3822;background-color: #FCEE43;left: 643px;top: 37px;width: 143px; height: 51px;text-align: center;"
+	}
+	,{
+		"text": "別に<br/>いいさ！"
+		,"style": "font-size: 14px;color: #753722;background-color: #F29035;left: 602px;top: 233px;width: 62px; height: 35px;text-align: center;"
+	}
+]

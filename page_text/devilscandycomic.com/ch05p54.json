@@ -1,0 +1,26 @@
+[
+	{
+		"text": "サイコ・キラー・スティーブ"
+		,"style": "font-size: 35px;color: black;background-color: white;left: 23%;top: 5%;font-weight: bold;"
+	}
+	,{
+		"text": "コイツは<br/>サイコ<br/>キラー<br/>スティーブ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 28.5%;top: 22%;border: solid 1px;"
+	}
+	,{
+		"text": "彼は<br/>どこでも<br/>信頼する<br/>シャベル<br/>と一緒だ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 28%;top: 42%;border: solid 1px;width: 85px;"
+	}
+	,{
+		"text": "彼は<br/>あらゆる<br/>事件に<br/>関わる"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 61.5%;top: 54.5%;border: solid 1px;width: 73px;"
+	}
+	,{
+		"text": "ランチ<br/>ターイム!!"
+		,"style": "font-size: 13px;color: red;left: 44%;top: 75%;transform: rotate(20deg);"
+	}
+	,{
+		"text": "彼の<br/>キャッチ<br/>フレーズは<br/>子供達に<br/>大ウケだ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 29%;top: 83.5%;border: solid 1px;"
+	}
+]

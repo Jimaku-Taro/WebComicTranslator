@@ -1,0 +1,14 @@
+[
+	{
+		"text": "やぁ!!"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 28.14%;top: 58.78%;width: 10.64%;height: 5.73%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;font-weight:bold;"
+	}
+	,{
+		"text": "ユリウス<br/>大丈夫?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 25.90%;top: 78.54%;width: 8.19%;height: 10.00%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "う…<br/>うん"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 70.69%;top: 78.78%;width: 5.64%;height: 6.46%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

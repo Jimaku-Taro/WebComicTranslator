@@ -1,0 +1,30 @@
+[
+	{
+		"text": "生きてる、<br/>ニモ！<br/>実験は<br/>成功だ！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 44%;top: 11%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">ふぁ～あ</span>"
+		,"style": "font-size: 24px;color: black;background-color: white;left: 76.1%;top: 8.3%;"
+	}
+	,{
+		"text": "お前の<br/>課題が<br/>終わって<br/>嬉しいよ、<br/>カズ…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 49.5%;top: 31.3%;width: 89px;height: 82px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "でも<br/>急がなきゃ<br/>俺達遅刻だ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 80.7%;top: 46.9%;"
+	}
+	,{
+		"text": "朝食！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 53.4%;top: 61%;width: 66px;"
+	}
+	,{
+		"text": "朝食<br/>食べ<br/>なきゃ！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 61.3%;top: 63%;"
+	}
+	,{
+		"text": "１日で<br/>最も大切な<br/>食事だ！"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 78.5%;top: 60.4%;"
+	}
+]

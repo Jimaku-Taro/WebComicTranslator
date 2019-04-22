@@ -1,0 +1,22 @@
+[
+	{
+		"text": "<span style=\"font-weight: bold;\">危ねぇ!!</span>"
+		,"style": "font-size: 36px;color: black;background-color: white;left: 11%;top:7%;height: 57px;"
+	}
+	,{
+		"text": "いい<br/>だろう！"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 57.5%;top: 7%;"
+	}
+	,{
+		"text": "お前が<br/><span style=\"font-weight: bold;\">その気</span>なら、<br/>本当の計画<br/>教えねぇ！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 79.5%;top: 20%;"
+	}
+	,{
+		"text": "“本当の計画”？<br/>こんなこと<br/>する気は<br/>なかったのか？"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 46%;top: 36%;"
+	}
+	,{
+		"text": "いや違うな。<br/>オレは取引した<br/>上質なパーツで…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 35.5%;top: 56.5%;width: 133px;height: 70px;"
+	}
+]

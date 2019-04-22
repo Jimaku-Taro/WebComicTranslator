@@ -1,0 +1,10 @@
+[
+	{
+		"text": "わぁ、フラニー、<br/>君は天才魔女だわ!"
+		,"style": "font-size: 14px;color: #B49453;background-color: #F2E098;left: 120px;top: 223px;width: 124px; height: 58px;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "人間達のパーティに<br/>乗り込みましょう!"
+		,"style": "font-size: 14px;color: #B49453;background-color: #F2E098;left: 305px;top: 263px;width: 126px; height: 52px;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

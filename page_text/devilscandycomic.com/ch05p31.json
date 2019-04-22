@@ -1,0 +1,18 @@
+[
+	{
+		"text": "ありがとう。<br/>君達はとても<br/>親切だね"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 22.5%;top: 23%;"
+	}
+	,{
+		"text": "当然です。<br/>ギターは<br/>その隅です。<br/>どうぞ確認を"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 41%;top: 4%;"
+	}
+	,{
+		"text": "そう<br/>するよ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 58%;top: 7%;"
+	}
+	,{
+		"text": "おやおや、<br/>これはどういう<br/>ことかな？"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 80.5%;top: 75%;"
+	}
+]

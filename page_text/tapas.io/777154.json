@@ -1,0 +1,18 @@
+[
+	{
+		"text": "ルシーヌ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 31.28%;top: 3.54%;width: 7.66%;height: 6.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "もっと<br/>ゆっくり<br/>歩いて!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 67.45%;top: 5.98%;width: 7.45%;height: 9.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ルシ…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 49.47%;top: 46.59%;width: 7.77%;height: 7.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あ!"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 18.40%;top: 70.37%;width: 7.02%;height: 6.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+]

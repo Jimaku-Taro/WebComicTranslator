@@ -1,0 +1,30 @@
+[
+	{
+		"text": "これじゃ<br/>回せない!"
+		,"style": "font-size: 16px;color: #500087;background-color: #F1A2FE;left: 3.81%;top: 1.39%;width: 13.00%;height: 18.06%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "代わりに<br/>回して<br/>くれる?"
+		,"style": "font-size: 14px;color: #500087;background-color: #F1A2FE;left: 18.44%;top: 9.92%;width: 11.50%;height: 14.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "いいよ"
+		,"style": "font-size: 14px;color: #7A0002;background-color: #FEA1B3;left: 25.94%;top: 28.57%;width: 6.88%;height: 9.92%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私の電話だ!"
+		,"style": "font-size: 14px;color: #795C00;background-color: #FDFD7B;left: 83.69%;top: 2.38%;width: 11.75%;height: 10.12%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ちょっと失礼!"
+		,"style": "font-size: 14px;color: #795C00;background-color: #FDFD7B;left: 54.06%;top: 39.09%;width: 13.63%;height: 12.70%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "マリナ!<br/>あなたよ!"
+		,"style": "font-size: 14px;color: #500087;background-color: #F1A2FE;left: 76.44%;top: 47.02%;width: 12.50%;height: 12.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "真実か<br/>挑戦!"
+		,"style": "font-size: 14px;color: #500087;background-color: #F1A2FE;left: 84.56%;top: 67.06%;width: 10.13%;height: 12.70%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

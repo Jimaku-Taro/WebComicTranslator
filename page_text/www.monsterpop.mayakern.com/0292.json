@@ -1,0 +1,18 @@
+[
+	{
+		"text": "フラニーが<br/>好きなの?"
+		,"style": "font-size: 14px;color: #01746D;background-color: #66FFFD;left: 11.69%;top: 6.15%;width: 10.00%;height: 14.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "いやいや<br/>違うって!"
+		,"style": "font-size: 14px;color: #756301;background-color: #FFF948;left: 42.19%;top: 45.04%;width: 10.00%;height: 13.10%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "フラニーは…<br/>ただの親友よ。<br/>姉妹みたいな<br/>ものよ"
+		,"style": "font-size: 14px;color: #756301;background-color: #FFF948;left: 80.69%;top: 44.64%;width: 17.25%;height: 25.99%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "変なの"
+		,"style": "font-size: 16px;color: #756301;background-color: #FFF948;left: 84.81%;top: 75.40%;width: 12.63%;height: 15.67%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

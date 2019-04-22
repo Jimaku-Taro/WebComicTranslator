@@ -1,0 +1,18 @@
+[
+	{
+		"text": "まぁ…誰かは<br/>聞かないけど!"
+		,"style": "font-size: 14px;color: #6D5400;background-color: #FFF941;left: 1.69%;top: 2.38%;width: 16.88%;height: 15.08%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "見当は<br/>付くわ"
+		,"style": "font-size: 14px;color: #6D5400;background-color: #FFF941;left: 20.06%;top: 2.38%;width: 21.50%;height: 13.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私…"
+		,"style": "font-size: 14px;color: #027E80;background-color: #4BFDFF;left: 47.44%;top: 1.59%;width: 4.75%;height: 5.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "正直…<br/>どうすべきかしら。<br/>以前人を好きに<br/>なった時はすごく<br/>辛かったの"
+		,"style": "font-size: 14px;color: #027E80;background-color: #4BFDFF;left: 43.69%;top: 57.94%;width: 23.63%;height: 25.60%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

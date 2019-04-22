@@ -1,0 +1,26 @@
+[
+	{
+		"text": "リケッ…<br/>グレーテルが…<br/>彼女が足場から<br/>落ちた"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 12.83%;top: 3.95%;width: 14.08%;height: 6.37%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "何だって?!<br/>そんな!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 34.55%;top: 3.53%;width: 10.50%;height: 5.03%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "待て!<br/>一時休戦だ!!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 71.30%;top: 3.89%;width: 14.44%;height: 8.13%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "ヤギー聞け…<br/>お前が演奏<br/>止めたら、<br/>皆死ぬ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 9.73%;top: 45.86%;width: 13.60%;height: 8.13%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "これ以上<br/>無理だ…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 35.86%;top: 64.81%;width: 9.90%;height: 5.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "お終い<br/>だ…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 56.03%;top: 67.82%;width: 7.04%;height: 3.86%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+]

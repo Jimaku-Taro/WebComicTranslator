@@ -1,0 +1,26 @@
+[
+	{
+		"text": "ハロー、私の名前はジョージ"
+		,"style": "font-size: 22px;color: #27271E;background-color: #EEE29A;left: 51px;top: 28px;width: 314px;height: 34px;text-align: center;font-weight: bold;"
+	}
+	,{
+		"text": "OK!<br/>この家<br/>みたいね！"
+		,"style": "font-size: 14px;color: #6F5728;background-color: #EEE29A;left: 76px;top: 105px;width: 81px; height: 59px;text-align: center;"
+	}
+	,{
+		"text": "まるで<br/>押し込み<br/>パーティね"
+		,"style": "font-size: 14px;color: #7F378D;background-color: #B782B6;left: 263px;top: 230px;width: 91px; height: 57px;text-align: center;"
+	}
+	,{
+		"text": "アハハ<br/><span style=\"font-weight: bold;\">本当に</span>そんな事<br/>言っちゃう?!"
+		,"style": "font-size: 14px;color: #6F5728;background-color: #EEE29A;left: 138px;top: 351px;width: 109px; height: 75px;text-align: center;"
+	}
+	,{
+		"text": "モンスター・ポップ！"
+		,"style": "font-size: 18px;color: white;background-color: #FFE996;left: 500px;top: 27px;text-shadow: 1px 2px 3px #000000;font-weight: bold;"
+	}
+	,{
+		"text": "これは私のブログ! ◯)<br/>ブログを持つことにしたの<br/>友達皆も持ってるから<br/>私もやろうかなって。<br/>多分全然使わないけど。<br/>つまり別に<br/>何か超面白ことが<br/>あったわけじゃないの(笑)"
+		,"style": "font-size: 20px;color: #060000;background-color: #FFF1C9;left: 452px;top: 109px;width: 300px; height: 300px;"
+	}
+]

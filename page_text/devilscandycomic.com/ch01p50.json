@@ -1,0 +1,22 @@
+[
+	{
+		"text": "ジャイロ"
+		,"style": "font-size: 16px;color: black;left: 30%;top: 4.5%;"
+	}
+	,{
+		"text": "何だ？！<br/>ヒトミ<br/>？！"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 10.5%;top: 57%;"
+	}
+	,{
+		"text": "どう<br/>やって<br/>…？！>"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 15.7%;top: 59%;"
+	}
+	,{
+		"text": "何が起き<br/>てる？！"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 30.5%;top: 60.3%;"
+	}
+	,{
+		"text": "あぐっ!"
+		,"style": "font-size: 17px;color: black;background-color: white;left: 77%;top: 58%;"
+	}
+]

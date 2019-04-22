@@ -1,0 +1,34 @@
+[
+	{
+		"text": "ヤギー?"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 11%;top: 6%;"
+	}
+	,{
+		"text": "バターが<br/>ヒデェ<br/>多すぎだな"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 53.5%;top: 22.5%;"
+	}
+	,{
+		"text": "いる<br/>かい?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 68%;top: 14.2%;"
+	}
+	,{
+		"text": "いや。<br/>いい<br/>かな"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 83%;top: 13.5%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">どういたし<br/>まして、<br/>クレアンス!!</span>"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 32%;top: 45%;width: 103px;"
+	}
+	,{
+		"text": "僕にも<br/>クッキー…"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 13%;top: 49.5%;"
+	}
+	,{
+		"text": "これはマズい、<br/>カズ！<br/>シンプルに<br/>マズい…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 10%;top: 78%;"
+	}
+	,{
+		"text": "恐ろしい時です！<br/>もしこの<br/>恐ろしい祟りの<br/>真相を解明できねば<br/>学校を閉鎖するしか<br/>ありません！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 56.2%;top: 45.8%;"
+	}
+]

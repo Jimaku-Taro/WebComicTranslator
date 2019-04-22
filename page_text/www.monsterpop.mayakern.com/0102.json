@@ -1,0 +1,14 @@
+[
+	{
+		"text": "…て…"
+		,"style": "font-size: 14px;color: #793B01;background-color: #FCFECC;left: 23px;top: 19px;width: 81px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "僕は寮生<br/>なんだ"
+		,"style": "font-size: 14px;color: #A51629;background-color: #FFA8C6;left: 105px;top: 65px;width: 84px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "ピープルポリスに<br/>家族は住んでて、<br/>通学には<br/>少し遠くて!"
+		,"style": "font-size: 14px;color: #A51629;background-color: #FFA8C6;left: 426px;top: 28px;width: 117px;height: 96px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

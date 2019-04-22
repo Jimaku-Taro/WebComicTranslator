@@ -1,0 +1,54 @@
+[
+	{
+		"text": "待った、<br/>伝えて<br/>な…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 11%;top: 4%;width: 74px;height: 66px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "シーッ!"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 21%;top: 7%;width: 77px;height: 41px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 50%;"
+	}
+	,{
+		"text": "静かにだと!<br/>図書館で…<span style=\"font-weight: bold;\">僕の家で</span>ヘビメタ演奏<br/>しといて!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 35%;top: 5%;width: 103px;height: 92px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+	,{
+		"text": "安まる<br/>時間を…<span style=\"font-weight: bold;\">少し位は</span>くれよ?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 48%;top: 5.5%;width: 94px;height: 81px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "<span><span style=\"font-weight: bold;\">もう</span>文句?</span>トレモロを懲らしめた後<br/>あなたを元に仕事に<br/>戻すよう<br/>彼に頼もうかしら"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 66%;top: 5%;width: 171px;height: 92px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "本当に<br/>できると<br/>思うか?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 9%;top: 35%;width: 80px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "<span><span style=\"font-weight: bold;\">ちょっと!</span>ヤギー</span>にバカな服着せて<br/>ナード達と数日<br/>つるませて"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 31%;top: 36%;width: 112px;height: 87px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ニンジャルティメット<br/>ニンジャリミネイションチャレンジ観ても<br/>もう少しも泣かない。<br/>地面に穴も掘らない<br/>木の上に逃げたけど<span style=\"font-weight: bold;\">一度だけ!</span>"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 53%;top: 47.5%;width: 141px;height: 146px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "最高の<br/>ギターを持つ<br/>最高の<br/>ギタリストよ!"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 81.5%;top: 35%;width: 89px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "こんな<br/>セリフ言うとは<br/>思わなかった、<br/>信じてるわ、<br/>ヤギー!"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 12%;top: 64%;width: 90px;height: 87px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "さぁ<br/>最終<br/>テスト<br/>よ…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 71%;top: 62%;width: 71px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "口から<br/>芋虫入れて<br/>鼻から<br/>出して!"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 79%;top: 65%;width: 100px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;font-weight: bold;"
+	}
+	,{
+		"text": "嫌だあぁぁ!"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 76%;top: 91%;width: 138px;height: 49px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;font-weight: bold;"
+	}
+]

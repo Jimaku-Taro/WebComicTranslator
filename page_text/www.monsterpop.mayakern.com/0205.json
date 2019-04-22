@@ -1,0 +1,46 @@
+[
+	{
+		"text": "メッセージ"
+		,"style": "font-size: 16px;color: #5EABEF;background-color: #B1E8EA;left: 66px;top: 68px;width: 87px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 10px;"
+	}
+	,{
+		"text": "サシャ"
+		,"style": "font-size: 20px;color: #232C2B;background-color: #B1E8EA;left: 170px;top: 60px;width: 67px;height: 26px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 10px;"
+	}
+	,{
+		"text": "通話"
+		,"style": "font-size: 16px;color: #5EABEF;background-color: #B1E8EA;left: 284px;top: 65px;width: 71px;height: 25px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 10px;"
+	}
+	,{
+		"text": "僕は今晩行けない…<br/>今病院にいるんだ"
+		,"style": "font-size: 14px;color: #1B6601;background-color: #AFF674;left: 60px;top: 111px;width: 292px;height: 42px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+	}
+	,{
+		"text": "どうしたの　大丈夫?????"
+		,"style": "font-size: 14px;color: #7E7302;background-color: #FEF568;left: 135px;top: 172px;width: 216px;height: 25px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+	}
+	,{
+		"text": "うん…僕の兄弟がサッカーでケガしたんだ。<br/>どっかのバカが試合が始まってすぐ<br/>兄の足を蹴ったんだ。彼は大丈夫、<br/>しばらく試合ができないって怒ってたよ"
+		,"style": "font-size: 14px;color: #1B6601;background-color: #AFF674;left: 60px;top: 210px;width: 282px;height: 99px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+	}
+	,{
+		"text": "君は無事でよかったわ"
+		,"style": "font-size: 14px;color: #7E7302;background-color: #FEF568;left: 100px;top: 327px;width: 251px;height: 24px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+	}
+	,{
+		"text": "ああ僕は大丈夫、<br/>しばらく彼に付き添ってるよ"
+		,"style": "font-size: 14px;color: #1B6601;background-color: #AFF674;left: 60px;top: 365px;width: 270px;height: 42px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+	}
+	,{
+		"text": "わかった…<br/>君が無事で<br/>うれしいわ"
+		,"style": "font-size: 14px;color: #7E7302;background-color: #FEF568;left: 584px;top: 12px;width: 92px;height: 62px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+	}
+	,{
+		"text": "ありがとう<br/>月曜に学校で<br/>会おう"
+		,"style": "font-size: 14px;color: #1B6601;background-color: #AFF674;left: 675px;top: 75px;width: 89px;height: 81px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+	}
+	,{
+		"text": "うん<br/>それじゃ"
+		,"style": "font-size: 14px;color: #7E7302;background-color: #FEF568;left: 702px;top: 196px;width: 81px;height: 46px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+	}
+]

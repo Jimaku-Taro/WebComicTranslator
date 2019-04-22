@@ -1,0 +1,14 @@
+[
+	{
+		"text": "私…"
+		,"style": "font-size: 14px;color: #007A89;background-color: #6FFEFF;left: 50px;top: 20px;width: 46px;height: 32px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私はあなたが<br/>良い選択をしてる<br/>と思う"
+		,"style": "font-size: 14px;color: #007A89;background-color: #6FFEFF;left: 260px;top: 15px;width: 168px;height: 71px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "でもいつも大人に<br/>なる必要はないわ。<br/>あなたは愛する彼女に<br/>良くしようとしてる、<br/>それは大切だけど"
+		,"style": "font-size: 14px;color: #007A89;background-color: #6FFEFF;left: 590px;top: 300px;width: 197px;height: 160px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

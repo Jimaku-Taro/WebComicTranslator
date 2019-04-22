@@ -1,0 +1,38 @@
+[
+	{
+		"text": "ちょっと<br/>楽しいわね、<br/>奴ら反撃<br/>してきた"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 40%;top: 5%;"
+	}
+	,{
+		"text": "下がれ!<br/>下がれ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 55.2%;top: 8%;font-weight: bold;"
+	}
+	,{
+		"text": "また<br/>あの塔だ!"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 61%;top: 10.5%;"
+	}
+	,{
+		"text": "少なくとも<br/>全力を出す<br/>言い訳が<br/>できたな"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 45.9%;top: 18%;"
+	}
+	,{
+		"text": "つまり<br/><ruby style=\"font-size: 21px\">叩き潰せ!<rp>(</rp><rt>CRUSH</rt><rp>)</rp></ruby>"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 13%;top: 31.9%;font-weight: bold;"
+	}
+	,{
+		"text": "ああ、<br/>ピュティア。<br/>こいつも潰せ、<br/>あいつも潰せ、<br/>全てを潰せ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 32%;top: 35%;"
+	}
+	,{
+		"text": "そういや、<br/>お前<br/><span style=\"font-weight: bold;\">デズモンド</span>に<br/><ruby>惚れてる<rp>(</rp><rt>CRUSH</rt><rp>)</rp></ruby><br/>らしいな"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 12%;top: 66%;"
+	}
+	,{
+		"text": "ち…<br/>ちげーし"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 38%;top: 86%;"
+	}
+	,{
+		"text": "OK、皆、注目。<br/>天国の歌の時よ。<br/>もしこれで卵が<br/>孵らなければ、<br/>絶対孵らない<br/>でしょうね"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 78.5%;top: 51%;"
+	}
+]

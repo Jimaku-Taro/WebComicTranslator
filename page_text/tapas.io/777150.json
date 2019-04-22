@@ -1,0 +1,26 @@
+[
+	{
+		"text": "外は<br/>清々しいね!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 60.43%;top: 35.61%;width: 9.68%;height: 10.24%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ねぇ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 29.04%;top: 75.37%;width: 7.34%;height: 6.10%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "昨日、<br/>学校で足し算<br/>やったよ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 39.15%;top: 85.24%;width: 10.64%;height: 12.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "全問正解<br/>したよ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 47.87%;top: 74.63%;width: 8.51%;height: 11.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "スゴイです<br/>ご主人様!"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 54.57%;top: 88.05%;width: 7.13%;height: 8.66%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "問題<br/>出して<br/>みてよ"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 72.55%;top: 87.80%;width: 5.74%;height: 7.93%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

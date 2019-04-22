@@ -1,0 +1,22 @@
+[
+	{
+		"text": "えっと<br/>その…"
+		,"style": "font-size: 14px;color: #09685D;background-color: #7BFFEF;left: 15px;top: 15px;width: 96px;height: 46px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "話したい<br/>のね??"
+		,"style": "font-size: 16px;color: #09685D;background-color: #7BFFEF;left: 70px;top: 65px;width: 115px;height: 63px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "わ…私は<br/>そういうの<br/>得意じゃない<br/>けど…"
+		,"style": "font-size: 14px;color: #09685D;background-color: #7BFFEF;left: 285px;top: 10px;width: 114px;height: 81px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "感情とか…悲しい…<br/>こととか…でも!!!でも<br/>私は全力で聞いて<br/>助けるわ<br/>あなたが望むなら!!"
+		,"style": "font-size: 14px;color: #09685D;background-color: #7BFFEF;left: 433px;top: 8px;width: 163px;height: 136px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あなたは<br/>望まないかも、<br/>私には全然理解<br/>できないかも<br/>それでも私は…"
+		,"style": "font-size: 14px;color: #09685D;background-color: #7BFFEF;left: 615px;top: 20px;width: 150px;height: 116px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

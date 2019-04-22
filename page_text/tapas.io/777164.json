@@ -1,0 +1,22 @@
+[
+	{
+		"text": "ねぇ<br/>僕 今<br/>すっごく<br/>楽しい!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 18.67%;top: 52.44%;width: 8.51%;height: 13.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "お気に<br/>召して<br/>頂けて<br/>光栄です!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 30.27%;top: 83.17%;width: 8.83%;height: 12.20%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あの人<br/>知り<br/>合い?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 40.48%;top: 79.63%;width: 6.17%;height: 9.02%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "いえ…<br/>彼が私を<br/>知っている<br/>だけです…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 59.31%;top: 55.24%;width: 10.43%;height: 11.59%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "彼は何年も…<br/>私に興味が<br/>あるみたい"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 70.59%;top: 83.29%;width: 9.57%;height: 12.93%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

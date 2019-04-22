@@ -1,0 +1,10 @@
+[
+	{
+		"text": "面白い"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 77%;top: 61%;width: 61px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "君も<br/>呪われて<br/>いるな"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 78%;top: 66%;width: 84px;height: 75px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"text": "とっても<br/>上手ね!"
+		,"style": "font-size: 14px;color: #A54B01;background-color: #F0FDAF;left: 5px;top: 350px;width: 90px;height: 40px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "アニメ<br/>とかよね"
+		,"style": "font-size: 14px;color: #A54B01;background-color: #F0FDAF;left: 192px;top: 434px;width: 115px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "かわ<br/>いい!"
+		,"style": "font-size: 14px;color: #A54B01;background-color: #F0FDAF;left: 300px;top: 354px;width: 43px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "芸術専攻<br/>する気?"
+		,"style": "font-size: 14px;color: #A54B01;background-color: #F0FDAF;left: 332px;top: 418px;width: 71px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "私も<br/>描いてよ!"
+		,"style": "font-size: 14px;color: #A54B01;background-color: #F0FDAF;left: 540px;top: 410px;width: 86px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

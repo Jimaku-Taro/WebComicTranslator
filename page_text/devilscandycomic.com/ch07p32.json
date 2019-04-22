@@ -1,0 +1,22 @@
+[
+	{
+		"text": "厳しいボス"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 38%;top: 5%;width: 202px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "しまった<br/>マーク見るの<br/>忘れてた<br/>死んでる!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 39%;top: 9.8%;width: 119px;height: 90px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "俺は寝てた<br/>だけだ。なぜ<br/>死んでると<br/>思う?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 29%;top: 33%;width: 124px;height: 152px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">仕事中に</span>寝てた?"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 29%;top: 54%;width: 137px;height: 119px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あぁいや<br/>俺は死んでる"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 38%;top: 74%;width: 114px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

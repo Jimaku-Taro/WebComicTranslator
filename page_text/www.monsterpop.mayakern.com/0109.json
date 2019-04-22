@@ -1,0 +1,26 @@
+[
+	{
+		"text": "あら!<br/>パー<br/>シー!"
+		,"style": "font-size: 14px;color: #C35D07;background-color: #FFFFE4;left: 130px;top: 55px;width: 46px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "やぁ!"
+		,"style": "font-size: 14px;color: #D30018;background-color: #FDD3D9;left: 345px;top: 10px;width: 65px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "授業<br/>行くとこ?"
+		,"style": "font-size: 14px;color: #C35D07;background-color: #FFFFE4;left: 430px;top: 30px;width: 76px;height: 55px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "うん<br/>創作文"
+		,"style": "font-size: 14px;color: #D30018;background-color: #FDD3D9;left: 553px;top: 40px;width: 64px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "わぁ<br/>私も"
+		,"style": "font-size: 14px;color: #C86E18;background-color: #FFF59B;left: 630px;top: 305px;width: 58px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "いいね"
+		,"style": "font-size: 13px;color: #D30018;background-color: #FDD3D9;left: 680px;top: 370px;width: 40px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

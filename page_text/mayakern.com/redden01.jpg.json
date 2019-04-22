@@ -1,0 +1,10 @@
+[
+	{
+		"text": "大丈夫"
+		,"style": "font-size: 13px;color: #8F4F5D;background-color: white;left: 2.75%;top: 6.84%;width: 9.83%;height: 2.73%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "すぐ<br/>帰れるわ"
+		,"style": "font-size: 13px;line-height: 1em;color: #8F4F5D;background-color: white;left: 24.42%;top: 14.12%;width: 10.20%;height: 4.27%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+]

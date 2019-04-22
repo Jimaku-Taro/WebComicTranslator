@@ -1,0 +1,22 @@
+[
+	{
+		"text": "そうね…"
+		,"style": "font-size: 14px;color: #591A7C;background-color: #E1A4FE;left: 20px;top: 15px;width: 70px;height: 30px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私も<br/>寂しいわ"
+		,"style": "font-size: 14px;color: #591A7C;background-color: #E1A4FE;left: 110px;top: 15px;width: 85px;height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "君に対して<br/>公平じゃないのは<br/>分かってるわ。<br/>ごめんなさい"
+		,"style": "font-size: 14px;color: #591A7C;background-color: #E1A4FE;left: 210px;top: 10px;width: 140px;height: 82px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ただ…<br/>私は本当に<br/>彼が好きなの、<br/>分かるでしょ？"
+		,"style": "font-size: 13px;color: #591A7C;background-color: #E1A4FE;left: 270px;top: 110px;width: 137px;height: 74px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "うん…"
+		,"style": "font-size: 14px;color: #605B01;background-color: #FFFF84;left: 710px;top: 260px;width: 69px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

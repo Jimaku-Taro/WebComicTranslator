@@ -1,0 +1,18 @@
+[
+	{
+		"text": "ハロー<br/>来たよわ!"
+		,"style": "font-size: 14px;color: #66390F;background-color: #FDFA6B;left: 245px;top: 5px;width: 97px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "もっと<br/>褒めて<br/>褒めて!"
+		,"style": "font-size: 14px;color: #66390F;background-color: #FDFA6B;left: 310px;top: 70px;width: 92px;height: 75px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "へへへへ"
+		,"style": "font-size: 14px;color: #66390F;background-color: #FDFA6B;left: 502px;top: 30px;width: 84px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "今は…<br/>無理ぃ…"
+		,"style": "font-size: 14px;color: #591276;background-color: #CF7EFF;left: 682px;top: 80px;width: 82px;height: 25px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

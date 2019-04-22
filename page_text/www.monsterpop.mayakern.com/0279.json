@@ -1,0 +1,34 @@
+[
+	{
+		"text": "それで…<br/>真実と挑戦<br/>どっち?"
+		,"style": "font-size: 14px;color: #266B00;background-color: #CEF87A;left: 12px;top: 10px;width: 114px;height: 64px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "真実。<br/>絶対に<br/>真実"
+		,"style": "font-size: 14px;color: #734700;background-color: #FFFB7E;left: 150px;top: 210px;width: 85px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "OK"
+		,"style": "font-size: 14px;color: #266B00;background-color: #CEF87A;left: 195px;top: 320px;width: 53px;height: 86px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ブー!!"
+		,"style": "font-size: 16px;color: #86111A;background-color: #FFB0BD;left: 330px;top: 10px;width: 99px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "弱虫!"
+		,"style": "font-size: 16px;color: #86111A;background-color: #FFB0BD;left: 390px;top: 40px;width: 57px;height: 26px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "お黙り、オタク!<br/>私は賢いの。お尻を<br/>ピーナッツバターから<br/>守らないとね!"
+		,"style": "font-size: 14px;color: #734700;background-color: #FFFB7E;left: 463px;top: 30px;width: 142px;height: 149px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "弱虫!"
+		,"style": "font-size: 16px;color: #86111A;background-color: #FFB0BD;left: 390px;top: 40px;width: 57px;height: 26px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "くそぅ。<br/>面白くないなぁ。<br/>後で見てろよ!"
+		,"style": "font-size: 16px;color: #86111A;background-color: #FFB0BD;left: 645px;top: 25px;width: 136px;height: 110px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

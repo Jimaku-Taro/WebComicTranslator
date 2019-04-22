@@ -1,0 +1,66 @@
+[
+	{
+		"text": "ニモォォォォ!"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 66%;top: 6.5%;width: 119px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "寂し<br/>かった!"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 77.5%;top: 9.5%;width: 67px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "たった<br/>2日だろ!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 80%;top: 29%;width: 87px;height: 71px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "病気か<br/>何かか?<br/>何が<br/>あった?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 9%;top: 38%;width: 98px;height: 92px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "<span>何も<span style=\"font-weight: bold;\">無かった!</span></span>色んな友達が<br/>できたんだよ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 42%;top: 37.5%;width: 100px;height: 94px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "リケット<br/>…いや…"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 9%;top: 52.5%;width: 58px;height: 48px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "つまり…<br/>グレーテル?"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 16%;top: 52.5%;width: 81px;height: 52px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "グレーテルは<br/>いないぞカズ"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 14%;top: 58%;width: 77px;height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10px;font-weight: bold;"
+	}
+	,{
+		"text": "あと…マーク<br/>スティーブン<br/>ソン?"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 31%;top: 53%;width: 90px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ヤギーと<br/>クレアンス?<br/>多分?"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 41%;top: 53%;width: 91px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ヤギーと<br/>クレアンス?<br/>多分?"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 41%;top: 53%;width: 91px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "なぁ<br/>相棒…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 59%;top: 39.5%;width: 59px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "想像の<br/>友達なんて<br/>作らなくて<br/>いいんだぜ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 71%;top: 39%;width: 87px;height: 101px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">オレが</span>お前の<br/>友達だ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 82%;top: 40%;width: 55px;height: 66px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "同情<br/>しないでよ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 14%;top: 72%;width: 85px;height: 54px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "君が<br/>優しい時は<br/>変なんだ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 41%;top: 73%;width: 86px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

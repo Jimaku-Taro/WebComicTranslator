@@ -1,0 +1,18 @@
+[
+	{
+		"text": "放蕩…"
+		,"style": "font-size: 35px;color: black;background-color: white;left: 27%;top: 22%;font-weight: bold;"
+	}
+	,{
+		"text": "破壊…"
+		,"style": "font-size: 35px;color: black;background-color: white;left: 49.5%;top: 27%;font-weight: bold;"
+	}
+	,{
+		"text": "絶望…"
+		,"style": "font-size: 35px;color: black;background-color: white;left: 58%;top: 34%;font-weight: bold;"
+	}
+	,{
+		"text": "強硬な<span style=\"font-weight: bold;\">支配</span>は<br/>生徒達に<br/><span style=\"font-weight: bold;\">無駄な</span>模索を<br/>強います"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77.8%;top: 53.3%;"
+	}
+]

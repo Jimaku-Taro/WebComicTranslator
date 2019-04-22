@@ -1,0 +1,18 @@
+[
+	{
+		"text": "絶対<br/>ファッション<br/><ruby>大決戦<rp>(</rp><rt>アルマゲドン</rt><rp>)</rp></ruby>"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 56%;top: 8%;width: 111px; height:103px;font-weight: bold;"
+	}
+	,{
+		"text": "今晩!!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 70%;top: 14.5%;transform: rotate(-20deg);"
+	}
+	,{
+		"text": "流血で<br/>美しく"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 62%;top: 17.9%;width: 59px;height: 35px;"
+	}
+	,{
+		"text": "後ろの子<br/>見た？"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 43%;top: 72%;"
+	}
+]

@@ -1,0 +1,10 @@
+[
+	{
+		"text": "お早う、ユニティ大学の皆!<br/>本日は10月2日。<br/>素敵な晴れで外は華氏62度、<br/>秋真っ盛り!"
+		,"style": "font-size: 14px;color: #824211;background-color: #F8DA21;left: 16px;top: 382px;width: 225px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "ユニティ大学放送は<br/>102号室から生中継で<br/>お届けします!"
+		,"style": "font-size: 14px;color: #824211;background-color: #F8DA21;left: 463px;top: 40px;width: 172px;height: 71px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

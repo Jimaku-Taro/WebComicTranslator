@@ -1,0 +1,26 @@
+[
+	{
+		"text": "昨夜は<br/>ゴメンね"
+		,"style": "font-size: 14px;color: #5B0979;background-color: #DCB1FF;left: 50px;top: 20px;width: 129px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "一緒に<br/>行きたがってた<br/>のに"
+		,"style": "font-size: 14px;color: #5B0979;background-color: #DCB1FF;left: 210px;top: 85px;width: 119px;height: 68px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "大丈夫。<br/>過ぎたことよ"
+		,"style": "font-size: 14px;color: #705D01;background-color: #FEFDAA;left: 440px;top: 40px;width: 99px;height: 52px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "コーヒー<br/>ありがと"
+		,"style": "font-size: 14px;color: #705D01;background-color: #FEFDAA;left: 530px;top: 70px;width: 100px;height: 47px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "いいのよ!"
+		,"style": "font-size: 14px;color: #5B0979;background-color: #DCB1FF;left: 605px;top: 125px;width: 85px;height: 26px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "それで…昨夜は<br/>どうだったの?"
+		,"style": "font-size: 14px;color: #705D01;background-color: #FEFDAA;left: 635px;top: 405px;width: 137px;height: 67px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

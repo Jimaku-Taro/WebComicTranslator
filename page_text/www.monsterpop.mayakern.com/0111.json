@@ -1,0 +1,42 @@
+[
+	{
+		"text": "そんなこと<br/>ないわ!"
+		,"style": "font-size: 14px;color: #AA5418;background-color: #FAFCA7;left: 182px;top: 10px;width: 89px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "大親友だけど<br/>ロマンチックな<br/>関係はないわ!"
+		,"style": "font-size: 14px;color: #AA5418;background-color: #FAFCA7;left: 215px;top: 82px;width: 110px;height: 97px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "中学の時<br/>1回キスは<br/>したけど"
+		,"style": "font-size: 14px;color: #AA5418;background-color: #FAFCA7;left: 200px;top: 190px;width: 119px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "ただの友達。<br/>本当の本当に<br/>仲良しの友達よ!"
+		,"style": "font-size: 14px;color: #AA5418;background-color: #FAFCA7;left: 92px;top: 255px;width: 110px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "そうか…<br/>OK いいね!<br/>それはいい…"
+		,"style": "font-size: 14px;color: #9B0611;background-color: #FDD3D7;left: 370px;top: 30px;width: 89px;height: 64px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "それで…<br/>彼女は<br/>誰かと<br/>交際中?"
+		,"style": "font-size: 14px;color: #9B0611;background-color: #FDD3D7;left: 495px;top: 50px;width: 63px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "誰も!<br/>ヘヘヘ"
+		,"style": "font-size: 14px;color: #AA5418;background-color: #FAFCA7;left: 626px;top: 125px;width: 55px;height: 40px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "立候補<br/>しなよ!"
+		,"style": "font-size: 14px;color: #AA5418;background-color: #FAFCA7;left: 690px;top: 183px;width: 51px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "いや…"
+		,"style": "font-size: 14px;color: #9B0611;background-color: #FDD3D7;left: 660px;top: 234px;width: 69px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "そんな気<br/>ないのよね～"
+		,"style": "font-size: 13px;color: #AA5418;background-color: #FAFCA7;left: 694px;top: 275px;width: 80px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

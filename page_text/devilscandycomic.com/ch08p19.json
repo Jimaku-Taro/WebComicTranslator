@@ -1,0 +1,54 @@
+[
+	{
+		"text": "学級<br/>避難だ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 40%;top: 18.7%;width: 71px;height: 49px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;font-weight: bold;"
+	}
+	,{
+		"text": "大丈夫さ<br/>ニモ。<br/>普通の<br/>ロックン<br/>ロールさ"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 86.5%;top: 37.5%;width: 81px;height: 83px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;font-weight: bold;"
+	}
+	,{
+		"text": ""
+		,"style": "font-size: 14px;color: black;background-color: white;left: 9%;top: 55.2%;width: 178px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+	}
+	,{
+		"text": ""
+		,"style": "font-size: 14px;color: black;background-color: white;left: 12%;top: 57%;width: 130px;height: 18px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+	}
+	,{
+		"text": "初めて会った時<br/>オレがお前を<br/>フッ飛ばしたよな"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 13%;top: 54%;width: 121px;height: 61px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+	}
+	,{
+		"text": "初めて会った時<br/>オレがお前を<br/>フッ飛ばしたよな"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 13%;top: 54%;width: 121px;height: 61px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+	}
+	,{
+		"text": ""
+		,"style": "font-size: 14px;color: black;background-color: white;left: 13%;top: 59%;width: 184px;height: 25px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+	}
+	,{
+		"text": ""
+		,"style": "font-size: 14px;color: black;background-color: white;left: 15%;top: 60%;width: 147px;height: 31px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+	}
+	,{
+		"text": "オレが泣いて逃げる<br/>とでも思ったか?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 13%;top: 59%;width: 160px;height: 44px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+	}
+	,{
+		"text": "恥は葬った<br/>マジな話…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 58%;top: 54.1%;width: 175px;height: 35px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+	}
+	,{
+		"text": ""
+		,"style": "font-size: 14px;color: black;background-color: white;left: 61%;top: 59.2%;width: 169px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+	}
+	,{
+		"text": ""
+		,"style": "font-size: 14px;color: black;background-color: white;left: 62.5%;top: 61%;width: 151px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+	}
+	,{
+		"text": "<span>俺の<ruby>反復旋律<rp>(</rp><rt>リフ</rt><rp>)</rp></ruby>は</span>電撃だぜ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 62.5%;top: 59.5%;width: 160px;height: 35px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"text": "夏の<br/>太陽！"
+		,"style": "font-size: 24px;color: black;background-color: white;left: 40.5%;top: 9%;"
+	}
+	,{
+		"text": "灼熱の<br/>パレオ!"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 30.6%;top: 42.6%;font-weight: bold;"
+	}
+	,{
+		"text": "スゲェな、<br/>オイ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 59%;top: 77.4%;font-weight: bold;"
+	}
+	,{
+		"text": "マジか"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 70.5%;top: 77%;font-weight: bold;"
+	}
+	,{
+		"text": "クソ、<br/>お前最高だ！<br/>ショーの後<br/>一緒にブギ<br/>踊らね?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 79.5%;top: 76%;font-weight: bold;"
+	}
+]

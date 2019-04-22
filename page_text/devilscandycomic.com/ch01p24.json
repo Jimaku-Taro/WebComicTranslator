@@ -1,0 +1,42 @@
+[
+	{
+		"text": "<span style=\"font-weight: bold;\">彼女が</span><br/>何作ったかの<br/>方が興味ある。<br/>きっと素晴ら<br/>しいさ！"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 34.5%;top: 6%;"
+	}
+	,{
+		"text": "大したこと<br/>ないわ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 72%;top: 6.5%;"
+	}
+	,{
+		"text": "ただの小さな<br/>テディベア。<br/>体は全部<br/>パッチワーク、<br/>でも内臓は全部<br/>機能するわよ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 78.7%;top: 8.5%;z-index: 1"
+	}
+	,{
+		"text": "わぁ！彼の服<br/>好きだな！<br/>君はいい手を<br/>してるね！"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 10.5%;top: 35%;"
+	}
+	,{
+		"text": "あたし<br/>の手…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 57%;top: 43.5%;font-weight: bold;"
+	}
+	,{
+		"text": "子供達、<br/>お喋りは<br/>止めよ！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 17.5%;top: 56.5%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">生物学教師<br/>ミズ・<br/>トリンクル</span>"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 32%;top: 67.5%;width: 103px; height: 55px;"
+	}
+	,{
+		"text": "皆さん<br/>注目"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 64%;top: 55%;width: 73px;"
+	}
+	,{
+		"text": "皆さんの<br/>生物学の<br/>課題の発表の<br/>時間です"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 74%;top: 57.3%;"
+	}
+	,{
+		"text": "変ね。<br/>こんなに<br/>生徒多かった<br/>かしら…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 77%;top: 67.5%;"
+	}
+]

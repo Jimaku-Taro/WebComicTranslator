@@ -1,0 +1,30 @@
+[
+	{
+		"text": "ホーム ライフ"
+		,"style": "font-size: 36px;color: black;background-color: white;left: 36%;top: 5%;font-weight: bold;"
+	}
+	,{
+		"text": "おかえり、<br/>親愛なる子。<br/>君の今日の試験が<br/>上手くいっている<br/>ことを望むよ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 27%;top: 34%;"
+	}
+	,{
+		"text": "ええ、<br/>最愛の子、<br/>どうしたのか<br/>教えて"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 37%;top: 42.5%;"
+	}
+	,{
+		"text": "俺は…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 65%;top: 36%;"
+	}
+	,{
+		"text": "俺は<br/>██で<br/>出し抜いて<br/>██で<br/>全部<br/>██ ███！"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 30%;top: 55%;font-weight: bold;width: 119px;"
+	}
+	,{
+		"text": "██イェーイ！<br/>それでこそ我が小さな<br/>███！████<br/>チッチキブー██！"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 29%;top: 75.5%;font-weight: bold;width: 175px;"
+	}
+	,{
+		"text": "██な<br/>███ ███の<br/>本物のスゲェ奴だ、<br/>言ったろ！"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 56%;top: 75.5%;font-weight: bold;"
+	}
+]

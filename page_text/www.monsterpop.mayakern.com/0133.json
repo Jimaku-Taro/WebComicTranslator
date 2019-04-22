@@ -1,0 +1,30 @@
+[
+	{
+		"text": "君はどう<br/>サシャ?<br/>何が得意?"
+		,"style": "font-size: 14px;color: #754B01;background-color: #F8FD6B;left: 10px;top: 10px;width: 97px;height: 84px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "いや僕には<br/>特別な才能とか<br/>何もないよ…"
+		,"style": "font-size: 14px;color: #287209;background-color: #9AFF69;left: 140px;top: 20px;width: 105px;height: 100px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "何か<br/>あるでしょ!"
+		,"style": "font-size: 14px;color: #754B01;background-color: #F8FD6B;left: 180px;top: 135px;width: 101px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "恥ずかしがり屋<br/>なのかしら…<br/>興味を<br/>そそられるわ!"
+		,"style": "font-size: 14px;color: #754B01;background-color: #F8FD6B;left: 345px;top: 25px;width: 115px;height: 94px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "いや違うよ<br/>恥ずかしい<br/>とかじゃない!"
+		,"style": "font-size: 14px;color: #287209;background-color: #9AFF69;left: 365px;top: 145px;width: 130px;height: 121px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "じゃ<br/>何よ?"
+		,"style": "font-size: 14px;color: #754B01;background-color: #F8FD6B;left: 450px;top: 300px;width: 59px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "ただ…"
+		,"style": "font-size: 14px;color: #287209;background-color: #9AFF69;left: 370px;top: 430px;width: 48px;height: 47px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

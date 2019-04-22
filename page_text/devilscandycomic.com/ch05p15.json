@@ -1,0 +1,38 @@
+[
+	{
+		"text": "奴らが一緒に<br/>アレを持ってると<br/>考えないん<br/>ですか？"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 16%;top: 5%;"
+	}
+	,{
+		"text": "あり<br/>得んね"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 45.1%;top: 24%;"
+	}
+	,{
+		"text": "いずれにせよ<br/>ここでは回収<br/>しない…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 65%;top: 5%;"
+	}
+	,{
+		"text": "ここでは<br/><span style=\"font-weight: bold;\">メッセージを</span><br/>送る"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 82%;top: 24%;"
+	}
+	,{
+		"text": "それに、<br/>もし誰もが<br/>善人なら<br/>君はどうやって<br/>負債を返す？"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 12%;top: 33%;"
+	}
+	,{
+		"text": "君は<br/>感謝する<br/>べきだよ"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 10.5%;top: 64%;"
+	}
+	,{
+		"text": "奇跡を待って<br/>一生を過ごす<br/>人もいるのに"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 32%;top: 66.2%;"
+	}
+	,{
+		"text": "君は65回目の<br/>奇跡を体験する"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 31%;top: 75%;"
+	}
+	,{
+		"text": "さぁ<br/>行け"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 68%;top: 66.5%;font-weight: bold;width: 78px;"
+	}
+]

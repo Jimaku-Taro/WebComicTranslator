@@ -1,0 +1,30 @@
+[
+	{
+		"text": "OK<br/>ウォルトン<br/>輝く時だ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 10%;top: 4%;"
+	}
+	,{
+		"text": "奴らに<br/><span style=\"font-weight: bold;\">本物の</span>星は<br/>何で<br/>できてるか<br/>見せよう"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 32%;top: 3%;"
+	}
+	,{
+		"text": "中央前面の<br/>配置が<br/>君には<br/>ふさわしい"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 43%;top: 3%;"
+	}
+	,{
+		"text": "いよいよ<br/>か…"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 58%;top: 4.5%;"
+	}
+	,{
+		"text": "卵？!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 65.2%;top: 12%;"
+	}
+	,{
+		"text": "準備<br/>して、<br/>ドレイク"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 10%;top: 31.5%;"
+	}
+	,{
+		"text": "わぁ!!"
+		,"style": "font-size: 37.5px;color: black;background-color: white;left: 11%;top: 88%;font-weight: bold;"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"text": "パンドラ<br/>…"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 14%;top: 50%;"
+	}
+	,{
+		"text": "今日は何を<br/>学んだ？"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 73%;top: 51.5%;"
+	}
+	,{
+		"text": "軟弱者"
+		,"style": "font-size: 22px;color: black;background-color: white;left: 50%;top: 66%;"
+	}
+	,{
+		"text": "幽霊"
+		,"style": "font-size: 27px;color: black;background-color: white;left: 60%;top: 66.5%;"
+	}
+	,{
+		"text": "血"
+		,"style": "font-size: 42px;color: black;background-color: white;left: 69.5%;top: 67.8%;width: 45px;"
+	}
+	,{
+		"text": "チャプター2：完"
+		,"style": "font-size: 23.5px;color: black;background-color: white;left: 69%;top: 95.5%;font-weight: bold;border:solid 1px;"
+	}
+]

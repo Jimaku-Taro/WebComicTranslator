@@ -1,0 +1,14 @@
+[
+	{
+		"text": "白状しろ!!"
+		,"style": "font-size: 16px;color: #784A01;background-color: #FDF262;left: 340px;top: 10px;width: 83px;height: 52px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あのね…"
+		,"style": "font-size: 16px;color: #430060;background-color: #C893FF;left: 320px;top: 220px;width: 102px;height: 32px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私パーシーの所に<br/>泊まったの…"
+		,"style": "font-size: 14px;color: #430060;background-color: #C893FF;left: 670px;top: 250px;width: 112px;height: 59px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

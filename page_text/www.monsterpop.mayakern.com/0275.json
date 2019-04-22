@@ -1,0 +1,46 @@
+[
+	{
+		"text": "違う、<br/>その色じゃ<br/>ないわ"
+		,"style": "font-size: 14px;color: #FB76C9;background-color: #71335C;left: 20px;top: 10px;width: 71px;height: 69px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "誰か<br/>アイシャドウ<br/>持ってる?"
+		,"style": "font-size: 14px;color: #7A3106;background-color: #FFB4A1;left: 100px;top: 10px;width: 106px;height: 66px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "はい、<br/>これ!"
+		,"style": "font-size: 14px;color: #FB76C9;background-color: #71335C;left: 195px;top: 75px;width: 64px;height: 46px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ほら<br/>上向いて"
+		,"style": "font-size: 14px;color: #7A3106;background-color: #FFB4A1;left: 140px;top: 150px;width: 85px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "へぇ、これ<br/>超可愛い!"
+		,"style": "font-size: 14px;color: #7A3106;background-color: #FFF1A0;left: 300px;top: 25px;width: 98px;height: 68px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "OK!唇を<br/>すぼませて!"
+		,"style": "font-size: 14px;color: #601284;background-color: #EDA3F8;left: 265px;top: 110px;width: 92px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ダメ、違う、<br/>OK!これで<br/>いいわ"
+		,"style": "font-size: 14px;color: #601284;background-color: #EDA3F8;left: 435px;top: 25px;width: 100px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "わぁ…"
+		,"style": "font-size: 14px;color: #7A3106;background-color: #FFF1A0;left: 580px;top: 30px;width: 74px;height: 30px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "わ!"
+		,"style": "font-size: 14px;color: #3F7A0C;background-color: #E2FFBD;left: 590px;top: 95px;width: 41px;height: 26px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ご免…"
+		,"style": "font-size: 14px;color: #FB76C9;background-color: #71335C;left: 670px;top: 55px;width: 54px;height: 30px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "はい<br/>マスカラ!"
+		,"style": "font-size: 14px;color: #7A3106;background-color: #FFB4A1;left: 680px;top: 100px;width: 110px;height: 48px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

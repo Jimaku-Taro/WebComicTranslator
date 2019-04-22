@@ -1,0 +1,18 @@
+[
+	{
+		"text": "…で伝染ったら<br/>って聞いて<br/>きたのよ！"
+		,"style": "font-size: 14px;color: #222B4C;background-color: #DBA8CC;left: 175px;top: 161px;width: 117px; height: 67px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "何!!!"
+		,"style": "font-size: 14px;color: #59141C;background-color: #EFA5B9;left: 397px;top: 233px;width: 45px; height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "私達は<span style=\"font-weight: bold;\">病原菌</span>かっつーの！"
+		,"style": "font-size: 14px;color: #222B4C;background-color: #DBA8CC;left: 487px;top: 177px;width: 141px; height: 55px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "あいつら<br/>本当に<span style=\"font-weight: bold;\">嫌な奴</span>ね!!"
+		,"style": "font-size: 14px;color: #222B4C;background-color: #DBA8CC;left: 662px;top: 394px;width: 124px; height: 52px;text-align: center;"
+	}
+]

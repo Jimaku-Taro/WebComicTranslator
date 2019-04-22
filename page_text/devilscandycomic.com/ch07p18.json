@@ -1,0 +1,30 @@
+[
+	{
+		"text": "こんな事を<br/>言うのも<br/>何ですが。<br/>運なんて<br/>ありませんよ"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 4%;top: 3%;width: 115px;height: 100px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あなたの<br/>行動があなたを<br/>決めるんです"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 32%;top: 3%;width: 104px;height: 86px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "今この瞬間も、<br/>あなたの行動が<br/>未来を決めます"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 32.5%;top: 10%;width: 106px;height: 108px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "今までの<br/>苦しみは<br/>一体…"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 7%;top: 39%;width: 84px;height: 73px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "それは<br/>無駄じゃ<br/>ありません!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 27%;top: 54%;width: 100px;height: 92px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "そのおかげで<br/>あなたは<br/>今ここに<br/>いるんです!"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 40%;top: 54%;width: 84px;height: 98px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "僕が寄生虫を摘出し<br/>人生を取り戻せます<br/>リケットもね"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 64%;top: 66.5%;width: 119px;height: 85px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

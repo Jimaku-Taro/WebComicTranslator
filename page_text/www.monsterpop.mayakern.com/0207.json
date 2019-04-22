@@ -1,0 +1,22 @@
+[
+	{
+		"text": "彼らは<br/>来る?"
+		,"style": "font-size: 14px;color: #127F7F;background-color: #6AFEFE;left: 30px;top: 10px;width: 82px;height: 44px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "それが…全く。<br/>来ないみたい。<br/>パーシーの<br/>用事らしいわ…"
+		,"style": "font-size: 16px;color: #836B16;background-color: #FCFD94;left: 150px;top: 45px;width: 170px;height: 132px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あら…"
+		,"style": "font-size: 14px;color: #127F7F;background-color: #6AFEFE;left: 613px;top: 80px;width: 52px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "そう…"
+		,"style": "font-size: 14px;color: #127F7F;background-color: #6AFEFE;left: 632px;top: 208px;width: 50px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私達だけね!<br/>でも問題ないわ"
+		,"style": "font-size: 14px;color: #127F7F;background-color: #6AFEFE;left: 612px;top: 328px;width: 124px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

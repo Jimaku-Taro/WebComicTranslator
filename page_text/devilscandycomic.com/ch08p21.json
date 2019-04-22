@@ -1,0 +1,62 @@
+[
+	{
+		"text": "疑惑の蛇"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 7.88%;top: 11.45%;width: 25.54%;height: 2.26%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "恐怖の蛇"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 7.34%;top: 13.40%;width: 27.45%;height: 2.01%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "その猛毒は"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 66.89%;top: 13.15%;width: 25.30%;height: 2.01%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "お前の耳に染み込む"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 67.60%;top: 15.08%;width: 23.99%;height: 1.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "お前の心に"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 41.71%;top: 29.33%;width: 17.54%;height: 2.05%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "お前のハートに"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 37.89%;top: 31.06%;width: 24.46%;height: 1.93%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "お前の決意は<br/>揺らぎ砕け散る"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 36.81%;top: 33.86%;width: 26.25%;height: 4.19%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "声で人を<br/>操ると聞いた<br/>けど…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 9.01%;top: 67.32%;width: 11.58%;height: 5.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "巨大な化物を<br/>召喚するとは<br/>聞いてないよ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 9.37%;top: 72.75%;width: 11.22%;height: 7.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あぁ、<br/>新技だな"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 7.34%;top: 82.56%;width: 9.67%;height: 5.20%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "きっと<br/>飛行船が<br/>奴の力を増幅<br/>してるのよ…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 37.29%;top: 82.49%;width: 11.93%;height: 5.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "マズイ! ヤギー!<br/>演奏して!<br/>落ちてる!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 50.89%;top: 68.50%;width: 14.44%;height: 5.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "ヤバッ<br/>…!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 64.26%;top: 72.68%;width: 6.56%;height: 4.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "マークも<br/>できる?<br/>巨大な化物の<br/>召喚とか?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 73.21%;top: 69.33%;width: 11.10%;height: 7.96%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "おいおい、<br/>足場を浮かせ<br/>られるのすら<br/>俺は知らな<br/>かったぜ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 84.07%;top: 87.35%;width: 11.93%;height: 9.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

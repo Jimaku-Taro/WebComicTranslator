@@ -1,0 +1,30 @@
+[
+	{
+		"text": "立ち<br/>去れぃ！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 18.4%;top: 5%;"
+	}
+	,{
+		"text": "君の<br/>知的好奇心は<br/>ここでは歓迎<br/>されない！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 16.7%;top: 11%;"
+	}
+	,{
+		"text": "運動か<br/>何かしに行け!"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 52%;top: 14.7%;"
+	}
+	,{
+		"text": "勉強<br/>するなよ！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 57%;top: 21.5%;"
+	}
+	,{
+		"text": "科学は<br/>理解への<br/>門だ！"
+		,"style": "font-size: 35px;color: black;background-color: white;left: 9.5%;top: 38.5%;font-weight: bold;"
+	}
+	,{
+		"text": "科学は<br/>世界！<br/>科学こそ<br/>人生！"
+		,"style": "font-size: 28px;color: black;background-color: white;left: 79%;top: 42%;font-weight: bold;"
+	}
+	,{
+		"text": "魔法の<br/>言葉を<br/>言ったな"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 40.4%;top: 81.5%;font-weight: bold;"
+	}
+]

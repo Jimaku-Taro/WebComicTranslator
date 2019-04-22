@@ -1,0 +1,18 @@
+[
+	{
+		"text": "<span style=\"font-weight: bold;\">嫌だ!</span>"
+		,"style": "font-size:35px;color: black;background-color: white;left: 11.5%;top: 8.7%;"
+	}
+	,{
+		"text": "僕はパンドラの<br/>命に責任がある！<br/>生まれた日を<br/>彼女の最期に<br/>してたまるか！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 74%;top: 12%;height: 125px;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">僕は…僕は<br/>彼女にこの世界は<br/>美しい場所だって<br/>見せてあげ<br/>たいんだ！！</span>"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 36%;top: 43%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">パンドラ!!<br/>君には輝ける<br/>未来がある!!</span>"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 66%;top: 44%;width: 120px;"
+	}
+]

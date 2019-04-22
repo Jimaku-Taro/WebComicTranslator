@@ -1,0 +1,34 @@
+[
+	{
+		"text": "大人しい<br/>メイドでいろ<br/>僕の話を聞け!"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 18.56%;top: 15.24%;width: 8.72%;height: 10.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "降りて<br/>小さな<br/>ご主人様"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 43.24%;top: 13.17%;width: 7.77%;height: 10.00%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "気を<br/>つけて…"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 65.27%;top: 18.05%;width: 7.02%;height: 6.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "毎回、逃げ<br/>おおせると<br/>思うなよ!"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 32.50%;top: 48.90%;width: 8.09%;height: 11.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "君に<br/>あるのは<br/>逃げ足だけ、<br/>僕は何でも<br/>持ってる!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 43.78%;top: 32.80%;width: 11.06%;height: 16.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "僕の話を<br/>聞いてりゃ<br/>いい!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 20.59%;top: 65.73%;width: 9.57%;height: 8.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ルシーヌ!"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 24.52%;top: 87.68%;width: 13.94%;height: 7.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "話はもう<br/>沢山よ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 52.50%;top: 65.49%;width: 8.40%;height: 11.83%;;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

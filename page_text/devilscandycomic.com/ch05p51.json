@@ -1,0 +1,30 @@
+[
+	{
+		"text": "いいとも!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 16.5%;top: 27.5%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">これ</span>は<br/>好都合！"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 75%;top: 26%;"
+	}
+	,{
+		"text": "ええええ…<br/>そんな"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 27%;top: 50%;"
+	}
+	,{
+		"text": "ヤギー、<br/>こういう予定<br/>だったの？"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 55%;top: 51%;font-weight: bold;"
+	}
+	,{
+		"text": "いや…<br/>オレ…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 76%;top: 53.5%;font-weight: bold;"
+	}
+	,{
+		"text": "どうした？<br/>何怖がって<br/>んだよ？"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 84.5%;top: 52%;"
+	}
+	,{
+		"text": "逃げて!!"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 52%;top: 85%;font-weight: bold;"
+	}
+]

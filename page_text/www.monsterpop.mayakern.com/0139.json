@@ -1,0 +1,38 @@
+[
+	{
+		"text": "知っての通り<br/>昨日はまた<br/>文書館で<br/>働いてたの…"
+		,"style": "font-size: 14px;color: #5B007A;background-color: #CF92FB;left: 105px;top: 10px;width: 109px;height: 99px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "彼は午後に<br/>少し来たわ"
+		,"style": "font-size: 14px;color: #5B007A;background-color: #CF92FB;left: 230px;top: 44px;width: 101px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "あぁ彼は<br/>そこ行って<br/>たのね"
+		,"style": "font-size: 14px;color: #754709;background-color: #FCF59A;left: 175px;top: 130px;width: 111px;height: 61px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "えっ??"
+		,"style": "font-size: 14px;color: #5B007A;background-color: #CF92FB;left: 240px;top: 205px;width: 55px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "昨日授業の後<br/>食事に誘ったら<br/>彼は用事あるって!"
+		,"style": "font-size: 14px;color: #754709;background-color: #FCF59A;left: 170px;top: 350px;width: 157px;height: 136px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "成績表の写しが<br/>彼は欲しかった<br/>みたい…"
+		,"style": "font-size: 14px;color: #5B007A;background-color: #CF92FB;left: 373px;top: 270px;width: 103px;height: 63px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "でも上司の登録者が<br/>不在だったから<br/>書類に記入して支払って<br/>後で戻って来れば<br/>押印と封入しとくって<br/>言ったの"
+		,"style": "font-size: 14px;color: #5B007A;background-color: #CF92FB;left: 595px;top: 28px;width: 184px;height: 139px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "成績表って<br/>早すぎない…"
+		,"style": "font-size: 14px;color: #754709;background-color: #FCF59A;left: 540px;top: 175px;width: 118px;height: 66px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "事情があって<br/>家に送りたいって<br/>言ってた"
+		,"style": "font-size: 14px;color: #5B007A;background-color: #CF92FB;left: 525px;top: 405px;width: 141px;height: 75px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

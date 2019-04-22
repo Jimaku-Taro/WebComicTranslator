@@ -1,0 +1,22 @@
+[
+	{
+		"text": "すみません<br/>すみません<br/>大丈夫ですか"
+		,"style": "font-size: 18px;color: #2C5B01;background-color: #A6FF7B;left: 30px;top: 20px;width: 125px;height: 101px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "うぐ…"
+		,"style": "font-size: 14px;color: #2C5B01;background-color: #FAFE6B;left: 193px;top: 37px;width: 46px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "ケガして<br/>ませんか"
+		,"style": "font-size: 16px;color: #2C5B01;background-color: #A6FF7B;left: 224px;top: 64px;width: 77px;height: 59px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "大丈夫<br/>大丈夫よ<br/>心配<br/>ないわ…"
+		,"style": "font-size: 14px;color: #2C5B01;background-color: #FAFE6B;left: 518px;top: 160px;width: 94px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "マリナ<br/>どうしたの…"
+		,"style": "font-size: 14px;color: #2C5B01;background-color: #FAFE6B;left: 530px;top: 265px;width: 99px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"text": "お前があんなに<br/><span style=\"font-weight: bold;\">早く</span>行かなけりゃ<br/>オレももっと早く<br/>着けたんだよ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 19.5%;top: 3%;width: 136px;"
+	}
+	,{
+		"text": "つまり、<br/>隠し通路の発見に<br/>数分かかった、<br/>だがオレみたいな<br/>天才には…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 50%;top: 6%;"
+	}
+	,{
+		"text": "それは後に<br/>してくれる、<br/><span style=\"font-weight: bold;\">お願い？</span>"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 8%;"
+	}
+	,{
+		"text": "そう<br/>だな"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 27%;top: 38%;"
+	}
+	,{
+		"text": "やる<br/>べきを<br/>やるか"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 34.5%;top: 37.5%;"
+	}
+	,{
+		"text": "誰が<br/>叩きのめ<br/>されたい？"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 10%;top: 64%;font-weight: bold;"
+	}
+	,{
+		"text": "<span style=\"font-size: 14px;\">はい</span><br/><span style=\"font-size: 18px;\">私</span><br/><span style=\"font-size: 20px;\">私<br/>！！</span>"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 84%;top: 55%;font-weight: bold;"
+	}
+]

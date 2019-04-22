@@ -1,0 +1,42 @@
+[
+	{
+		"text": "消防士<br/>…"
+		,"style": "font-size: 22px;color: black;background-color: white;left: 14%;top: 6%;"
+	}
+	,{
+		"text": "そうか"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 21%;top: 12%;"
+	}
+	,{
+		"text": "エッグ<br/>スクラム<br/>選手じゃ<br/>なかったのか"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 73.5%;top: 8%;"
+	}
+	,{
+		"text": "なんでエッグ<br/>スクラム<br/>選手じゃ<br/>ないんだ？"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 26%;"
+	}
+	,{
+		"text": "すまない<br/>チームの皆<br/>…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 15.5%;top: 41%;"
+	}
+	,{
+		"text": "服を掛けてくる。<br/>今まで、オレは<br/>消防士になるべき<br/>だったんだ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 21%;top: 46%;"
+	}
+	,{
+		"text": "なぁ、<br/>おい、<br/>大丈夫?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 63%;top: 42%;"
+	}
+	,{
+		"text": "おい<br/>おい<br/>おい"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 62.2%;top: 72.5%;"
+	}
+	,{
+		"text": "あいつ<br/><span style=\"font-weight: bold;\">どうした<br/>??</span>"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 68%;top: 74.5%;"
+	}
+	,{
+		"text": "とにかく<br/>あいつ必要<br/>ないぜ！"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 79%;top: 73.5%;"
+	}
+]

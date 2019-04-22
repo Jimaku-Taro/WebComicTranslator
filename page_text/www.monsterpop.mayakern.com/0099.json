@@ -1,0 +1,10 @@
+[
+	{
+		"text": "へへへ"
+		,"style": "font-size: 14px;color: #673F06;background-color: #E2E35A;left: 267px;top: 84px;width: 58px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "バァ!!"
+		,"style": "font-size: 16px;color: black;left: 315px;top: 175px;transform: rotate(-20deg);text-shadow:#E2E55B 1px 1px 0, #E2E55B -1px -1px 0,#E2E55B -1px 1px 0, #E2E55B 1px -1px 0,#E2E55B 0px 1px 0, #E2E55B  0 -1px 0,#E2E55B -1px 0 0, #E2E55B 1px 0 0;"
+	}
+]

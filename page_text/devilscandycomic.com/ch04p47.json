@@ -1,0 +1,14 @@
+[
+	{
+		"text": "彼女を返せ<br/>デカ毛皮の<br/>ろくでなし!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 23%;top: 7%;font-weight: bold;"
+	}
+	,{
+		"text": "ゲップ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 24%;top: 18.4%;font-weight: bold;"
+	}
+	,{
+		"text": "ゾマは仰る！<br/>試合を<br/>続けよと！<br/>控えを出せ！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 65%;top: 76%;font-weight: bold;height: 108px;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

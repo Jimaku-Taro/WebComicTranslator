@@ -1,0 +1,62 @@
+[
+	{
+		"text": "も…もう、カズ<br/>あなたって突然<br/>カッコよく<br/>なるわね"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 11.3%;top: 2.7%;width: 114px;height: 90px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "何だよ?"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 41.3%;top: 13.5%;width: 52px;height: 34px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あぁ。<br/>そうだ"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 32.2%;top: 20.8%;width: 45px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "どうでも<br/>いいけど"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 48%;top: 21%;width: 65px;height: 40px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "待って、君は<br/>高校生なのに<br/>僕の頭を<br/>切開する気?!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 58%;top: 2%;width: 102px;height: 106px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "彼なら<br/>できるわ"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 69%;top: 9.5%;width: 59px;height: 46px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私を<br/>創った<br/>もの"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 84.6%;top: 24.8%;width: 64px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">パンドラ…!</span>そんなこと<br/>言わなくても…"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 11.5%;top: 36%;width: 100px;height: 69px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "大丈夫"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 26%;top: 37.8%;width: 57px;height: 59px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "気にして<br/>ないわ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 45%;top: 59.4%;width: 96px;height: 55px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "本当…?"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 87.6%;top: 37%;width: 54px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "“…私を<br/>創った”<br/>…?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 71%;top: 50.5%;width: 70px;height: 106px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "怖がることは<br/>ありません。<br/>僕に全て任せて<br/>下さい"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 26%;top: 71%;width: 102px;height: 100px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ギャング仲間も<br/>心配いりません"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 71%;top: 71%;width: 101px;height: 98px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "それも<br/>解決策が<br/>あります!"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 82%;top: 74%;width: 95px;height: 96px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

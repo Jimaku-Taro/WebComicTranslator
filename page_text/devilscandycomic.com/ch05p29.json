@@ -1,0 +1,58 @@
+[
+	{
+		"text": "だ…誰か<br/>入ってる?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 12%;top: 5.5%;"
+	}
+	,{
+		"text": "…<br/>出して<br/>…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 25%;top: 10%;"
+	}
+	,{
+		"text": "絶対に<br/>幽霊だ"
+		,"style": "font-size: 23px;color: black;background-color: white;left: 37%;top: 7%;"
+	}
+	,{
+		"text": "すごい自信!<br/>すごいバカ!"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 60%;top: 8%;"
+	}
+	,{
+		"text": "いや。<br/>君達は<br/><span style=\"font-weight: bold;\">選ばれし者!</span>"
+		,"style": "font-size: 17px;color: black;background-color: white;left: 37.5%;top: 27.2%;"
+	}
+	,{
+		"text": "ケースを<br/>開けて<br/><span style=\"font-weight: bold;\">運命を<br/>受け入れろ!</span>"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 78%;top: 27%;"
+	}
+	,{
+		"text": "最高って<br/>約束<br/>するぜ!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 88.5%;top: 30.5%;"
+	}
+	,{
+		"text": "わぁ、<br/>ギターだ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 14.5%;top: 61.5%;"
+	}
+	,{
+		"text": "格好<br/>良い"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 23%;top: 64.5%;"
+	}
+	,{
+		"text": "やれやれ、<br/>ありがとう。<br/>バカ共が俺を<br/>売り払おうと<br/>してたんだ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 39.5%;top: 50%;"
+	}
+	,{
+		"text": "ここから<br/>俺を連れ<br/>出してくれ。<br/>急いでな!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 51%;top: 54%;"
+	}
+	,{
+		"text": "バカ共？<br/>バカ共って何？<br/>ストラツィオ<br/>って奴はいた?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 81.5%;top: 43%;"
+	}
+	,{
+		"text": "ん？あぁ。<br/>アイツか。<br/>俺に悪いこと<br/>したがってる<br/>トレモロって奴と<br/>一緒にいる"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 66%;top: 66%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">とにかく、</span><br/>俺はただの<br/>ギター型悪魔で<br/>ギターじゃない<br/>だから俺を売るのは<br/>奴隷売買みたいな<br/>もんだろ？"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 80%;top: 66%;"
+	}
+]

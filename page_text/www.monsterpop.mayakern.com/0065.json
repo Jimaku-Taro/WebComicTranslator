@@ -1,0 +1,22 @@
+[
+	{
+		"text": "最初の授業が<br/>同じで嬉しいわ!"
+		,"style": "font-size: 14px;color: #322142;background-color: #B590BF;left: 93px;top: 19px;width: 128px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "私も!<br/>興奮しちゃう!"
+		,"style": "font-size: 14px;color: #4D3C1E;background-color: #FCF26F;left: 202px;top: 92px;width: 92x;height: 67px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "聞いた?今夜<br/>新入生向けの<br/>懇親会があるって!"
+		,"style": "font-size: 14px;color: #4D3C1E;background-color: #FCF26F;left: 326px;top: 96px;width: 158px;height: 72px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "楽しそうね!"
+		,"style": "font-size: 14px;color: #322142;background-color: #B590BF;left: 532px;top: 160px;width: 82px;height: 49px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "ええ!"
+		,"style": "font-size: 14px;color: #4D3C1E;background-color: #FCF26F;left: 645px;top: 223px;width: 49px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

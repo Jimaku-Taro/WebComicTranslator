@@ -1,0 +1,22 @@
+[
+	{
+		"text": "カズが<br/><span style=\"font-weight: bold;\">あたしの</span><br/>家に！？"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 73%;top: 11%;"
+	}
+	,{
+		"text": "おめかし<br/>して来て?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 36.6%;top: 28.5%;font-weight: bold;"
+	}
+	,{
+		"text": "了解！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 66.5%;top: 28.5%;"
+	}
+	,{
+		"text": "僕のセンス<br/>悪いと<br/>思ってるな…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 11.7%;top: 60.5%;"
+	}
+	,{
+		"text": "暴走列車は<br/>止まらねぇ。<br/>オレは退散<br/>するぜ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 32.5%;top: 61%;"
+	}
+]

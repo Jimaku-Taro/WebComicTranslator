@@ -1,0 +1,22 @@
+[
+	{
+		"text": "この頑丈な<br/>構造！"
+		,"style": "font-size: 22px;color: black;background-color: white;left: 13%;top: 7%;"
+	}
+	,{
+		"text": "そのうえ<br/>創造主に忠実!"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 15%;top: 14%;"
+	}
+	,{
+		"text": "自己防衛<br/>ユニット<br/>かな、恐らくは?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 76.5%;top: 25.5%;"
+	}
+	,{
+		"text": "いや、<br/>それにしては<br/>あまりにも<br/>感情的<br/>すぎる"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 56.5%;top: 60%;"
+	}
+	,{
+		"text": "<ruby>君<rp>(</rp><rt>カズ</rt><rp>)</rp></ruby>は<ruby>それ<rp>(</rp><rt>パンドラ</rt><rp>)</rp></ruby>が<br/>本物の女の子<br/>だと<span style=\"font-weight: bold;\">ほとんど</span><br/>思っていた<br/>ようだが!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 69.5%;top: 63%;"
+	}
+]

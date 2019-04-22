@@ -1,0 +1,66 @@
+[
+	{
+		"text": "それで、<br/>この件は１人が<br/>命で償うものだ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 9%;top: 3%;width: 114px;height: 65px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "君の祖父の場合、<br/>私達への責務を<br/>果たすために<br/>100回以上死ぬ<br/>必要がある"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 23.5%;top: 2%;width: 131px;height: 94px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "正直、彼に<br/>可能か分からん。<br/><span>一方<span style=\"font-weight: bold;\">君</span>なら…</span>"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 43%;top: 2%;width: 121px;height: 64px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "こいつ殺して<br/>計画通り<br/>マイナス<br/>連れてけよ"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 60.5%;top: 2.7%;width: 83px;height: 69px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "<span><span style=\"font-weight: bold;\">別の</span>実験材料</span>は不要だろ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 60.5%;top: 9.5%;width: 96px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "殺す?"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 85%;top: 7.7%;width: 38px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "実験…<br/>材料…?"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 86%;top: 25%;width: 55px;height: 32px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "私の友達は<br/>品がないな。<br/>私こそ<span style=\"font-weight: bold;\">奇跡の使い手</span>"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 9%;top: 32.5%;width: 99px;height: 92px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "呪いは<br/>治せないが<br/>聞け…<br/><span>私は<span style=\"font-weight: bold;\">死者を</span></span><span style=\"font-weight: bold;\">蘇生できる</span>"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 20%;top: 36%;width: 101px;height: 124px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "もちろん、<br/>誰かを死と苦しみの螺旋に<br/>永遠に囚えもできるが<br/>…それは無益だろう、特に<br/>呪いの有効利用よりはね"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 61%;top: 31.5%;width: 182px;height: 125px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "そこで<br/>取引だ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 71.3%;top: 42.2%;width: 90px;height: 44px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私と来て<br/>欲しい"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 9%;top: 58%;width: 79px;height: 74px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "約束する<br/>長生きできる…<br/>君が何度<br/>死のうが"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 32.5%;top: 57.6%;width: 112px;height: 101px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "君の老いた祖父が…<br/>安らかに生きようが<br/>永眠しようが…<br/>私には同じだ"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 46.5%;top: 57.8%;width: 114px;height: 115px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "この優れた<br/>提案の期限は"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 63%;top: 58%;width: 82px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "わかった!<br/>とにかく!<br/>イエスだ!"
+		,"style": "font-size: 17px;color: black;background-color: white;left: 63%;top: 74.5%;width: 89px;height: 65px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+]

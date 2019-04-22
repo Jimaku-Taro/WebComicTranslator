@@ -1,0 +1,22 @@
+[
+	{
+		"text": "信じられない<br/>こんなこと<br/>するなんて…"
+		,"style": "font-size: 14px;color: #760010;background-color: #FFB7C7;left: 15px;top: 190px;width: 98px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "いくぞ…"
+		,"style": "font-size: 14px;color: #760010;background-color: #FFB7C7;left: 300px;top: 95px;width: 60px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "うわぁ"
+		,"style": "font-size: 14px;color: #760010;background-color: #FFB7C7;left: 300px;top: 320px;width: 49px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "変な感じで<br/>冷たあぁぁぁい!!"
+		,"style": "font-size: 14px;color: #760010;background-color: #FFB7C7;left: 660px;top: 5px;width: 119px;height: 87px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "アハハ!"
+		,"style": "font-size: 14px;color: #570681;background-color: #F8B8FF;left: 710px;top: 160px;width: 66px;height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

@@ -1,0 +1,54 @@
+[
+	{
+		"text": "うわぁ…<br/>大変ね"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 18%;top: 3.5%;width: 67px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あぁ、だが<br/>ロックンロール<br/>の何が俺に<br/>分かる?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 34%;top: 22%;width: 99px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "多分<br/>ジギー博士には<br/>良い考えが<br/>あったんだろ。<br/>ギターに必要<br/>なのは目と口と<br/>脳と…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 51%;top: 7%;width: 114px;height: 146px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">…感情</span>だとな"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 53%;top: 19%;width: 82px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ギターに<br/>感情は無いわ<br/>マーク。<br/>君は悪魔よ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 12%;top: 49%;width: 92px;height: 116px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あ…<br/>ありがとう"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 64%;top: 34.5%;width: 84px;height: 47px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "皆<br/>大丈夫?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 11%;top: 63%;width: 69px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "バンドの練習かと<br/>思ったけど。<span><span style=\"font-weight: bold;\">お通夜</span>みたいな</span>雰囲気よ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 22%;top: 84%;width: 133px;height: 128px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ママ、<br/>解くように<br/>言ってよ?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 39%;top: 63%;width: 94px;height: 72px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "場合によるわ。<br/>どういう状況?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 53%;top: 63%;width: 109px;height: 70px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "鍛えてあげて<br/>るんですよ…<br/>その…<br/>コンサートで"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 55%;top: 86%;width: 98px;height: 97px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "フリースタイル<br/>ラップバトルで<br/>炎上しそうな位<br/>彼が弱いってこと?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 71%;top: 63%;width: 156px;height: 99px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "わぁ、<br/>大体合って<br/>ますよ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 80%;top: 84%;width: 98px;height: 103px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

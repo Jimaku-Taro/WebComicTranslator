@@ -1,0 +1,26 @@
+[
+	{
+		"text": "わぁ、スゴイ!<br/>これ何?"
+		,"style": "font-size: 14px;color: #796D0D;background-color: #F7FF6B;left: 30px;top: 10px;width: 105px;height: 81px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ただの…<br/>Webコミック…"
+		,"style": "font-size: 14px;color: #00726C;background-color: #8FFEF3;left: 198px;top: 30px;width: 127px;height: 54px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "これは?"
+		,"style": "font-size: 14px;color: #796D0D;background-color: #F7FF6B;left: 505px;top: 10px;width: 68px;height: 65px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "…あうぅ<br/>!!!"
+		,"style": "font-size: 12px;color: #00726C;background-color: #8FFEF3;left: 510px;top: 90px;width: 66px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "持っても<br/>いい?"
+		,"style": "font-size: 14px;color: #796D0D;background-color: #F7FF6B;left: 585px;top: 90px;width: 79px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "えっと<br/>いいわよ!"
+		,"style": "font-size: 14px;color: #00726C;background-color: #8FFEF3;left: 680px;top: 140px;width: 85px;height: 48px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

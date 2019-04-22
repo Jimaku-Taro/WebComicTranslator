@@ -1,0 +1,30 @@
+[
+	{
+		"text": "何してんの"
+		,"style": "font-size: 13px;color: #000088;background-color: #99B7FE;left: 128px;top: 10px;width: 77px;height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "君一人?"
+		,"style": "font-size: 16px;color: #000088;background-color: #99B7FE;left: 218px;top: 35px;width: 97px;height: 54px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "えっと…<br/>違うわ。友達と<br/>一緒よ"
+		,"style": "font-size: 14px;color: #997C10;background-color: #F6FD78;left: 320px;top: 77px;width: 102px;height: 70px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "俺には<br/>超一人に<br/>見えるぜ"
+		,"style": "font-size: 16px;color: #000088;background-color: #99B7FE;left: 640px;top: 7px;width: 91px;height: 89px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私は<br/>皆が戻るの<br/>待ってるの"
+		,"style": "font-size: 16px;color: #997C10;background-color: #F6FD78;left: 690px;top: 92px;width: 104px;height: 92px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "君みたいなセクシーな娘を<br/>一人にするなんて<br/>いけない友達だな"
+		,"style": "font-size: 14px;color: #000088;background-color: #99B7FE;left: 422px;top: 220px;width: 232px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "まぁ…<br/>俺には<br/>幸運だな"
+		,"style": "font-size: 14px;color: #000088;background-color: #99B7FE;left: 700px;top: 418px;width: 82px;height: 73px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

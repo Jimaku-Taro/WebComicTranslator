@@ -1,0 +1,38 @@
+[
+	{
+		"text": "じゃ<br/>一緒にいても<br/>いい?"
+		,"style": "font-size: 14px;color: #007F80;background-color: #6EFEF5;left: 0.75%;top: 1.59%;width: 13.13%;height: 14.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ええ<br/>大丈夫!!"
+		,"style": "font-size: 14px;color: #7B5C01;background-color: #FEFCA9;left: 1.38%;top: 18.45%;width: 11.38%;height: 10.91%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "どうも…"
+		,"style": "font-size: 12px;color: #007F80;background-color: #6EFEF5;left: 21.25%;top: 18.85%;width: 6.63%;height: 5.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ただ…<br/>上が騒がしくなって<br/>少し休憩したくて、<br/>でも外は寒いし"
+		,"style": "font-size: 14px;color: #007F80;background-color: #6EFEF5;left: 7.12%;top: 27.58%;width: 22.75%;height: 23.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "正直<br/>私も休憩<br/>したくて"
+		,"style": "font-size: 14px;color: #7B5C01;background-color: #FEFCA9;left: 36.00%;top: 1.20%;width: 12.88%;height: 16.67%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "本当に?<br/>でもあなたはいつも…<br/>元気で! パーティが<br/>大好きだと<br/>思ってた!"
+		,"style": "font-size: 14px;color: #007F80;background-color: #6EFEF5;left: 68.00%;top: 1.20%;width: 19.50%;height: 24.60%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "実際<br/>そう<br/>思うよ!"
+		,"style": "font-size: 14px;color: #7B5C01;background-color: #FEFCA9;left: 35.13%;top: 64.09%;width: 9.13%;height: 13.49%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "正直、<br/>友達と遊ぶのは<br/>何でも大好きよ"
+		,"style": "font-size: 14px;color: #7B5C01;background-color: #FEFCA9;left: 72.25%;top: 65.08%;width: 24.00%;height: 18.85%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "でも上は今<br/>ちょ～っと<br/>騒がしすぎね"
+		,"style": "font-size: 14px;color: #7B5C01;background-color: #FEFCA9;left: 81.88%;top: 82.34%;width: 15.75%;height: 14.88%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

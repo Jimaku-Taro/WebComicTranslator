@@ -1,0 +1,34 @@
+[
+	{
+		"text": "あっ!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 7.5%;top: 23.6%;font-weight: bold;"
+	}
+	,{
+		"text": "ここが<br/>科学棟…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 78%;top: 11%;"
+	}
+	,{
+		"text": "科学は<br/>たわごとだ!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 10.7%;top: 45%;"
+	}
+	,{
+		"text": "我らは<br/>実在しないと<br/>教える<br/>だろう!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 41%;"
+	}
+	,{
+		"text": "進化は<br/>ただの<br/>屁理屈だ！<br/>重力も！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 29%;top: 70%;width: 87px;"
+	}
+	,{
+		"text": "もし世界が<br/>丸ければ、<br/>我らは皆<br/>落ちる！"
+		,"style": "font-size: 19px;color: black;background-color: white;left: 56.2%;top: 73.5%;"
+	}
+	,{
+		"text": "黙れ！！<br/>科学は<br/>凄いんだ！！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 73.5%;top: 69%;font-weight: bold;"
+	}
+	,{
+		"text": "＊<br/>鍵<br/>の<br/>か<br/>か<br/>っ<br/>て<br/>い<br/>な<br/>い<br/>ド<br/>ア"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 91.5%;top: 79%;"
+	}
+]

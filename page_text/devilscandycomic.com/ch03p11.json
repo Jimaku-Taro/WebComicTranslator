@@ -1,0 +1,42 @@
+[
+	{
+		"text": "やぁ、<br/>カズ！"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 8.5%;top: 5.5%;font-weight: bold;"
+	}
+	,{
+		"text": "あの…<br/>今晩は！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 52.5%;top: 8%;"
+	}
+	,{
+		"text": "アハハ<br/>ハハ…"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 67.6%;top: 5%;font-weight: bold;"
+	}
+	,{
+		"text": "会えて<br/>嬉しいよ！<br/>いつ以来だ？"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 77.6%;top: 6.2%;font-weight: bold;"
+	}
+	,{
+		"text": "お…<br/>おひさし<br/>ぶり？"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 65%;top: 44%;"
+	}
+	,{
+		"text": "人生で一度も<br/>会ったこと<br/>ないよ！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 79.5%;top: 44%;font-weight: bold;"
+	}
+	,{
+		"text": "パパ、<br/>玄関を<br/>塞がない!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 9%;top: 55%;"
+	}
+	,{
+		"text": "ごめんな<br/>さいね…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 21%;top: 85.2%;"
+	}
+	,{
+		"text": "上がって<br/>カズ、<br/>パンドラ。<br/>夕食が<br/>できてるわ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 82%;top: 58.5%;"
+	}
+	,{
+		"text": "夕食は<br/>何も聞いて<br/>ないな…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 85.5%;top: 76.5%;width: 84px;"
+	}
+]

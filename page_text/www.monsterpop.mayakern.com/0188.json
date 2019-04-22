@@ -1,0 +1,26 @@
+[
+	{
+		"text": "…ホントに<br/>大丈夫?<br/>最近少し変よ…"
+		,"style": "font-size: 14px;color: #006858;background-color: #94FDF2;left: 195px;top: 25px;width: 134px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "そう<br/>思うわ…"
+		,"style": "font-size: 14px;color: #006858;background-color: #94FDF2;left: 280px;top: 135px;width: 74px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "わかるわ…"
+		,"style": "font-size: 14px;color: #006858;background-color: #94FDF2;left: 582px;top: 14px;width: 73px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "フラニーはパーシーと<br/>今付き合ってるけど…<br/>あなたはずっと一緒<br/>だったものね…"
+		,"style": "font-size: 14px;color: #006858;background-color: #94FDF2;left: 570px;top: 126px;width: 207px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "い…いえ…<br/>平気よ…"
+		,"style": "font-size: 14px;color: #635A01;background-color: #FEFB93;left: 430px;top: 283px;width: 83px;height: 41px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "ハハハァ～…"
+		,"style": "font-size: 14px;color: #635A01;background-color: #FEFB93;left: 492px;top: 370px;width: 84px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"text": "あ…"
+		,"style": "font-size: 14px;color: #3B920F;background-color: #AFFC8A;left: 40px;top: 20px;width: 65px;height: 30px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "うわぁ…"
+		,"style": "font-size: 14px;color: #3B920F;background-color: #AFFC8A;left: 185px;top: 245px;width: 82px;height: 32px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "OK,<br/>真実か<br/>挑戦!"
+		,"style": "font-size: 14px;color: #921324;background-color: #FDABB7;left: 430px;top: 15px;width: 65px;height: 65px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "それじゃ…<br/>挑戦"
+		,"style": "font-size: 14px;color: #3B920F;background-color: #AFFC8A;left: 558px;top: 30px;width: 75px;height: 75px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "かな"
+		,"style": "font-size: 14px;color: #3B920F;background-color: #AFFC8A;left: 610px;top: 95px;width: 71px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "OK、<br/>挑戦の<br/>内容は…"
+		,"style": "font-size: 14px;color: #921324;background-color: #FDABB7;left: 400px;top: 215px;width: 94px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "えっと"
+		,"style": "font-size: 14px;color: #921324;background-color: #FDABB7;left: 475px;top: 355px;width: 45px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "その…"
+		,"style": "font-size: 14px;color: #921324;background-color: #FDABB7;left: 540px;top: 295px;width: 50px;height: 27px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "う～ん…"
+		,"style": "font-size: 14px;color: #921324;background-color: #FDABB7;left: 715px;top: 435px;width: 67px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

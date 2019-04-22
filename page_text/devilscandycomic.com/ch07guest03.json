@@ -1,0 +1,30 @@
+[
+	{
+		"text": "スーパーフレンド"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 41%;top: 5%;width: 145px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "絵:@MAXIMOLORΞNZO"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 26%;top: 7%;width: 218px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "話:BIKKURI"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 52%;top: 7%;width: 166px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "世界に無視<br/>されてる気分だ。<br/>今までモンスター<br/>ばかり作って<br/>友達作らなかった<br/>からな"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 29%;top: 10%;width: 179px;height: 150px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "まだ<br/>遅くない!<br/>今日から<br/>友達作りを<br/>始めよう!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 31%;top: 33%;width: 101px;height: 140px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">待てよぉぉぉ</span>もっといい<br/>方法がある!<span><span style=\"font-weight: bold;\">オレに</span>友達を作る</span>バイオモンスター<br/>を作ればいい!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 30%;top: 63%;width: 122px;height: 108px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "そして<br/>友達を材料に<br/><span style=\"font-weight: bold;\">合成スーパー<br/>フレンド</span>を作るのだ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 29%;top: 76.5%;width: 117px;height: 94px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

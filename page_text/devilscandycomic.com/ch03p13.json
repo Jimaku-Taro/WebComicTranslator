@@ -1,0 +1,38 @@
+[
+	{
+		"text": "今週の、<br/><span style=\"font-weight: bold;\">ドクター エース</span>と<br/><span style=\"font-weight: bold;\">ナース クィーニー</span><br/>は人里離れた部族<br/>をゴブリン痘から<br/>救うため危険な<br/>白骨砂漠を旅する"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 11%;top: 7%;"
+	}
+	,{
+		"text": "白骨砂漠、<br/>アベナス"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 30%;top: 8.5%;width: 139px;border:solid 1px;"
+	}
+	,{
+		"text": "どう<br/>ですか、<br/>ドクター?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 53.5%;top: 9.5%;"
+	}
+	,{
+		"text": "私が<br/>来る前は<br/>酷かった"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 80.6%;top: 9%;"
+	}
+	,{
+		"text": "子供の<br/>致死率は<br/>666%…<br/>世帯毎にだ"
+		,"style": "font-size: 17px;color: black;background-color: white;left: 11.5%;top: 39%;"
+	}
+	,{
+		"text": "彼らは<br/>全て棒と泥で<br/>治そうとする<br/>それで上手く<br/>いかない"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 23%;top: 40%;"
+	}
+	,{
+		"text": "だから<br/>得意技を<br/>持ってきたわ。<br/>最良のお薬は…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 80%;top: 38%;"
+	}
+	,{
+		"text": "そして<br/>２番目に良い<br/>お薬は…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 80%;top: 56%;"
+	}
+	,{
+		"text": "お薬！"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 73%;top: 72%;width: 136px;font-weight: bold;"
+	}
+]

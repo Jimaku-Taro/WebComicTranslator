@@ -1,0 +1,38 @@
+[
+	{
+		"text": "挑戦!"
+		,"style": "font-size: 14px;color: #6A1991;background-color: #DF9BFF;left: 125px;top: 5px;width: 45px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "やめ<br/>なよ"
+		,"style": "font-size: 14px;color: #8E0F24;background-color: #FF8294;left: 10px;top: 205px;width: 42px;height: 35px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "かかって<br/>こいや!"
+		,"style": "font-size: 12px;color: #6A1991;background-color: #DF9BFF;left: 270px;top: 170px;width: 55px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "達人に<br/>かなう<br/>とでも?"
+		,"style": "font-size: 14px;color: #714602;background-color: #FDFB74;left: 25px;top: 255px;width: 93px;height: 104px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "挑戦の<br/>内容は…"
+		,"style": "font-size: 14px;color: #714602;background-color: #FDFB74;left: 270px;top: 300px;width: 67px;height: 89px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "えっと…"
+		,"style": "font-size: 14px;color: #714602;background-color: #FDFB74;left: 520px;top: 10px;width: 65px;height: 27px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あ!"
+		,"style": "font-size: 14px;color: #714602;background-color: #FDFB74;left: 720px;top: 185px;width: 29px;height: 24px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "10分間手足を<br/>ダクトテープで<br/>縛ってもらうわ!"
+		,"style": "font-size: 14px;color: #714602;background-color: #FDFB74;left: 405px;top: 280px;width: 177px;height: 102px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ふざけんな!!"
+		,"style": "font-size: 16px;color: #6A1991;background-color: #DF9BFF;left: 685px;top: 435px;width: 93px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

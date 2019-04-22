@@ -1,0 +1,38 @@
+[
+	{
+		"text": "棺桶を持ってきたな<br/>なら俺はお前の墓を<br/>掘ってやる"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 11%;top: 4.5%;width: 183px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+	}
+	,{
+		"text": ""
+		,"style": "font-size: 16px;color: white;background-color: black;left: 36%;top: 7%;width: 208px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "俺の一言で<br/>お前は奴隷だ"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 39%;top: 7%;width: 158px;height: 54px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": ""
+		,"style": "font-size: 16px;color: white;background-color: black;left: 57%;top: 31%;width: 166px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": ""
+		,"style": "font-size: 16px;color: white;background-color: black;left: 55%;top: 32.5%;width: 197px;height: 25px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "俺を王と呼び<br/>王冠を渡せ"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 55.5%;top: 30.5%;width: 193px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": ""
+		,"style": "font-size: 16px;color: white;background-color: black;left: 41%;top: 44%;width: 154px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": ""
+		,"style": "font-size: 16px;color: white;background-color: black;left: 38%;top: 45.5%;width: 166px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "お前は<br/>学校と共に<br/>崩れ去れ"
+		,"style": "font-size: 18px;color: white;background-color: black;left: 41%;top: 44%;width: 142px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"text": "アハハ…<br/>えっと…<br/>その通り<br/>よね…"
+		,"style": "font-size: 14px;color: #008B88;background-color: #97FFFE;left: 1.56%;top: 2.58%;width: 16.00%;height: 18.25%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "変なこと<br/>聞いて<br/>ゴメンね"
+		,"style": "font-size: 14px;color: #008B88;background-color: #97FFFE;left: 18.81%;top: 75.99%;width: 12.63%;height: 18.85%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "聞きたい<br/>理由でも<br/>あるの…?"
+		,"style": "font-size: 14px;color: #816900;background-color: #FFFB7B;left: 34.44%;top: 1.59%;width: 20.25%;height: 19.44%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私が目を<br/>つけてる人は<br/>フラニーじゃ<br/>ないけど"
+		,"style": "font-size: 14px;color: #816900;background-color: #FFFB7B;left: 41.69%;top: 20.44%;width: 20.63%;height: 17.66%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "いえ…単に<br/>好奇心よ…"
+		,"style": "font-size: 14px;color: #008B88;background-color: #97FFFE;left: 79.44%;top: 17.46%;width: 11.88%;height: 16.07%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "アハハハ…"
+		,"style": "font-size: 14px;color: #008B88;background-color: #97FFFE;left: 84.06%;top: 40.67%;width: 12.13%;height: 6.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

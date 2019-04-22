@@ -1,0 +1,10 @@
+[
+	{
+		"text": "やぁ!"
+		,"style": "font-size: 14px;color: #67311F;background-color: #F19055;left: 95px;top: 76px;width: 45px; height: 22px;"
+	}
+	,{
+		"text": "ハイ"
+		,"style": "font-size: 12px;color: #5F5227;background-color: #FAF38A;left: 120px;top: 160px;width: 25px; height: 18px;"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"text": "ワオ！！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 22.5%;top: 5.5%;"
+	}
+	,{
+		"text": "ついでに、<br/>お前の一番の<br/>相手がお前を<br/>困らせてる<br/>ようだが"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 8%;top: 41.5%;"
+	}
+	,{
+		"text": "まぁまぁ、ニモ、<br/><span style=\"font-weight: bold;\">ジェラシィィィィ</span><br/>はよせ。<br/>オレは一緒にいるの<br/>大好きなんだ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 15.5%;top: 68.5%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">やめ<br/>うぐぁ<br/>やめて</span>"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 35.5%;top: 68%;width: 100px;"
+	}
+]

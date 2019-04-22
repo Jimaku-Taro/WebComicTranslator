@@ -1,0 +1,42 @@
+[
+	{
+		"text": "アアアアッ!"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 11.16%;top: 5.67%;width: 19.45%;height: 4.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "エコー!"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 29.89%;top: 10.36%;width: 8.83%;height: 4.11%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "驚かせて<br/>ごめんね"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 61.40%;top: 12.04%;width: 10.62%;height: 4.86%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あなたの<br/>お母様に会って<br/>入って良いと<br/>伺ったので"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 79.30%;top: 36.43%;width: 15.75%;height: 8.38%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あなたが<br/>私の家に来て<br/>お父様の仕事の品を<br/>運ぶのよね。<br/>行き違いが<br/>あるかしら?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 9.13%;top: 44.98%;width: 16.71%;height: 12.82%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "いや"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 49.46%;top: 48.16%;width: 6.56%;height: 3.27%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "2秒前に<br/>それに<br/>気付いたよ<br/>ゴメン"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 77.15%;top: 54.12%;width: 12.41%;height: 8.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "歩いて来たの?<br/>今日は大嵐が<br/>来てたと<br/>思うけど"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 11.04%;top: 69.62%;width: 13.84%;height: 8.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "遠くないし<br/>傘を買ったの"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 47.67%;top: 69.04%;width: 10.38%;height: 6.62%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "一緒に<br/>行き<br/>ましょ?"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 53.16%;top: 74.74%;width: 8.23%;height: 5.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

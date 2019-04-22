@@ -1,0 +1,58 @@
+[
+	{
+		"text": "えっと…"
+		,"style": "font-size: 14px;color: #156E5D;background-color: #C2FCF6;left: 13px;top: 12px;width: 64px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "あっそうだ<br/>こちらはマリナ!<br/>図書館で会ったの"
+		,"style": "font-size: 14px;color: #492301;background-color: #FDFAAA;left: 109px;top: 14px;width: 126px;height: 98px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "本当に<br/>図書館に<br/>行ったの??"
+		,"style": "font-size: 14px;color: #000600;background-color: #FFC8FD;left: 235px;top: 72px;width: 114px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "お黙り<br/>私だってたまには<br/>図書館にも行くわよ"
+		,"style": "font-size: 14px;color: #492301;background-color: #FDFAAA;left: 98px;top: 131px;width: 134px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "食物でも<br/>あったんでしょ"
+		,"style": "font-size: 14px;color: #000600;background-color: #FFC8FD;left: 57px;top: 331px;width: 109px;height: 65px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "うん"
+		,"style": "font-size: 14px;color: #492301;background-color: #FDFAAA;left: 163px;top: 400px;width: 54px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "はぁ…"
+		,"style": "font-size: 14px;color: #000600;background-color: #FFC8FD;left: 294px;top: 447px;width: 49px;height: 26px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "マリナ、皆は<br/>アミティ高校<br/>からの友達!"
+		,"style": "font-size: 14px;color: #492301;background-color: #FDFAAA;left: 356px;top: 9px;width: 119px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "フラニー"
+		,"style": "font-size: 14px;color: #492301;background-color: #FDFAAA;left: 434px;top: 99px;width: 64px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "ミシェル"
+		,"style": "font-size: 14px;color: #492301;background-color: #FDFAAA;left: 550px;top: 50px;width: 81px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "デナ"
+		,"style": "font-size: 14px;color: #492301;background-color: #FDFAAA;left: 658px;top: 40px;width: 48px;height: 19px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "シドニー"
+		,"style": "font-size: 14px;color: #492301;background-color: #FDFAAA;left: 693px;top: 61px;width: 61px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "マヤ"
+		,"style": "font-size: 14px;color: #492301;background-color: #FDFAAA;left: 705px;top: 158px;width: 50px;height: 20px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "私はタイニィ<br/>・ミナージ!"
+		,"style": "font-size: 14px;color: #8B0928;background-color: #FFCDD8;left: 555px;top: 317px;width: 101px;height: 46px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

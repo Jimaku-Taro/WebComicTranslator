@@ -1,0 +1,30 @@
+[
+	{
+		"text": "ごめん<br/>なさい!"
+		,"style": "font-size: 14px;color: #6A3D0B;background-color: #FFFE89;left: 20px;top: 20px;width: 77px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "うわぁ<br/>最悪ね…"
+		,"style": "font-size: 14px;color: #00595D;background-color: #8AFBFF;left: 135px;top: 35px;width: 100px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "特別版の<br/>ジルダ3DS<br/>よね?"
+		,"style": "font-size: 14px;color: #00595D;background-color: #8AFBFF;left: 400px;top: 20px;width: 89px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "うん…"
+		,"style": "font-size: 14px;color: #1F5F01;background-color: #ACFF88;left: 442px;top: 105px;width: 55px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "何で僕デカール<br/>取っておかな<br/>かったんだ??"
+		,"style": "font-size: 13px;color: #1F5F01;background-color: #ACFF88;left: 520px;top: 55px;width: 92px;height: 67px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "でも僕には<br/>公式ジルダ3DSを<br/>持たない選択は<br/>ないし!!!"
+		,"style": "font-size: 13px;color: #1F5F01;background-color: #ACFF88;left: 645px;top: 30px;width: 118px;height: 81px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "高かったのに<br/>壊れちゃったよ!"
+		,"style": "font-size: 13px;color: #1F5F01;background-color: #ACFF88;left: 620px;top: 152px;width: 139px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"text": "やぁ。<br/>オレだ<br/>ニモだ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 20%;top: 4%;"
+	}
+	,{
+		"text": "オレの肌は<br/>濡れてる時は<br/>透明じゃ<br/>ないんだ"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 27%;top: 6%;"
+	}
+	,{
+		"text": "ママが<br/>グリンディロー<br/>パパが透明<br/>だからオレは…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 45%;top: 13.5%;"
+	}
+	,{
+		"text": "あー…<br/>そういう<br/>…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 78.5%;top: 9.5%;"
+	}
+	,{
+		"text": "ことさ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 81.5%;top: 16.5%;"
+	}
+	,{
+		"text": "オレの内臓が<br/>本当に外に<br/>出てると思って<br/>ないよな？"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 13.5%;top: 40.5%;"
+	}
+	,{
+		"text": "それ<br/>キモい<br/>だろ…"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 48.1%;top: 40%;"
+	}
+	,{
+		"text": "…キモい<br/>わね"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 12%;top: 64%;"
+	}
+	,{
+		"text": "ここ数日で<br/>唯一喋った…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 23.5%;top: 63%;"
+	}
+	,{
+		"text": "とにかく、<br/>パンドラ、<br/>エリオットが<br/>呼んでる、<br/>僕らは<br/>行くけど"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 40.5%;top: 63%;"
+	}
+	,{
+		"text": "一緒に<br/>来ても<br/>いいよ…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 54%;top: 64%;"
+	}
+	,{
+		"text": "フン！"
+		,"style": "font-size: 35px;color: black;background-color: white;left: 71%;top: 62%;font-weight: bold;"
+	}
+]

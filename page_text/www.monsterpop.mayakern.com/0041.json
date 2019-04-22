@@ -1,0 +1,18 @@
+[
+	{
+		"text": "好きよ!!"
+		,"style": "font-size: 30px;color: #645325;background-color: #F9F289;left: 76px;top: 41px;width: 129px; height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "…多分"
+		,"style": "font-size: 16px;color: #2E344F;background-color: #5C6281;left: 380px;top: 46px;width: 69px; height: 24px;text-align: center;"
+	}
+	,{
+		"text": "正直に言うと<br/>私は人の心を<br/>読むのが苦手<br/>それで以前問題になったわ"
+		,"style": "font-size: 14px;color: #221D18;background-color: #F7F28B;left: 544px;top: 23px;width: 171px; height: 82px;"
+	}
+	,{
+		"text": "#過去を考える"
+		,"style": "font-size: 14px;color: #A8A78A;background-color: #F7F289;left: 672px;top: 454px;width: 121px; height: 36px;"
+	}
+]

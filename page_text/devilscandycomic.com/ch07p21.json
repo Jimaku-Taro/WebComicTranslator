@@ -1,0 +1,66 @@
+[
+	{
+		"text": "ん…"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 33%;top: 7%;width: 34px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "リケット?"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 54.5%;top: 5%;width: 57px;height: 31px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "僕は…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 59%;top: 7%;width: 49px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "手術は<br/>成功した?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 3.5%;width: 89px;height: 54px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "手術は<br/>成功した?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 3.5%;width: 89px;height: 54px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "うん。<br/>虫は<br/>取れた"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 88%;top: 7.5%;width: 67px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "嘘を<br/>ついてて<br/>ゴメン…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 32%;top: 44%;width: 74px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "僕はただ…<br/>どれだけ<br/>一緒にいれるか<br/>分からなかった"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 44%;top: 30%;width: 110px;height: 110px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "だから僕は<br/>君に幸せでいて<br/>欲しかった。<br/>少なくとも…<br/>不幸にしたく<br/>なかった"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 68%;top: 31%;width: 107px;height: 100px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "まぁ長いこと<br/>足踏みしてたけど<br/>これからは一緒に<br/>やっていこう?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 14.5%;top: 61.5%;width: 155px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "秘密は<br/>無しね"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 47%;top: 62%;width: 70px;height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あっ…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 52%;top: 77.5%;width: 42px;height: 31px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "うわぁ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 55.5%;top: 80%;width: 47px;height: 26px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">ねぇ!</span>僕の患者に<br/>何してるの!?<br/>ここから<br/>出てって!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 67%;top: 61%;width: 88px;height: 107px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "よく<br/>休まないと<br/>新しい仕事の<br/>ために!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 85.5%;top: 61.5%;width: 93px;height: 90px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "新しい…<br/>仕事?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 81.5%;top: 83%;width: 58px;height: 46px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

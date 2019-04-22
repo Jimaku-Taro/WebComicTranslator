@@ -1,0 +1,18 @@
+[
+	{
+		"text": "でもその…<br/>それについて"
+		,"style": "font-size: 14px;color: #746801;background-color: #FFFE70;left: 5px;top: 10px;width: 92px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "君に<br/>話したいことが<br/>あるの…"
+		,"style": "font-size: 14px;color: #746801;background-color: #FFFE70;left: 260px;top: 15px;width: 123px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私が<br/>君とパーシーの事<br/>嬉しく思ってるのは<br/>分かるでしょ？"
+		,"style": "font-size: 14px;color: #746801;background-color: #FFFE70;left: 640px;top: 80px;width: 145px;height: 92px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "もちろんよ"
+		,"style": "font-size: 14px;color: #56006C;background-color: #F18CFF;left: 610px;top: 410px;width: 93px;height: 32px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"text": "あなたのせいで<br/>人が死ぬなら、<br/>それは間違ってる"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 25%;top: 1.5%;width: 114px;height: 112px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "例え家族を<br/>守るためでも<br/>すぐ止めないと、<br/>あなたは雇い主の<br/>殺人者達以下だ！"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 39.5%;top: 1.5%;width: 127px;height: 129px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "僕に選択肢<br/>なんてないよ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 58%;top: 2.3%;width: 118px;height: 63px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "君はニコディモスが<br/>死者蘇生すら<br/>できるの忘れてない?<br/>同じ位簡単に<br/>細切れにも<br/>できるんだよ!"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 56%;top: 8%;width: 143px;height: 147px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "歯向かった瞬間<br/><span>僕は<span style=\"font-weight: bold;\">終わりだ</span></span>本当に死ぬ…<br/>いやそれ以上にマズい。<br/>リケットの身に<br/>何かあったら?!"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 75.8%;top: 23.8%;width: 132px;height: 117px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "君達みたいな子供は<br/>ピアが怖くないのか?<br/>彼女は普通の<br/>デーモンだけど!<br/>トレモロと<br/>ニコディモスは…"
+		,"style": "font-size: 11px;color: black;background-color: white;left: 2.3%;top: 34%;width: 120px;height: 103px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "奴らは違う。<br/>超自然的な<br/>何かだ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 16.3%;top: 34.5%;width: 103px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "科学で説明<br/>出来ない物は<br/>ありません。<br/>ニコディモスは<br/>あなたを騙してる。<br/>証明できます"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 32%;top: 49%;width: 142px;height:134px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ミイラの呪いは<br/>実在しません"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 52.2%;top: 36%;width: 100px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "いやいや。<br/>超実在するぜ。<br/>ヤギーが<br/>テレビで見た"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 72%;top: 35.7%;width: 115px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "黙れ<br/>マーク"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 76.8%;top: 43.5%;width: 61px;height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "あなたには<br/><span><span style=\"font-weight: bold;\">寄生虫</span>が</span>ついている"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 10%;top: 62%;width: 98px;height: 97px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">カースモ<br/>バグバギー</span>と言います"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 22.5%;top: 62%;width: 102px;height: 96px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あなたの症状は<span style=\"font-weight: bold;\">“悲しい時の<br/>マクマミー症”</span>"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 38%;top: 63%;width: 152px;height: 83px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "な…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 48%;top: 70.5%;width: 54px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "知ってますよ<br/>僕の父が<br/>発見した<br/>症状だから"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 58.5%;top: 63%;width: 105px;height: 82px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "だから…"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 82%;top: 64.2%;width: 58px;height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "だからこんな<br/>バカげた<br/>名前なんだ!!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 58.5%;top: 79%;width: 109px;height: 84px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+]

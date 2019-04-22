@@ -1,0 +1,22 @@
+[
+	{
+		"text": "どうした<br/>んだ？"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 9%;top: 7%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">アッ<br/>？！</span>"
+		,"style": "font-size: 34px;color: black;background-color: white;left: 38%;top: 23%;width: 80px;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">み…皆女の子<br/>作ったの？！</span>"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 14%;top: 70%;width: 125px;"
+	}
+	,{
+		"text": "お前あれを<br/>女の子って<br/>呼べるの<span style=\"font-weight: bold;\">かよ</span>"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 32.5%;top: 69%;"
+	}
+	,{
+		"text": "す…少なくとも<br/>僕は服を着せる<br/>良識はあるよ！<br/><span style=\"font-size: 12px;\">これが“男性視点”<br/>ってやつか…？</span>"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 74.8%;top: 67%;"
+	}
+]

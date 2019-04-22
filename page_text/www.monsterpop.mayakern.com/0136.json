@@ -1,0 +1,34 @@
+[
+	{
+		"text": "ご…ごめん!<br/>親が…"
+		,"style": "font-size: 14px;color: #0A6776;background-color: #58FAE4;left: 165px;top: 10px;width: 95px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "大丈夫!"
+		,"style": "font-size: 14px;color: #704809;background-color: #F8FA58;left: 310px;top: 15px;width: 61px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "セーラーヌーン<br/>のファンなの?"
+		,"style": "font-size: 14px;color: #704809;background-color: #F8FA58;left: 264px;top: 90px;width: 108px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "その…<br/>うん!"
+		,"style": "font-size: 14px;color: #0A6776;background-color: #58FAE4;left: 200px;top: 170px;width: 51px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "正直言うと<br/>少し恥ずかしいわ<br/>子供向け番組だから<br/>でも大好きよ!"
+		,"style": "font-size: 14px;color: #0A6776;background-color: #58FAE4;left: 410px;top: 15px;width: 178px;height: 96px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "そんなこと<br/>ないわよ!"
+		,"style": "font-size: 14px;color: #704809;background-color: #F8FA58;left: 615px;top: 35px;width: 107px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "僕らの年でも<br/>好きな人は<br/>沢山いるよ!"
+		,"style": "font-size: 14px;color: #1C6E01;background-color: #97F95A;left: 655px;top: 130px;width: 133px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "そうね…"
+		,"style": "font-size: 14px;color: #0A6776;background-color: #58FAE4;left: 685px;top: 295px;width: 60px;height: 26px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

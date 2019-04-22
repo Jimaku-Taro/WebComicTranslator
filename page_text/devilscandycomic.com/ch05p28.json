@@ -1,0 +1,26 @@
+[
+	{
+		"text": "人影なし"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 38%;top: 6%;"
+	}
+	,{
+		"text": "倉庫部屋<br/>みたいね"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 47%;top: 8%;"
+	}
+	,{
+		"text": "ギター<br/>ケース<br/>かな？"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 18%;top: 52%;width: 71px;"
+	}
+	,{
+		"text": "何よ、<br/>急に歌う気？<br/>目立っちゃ<br/>ダメよ！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 45%;top: 53%;"
+	}
+	,{
+		"text": "わあ。<br/>かなり<br/>メタルね、<br/>実際"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 82.5%;top: 56%;"
+	}
+	,{
+		"text": "…助けて<br/>…"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 81%;top: 71.5%;"
+	}
+]

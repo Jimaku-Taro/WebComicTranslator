@@ -1,0 +1,18 @@
+[
+	{
+		"text": "えっと…そうだ!<br/>君の成績表<br/>準備できたわ!<br/>チーフが早く<br/>来たから"
+		,"style": "font-size: 14px;color: #4A0B72;background-color: #F474FF;left: 45px;top: 15px;width: 133px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "そりゃ<br/>いい!"
+		,"style": "font-size: 14px;color: #9D2746;background-color: #FF76B2;left: 175px;top: 115px;width: 44px;height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "はい<br/>どうぞ"
+		,"style": "font-size: 14px;color: #4A0B72;background-color: #F474FF;left: 380px;top: 25px;width: 63px;height: 40px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "ありが…"
+		,"style": "font-size: 14px;color: #9D2746;background-color: #FF76B2;left: 520px;top: 38px;width: 69px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

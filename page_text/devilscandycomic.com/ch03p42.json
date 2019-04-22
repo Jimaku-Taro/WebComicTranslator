@@ -1,0 +1,30 @@
+[
+	{
+		"text": "ふん!"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 30.2%;top: 25%;font-weight: bold;"
+	}
+	,{
+		"text": "うわ!"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 83%;top: 15%;font-weight: bold;"
+	}
+	,{
+		"text": "わぁ!"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 62.5%;top: 40%;font-weight: bold;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">ラビ、<br/>このバカ!</span><br/>突っ立て１日中<br/>ファンを避けて<br/>られないのよ！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 7%;top: 56%;"
+	}
+	,{
+		"text": "ファッション<br/>ショーに出場<br/>するの、忘れた!?<br/><span style=\"font-weight: bold;\">それが最優先よ!</span>"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 15%;top: 65.5%;height: 100px;"
+	}
+	,{
+		"text": "ああ<br/>うん…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77.5%;top: 69.5%;"
+	}
+	,{
+		"text": "この場合、<br/>オレは少し<br/>熱くなる<br/>べきだね"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 16.5%;top: 83.5%;"
+	}
+]

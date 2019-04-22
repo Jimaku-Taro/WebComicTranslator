@@ -1,0 +1,54 @@
+[
+	{
+		"text": "何て素敵な<br/>変身かしら。<br/>雰囲気も<br/>変わるわね"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 33.35%;top: 21.61%;width: 14.44%;height: 7.38%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "蛙の足を<br/>思い出す<br/>わね…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 70.11%;top: 5.09%;width: 10.98%;height: 9.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "大好きよ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 81.32%;top: 7.27%;width: 9.43%;height: 7.88%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "うん…?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 4.47%;top: 49.18%;width: 7.52%;height: 3.44%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "カエル<br/>食べるの?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 4.71%;top: 52.21%;width: 8.11%;height: 5.11%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "可愛い子は<br/>食べない<br/>わよ"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 35.62%;top: 49.28%;width: 8.23%;height: 6.62%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ハックション!"
+		,"style": "font-size: 12px;color: black;background-color: transparent;left: 64.38%;top: 46.43%;width: 10.86%;height: 1.42%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "少し<br/>寒くなって<br/>きたかな"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 48.27%;top: 58.58%;width: 10.02%;height: 7.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "あら、気づい<br/>ちゃった?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 78.46%;top: 59.00%;width: 10.74%;height: 5.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "まぁ<br/>ちょっとの<br/>辛抱さ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 7.58%;top: 68.39%;width: 13.01%;height: 5.87%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "パパは<br/>私立探偵だけど<br/>書類には下卑た<br/>内容は無いね。<br/>何枚か見る<br/>必要あったけど、<br/>恥ずかしい事は<br/>書いてないよ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 6.50%;top: 74.76%;width: 15.75%;height: 13.24%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "あら私は別に<br/>恥ずかしく<br/>ないわよ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 37.41%;top: 69.31%;width: 11.81%;height: 5.03%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "言って<br/>おくけど…<br/>今日 私の家で<br/>パーティを<br/>するの"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 52.45%;top: 68.47%;width: 11.46%;height: 10.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+]

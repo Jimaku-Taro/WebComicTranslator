@@ -1,0 +1,18 @@
+[
+	{
+		"text": "君の命は<br/>もう終わ<br/>ってる!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 25%;top: 4%;"
+	}
+	,{
+		"text": "アタイの<br/>邪魔を<br/>するな!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 76%;top: 13.5%;width: 70px;"
+	}
+	,{
+		"text": "君の攻撃は<br/>大したことない<br/>反撃はできない<br/>でしょ"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 42%;top: 24%;"
+	}
+	,{
+		"text": "何か見せるなら<br/>早くした方が<br/>いいわよ"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 49%;top: 42.7%;height: 67px;"
+	}
+]

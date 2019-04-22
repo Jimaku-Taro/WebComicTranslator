@@ -1,0 +1,50 @@
+[
+	{
+		"text": "<span style=\"font-weight: bold;\">パンドラ対策</span>"
+		,"style": "font-size: 35px;color: black;background-color: white;left: 7%;top: 10%;width: 340px;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">１．窓を閉める</span>"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 9%;top: 15.25%;width: 182px;border:solid 1px;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">2.ドアを<br/>ロック</span>"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 9%;top: 34.5%;width: 81px;border:solid 1px;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">３．電源を<br/>カバーする</span>"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 9%;top: 54.5%;width: 118px;height: 63px;border:solid 1px;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">４．尖った物を隠す</span>"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 18%;top: 73.8%;width: 224px;height: 26px;border:solid 1px;"
+	}
+	,{
+		"text": "<span style=\"font-size: xx-large;font-weight: bold;\">ディナー</span>"
+		,"style": "font-size: 35px;color: black;background-color: white;left: 63%;top: 10%;width: 153px;"
+	}
+	,{
+		"text": "あっ！<br/>お腹空い<br/>たんだ？"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 83%;top: 15%;height: 73px;"
+	}
+	,{
+		"text": "ピザを<br/>頼もう！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 55.5%;top: 35%;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "<span style=\"\">何枚に<br/>しよう<br/>かな…</span>"
+		,"style": "font-size: 13.5px;color: black;background-color: #c7c5db;left: 82.5%;top: 34.3%;"
+	}
+	,{
+		"text": "<span style=\"font-size: small;\">いぇ～い<br/>ピッザー!</span>"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 55.5%;top: 54.5%;"
+	}
+	,{
+		"text": "食べててよ、<br/>お皿取って<br/>くる！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 69%;top: 53.5%;"
+	}
+	,{
+		"text": "OK、<br/>僕の分は<br/>無し、<br/>いいね"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 84%;top: 74%;"
+	}
+]

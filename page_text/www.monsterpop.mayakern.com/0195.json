@@ -1,0 +1,26 @@
+[
+	{
+		"text": "弟子としての<br/>初仕事よ。<br/>昼飯奢って!"
+		,"style": "font-size: 14px;color: #766B01;background-color: #FBFE88;left: 110px;top: 10px;width: 108px;height: 113px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 54px 54px 54px 54px / 57px 57px 57px 57px;"
+	}
+	,{
+		"text": "う…うん<br/>いいよ"
+		,"style": "font-size: 14px;color: #328714;background-color: #A7F26D;left: 460px;top: 150px;width: 71px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 35px 35px 35px 35px / 25px 25px 25px 25px;"
+	}
+	,{
+		"text": "マジで?<br/>ただの<br/>冗談よ!"
+		,"style": "font-size: 14px;color: #766B01;background-color: #FBFE88;left: 208px;top: 253px;width: 77px;height: 89px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 38px 38px 38px 38px / 45px 45px 45px 45px;"
+	}
+	,{
+		"text": "う…うん<br/>僕も冗談さ<br/>ハハハハ!!"
+		,"style": "font-size: 14px;color: #328714;background-color: #A7F26D;left: 324px;top: 280px;width: 111px;height: 66px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 56px 56px 56px 56px / 33px 33px 33px 33px;"
+	}
+	,{
+		"text": "ハァ～…"
+		,"style": "font-size: 14px;color: #328714;background-color: #A7F26D;left: 498px;top: 253px;width: 76px;height: 31px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 38px 38px 38px 38px / 15px 15px 15px 15px;"
+	}
+	,{
+		"text": "本当に<br/>タダ飯なら<br/>喜んで受けたのに。<br/>奢ってよ、<br/>太っ腹!"
+		,"style": "font-size: 14px;color: #766B01;background-color: #FBFE88;left: 465px;top: 310px;width: 153px;height: 109px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 77px 77px 77px 77px / 55px 55px 55px 55px;"
+	}
+]

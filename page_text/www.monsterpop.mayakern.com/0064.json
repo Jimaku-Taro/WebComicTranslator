@@ -1,0 +1,14 @@
+[
+	{
+		"text": "…ジョージ!"
+		,"style": "font-size: 14px;color: #741880;background-color: #C87BB0;left: 261px;top: 175px;width: 76px;height: 23px;"
+	}
+	,{
+		"text": "おはよ!<br/>席取り<br/>ありがと!"
+		,"style": "font-size: 14px;color: #88632A;background-color: #FAEE5F;left: 519px;top: 32px;width: 80px;height: 69px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "当然よ!"
+		,"style": "font-size: 14px;color: #741880;background-color: #C87BB0;left: 507px;top: 212px;width: 58px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

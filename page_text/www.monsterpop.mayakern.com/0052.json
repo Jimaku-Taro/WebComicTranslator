@@ -1,0 +1,14 @@
+[
+	{
+		"text": "これが私の<br/>言おうとしたこと…<br/>私はモンスターなの…"
+		,"style": "font-size: 14px;color: #775525;background-color: #FEF58D;left: 412px;top: 50px;width: 35px;width: 178px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "でも私はまだ<br/>君のことが好き<br/>でもどうして…"
+		,"style": "font-size: 14px;color: #775525;background-color: #FEF58D;left: 454px;top: 130px;width: 161px; height: 55px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "俺に近寄るな<span style=\"font-weight: bold;font-size: 55px;\">モンスター</span>"
+		,"style": "font-size: 25px;color: #775525;background-color: #EC6F3D;left: 480px;top: 208px;width: 293px; height: 199px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

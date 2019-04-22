@@ -1,0 +1,30 @@
+[
+	{
+		"text": "私…"
+		,"style": "font-size: 16px;color: #006C5F;background-color: #42E4D5;left: 4.94%;top: 1.39%;width: 8.63%;height: 6.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "こんなの<br/>バカで無意味で…<br/>言うべきじゃ<br/>ないけど…"
+		,"style": "font-size: 14px;color: #006C5F;background-color: #42E4D5;left: 9.19%;top: 3.77%;width: 21.25%;height: 21.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "好…<br/>好きなの"
+		,"style": "font-size: 14px;color: #006C5F;background-color: #42E4D5;left: 61.69%;top: 2.38%;width: 11.13%;height: 11.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あなたが<br/>大好き"
+		,"style": "font-size: 14px;color: #006C5F;background-color: #42E4D5;left: 77.81%;top: 10.12%;width: 12.00%;height: 11.11%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あなたは<br/>カッコよくて<br/>強くて優しくて…<br/>私はただ…"
+		,"style": "font-size: 14px;color: #006C5F;background-color: #42E4D5;left: 80.69%;top: 31.55%;width: 17.88%;height: 19.25%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ごめん<br/>なさい…"
+		,"style": "font-size: 14px;color: #006C5F;background-color: #42E4D5;left: 87.19%;top: 65.67%;width: 11.13%;height: 7.94%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "愛してる!!"
+		,"style": "font-size: 14px;color: #006C5F;background-color: #42E4D5;left: 81.94%;top: 79.76%;width: 9.88%;height: 11.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

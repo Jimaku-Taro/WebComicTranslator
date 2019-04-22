@@ -1,0 +1,18 @@
+[
+	{
+		"text": "マリナ…"
+		,"style": "font-size: 14px;color: #3C085B;background-color: #D394FF;left: 1.81%;top: 2.38%;width: 8.50%;height: 4.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "なんで<br/>謝るの?"
+		,"style": "font-size: 14px;color: #3C085B;background-color: #D394FF;left: 9.56%;top: 4.07%;width: 14.50%;height: 9.82%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私…"
+		,"style": "font-size: 14px;color: #065F59;background-color: #78FFF8;left: 45.81%;top: 3.77%;width: 7.75%;height: 5.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あなたには<br/>パーシーがいて<br/>私は迷惑でしょ、<br/>ごめんね!"
+		,"style": "font-size: 14px;color: #065F59;background-color: #78FFF8;left: 77.56%;top: 4.96%;width: 21.13%;height: 18.25%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

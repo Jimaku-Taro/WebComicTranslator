@@ -1,0 +1,26 @@
+[
+	{
+		"text": "成長パニック"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 38%;top: 5%;width: 206px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "作:kata @koughdrops"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 38%;top: 7%;width: 218px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "パンドラの<br/>初めての歩み"
+		,"style": "font-size: 10px;color: black;background-color: white;left: 28%;top: 85%;width: 65px;height: 34px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;"
+	}
+	,{
+		"text": "パンドラの<br/>手足の型"
+		,"style": "font-size: 10px;color: black;background-color: white;left: 46%;top: 85%;width: 59px;height: 30px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;"
+	}
+	,{
+		"text": "パンドラの<br/>乳歯"
+		,"style": "font-size: 10px;color: black;background-color: white;left: 54%;top: 85.5%;width: 59px;height: 30px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;"
+	}
+	,{
+		"text": "パンドラの<br/>初めての服"
+		,"style": "font-size: 10px;color: black;background-color: white;left: 63%;top: 90%;width: 72px;height: 30px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;"
+	}
+]

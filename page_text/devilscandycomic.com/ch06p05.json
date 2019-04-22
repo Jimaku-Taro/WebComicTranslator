@@ -1,0 +1,42 @@
+[
+	{
+		"text": "あの…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 11%;top: 10.5%;"
+	}
+	,{
+		"text": "皆で<br/>写真撮っても<br/>いい？"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 44%;top: 6.5%;"
+	}
+	,{
+		"text": "いいよ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 51%;top: 19%;"
+	}
+	,{
+		"text": "じゃ、<br/>私が<br/>撮ろう"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 76%;top: 4.5%;"
+	}
+	,{
+		"text": "Dr.エース!!!<br/>キャアアア"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 76%;top: 43.9%;font-weight: bold;transform: rotate(-13deg);"
+	}
+	,{
+		"text": "よし、<br/>皆<br/>集まって！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 15%;top: 61%;"
+	}
+	,{
+		"text": "おっと！<br/>僕もー！"
+		,"style": "font-size: 15px;color: black;background-color: #C2C2C2;left: 32.5%;top: 61.2%;font-weight: bold;transform: rotate(3deg);"
+	}
+	,{
+		"text": "さぁ、<br/>撮ろう!"
+		,"style": "font-size: 17px;color: black;background-color: white;left: 54%;top: 63%;"
+	}
+	,{
+		"text": "ヘルメット<br/>脱げたよ！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 56.5%;top: 68%;"
+	}
+	,{
+		"text": "はい<br/>“チーズ”!"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 68%;top: 64%;font-weight: bold;"
+	}
+]

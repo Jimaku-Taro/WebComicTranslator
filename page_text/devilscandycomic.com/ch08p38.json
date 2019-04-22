@@ -1,0 +1,26 @@
+[
+	{
+		"text": "つまり…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 11.87%;top: 3.80%;width: 8.71%;height: 4.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+	}
+	,{
+		"text": "命の始まりは<br/>選べな<br/>かったが…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 15.69%;top: 8.58%;width: 10.38%;height: 6.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+	}
+	,{
+		"text": "終わり方は<span style=\"font-weight: bold;\">選べる…</span>"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 72.85%;top: 10.00%;width: 11.58%;height: 6.37%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+	}
+	,{
+		"text": "カッコよく<br/>サヨナラ<br/>したいんだ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 15.93%;top: 29.79%;width: 13.48%;height: 5.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+	}
+	,{
+		"text": "おぉ…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 61.04%;top: 31.63%;width: 9.67%;height: 6.37%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "こいつは<br/>メタルだ"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 57.58%;top: 74.80%;width: 12.05%;height: 7.96%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+]

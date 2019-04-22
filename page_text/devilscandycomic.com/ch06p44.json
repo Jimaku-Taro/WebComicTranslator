@@ -1,0 +1,62 @@
+[
+	{
+		"text": "あなたが<br/>アレクサンドラ"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 4%;top: 8%;width: 88px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "アレックス<br/>でいいわ"
+		,"style": "font-size: 11px;color: black;background-color: white;left: 26%;top: 7.5%;width: 59px;height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "こちらは<br/>どなた？"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 38.2%;top: 7.4%;width: 76px;height: 41px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "やぁ 僕は<br/>ドミニク"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 51.2%;top: 5.5%;width: 79px;height: 43px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "その…レディ<br/>ダークロード<br/>を演じてる?<br/>髭無しじゃ多分<br/>分からないよ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 51.4%;top: 11.3%;width: 98px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "あぁ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 51.4%;top: 23.5%;width: 65px;height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "面白い衣装で<br/>筋肉の見事な!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 50%;top: 27.3%;width: 101px;height: 75px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "筋肉の<br/>付け方も<br/><span style=\"font-weight: bold;\">私</span>に教えて<br/>くれる?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 4%;top: 40%;width: 70px;height: 67px;"
+	}
+	,{
+		"text": "え…えぇ<br/>一緒に<br/>鍛えます…?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 17.5%;top: 39%;width: 82px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "ハニーも<br/>一緒に<br/>どう?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 30.5%;top: 40.5%;width: 65px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "ハハハ!<br/><span style=\"font-weight: bold;\">私に</span>必要な<br/>筋肉は<br/>脳だけさ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 61.5%;top: 39.5%;width: 87px;height: 77px;"
+	}
+	,{
+		"text": "コイツ<br/>本当に<br/>医者か?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 82.2%;top: 39.5%;width: 67px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "それでエース<br/>また旅に行くって<br/>聞いたけど?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 9.8%;top: 63.3%;width: 125px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "“旅”?<br/><span style=\"font-weight: bold;\">悟りの航海さ!</span>"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 39.1%;top: 62.5%;width: 122px;height: 59px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "東の大陸を<br/>見に行くの<br/>悪魔達がいたら<br/>ラブラブ薬を<br/>使うわ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 71.5%;top: 64.2%;width: 125px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

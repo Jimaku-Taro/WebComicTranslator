@@ -1,0 +1,14 @@
+[
+	{
+		"text": "ゴメンゴメン<br/>気付かなかった<br/>ご免なさい!!!!!!"
+		,"style": "font-size: 14px;color: #6F5910;background-color: #FDFF79;left: 200px;top: 40px;width: 122px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "その…<br/>大丈夫よ…"
+		,"style": "font-size: 14px;color: #09604F;background-color: #79FFE3;left: 490px;top: 20px;width: 70px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "気に<br/>してない…<br/>けど…"
+		,"style": "font-size: 14px;color: #09604F;background-color: #79FFE3;left: 555px;top: 74px;width: 93px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

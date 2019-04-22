@@ -1,0 +1,50 @@
+[
+	{
+		"text": "ねぇママ<br/>ここで何<br/>してるの?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 66.41%;top: 2.99%;width: 9.19%;height: 7.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "お昼よ。<br/><span style=\"font-weight: bold;\">アンタは</span>何よ?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 78.34%;top: 3.66%;width: 10.98%;height: 8.30%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "一日中寝てると<br/>お姉ちゃんみたく<br/>落ちこぼれるわよ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 11.52%;top: 33.25%;width: 15.51%;height: 8.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "はぁ？"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 31.68%;top: 39.03%;width: 9.67%;height: 4.69%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "オレは<br/>落ちこぼれて<br/>ねぇよ。<br/>オレ達は学校が<br/>直るまで休校"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 47.08%;top: 33.08%;width: 13.25%;height: 10.39%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "言っとくけど<br/>私は一日中<br/>寝てない"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 83.00%;top: 35.01%;width: 11.93%;height: 6.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "朝起きて<br/>すぐ化粧<br/>してるし"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 83.11%;top: 41.04%;width: 12.29%;height: 7.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "変態のガキ<br/>みたいな<br/>露出趣味も<br/>無いの"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 46.96%;top: 51.69%;width: 12.65%;height: 9.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "地獄へ<br/>落ちろ<br/>ニクシー"
+		,"style": "font-size: 11px;color: black;background-color: white;left: 74.16%;top: 58.50%;width: 5.37%;height: 4.19%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;font-weight: bold;"
+	}
+	,{
+		"text": "はいはい<br/>とにかく"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 7.94%;top: 67.55%;width: 9.31%;height: 5.28%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "もう行くわ<br/>コレあなたに"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 16.89%;top: 68.05%;width: 11.22%;height: 6.96%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "パパは<br/>忙しいから<br/>大切なお客に<br/>渡してって"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 43.26%;top: 69.73%;width: 15.51%;height: 9.39%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+]

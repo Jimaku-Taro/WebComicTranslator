@@ -1,0 +1,30 @@
+[
+	{
+		"text": "やります"
+		,"style": "font-size: 11px;color: black;background-color: white;left: 7.4%;top: 7.3%;"
+	}
+	,{
+		"text": "やります"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 21%;top: 7%;"
+	}
+	,{
+		"text": "やります!"
+		,"style": "font-size: 22px;color: black;background-color: white;left: 35%;top: 6.5%;font-weight: bold;"
+	}
+	,{
+		"text": "ファッション<br/>ショーは<br/>明日の夕方よ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 75.5%;top: 45%;"
+	}
+	,{
+		"text": "パンドラ！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 8%;top: 59%;"
+	}
+	,{
+		"text": "あたしの家で…<br/>今晩。５時に<br/>徹底的に採寸!<br/>徹夜よ!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 27.5%;top: 58%;"
+	}
+	,{
+		"text": "パンドラは<br/>…シャイで。<br/>僕も一緒<br/>だよ？"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 72%;top: 58%;"
+	}
+]

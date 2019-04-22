@@ -1,0 +1,46 @@
+[
+	{
+		"text": "俺に<br/>イジメに<br/>屈しろと?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 13%;top: 5%;width: 85px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "それって<br/>ここで話す<br/>ことかい?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 47%;top: 9%;width: 84px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "それは<br/>むしろ話の<br/>拡大解釈<br/>だろう"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 64%;top: 10%;width: 93px;height: 91px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "違うのか?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 78.5%;top: 12%;width: 78px;height: 49px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "人気者気取りの<br/>ガキが自分の不安を<br/>解消するために<br/>俺の人生を台無しに<br/>しやがる"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 13%;top: 41%;width: 160px;height: 90px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ヤバくなったら<br/>“泣き叫んで、<br/>オレは子供だよ!<br/>意地悪しないで!”<br/>それで、お前は<br/>騙されると"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 78%;top: 44%;width: 138px;height: 117px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "銃を突きつけた<br/>方が“イジメ”と<br/>言うのに<br/>俺は反対だ"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 10%;top: 63%;width: 126px;height: 71px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+	,{
+		"text": "これが終わったら、<br/>俺は組織を始める、<br/>遺伝子改造した<br/>超イジメっ子を作り<br/>普通のイジメっ子を<br/>叩きのめし<br/>優しさか…少なくとも<span><span style=\"font-weight: bold;\">恥を</span>教える</span>"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 33%;top: 78%;width: 132px;height: 151px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+	,{
+		"text": "それが君の<br/>慈善団体の<br/>アイデアか?"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 52%;top: 62%;width: 100px;height: 68px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+	}
+	,{
+		"text": "超イジメっ子<br/>達が反乱したら<br/>どうする?"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 52%;top: 69%;width: 98px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+	}
+	,{
+		"text": "超イジメっ子達の<br/>寿命は6ヶ月だけだ、<br/>バカ。奴らの死体は<br/>栄養満点でイジメ<br/>被害者達のご馳走に<br/>なるのさ"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 67%;top: 62.5%;width: 137px;height: 122px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+]

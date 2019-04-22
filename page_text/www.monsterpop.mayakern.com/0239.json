@@ -1,0 +1,14 @@
+[
+	{
+		"text": "私は<br/>ただ最近<br/>独りで…"
+		,"style": "font-size: 14px;color: #7F7202;background-color: #FEFD86;left: 10px;top: 10px;width: 134px;height: 68px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "フラニーは<br/>ずっとパーシーと<br/>一緒にデートしてて<br/>私は寂しくて…"
+		,"style": "font-size: 14px;color: #7F7202;background-color: #FEFD86;left: 290px;top: 20px;width: 141px;height: 149px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あ…<br/>あら!"
+		,"style": "font-size: 12px;color: #7F7202;background-color: #FEFD86;left: 473px;top: 140px;width: 55px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

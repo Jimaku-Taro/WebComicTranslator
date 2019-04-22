@@ -1,0 +1,34 @@
+[
+	{
+		"text": "マークのソウルメイト"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 33%;top: 5%;width: 280px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "数日前"
+		,"style": "font-size: 20px;color: black;background-color: #FEDC75;left: 30%;top: 10%;width: 153px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "ニンジャルティ<br/>メット ニンジャ<br/>リミネイション<br/>チャレンジか。<br/>番組を見続けて<br/>彼の弱みを<br/>分析だ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 28%;top: 14%;width: 141px;height: 174px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "1話目"
+		,"style": "font-size: 20px;color: black;background-color: #FEDC75;left: 30%;top: 31%;width: 153px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "理解<br/>できん"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 61%;top: 31%;width: 96px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "12話目"
+		,"style": "font-size: 20px;color: black;background-color: #FEDC75;left: 30%;top: 53%;width: 153px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "イエェェェイ!"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 57%;top: 53%;width: 136px;height: 63px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "68話目"
+		,"style": "font-size: 20px;color: black;background-color: #FEDC75;left: 30%;top: 74.5%;width: 153px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"text": "君は…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 15%;top: 28%;width: 54px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "君は<br/>僕を呼んだ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 33.5%;top: 24%;width: 89px;height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "トラブルに<br/>巻き込まれて<br/>呼んだんだ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 77.5%;top: 24.5%;width: 110px;height: 70px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "どうして?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 23%;top: 39%;width: 65px;height: 44px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "君が望んだ<br/>ことだから"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 41%;top: 40%;width: 129px;height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "例えそれが<br/>バカなことでも<br/>あなたが自分で<br/>決断した"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 73%;top: 59%;width: 109px;height: 70px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

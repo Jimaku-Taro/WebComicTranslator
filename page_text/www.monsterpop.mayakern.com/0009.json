@@ -1,0 +1,14 @@
+[
+	{
+		"text": "左足が<br/>赤"
+		,"style": "font-size: 14px;color: #662F2B;background-color: #EB6642;left: 68px;top: 27px;width: 91px; height: 38px;text-align: center;"
+	}
+	,{
+		"text": "左手が<br/>青"
+		,"style": "font-size: 14px;color: #172C35;background-color: #746FB0;left: 199px;top: 79px;width: 85px; height: 39px;text-align: center;"
+	}
+	,{
+		"text": "右手が<br/>緑"
+		,"style": "font-size: 14px;color: #436037;background-color: #B8D54B;left: 123px;top: 165px;width: 88px; height: 41px;text-align: center;"
+	}
+]

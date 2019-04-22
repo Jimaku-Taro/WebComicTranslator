@@ -1,0 +1,18 @@
+[
+	{
+		"text": "小さな<br/>ご主人様<br/>私の後ろに<br/>隠れて<br/>目を閉じて"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 40.05%;top: 7.68%;width: 9.57%;height: 18.17%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "うん…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 54.95%;top: 28.90%;width: 5.21%;height: 4.88%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ロイス<br/>殴るまでに<br/>5秒あげる"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 46.86%;top: 45.98%;width: 8.40%;height: 15.24%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "プッ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 40.16%;top: 93.66%;width: 5.64%;height: 3.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

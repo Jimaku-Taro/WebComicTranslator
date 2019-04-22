@@ -1,0 +1,22 @@
+[
+	{
+		"text": "<span style=\"font-weight: bold;\">やめろ<br/>！！</span>"
+		,"style": "font-size: 22px;color: black;background-color: white;left: 11.5%;top: 8%;"
+	}
+	,{
+		"text": "な…"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 12.5%;top: 15%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">彼女を<br/>離せ！！</span>"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 52%;top: 11%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">うぐっ<br/>！</span>"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 42%;top: 82%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">やめろ！</span><br/>死ぬ気<br/>かよ！"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 76%;top: 70.3%;width: 86px;"
+	}
+]

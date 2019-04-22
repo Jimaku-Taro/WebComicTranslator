@@ -1,0 +1,18 @@
+[
+	{
+		"text": "フラニーと<br/>パーシーは<br/>今頃いちゃいちゃ<br/>してるわね"
+		,"style": "font-size: 14px;color: #000009;background-color: #FFFD81;left: 22px;top: 24px;width: 146px;height: 82px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "本当に?<br/>そうなの?"
+		,"style": "font-size: 14px;color: #000009;background-color: #64F5F2;left: 240px;top: 210px;width: 97px;height: 66px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "そうよ!!!!<br/>あの２人見たけど<br/>両思いね"
+		,"style": "font-size: 14px;color: #000009;background-color: #FFFD81;left: 395px;top: 25px;width: 121px;height: 100px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "へぇ…"
+		,"style": "font-size: 14px;color: #000009;background-color: #64F5F2;left: 374px;top: 152px;width: 60px;height: 28px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;"
+	}
+]

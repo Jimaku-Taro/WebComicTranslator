@@ -1,0 +1,10 @@
+[
+	{
+		"text": "科目の変更期間は今週金曜まで、<br/>予定を変更したい人は<br/>申請を間に合わせてね!"
+		,"style": "font-size: 14px;color: #824410;background-color: #FFEB4A;left: 60px;top: 40px;width: 227px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "ユニティ大学即興部の初公演は次の土曜日!<br/>チケットは各5＄で昼休み中に<br/>生徒センターのドアの前で販売します"
+		,"style": "font-size: 14px;color: #824410;background-color: #FFEB4A;left: 450px;top: 25px;width: 325px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+]

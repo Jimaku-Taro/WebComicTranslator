@@ -1,0 +1,22 @@
+[
+	{
+		"text": "これ<br/>本当に<br/>上手くいくと<br/>思う？"
+		,"style": "font-size: 14px;color: #6F5728;background-color: #EEE29A;left: 48px;top: 66px;width: 98px; height: 73px;text-align: center;"
+	}
+	,{
+		"text": "いいえ!"
+		,"style": "font-size: 14px;color: #782D89;background-color: #B782B6;left: 167px;top: 158px;width: 50px; height: 22px;text-align: center;"
+	}
+	,{
+		"text": "なっ…フラニー!!"
+		,"style": "font-size: 12px;color: #6F5728;background-color: #EEE29A;left: 258px;top: 221px;width: 95px; height: 20px;text-align: center;"
+	}
+	,{
+		"text": "考え直さないの!<br/>テスト手伝うって<br/>約束したでしょ!"
+		,"style": "font-size: 14px;color: #782D89;background-color: #B782B6;left: 434px;top: 22px;width: 135px; height: 105px;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "プラス<br/>君のために<br/>作ったしね"
+		,"style": "font-size: 14px;color: #782D89;background-color: #B782B6;left: 661px;top: 31px;width: 88px; height: 63px;text-align: center;"
+	}
+]

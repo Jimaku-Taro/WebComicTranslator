@@ -1,0 +1,50 @@
+[
+	{
+		"text": "とにかく、この場所は<br/>雇い主達には秘密で、<br/>リケットは安全だ"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 10%;top: 1.5%;width: 146px;height: 103px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "奴らの所で<br/>働いてるのに<br/>奴ら住所<br/>知らねぇの?"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 41%;top: 1.8%;width: 92px;height: 86px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "あぁうん、彼らは都心に<br/>高級住宅を用意したけど<br/>この場所は彼らが<br/>くれる僅かなお金で<br/>僕が用意したんだ"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 56%;top: 2.5%;width: 133px;height: 89px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">何ですってぇぇ!?</span>普通の家があるのに<br/>こんなボロに<br/>住んでるの!?<span style=\"font-weight: bold;\">何でよ?</span>"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 81%;top: 4%;width: 108px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "ただ…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 11%;top: 31.5%;width: 76px;height: 47px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "君と一緒に<br/>居たかった<br/>から"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 11%;top: 54%;width: 104px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "おい<br/>おい<br/>おい<br/>…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 66.5%;top: 29.5%;width: 69px;height: 83px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "どういうこと?<br/>この人君の<br/>パパか何か?<br/>麻薬売った金で<br/>同棲してるの?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 76%;top: 29.5%;width: 121px;height: 102px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+	}
+	,{
+		"text": "黙れ<br/>ヤギー"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 79%;top: 39.5%;width: 72px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+	}
+	,{
+		"text": "あの、カズ…<br/>大丈夫？<br/>ここ来てから<br/>一言も喋って<br/>ないけど"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 37%;top: 64%;width: 114px;height: 112px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "こんなこと<br/>止めるんだ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 84.5%;top: 74.5%;width: 103px;height: 85px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "は?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 89%;top: 87.5%;width: 53px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]
