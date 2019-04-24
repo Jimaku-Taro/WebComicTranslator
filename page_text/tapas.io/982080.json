@@ -15,4 +15,52 @@
 		"text": "今日のお仕事<br/>サボっちゃった<br/>かな…"
 		,"style": "font-size: 25px;color: black;background-color: white;left: 76.33%;top: 17.59%;width: 20.53%;height: 1.91%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
 	}
+	,{
+		"text": "一日に<br/>2回も…!!"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 12.18%;top: 33.59%;width: 21.49%;height: 1.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "やっと<br/>来た!"
+		,"style": "font-size: 45px;color: black;background-color: white;left: 64.41%;top: 34.21%;width: 22.13%;height: 3.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;font-weight: bold;"
+	}
+	,{
+		"text": "巫女<br/>カサンドラ"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 2.29%;top: 39.77%;width: 26.60%;height: 0.99%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+	}
+	,{
+		"text": "別に<br/>あなたの<br/>心配なんて<br/>してないわよ"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 68.46%;top: 40.20%;width: 20.96%;height: 2.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あっ<br/>キャシー"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 8.35%;top: 46.34%;width: 13.51%;height: 1.49%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ほら、受け取って。<br/>なんで杖を持たずに<br/>木の枝で森を歩き<br/>回るの!"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 4.63%;top: 49.40%;width: 29.15%;height: 2.33%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "アハハ<br/>ありがと!"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 27.71%;top: 50.66%;width: 9.68%;height: 1.40%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "なんで<br/>戻ってくるなり<br/>叩くの!<br/>アリアのこと<br/>一日中心配<br/>したんだよ!"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 68.67%;top: 49.67%;width: 27.87%;height: 3.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "無事に<br/>帰って<br/>来てくれて<br/>嬉しいわ!"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 60.16%;top: 60.69%;width: 23.19%;height: 2.32%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "もがもが<br/>(ありがと)"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 56.22%;top: 63.79%;width: 12.02%;height: 1.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "エルピス"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 71.76%;top: 63.77%;width: 21.60%;height: 0.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+	}
+	,{
+		"text": "<span><span style=\"text-decoration: line-through;\"/>天使</span>巫女</span>"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 71.33%;top: 64.87%;width: 22.45%;height: 0.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
 ]
