@@ -1,7 +1,7 @@
 [
 	{
 		"text": "蛇神の神殿"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 17.61%;top: 2.73%;width: 26.06%;height: 1.17%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 40px;color: black;background-color: white;left: 17.61%;top: 2.73%;width: 26.06%;height: 1.17%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
 	}
 	,{
 		"text": "日は<br/>沈んでるかな?<br/>…人の声も<br/>聞こえないけど"
@@ -62,5 +62,57 @@
 	,{
 		"text": "<span><span style=\"text-decoration: line-through;\"/>天使</span>巫女</span>"
 		,"style": "font-size: 20px;color: black;background-color: white;left: 71.33%;top: 64.87%;width: 22.45%;height: 0.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "お前は一日中<br/>いなかったが<br/>何人かお前に聞きに<br/>来てるぞ"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 22.29%;top: 66.24%;width: 35.64%;height: 2.13%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0% 0% 50% 50%;"
+	}
+	,{
+		"text": "本当?"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 59.31%;top: 67.15%;width: 13.09%;height: 1.45%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "本当?"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 59.31%;top: 67.15%;width: 13.09%;height: 1.45%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "アリアは<br/>人気者ね"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 9.84%;top: 70.12%;width: 19.57%;height: 1.08%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "違う<br/>わよ!"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 16.33%;top: 71.34%;width: 13.62%;height: 1.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ところで<br/>一日中どこに<br/>いたんだ?<br/>誰もお前を見かけ<br/>なかったぞ!"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 68.24%;top: 74.13%;width: 28.83%;height: 3.82%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "仕事する<br/>気分じゃ<br/>なかったから<br/>散歩に～"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 3.46%;top: 78.44%;width: 19.89%;height: 2.00%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "正直に<br/>言えるとは<br/>どんな神経<br/>してんだ!"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 3.67%;top: 80.51%;width: 15.53%;height: 2.58%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "アハハ…<br/>メンゴ メンゴ～<br/>埋め合わせは<br/>明日するわ!"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 71.44%;top: 78.55%;width: 25.64%;height: 3.91%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "一応聞くが<br/>森へは行って<br/>ないよな?"
+		,"style": "font-size: 40px;color: black;background-color: white;left: 3.14%;top: 87.56%;width: 34.68%;height: 4.75%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "いいえ!<br/>私が<br/>死にたい<br/>ように<br/>見える?"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 52.39%;top: 94.81%;width: 24.68%;height: 3.84%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "見える!"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 79.31%;top: 96.95%;width: 12.66%;height: 0.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ええっ!"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 85.69%;top: 98.39%;width: 8.19%;height: 0.59%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
 	}
 ]

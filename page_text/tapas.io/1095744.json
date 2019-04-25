@@ -1,0 +1,22 @@
+[
+	{
+		"text": "なぁ…大丈夫か?<br/>問題があるなら<br/>私が言いに行くぞ"
+		,"style": "font-size: 40px;color: black;background-color: white;left: 15.05%;top: 6.45%;width: 39.47%;height: 3.30%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 43%;"
+	}
+	,{
+		"text": "ありがとう<br/>キャシー"
+		,"style": "font-size: 40px;color: black;background-color: white;left: 63.24%;top: 15.75%;width: 34.15%;height: 2.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 43%;"
+	}
+	,{
+		"text": "でも心配<br/>いらないわ!<br/>これが私の<br/>仕事だから"
+		,"style": "font-size: 40px;color: black;background-color: white;left: 3.46%;top: 21.31%;width: 38.40%;height: 3.09%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 43%;"
+	}
+	,{
+		"text": "あぁ、古の<br/>神託の主よ…"
+		,"style": "font-size: 40px;color: black;background-color: white;left: 53.56%;top: 66.71%;width: 41.81%;height: 3.49%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 43%;"
+	}
+	,{
+		"text": "…私の未来を教えて<br/>いただけませんか?"
+		,"style": "font-size: 60px;color: black;background-color: white;left: 13.56%;top: 89.10%;width: 72.13%;height: 5.20%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 43%;"
+	}
+]

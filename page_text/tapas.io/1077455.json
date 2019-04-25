@@ -1,0 +1,66 @@
+[
+	{
+		"text": "また姿を<br/>くらますなよ?"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 18.99%;top: 0.78%;width: 25.64%;height: 5.21%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "うん"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 20.80%;top: 6.54%;width: 12.77%;height: 2.08%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あっ"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 72.29%;top: 2.03%;width: 14.15%;height: 3.51%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "よっ"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 4.11%;top: 23.57%;width: 16.17%;height: 2.38%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;transform:rotate(-20deg);"
+	}
+	,{
+		"text": "わっ"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 28.56%;top: 29.90%;width: 10.32%;height: 2.43%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あんたって<br/>よく転ぶわね<br/>趣味？"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 48.24%;top: 19.41%;width: 30.85%;height: 5.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "からかわ<br/>ないで!"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 85.90%;top: 28.70%;width: 12.98%;height: 4.51%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "ありがとう…"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 6.76%;top: 46.68%;width: 21.70%;height: 4.93%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "…大丈夫?"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 62.39%;top: 49.61%;width: 28.72%;height: 5.33%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "触って<br/>ゴメン…"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 76.01%;top: 54.02%;width: 13.83%;height: 2.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "大丈夫!<br/>平気よ!"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 55.48%;top: 59.73%;width: 27.13%;height: 5.18%;height: 5.33%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "君って<br/>沢山食べてる<br/>よね?"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 5.37%;top: 66.99%;width: 17.23%;height: 3.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "嬉しい"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 17.29%;top: 70.80%;width: 7.13%;height: 0.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;transform:rotate(-20deg);"
+	}
+	,{
+		"text": "やめ<br/>させろ"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 62.82%;top: 72.05%;width: 8.72%;height: 1.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "もう遅いから<br/>行くわね…"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 49.84%;top: 87.05%;width: 29.04%;height: 4.11%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 43%;"
+	}
+	,{
+		"text": "見てられん<br/>…見るだけで<br/>恥ずかしい"
+		,"style": "font-size: 25px;color: white;background-color: black;left: 35.69%;top: 92.14%;width: 22.02%;height: 5.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 43%;"
+	}
+]
