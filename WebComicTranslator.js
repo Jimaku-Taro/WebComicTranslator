@@ -15,7 +15,7 @@
 
 
 /** デバッグフラグ */
-let DEBUG_MODE = true;
+let DEBUG_MODE = false;
 
 /** デバッグトレース */
 function trace(s) {
