@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2
 	,"name": "WebComicTranslator"
-	,"version": "2.0.0.1"
+	,"version": "2.1.0"
 	,"short_name": "コミトラ"
 	,"description": "一部のWebコミックに日本語訳を人力で追加"
     ,"content_scripts": [
@@ -10,7 +10,7 @@
 				"http://devilscandycomic.com/comic/*"
 				,"http://www.monsterpop.mayakern.com/*"
 				,"https://tapas.io/episode/*"
-				,"http://www.avasdemon.com/*"
+				,"https://www.avasdemon.com/*"
 				,"http://milktoastandmaple.smackjeeves.com/*"
 				,"http://mayakern.com/cshort.html*"
 			]
