@@ -1,0 +1,50 @@
+[
+	{
+		"text": "腹が減った"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 12.25%;top: 6.70%;width: 13.83%;height: 2.49%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "もう少し遅ければ<br/>お前をその場で<br/>食ってたぞ"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 22.25%;top: 8.72%;width: 21.33%;height: 6.41%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+	,{
+		"text": "何を<br/>持ってきた?"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 72.75%;top: 24.14%;width: 13.83%;height: 4.51%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "…コート"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 39.25%;top: 36.00%;width: 11.83%;height: 2.14%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "小娘のお前が<br/>狼を殺したのか?"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 58.42%;top: 35.41%;width: 17.50%;height: 8.42%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "いえ<br/>貰い物<br/>です"
+		,"style": "line-height: 1em;font-size: 11px;color: #C44654;background-color: white;left: 87.58%;top: 35.88%;width: 9.00%;height: 6.64%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "気が変わった<br/>腹は減って<br/>ない"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 51.25%;top: 56.52%;width: 13.50%;height: 6.88%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "ほら"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 78.08%;top: 57.35%;width: 5.50%;height: 1.84%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "食え"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 87.58%;top: 58.07%;width: 9.17%;height: 2.49%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+	,{
+		"text": "でも別に<br/>お腹…"
+		,"style": "line-height: 1em;font-size: 11px;color: #C44654;background-color: white;left: 1.42%;top: 76.33%;width: 10.17%;height: 4.03%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "食え!"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 16.25%;top: 77.76%;width: 6.67%;height: 2.85%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "ふむむ…"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 58.25%;top: 76.33%;width: 8.50%;height: 2.37%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+]

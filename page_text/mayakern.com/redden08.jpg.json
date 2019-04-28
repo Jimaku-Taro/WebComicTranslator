@@ -1,0 +1,26 @@
+[
+	{
+		"text": "決めた"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 3.42%;top: 4.92%;width: 19.67%;height: 2.85%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+	,{
+		"text": "お前は<br/>ここに<br/>いろ"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 18.75%;top: 7.30%;width: 17.00%;height: 5.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+	,{
+		"text": "な…何で!<br/>でも家族が!"
+		,"style": "line-height: 1em;font-size: 11px;color: #C44654;background-color: white;left: 39.58%;top: 8.60%;width: 13.17%;height: 4.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+	,{
+		"text": "黙れ!<br/>食うぞ!<br/>お前の家族<br/>もだ!"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 88.25%;top: 5.87%;width: 10.83%;height: 10.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+	,{
+		"text": "わかり<br/>ました"
+		,"style": "line-height: 1em;font-size: 11px;color: #C44654;background-color: white;left: 87.75%;top: 29.36%;width: 9.17%;height: 4.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "良し!　見習いが<br/>欲しかったのだ<br/>寝てろ<br/>明日は早いぞ"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 4.75%;top: 51.07%;width: 20.50%;height: 8.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+]

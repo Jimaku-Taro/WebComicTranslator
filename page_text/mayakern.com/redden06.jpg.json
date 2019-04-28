@@ -1,0 +1,18 @@
+[
+	{
+		"text": "遅い"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 78.08%;top: 12.99%;width: 6.33%;height: 2.85%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "随分<br/>かかったな。<br/>何かあった<br/>かと思った"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 25.25%;top: 46.68%;width: 12.83%;height: 11.86%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "お入り"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 37.92%;top: 34.70%;width: 10.00%;height: 2.85%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "物に<br/>触るなよ"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 64.92%;top: 42.65%;width: 11.83%;height: 4.74%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+]

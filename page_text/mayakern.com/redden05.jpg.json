@@ -1,0 +1,22 @@
+[
+	{
+		"text": "コートだ"
+		,"style": "line-height: 1em;font-size: 12px;color: #5B3B87;background-color: white;left: 16.75%;top: 33.39%;width: 11.00%;height: 2.49%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "君を守る"
+		,"style": "line-height: 1em;font-size: 12px;color: #5B3B87;background-color: white;left: 37.58%;top: 35.77%;width: 10.33%;height: 4.74%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "行け!"
+		,"style": "line-height: 1em;font-size: 12px;color: #5B3B87;background-color: white;left: 59.92%;top: 33.27%;width: 8.67%;height: 2.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "お婆さんを<br/>待たせるな!"
+		,"style": "line-height: 1em;font-size: 12px;color: #5B3B87;background-color: white;left: 66.92%;top: 35.53%;width: 14.33%;height: 5.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "ありがとう"
+		,"style": "line-height: 1em;font-size: 11px;color: #C44654;background-color: white;left: 61.08%;top: 59.13%;width: 10.33%;height: 2.49%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+]

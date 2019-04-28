@@ -1,0 +1,30 @@
+[
+	{
+		"text": "起きたな"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 61.08%;top: 5.87%;width: 10.00%;height: 4.03%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+	,{
+		"text": "こっちだ"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 71.92%;top: 8.96%;width: 11.17%;height: 4.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+	,{
+		"text": "今日は<br/>庭の手入れを<br/>教える"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 1.42%;top: 28.29%;width: 12.83%;height: 5.99%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+	}
+	,{
+		"text": "花の魔女には<br/>必須の知識だ"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 19.42%;top: 28.41%;width: 12.33%;height: 8.30%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+	,{
+		"text": "注意しろ<br/>何か<br/>傷つけ<br/>たら…"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 34.08%;top: 27.11%;width: 8.83%;height: 9.02%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+	}
+	,{
+		"text": "絞め殺して<br/>骨ごと<br/>食い尽くす"
+		,"style": "line-height: 1em;font-size: 12px;color: white;background-color: #210E08;left: 81.92%;top: 27.46%;width: 16.00%;height: 8.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+	,{
+		"text": "ひどい…"
+		,"style": "line-height: 1em;font-size: 11px;color: #C44654;background-color: white;left: 49.75%;top: 81.91%;width: 12.00%;height: 2.73%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+]
