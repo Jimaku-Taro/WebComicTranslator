@@ -15,7 +15,7 @@
 
 
 /** デバッグフラグ */
-let DEBUG_MODE = false;
+let DEBUG_MODE = true;
 
 /** デバッグトレース */
 function trace(s) {
@@ -35,8 +35,8 @@ const HOST_DEVILS_CANDY = "devilscandycomic.com";
 const HOST_MONSTER_POP = "www.monsterpop.mayakern.com";
 const HOST_TAPAS = "tapas.io";
 const HOST_AVAS_DEMON = "www.avasdemon.com";
-const MIKL_TOAST = "milktoastandmaple.smackjeeves.com";
-const MAYA_KERN = "mayakern.com";
+const HOST_MIKL_TOAST = "milktoastandmaple.smackjeeves.com";
+const HOST_MAYA_KERN = "mayakern.com";
 
 
 // 画像の親タグを保持する変数(基本1タグのみの前提)
@@ -153,22 +153,22 @@ function getTargetData() {
 	let url_number = url_last.replace(/[^0-9]/g, '');
 
 	switch (host_string) {
-		case "devilscandycomic.com":
+		case HOST_DEVILS_CANDY:
 			// デビルズキャンディ
 			imageParentElement = document.getElementById("cc-comicbody");
 			json_path += host_string + "/" + url_last + ".json";
 		break;
-		case "www.monsterpop.mayakern.com":
+		case HOST_MONSTER_POP:
 			// モンスターポップ
 			imageParentElement = document.getElementById("comic");
 			json_path += host_string + "/" + url_number + ".json";
 		break;
-		case "tapas.io":
+		case HOST_TAPAS:
 			// tapas
 			imageParentElement = document.getElementsByClassName("ep-contents").item(0);
 			json_path += host_string + "/" + url_number + ".json";
 		break;
-		case "www.avasdemon.com":
+		case HOST_AVAS_DEMON:
 			// Ava's Demon
 			imageParentElement = document.getElementById("content");
 			image = imageParentElement.getElementsByTagName("img").item(0);
@@ -176,12 +176,12 @@ function getTargetData() {
 			let img_num = src.replace(/[^0-9]/g, '');
 			json_path += host_string + "/" + img_num + ".json";
 		break;
-		case "milktoastandmaple.smackjeeves.com":
+		case HOST_MIKL_TOAST:
 			image = document.getElementById("comic_image");
 			imageParentElement = image.parentElement;
 			json_path += host_string + "/" + url_last + ".json";
 		break;
-		case "mayakern.com":
+		case HOST_MAYA_KERN:
 			image = document.getElementsByClassName("mfp-img").item(0);
 			let imageFileName = null;
 			if (image) {
@@ -325,15 +325,20 @@ const OBSERVER = new MutationObserver(records => {
 	let target;
 	let options;
 	switch (location.host) {
-		case "tapas.io":
+		case HOST_TAPAS:
 			target = document.getElementById("episodes");
 			options = {
 				childList: true
 			};
 			OBSERVER.observe(target, options);
 		break;
-		case "www.avasdemon.com":
-			window.onhashchange = webComicTranslator;
+		case HOST_AVAS_DEMON:
+			// window.onhashchange = webComicTranslator;
+			target = document.getElementById("content");
+			options = {
+				childList: true
+			};
+			OBSERVER.observe(target, options);
 		break;
 		case "mayakern.com":
 			const body = document.body;
