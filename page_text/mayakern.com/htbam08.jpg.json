@@ -1,0 +1,30 @@
+[
+	{
+		"text": "酷い場所ね"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #D3E2DD;left: 1.25%;top: 7.17%;width: 19.50%;height: 4.86%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私が見つからなきゃ<br/>良かったの<br/>でしょうけど…"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #D4E3DE;left: 66.75%;top: 17.95%;width: 29.83%;height: 7.70%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "私はどうやって<br/>水中を生き延びたの…?<br/>陸は遠いし…何かあった気が…"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #D4E3DE;left: 38.42%;top: 26.01%;width: 44.00%;height: 9.12%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "ねぇ?　誰かいるの?"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #D4FAE5;left: 7.08%;top: 41.17%;width: 32.17%;height: 3.08%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "お礼を<br/>言いたいの"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #D4FAE5;left: 74.58%;top: 39.51%;width: 24.83%;height: 5.57%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "いるなら…"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #D4FAE5;left: 77.08%;top: 64.63%;width: 22.67%;height: 2.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "何してるんだろ?<br/>バカみたい"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #D4FAE5;left: 7.25%;top: 89.63%;width: 26.33%;height: 4.98%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

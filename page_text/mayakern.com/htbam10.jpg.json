@@ -1,0 +1,62 @@
+[
+	{
+		"text": "我らが国から<br/>去らねば殺す"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: white;left: 1.58%;top: 27.67%;width: 29.67%;height: 5.33%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;border-style: solid;"
+	}
+	,{
+		"text": "何これ…"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E3FFEE;left: 55.92%;top: 27.78%;width: 14.33%;height: 2.84%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "誰が送り<br/>続けてるの?"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E3FFEE;left: 63.25%;top: 28.97%;width: 21.67%;height: 5.09%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "アビゲイル様<br/>お急ぎかしら?"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #F5D4DD;left: 7.75%;top: 44.49%;width: 23.50%;height: 5.45%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "御機嫌よう"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E4FEF1;left: 7.92%;top: 55.04%;width: 17.83%;height: 3.08%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "何か<br/>あったの?"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #F3D4DC;left: 4.42%;top: 61.08%;width: 18.00%;height: 4.03%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "妙な手紙を<br/>受け取って…"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2FEEF;left: 43.58%;top: 45.08%;width: 20.17%;height: 4.27%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "王子にお伝え<br/>しようと"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E6FEF0;left: 42.58%;top: 50.06%;width: 21.17%;height: 4.27%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "それは大変ね"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #F5D4DD;left: 37.92%;top: 59.54%;width: 18.00%;height: 4.50%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "彼が助けて<br/>くれるといいわね<br/>彼は依存型の娘<br/>好きだから"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #F5D4DD;left: 68.58%;top: 44.61%;width: 25.50%;height: 6.16%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "ロレーヌ嬢<br/>ここにいたか"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #FFFCDD;left: 7.42%;top: 67.95%;width: 20.50%;height: 3.91%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "アビゲイル<br/>会えて嬉しいよ"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #FFFCDD;left: 20.25%;top: 71.27%;width: 22.33%;height: 3.67%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "何か<br/>あったの?"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #FFFEE0;left: 31.42%;top: 74.70%;width: 16.00%;height: 4.27%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "いえ"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E4FFF0;left: 53.08%;top: 81.69%;width: 9.17%;height: 2.37%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "何も<br/>ありません"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E4FFF0;left: 62.25%;top: 89.04%;width: 14.50%;height: 3.67%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+]

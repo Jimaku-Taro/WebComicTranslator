@@ -1,0 +1,78 @@
+[
+	{
+		"text": "ここ嫌い"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #C7FFDF;left: 1.08%;top: 20.20%;width: 18.50%;height: 2.37%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "お家に帰りたい<br/>私の国に…"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #C7FFDF;left: 6.08%;top: 21.74%;width: 20.17%;height: 5.92%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "何で<br/>帰らない?"
+		,"style": "line-height: 1.1em;font-size: 12px;color: #E9EEF1;background-color: #052160;left: 17.92%;top: 26.95%;width: 18.50%;height: 4.38%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "無理よ<br/>話は単純じゃない"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #C7FFDF;left: 42.58%;top: 23.40%;width: 22.17%;height: 4.86%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "何で?"
+		,"style": "line-height: 1.1em;font-size: 12px;color: #E9EEF1;background-color: #052160;left: 67.92%;top: 26.60%;width: 15.33%;height: 2.96%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "複雑なの"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #C7FFDF;left: 77.75%;top: 30.98%;width: 15.67%;height: 4.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私達はずっと<br/>戦争してて"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #C7FFDF;left: 11.58%;top: 39.16%;width: 21.83%;height: 4.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "今回の…私の結婚は<br/>平和になるチャンスなの"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #C7FFDF;left: 24.25%;top: 42.00%;width: 37.00%;height: 5.33%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "お金も<br/>絡むし"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #C7FFDF;left: 46.75%;top: 46.98%;width: 15.83%;height: 4.27%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "お金って<br/>何?"
+		,"style": "line-height: 1.1em;font-size: 12px;color: #E9EEF1;background-color: #052160;left: 59.92%;top: 50.77%;width: 11.33%;height: 4.62%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "え"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #C7FFDF;left: 90.58%;top: 47.45%;width: 6.50%;height: 2.37%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ほら"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #C7FFDF;left: 13.92%;top: 57.52%;width: 9.83%;height: 2.84%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "これがお金"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #C7FFDF;left: 19.58%;top: 60.84%;width: 18.83%;height: 3.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "グエッ!"
+		,"style": "line-height: 1.1em;font-size: 12px;color: #E9EEF1;background-color: #052160;left: 1.92%;top: 87.97%;width: 11.33%;height: 3.79%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "キモい!"
+		,"style": "line-height: 1.1em;font-size: 12px;color: #E9EEF1;background-color: #052160;left: 2.25%;top: 91.05%;width: 14.00%;height: 3.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": ""
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #C7FFDF;left: 69.08%;top: 81.22%;width: 27.33%;height: 6.16%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "アハハ　そんな単純で<br/>背負う物の無い生活なら楽しい<br/>でしょうね"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #C7FFDF;left: 56.75%;top: 76.95%;width: 32.33%;height: 6.40%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "人魚って素敵ね<br/>あなたみたいに<br/>生きたかった"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: ;left: 69.08%;top: 81.72%;width: 27.33%;height: 6.16%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "グエエエエ"
+		,"style": "line-height: 1.1em;font-size: 12px;color: #E9EEF1;background-color: #052160;left: 53.25%;top: 87.97%;width: 19.67%;height: 4.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+]

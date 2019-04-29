@@ -8,7 +8,67 @@
 		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E6BEE1;left: 48.25%;top: 6.58%;width: 17.17%;height: 4.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
 	}
 	,{
-		"text": "ご無事ですか?"
+		"text": "お怪我は?"
 		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E6BEE1;left: 71.92%;top: 7.88%;width: 17.67%;height: 5.21%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "…平気よ"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #CEDFD7;left: 80.75%;top: 14.51%;width: 11.33%;height: 3.32%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "やぁアビゲイル姫!"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #F8F5E2;left: 80.75%;left: 12.42%;top: 34.42%;width: 26.17%;height: 2.96%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "到着が遅れて<br/>すみません"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #CEDFD7;left: 39.92%;top: 35.60%;width: 20.50%;height: 5.57%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "遅れましたが…"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #CEDFD7;left: 69.58%;top: 33.83%;width: 21.83%;height: 3.20%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "お会いできて<br/>光栄です"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #CEDFD7;left: 81.42%;top: 47.57%;width: 17.67%;height: 3.79%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "こちら…<br/>プッ…こそ"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #F9F6E5;left: 11.75%;top: 52.78%;width: 23.17%;height: 5.09%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "絵で見るよりも<br/>お美しい"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #F9F6E5;left: 40.58%;top: 53.26%;width: 28.00%;height: 6.52%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "素敵よ<br/>水が似合うわ"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #F4C8C7;left: 51.42%;top: 63.57%;width: 16.17%;height: 6.40%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "…ご親切に<br/>どうも"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #CEDFD7;left: 66.42%;top: 67.12%;width: 20.00%;height: 3.91%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "こちらは<br/>ロレーヌ嬢"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #F9F6E5;left: 1.25%;top: 73.16%;width: 26.50%;height: 4.38%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "初めまして"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #CEDFD7;left: 24.75%;top: 77.31%;width: 13.00%;height: 2.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "こちらこそ"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #F4C8C7;left: 49.75%;top: 71.86%;width: 11.83%;height: 2.49%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "歓迎ありがとう<br/>ございます"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #CEDFD7;left: 38.08%;top: 84.42%;width: 18.50%;height: 4.86%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "ですが少々<br/>疲れたので"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #CEDFD7;left: 58.92%;top: 86.79%;width: 22.50%;height: 4.27%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "夜まで<br/>失礼いたします"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #CEDFD7;left: 69.42%;top: 90.11%;width: 27.67%;height: 4.27%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
 	}
 ]
