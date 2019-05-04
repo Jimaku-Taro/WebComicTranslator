@@ -1,0 +1,66 @@
+[
+	{
+		"text": "起きて!"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: 22.42%;top: 5.40%;width: 11.67%;height: 3.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "起き…"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: 45.58%;top: 5.28%;width: 6.00%;height: 2.25%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ろ!"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: 61.42%;top: 5.63%;width: 4.83%;height: 2.02%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "これ君の?<br/>グッドマンの本<br/>読んだことない<br/>はずよね"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: -0.25%;top: 20.70%;width: 20.67%;height: 6.05%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "軽い読物じゃない<br/>「ベアトリス」の暫定稿<br/>よね…編集入りの"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: 9.42%;top: 27.11%;width: 24.17%;height: 6.17%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "なんで君が<br/>グッドマンって<br/>言わなかったの?<br/>面白がって<br/>たんでしょ?"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: 52.58%;top: 20.34%;width: 26.33%;height: 9.37%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私が本のこと<br/>言う度に内心<br/>あざ笑ってたのね!"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: 73.25%;top: 27.82%;width: 23.50%;height: 7.35%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "部屋中<br/>君の原稿だらけ。<br/>だから私を入れ<br/>なかったの?"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: 0.08%;top: 37.66%;width: 22.00%;height: 7.12%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 35%;"
+	}
+	,{
+		"text": "引越中って<br/>言うけど…"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: 13.42%;top: 44.07%;width: 13.50%;height: 5.10%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "どう考えても<br/>ここに…"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: 19.25%;top: 49.29%;width: 16.00%;height: 4.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "何年も…"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: 47.58%;top: 39.56%;width: 9.67%;height: 3.32%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "1つでも<br/>本当のこと<br/>言った?"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: 11.08%;top: 56.17%;width: 16.67%;height: 5.34%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "教えて"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: 31.75%;top: 57.95%;width: 8.83%;height: 2.85%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "愛してる?"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: 39.58%;top: 63.05%;width: 18.67%;height: 3.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "いや"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: 62.75%;top: 68.51%;width: 7.67%;height: 3.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "愛してない"
+		,"style": "line-height: 1.1em;font-size: 12px;color: black;background-color: #E2D6EC;left: 79.08%;top: 74.44%;width: 13.00%;height: 3.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]
