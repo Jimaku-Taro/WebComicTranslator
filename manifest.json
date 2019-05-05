@@ -13,6 +13,7 @@
 				,"https://www.avasdemon.com/*"
 				,"http://milktoastandmaple.smackjeeves.com/*"
 				,"http://mayakern.com/cshort.html*"
+				,"https://hoppinggills.com/*"
 			]
 			,"js": ["WebComicTranslator.js"]
 			,"run_at":"document_end"

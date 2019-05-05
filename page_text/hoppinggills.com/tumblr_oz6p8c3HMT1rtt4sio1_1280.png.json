@@ -1,0 +1,34 @@
+[
+	{
+		"text": "<span style=\"font-weight: bold;\">“マグノリアシティ”は</span>様々な物語が始まる場所だ。"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 7.98%;top: 2.07%;width: 39.66%;height: 1.13%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "謳い文句は<br/>“英雄が行くべき都市”で<br/>この地で一番<br/>賑やかな都市"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 8.76%;top: 4.45%;width: 22.92%;height: 3.02%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "そう、ここでは旅行者に<br/>必要な物が何でも手に入るんだ!"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 40.34%;top: 20.93%;width: 27.87%;height: 1.13%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "装備"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 74.16%;top: 2.65%;width: 6.07%;height: 0.82%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "薬品"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 77.42%;top: 15.84%;width: 9.10%;height: 0.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "乗物でも!"
+		,"style": "font-size: 20px;color: black;background-color: #FFF0A3;left: 32.92%;top: 30.93%;width: 15.73%;height: 1.43%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "英雄志望だらけの街は<br/>犯罪が少ないと思うかもしれない"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 54.44%;top: 30.77%;width: 29.55%;height: 1.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "でも驚く<br/>だろうけど"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 13.09%;top: 34.16%;width: 14.27%;height: 1.07%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+]

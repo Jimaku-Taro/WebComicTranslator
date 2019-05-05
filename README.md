@@ -6,4 +6,4 @@ This is chrome and firefox extention.
 This extention display translated text on some web-comics.
 
 自動翻訳ではありません。
-It will not automatically translate.
+It is not automatically translate.

@@ -37,6 +37,7 @@ const HOST_TAPAS = "tapas.io";
 const HOST_AVAS_DEMON = "www.avasdemon.com";
 const HOST_MIKL_TOAST = "milktoastandmaple.smackjeeves.com";
 const HOST_MAYA_KERN = "mayakern.com";
+const HOST_HOPPING_GILLS = "hoppinggills.com";
 
 
 // 画像の親タグを保持する変数(基本1タグのみの前提)
@@ -146,6 +147,7 @@ function getTargetData() {
 	let url_last = getUrlLast(url_string);
 
 	let image;
+	let imageFileName = null;
 
 	// ホストで取得対象を変更
 	let json_path ="page_text/";
@@ -183,14 +185,14 @@ function getTargetData() {
 		break;
 		case HOST_MAYA_KERN:
 			image = document.getElementsByClassName("mfp-img").item(0);
-			let imageFileName = null;
+			
 			if (image) {
 				imageParentElement = image.parentElement;
 				imageFileName = getUrlLast(image.src);
 				// ページ移動後も、WCT用のタグが残るので削除
 				let wct_tag_collection = imageParentElement.getElementsByClassName(TEXT_TAG_CLASS);
 				let length = wct_tag_collection.length;
-				// 削除でリスト無いの数も減るので、後ろから降順に削除
+				// 削除でリスト内の数も減るので、後ろから降順に削除
 				for (var i = length - 1; 0 <= i; i--) { 
 				 	let wct_tag = wct_tag_collection.item(i);
 					imageParentElement.removeChild(wct_tag);
@@ -203,10 +205,18 @@ function getTargetData() {
 						childList: true
 					};
 					// 画像の親の親を監視（画像の親を監視すると、訳文の追加・削除まで検知してしまうため）
-					let target = document.getElementsByClassName("mfp=content").item(0);
-					OBSERVER_2.observe(imageParentElement.parentElement.parentElement, options);
+					let target = document.getElementsByClassName("mfp-content").item(0);
+					OBSERVER_2.observe(target , options);
 				}
 
+			}
+			json_path += host_string + "/" + imageFileName + ".json";
+		break;
+		case HOST_HOPPING_GILLS:
+			imageParentElement = document.getElementById("comic-box");
+			image = document.getElementsByClassName("img-fluid").item(0);
+			if (image) {
+				imageFileName = getUrlLast(image.src);
 			}
 			json_path += host_string + "/" + imageFileName + ".json";
 		break;
