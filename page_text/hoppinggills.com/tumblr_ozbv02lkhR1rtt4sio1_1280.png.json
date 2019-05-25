@@ -1,0 +1,58 @@
+[
+	{
+		"text": "よぉ"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 30.06%;top: 6.73%;width: 3.82%;height: 1.50%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "3人?"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 50.39%;top: 3.47%;width: 6.29%;height: 1.16%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "ありえない!"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 67.13%;top: 4.97%;width: 7.64%;height: 2.04%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "何?"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 47.25%;top: 35.85%;width: 4.04%;height: 1.97%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "クエスト<span style=\"font-weight: bold;\">ボード!</span>"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 66.01%;top: 28.03%;width: 6.52%;height: 3.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ボード<br/>更新だ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 26.69%;top: 43.95%;width: 7.53%;height: 4.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "おい<br/>急げ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 61.18%;top: 41.22%;width: 5.96%;height: 3.27%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "もう<span><span style=\"font-weight: bold;\">準備</span>され</span>たの!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 45.56%;top: 54.15%;width: 7.98%;height: 4.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "何よ?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 89.72%;top: 41.29%;width: 5.17%;height: 2.24%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "すっかり<br/>忘れてた!"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 21.07%;top: 63.54%;width: 17.87%;height: 7.62%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "やらないと!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 73.54%;top: 64.01%;width: 10.34%;height: 3.88%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">絶対に</span>やらないと!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 71.85%;top: 67.41%;width: 13.15%;height: 4.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "行かないと…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 11.85%;top: 81.36%;width: 14.49%;height: 2.79%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ボード"
+		,"style": "font-size: 40px;color: black;background-color: transparent;left: 42.42%;top: 85.31%;width: 16.85%;height: 3.33%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;text-shadow: white 2px 0px,  white -2px 0px, white 0px -2px, white 0px 2px, white 2px 2px , white -2px 2px, white 2px -2px, white -2px -2px, white 1px 2px,  white -1px 2px, white 1px -2px, white -1px -2px, white 2px 1px,  white -2px 1px, white 2px -1px, white -2px -1px;"
+	}
+]

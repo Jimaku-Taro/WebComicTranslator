@@ -1,6 +1,6 @@
 [
 	{
-		"text": "下らない<br/>二次創作<br/>専門はどこ<br/>かしら?"
+		"text": "下らない<br/>二次創作<br/>専門は<br/>どこに?"
 		,"style": "font-size: 14px;color: black;background-color: white;left: 6.38%;top: 4.77%;width: 11.81%;height: 7.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
 	}
 	,{
@@ -16,11 +16,11 @@
 		,"style": "font-size: 13px;color: black;background-color: white;left: 44.21%;top: 2.50%;width: 11.34%;height: 10.06%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
 	}
 	,{
-		"text": "腹立たしい程<br/>ビジネスライク<br/>ですわね"
+		"text": "腹立たしい程<br/>事務的ね"
 		,"style": "font-size: 13px;color: black;background-color: white;left: 57.58%;top: 21.03%;width: 11.46%;height: 6.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
 	}
 	,{
-		"text": "いいですわ<br/>行きましょ"
+		"text": "いいわ<br/>行きましょ"
 		,"style": "font-size: 13px;color: black;background-color: white;left: 73.09%;top: 7.95%;width: 10.38%;height: 4.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
 	}
 	,{

@@ -1,0 +1,34 @@
+[
+	{
+		"text": "なぜ体を<br/>持ち去り<br/>頭を<br/>残した?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 33.83%;top: 5.18%;width: 11.58%;height: 9.05%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "頭を<br/>分離できる<br/>悪魔は<br/>デュラハン<br/>だけだが…<br/>リンゴは違う"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 50.06%;top: 6.19%;width: 13.96%;height: 14.25%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "彼女達は<br/>挙動が怪しい<br/>でもリンゴの<br/>死が嘘とも<br/>思えない"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 70.47%;top: 27.82%;width: 11.22%;height: 9.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "ファン<br/>ファン!<br/>詩の専門<br/>ブランディが<br/>お家に来たよ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 3.52%;top: 49.19%;width: 13.13%;height: 9.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: bold;"
+	}
+	,{
+		"text": "ブギウギの<br/>時間よ<br/>マニア共!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 22.37%;top: 74.42%;width: 10.98%;height: 8.21%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: bold;"
+	}
+	,{
+		"text": "悪いけど<br/>ふざけてる場合<br/>じゃないわ。<br/>リンゴが<br/>死んだの"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 42.78%;top: 64.78%;width: 14.92%;height: 8.05%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "いえ<br/>殺された"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 56.38%;top: 67.97%;width: 9.79%;height: 5.87%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "イヤーーーッ!<br/>リンゴーーー!<br/>なんで!?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 70.70%;top: 66.79%;width: 17.66%;height: 5.87%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: bold;"
+	}
+]

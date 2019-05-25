@@ -51,4 +51,48 @@
 		"text": "ヒーロー"
 		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 61.07%;top: 55.24%;width: 7.98%;height: 0.98%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
+	,{
+		"text": "解決<br/>してるし!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 80.84%;top: 54.78%;width: 11.46%;height: 2.16%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "助けて!"
+		,"style": "font-size: 20px;color: black;background-color: transparent;left: 26.35%;top: 73.10%;width: 11.35%;height: 0.98%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;text-shadow:white 1px 1px 0, white -1px -1px 0,white -1px 1px 0, white 1px -1px 0,white 0px 1px 0, white  0 -1px 0,white -1px 0 0, white 1px 0 0;"
+	}
+	,{
+		"text": "僕が<br/>行く!!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 42.98%;top: 67.18%;width: 7.87%;height: 1.58%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "大丈夫"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 57.58%;top: 67.70%;width: 8.65%;height: 1.49%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私が<br/>対処した!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 64.44%;top: 70.35%;width: 11.24%;height: 2.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "僕"
+		,"style": "font-size: 60px;color: black;background-color: white;left: 10.73%;top: 74.19%;width: 11.91%;height: 3.14%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "が"
+		,"style": "font-size: 60px;color: black;background-color: white;left: 43.65%;top: 77.21%;width: 11.80%;height: 2.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "行く<br/>…"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 81.29%;top: 75.11%;width: 12.36%;height: 2.96%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "坊や<br/>助けて<br/>くれる?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 13.65%;top: 89.88%;width: 9.66%;height: 2.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "うん!"
+		,"style": "font-size: 40px;color: black;background-color: white;left: 28.71%;top: 89.31%;width: 12.58%;height: 3.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;font-weight: bold;"
+	}
+	,{
+		"text": "そう"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 41.97%;top: 93.39%;width: 2.92%;height: 0.73%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
 ]
