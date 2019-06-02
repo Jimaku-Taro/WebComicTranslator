@@ -1,0 +1,66 @@
+[
+	{
+		"text": "でも船長は<br/>トドメを<br/>喰らいに<br/>起きたの"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 7.08%;top: 1.96%;width: 12.13%;height: 5.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "だから私は<br/>バンジョーを<br/>握って…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 9.21%;top: 13.65%;width: 9.55%;height: 3.43%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "すぐに<br/>船を奪い<br/>岸に戻したわ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 6.52%;top: 20.61%;width: 13.15%;height: 5.07%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "その日<br/>グリバス市の<br/>みんなが…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 40.45%;top: 21.14%;width: 13.03%;height: 4.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "覚えたわ<br/>その名は<span style=\"font-weight: bold;\">プリシラ…</span>"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 75.84%;top: 20.20%;width: 17.19%;height: 2.82%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "魚娘よ!!"
+		,"style": "font-size: 30px;color: black;background-color: transparent;left: 41.57%;top: 34.96%;width: 21.46%;height: 2.25%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;text-shadow: white 2px 0px,  white -2px 0px, white 0px -2px, white 0px 2px, white 2px 2px , white -2px 2px, white 2px -2px, white -2px -2px, white 1px 2px,  white -1px 2px, white 1px -2px, white -1px -2px, white 2px 1px,  white -2px 1px, white 2px -1px, white -2px -1px;"
+	}
+	,{
+		"text": "「魚娘?」"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 16.97%;top: 54.13%;width: 7.42%;height: 2.09%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "「魚娘」だと?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 74.04%;top: 55.36%;width: 8.65%;height: 2.37%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "待てよ。<br/>お前<span style=\"font-weight: bold;\">魚か?</span>"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 6.85%;top: 70.69%;width: 11.12%;height: 3.39%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "ええ、<br/>そうよ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 22.13%;top: 69.54%;width: 6.85%;height: 2.49%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "ほら。<br/>分かる?<br/><span style=\"font-weight: bold;\">小さな<br/>ヒレ</span>"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 17.19%;top: 73.67%;width: 9.55%;height: 4.42%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "ゴブリン<br/>かと思った"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 43.15%;top: 76.74%;width: 10.11%;height: 2.62%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">ゴブリン?</span>マジで?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 57.98%;top: 69.38%;width: 11.12%;height: 2.09%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">何マイルも<br/></span>船を追えるって<br/><span><span style=\"font-weight: bold;\">魚</span>以外にある?</span>"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 57.42%;top: 76.41%;width: 15.62%;height: 5.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "さぁ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 62.25%;top: 84.42%;width: 8.65%;height: 1.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "魔法<br/>とか?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 59.10%;top: 87.20%;width: 6.97%;height: 2.09%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+]

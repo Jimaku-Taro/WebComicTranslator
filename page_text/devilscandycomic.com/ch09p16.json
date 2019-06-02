@@ -1,0 +1,46 @@
+[
+	{
+		"text": "よし、エコー…<br/>事件を解いて<br/>欲しいんだな?<br/>全員上へ戻れ。<br/>もう一度<br/>書斎に行くぞ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 7.04%;top: 3.44%;width: 15.51%;height: 11.23%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "お望み<br/>通りに"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 22.91%;top: 10.48%;width: 7.04%;height: 5.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "ドアの近くに<br/>立っとくぜ<br/>最悪の場合<br/>逃げねぇとな"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 46.90%;top: 2.35%;width: 16.35%;height: 8.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "まず第１に、<br/>潔白な奴が<br/>いるとは<br/>考えてない"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 68.38%;top: 3.19%;width: 13.72%;height: 9.05%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "だが この話で、<br/>一番怪しいのは<br/>間違いなく<br/>ブレンディだ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 77.68%;top: 23.31%;width: 13.48%;height: 11.57%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "何で～っ?<br/>私はここに<br/>来ただけよ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 10.50%;top: 39.84%;width: 15.16%;height: 6.87%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "私が可愛いから<br/>いじめる気ね?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 71.36%;top: 42.94%;width: 14.92%;height: 7.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "お前は遅刻した<br/>フリをしたんだ。<br/>お前が殺人犯か<br/>否かに関わらず、<br/>窓から外に出て<br/>家のベルを<br/>鳴らしたのは<br/>明白だ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 7.16%;top: 60.79%;width: 16.47%;height: 16.26%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "これはすぐ<br/>分かった。<br/>足しか濡れて<br/>ないからな。<br/>傘の有無に<br/>関係なくだ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 34.61%;top: 72.36%;width: 15.99%;height: 15.34%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "仮に遅刻が<br/>フェイクでも、<br/>私が部屋にいた<br/>証明には<br/>ならないわ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 57.04%;top: 56.94%;width: 14.08%;height: 10.23%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+	,{
+		"text": "確かにな。<br/>だがお前が<br/>部屋から<br/>盗んだ物で<br/>証明できる"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 77.68%;top: 77.05%;width: 10.50%;height: 9.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+	}
+]
