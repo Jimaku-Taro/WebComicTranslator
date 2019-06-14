@@ -1,0 +1,34 @@
+[
+	{
+		"text": "魔法なら<br/>ありか"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 4.66%;top: 6.08%;width: 8.54%;height: 2.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 43%;font-weight: normal;"
+	}
+	,{
+		"text": "そんな<br/>魔法薬<br/>持ってる"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 15.34%;top: 3.37%;width: 8.76%;height: 3.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "どういうことか<br/>教えてやる。<span style=\"font-weight: bold;\">間違ってんだよ</span>"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 41.63%;top: 1.27%;width: 20.11%;height: 3.92%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "冒険者名は<br/>見た目じゃなくて<br/><span style=\"font-weight: bold;\">やったことで</span>名付けるんだ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 69.38%;top: 1.49%;width: 25.39%;height: 6.74%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "例えば?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 82.75%;top: 13.15%;width: 10.56%;height: 2.32%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "<span style=\"font-weight: bold;\">面白男の<br/>ジェリー</span>とかだな"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 9.16%;top: 24.59%;width: 13.48%;height: 6.13%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "彼が<br/>好例だな"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 33.20%;top: 24.48%;width: 10.00%;height: 4.14%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+	,{
+		"text": "なんで<br/>面白男の<br/>ジェリーな…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 31.85%;top: 41.44%;width: 14.72%;height: 3.87%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+	}
+]
