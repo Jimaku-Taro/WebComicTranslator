@@ -308,7 +308,7 @@ function webComicTranslator() {
 
 	// 指定ULRのJSONを取得　非同期なので、関数外の処理は、並行して実行されるので注意
 	fetch(json_url)
-	.then(handleErrors) // サーバ側エラー
+	.then(handleErrors) // サーバ系エラーなど　通常発生しない
 	.then((response) => {
 		if (response.ok) {
 			//　レスポンスOK jsonデータ扱いで取得し、次のthenへ渡す

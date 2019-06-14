@@ -1,0 +1,30 @@
+[
+	{
+		"text": "お約束だな<br/>ジェリー"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 17.02%;top: 6.88%;width: 10.00%;height: 4.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 43%;font-weight: normal;"
+	}
+	,{
+		"text": "ジェリー<br/>もう一丁<br/>頼む!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 33.65%;top: 3.81%;width: 14.16%;height: 6.44%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 43%;font-weight: normal;"
+	}
+	,{
+		"text": "イカれた<br/>バカ共ね"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 59.83%;top: 32.36%;width: 11.57%;height: 4.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 43%;font-weight: bold;"
+	}
+	,{
+		"text": "何も<br/>分かってない"
+		,"style": "font-size: 12px;color: black;background-color: #AECBDC;left: 65.34%;top: 38.14%;width: 10.67%;height: 3.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 43%;font-weight: normal;"
+	}
+	,{
+		"text": "見てよ<span style=\"font-weight: bold;\">僕ジェリー!</span>"
+		,"style": "font-size: 14px;color: black;background-color: #AECBDC;left: 7.92%;top: 60.40%;width: 15.73%;height: 4.17%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 43%;font-weight: normal;"
+	}
+	,{
+		"text": "面白くない?"
+		,"style": "font-size: 14px;color: black;background-color: #AECBDC;left: 5.67%;top: 70.20%;width: 12.81%;height: 4.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 43%;font-weight: bold;"
+	}
+	,{
+		"text": "待てよ<br/>もっといいのが<br/>あるぞ"
+		,"style": "font-size: 14px;color: black;background-color: #AECBDC;left: 4.78%;top: 74.45%;width: 14.49%;height: 6.73%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 43%;font-weight: bold;"
+	}
+]
