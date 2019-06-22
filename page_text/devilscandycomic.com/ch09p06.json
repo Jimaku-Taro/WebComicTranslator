@@ -28,11 +28,11 @@
 		,"style": "font-size: 12px;color: black;background-color: transparent;left: 64.38%;top: 46.43%;width: 10.86%;height: 1.42%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
 	}
 	,{
-		"text": "少し<br/>寒くなって<br/>きたかな"
+		"text": "雨の中を<br/>歩くのは<br/>少し寒い<br/>かな"
 		,"style": "font-size: 14px;color: black;background-color: white;left: 48.27%;top: 58.58%;width: 10.02%;height: 7.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
 	}
 	,{
-		"text": "あら、気づい<br/>ちゃった?"
+		"text": "言うまでも<br/>ないわね"
 		,"style": "font-size: 14px;color: black;background-color: white;left: 78.46%;top: 59.00%;width: 10.74%;height: 5.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
 	}
 	,{

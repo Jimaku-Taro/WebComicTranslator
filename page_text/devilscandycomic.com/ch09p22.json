@@ -1,0 +1,58 @@
+[
+	{
+		"text": "いい子ね<br/>ニモ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 15.45%;top: 4.01%;width: 9.79%;height: 6.96%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 44%;font-weight: normal;"
+	}
+	,{
+		"text": "どうも<br/>ありが<br/>とう"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 24.88%;top: 7.45%;width: 7.28%;height: 6.37%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 44%;font-weight: normal;"
+	}
+	,{
+		"text": "今までで<br/>最高の<br/>誕生日よ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 57.82%;top: 4.18%;width: 11.69%;height: 7.21%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 44%;font-weight: normal;"
+	}
+	,{
+		"text": "見事に<br/>謎を解いた<br/>わね!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 11.75%;top: 36.79%;width: 12.89%;height: 8.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 44%;font-weight: normal;"
+	}
+	,{
+		"text": "凄いって<br/>言った<br/>でしょ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 37.77%;top: 37.12%;width: 9.67%;height: 5.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 44%;font-weight: normal;"
+	}
+	,{
+		"text": "「リンゴの仇は<br/>必ず討つ!」って<br/>いい台詞だったよ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 56.74%;top: 36.70%;width: 15.63%;height: 7.04%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 44%;font-weight: normal;"
+	}
+	,{
+		"text": "絶対<br/>そんなこと<br/>言ってねぇ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 53.16%;top: 53.22%;width: 11.93%;height: 5.20%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 44%;font-weight: normal;"
+	}
+	,{
+		"text": "リンゴと<br/>恋に落ちても<br/>しょうがないわ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 9.13%;top: 59.50%;width: 13.48%;height: 6.79%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 44%;font-weight: normal;"
+	}
+	,{
+		"text": "彼の頭は<br/>君にウィンクして<br/>キス顔してたから"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 8.05%;top: 65.71%;width: 15.63%;height: 7.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 44%;font-weight: normal;"
+	}
+	,{
+		"text": "そんなこと<br/>してたの<br/>かよ?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 23.57%;top: 61.60%;width: 9.79%;height: 7.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 44%;font-weight: normal;"
+	}
+	,{
+		"text": "待てよ…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 38.96%;top: 61.18%;width: 9.55%;height: 3.35%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 44%;font-weight: normal;"
+	}
+	,{
+		"text": "頭が<br/>２つある?<br/>新しく<br/>生えた?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 37.17%;top: 63.86%;width: 13.01%;height: 8.05%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 44%;font-weight: normal;"
+	}
+	,{
+		"text": "僕は<br/>マンドラゴラ<br/>持ってる頭は<br/>僕の果物さ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 55.55%;top: 61.68%;width: 12.77%;height: 8.13%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 44%;font-weight: normal;"
+	}
+	,{
+		"text": "これは初めて<br/>落とした実で<br/><span style=\"font-weight: bold;\">特別なんだ</span>"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 78.46%;top: 83.73%;width: 12.77%;height: 10.06%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 44%;font-weight: normal;"
+	}
+]
