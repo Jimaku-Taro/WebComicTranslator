@@ -1,0 +1,58 @@
+[
+	{
+		"text": "スケア<br/>そのボトル<br/>捨てるの?"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 6.01%;top: 2.12%;width: 15.53%;height: 12.74%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "うん"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 8.67%;top: 18.63%;width: 6.06%;height: 5.50%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ゴミ箱が<br/>一杯だから<br/>隣にbr/>置いて!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 45.59%;top: 1.18%;width: 9.68%;height: 12.97%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "OK!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 45.80%;top: 17.45%;width: 7.34%;height: 2.52%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "バイ<br/>バイ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 79.84%;top: 0.79%;width: 4.68%;height: 4.17%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "うわっ!<br/>何の臭い?!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 56.86%;top: 26.02%;width: 10.96%;height: 10.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+	}
+	,{
+		"text": "昨日の<br/>パスタ<br/>ソースの<br/>残りだよ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 59.73%;top: 41.19%;width: 9.15%;height: 9.20%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "OK 完了"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 11.01%;top: 56.60%;width: 11.17%;height: 3.69%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "お絵かきの<br/>時間!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 74.41%;top: 52.67%;width: 9.26%;height: 7.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "色ペン<br/>買っといた!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 63.35%;top: 69.50%;width: 12.34%;height: 9.12%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "ところで<br/>エイフェン<br/>8才に<br/>なった<br/>気分は<br/>どう?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 3.35%;top: 82.00%;width: 7.87%;height: 16.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "チョー気分いい!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 40.69%;top: 78.46%;width: 16.81%;height: 5.50%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "「８」は<br/>１種の数だし!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 48.67%;top: 82.31%;width: 14.57%;height: 5.11%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "でも<br/>もっと<br/>いいのは…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 70.48%;top: 81.29%;width: 11.38%;height: 15.25%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+]

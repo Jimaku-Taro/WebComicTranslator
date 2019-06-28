@@ -1,0 +1,62 @@
+[
+	{
+		"text": "早く<br/>スケア<br/>食事が<br/>冷める!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 12.61%;top: 2.20%;width: 8.30%;height: 12.26%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+	}
+	,{
+		"text": "食事<br/>行かなきゃ<br/>エイフェン<br/>明日話そう"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 36.65%;top: 2.59%;width: 8.30%;height: 12.66%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "うん!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 60.21%;top: 4.40%;width: 5.85%;height: 5.03%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "おいで<br/>一緒に<br/>手紙<br/>読みましょ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 19.95%;top: 26.81%;width: 10.43%;height: 11.64%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ラジャー"
+		,"style": "font-size: 20px;color: white;background-color: white;left: 29.95%;top: 44.03%;width: 9.36%;height: 3.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 35%;font-weight: bold;text-shadow: black 2px 0px,  black -2px 0px, black 0px -2px, black 0px 2px, black 2px 2px , black -2px 2px, black 2px -2px, black -2px -2px, black 1px 2px,  black -1px 2px, black 1px -2px, black -1px -2px, black 2px 1px,  black -2px 1px, black 2px -1px, black -2px -1px;"
+	}
+	,{
+		"text": "ミス<br/>オルセン<br/>あなたの<br/>息子は<br/>8才になり"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 46.86%;top: 26.73%;width: 9.04%;height: 17.14%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "大いなる<br/>ママンの<br/>テストを<br/>受けます"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 84.79%;top: 27.83%;width: 9.68%;height: 12.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "テストは<br/>口頭面接で<br/>準備は<br/>不要です"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 84.57%;top: 40.64%;width: 11.06%;height: 13.92%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "読める?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 4.89%;top: 59.28%;width: 10.32%;height: 9.67%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "招集で<br/>かかる<br/>じがんは"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 19.79%;top: 62.50%;width: 9.47%;height: 11.64%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "時間は"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 5.64%;top: 75.08%;width: 7.34%;height: 4.72%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "時間は<br/>人に<br/>よりますが<br/>1時間程約です"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 21.81%;top: 78.54%;width: 9.36%;height: 10.06%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "あなたの<br/>お子さんは<br/>能力や<br/>異なる姿を<br/>得ますが"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 42.45%;top: 58.02%;width: 14.26%;height: 15.64%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "それに<br/>ついては<br/>招集後に<br/>別の手紙を<br/>送ります"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 49.79%;top: 73.74%;width: 12.87%;height: 11.40%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "終わりに<br/>ついて…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 66.06%;top: 59.36%;width: 9.89%;height: 11.01%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+]
