@@ -1,19 +1,19 @@
 [
 	{
 		"text": "テスト合格<br/>おめでとう！<br/>“幽霊”達は<br/>君を全く<br/>阻止でき<br/>なかった"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 46%;top: 10.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 46%;top: 10.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "待って…<br/>君達は…<br/>！！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 82.5%;top: 20%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 82.5%;top: 20%;border-radius: 20%;"
 	}
 	,{
 		"text": "物理学の<br/>エキスパート<br/>ホレイショー<br/>・ヘックス！"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 32%;top: 26%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 32%;top: 26%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "神経学、<br/>マデュー・<br/>モーガン"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 46.2%;top: 28%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 46.2%;top: 28%;border-radius: 20%;"
 	}
 	,{
 		"text": "マディって<br/>呼んで…<br/>呼ばなくても<br/>気にしない"
@@ -21,22 +21,22 @@
 	}
 	,{
 		"text": "化学の<br/>エキスパート<br/>ベベ・<br/>プシュミ！"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 41.5%;top: 43%;font-weight: bold;width: 101px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 41.5%;top: 43%;font-weight: bold;width: 101px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
 	}
 	,{
 		"text": "愛の<br/><ruby>十字軍<rp>(</rp><rt>クルセイダー</rt><rp>)</rp></ruby>ビビ…"
-		,"style": "font-size: 12.5px;color: black;background-color: white;left: 69%;top: 43.5%;width: 64px;height: 67px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 12.5px;color: black;background-color: white;left: 69%;top: 43.2%;width: 64px;height: 67px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
 	}
 	,{
 		"text": "て…天文学の<br/>エキスパート、<br/>トビー・<br/>アズラー＝ザ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 80.5%;top: 43.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 80.5%;top: 43.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "皆揃って、<br/>我ら…"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 12%;top: 68%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 12%;top: 68%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "科学<br/>クラブ!"
-		,"style": "font-size: 23px;color: black;background-color: white;left: 80%;top: 84%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 23px;color: black;background-color: white;left: 80%;top: 84%;font-weight: bold;border-radius: 20%;"
 	}
 ]

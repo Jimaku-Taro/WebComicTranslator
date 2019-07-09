@@ -1,18 +1,18 @@
 [
 	{
 		"text": "嫌だ<br/>…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 19.2%;top: 61%;width: 41px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 19.2%;top: 61%;width: 41px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
 	}
 	,{
 		"text": "離れろ<br/>…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 21.5%;top: 66%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 21.5%;top: 66%;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">乱暴は<br/>やめて<br/>くれ！</span>"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 81%;top: 57%;border-radius: 0%;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 81%;top: 57%;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">子供達の<br/>事も考えて<br/>あげて<br/>くれ！</span>"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 78%;top: 77%;border-radius: 0%;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 78%;top: 77%;border-radius: 40%;"
 	}
 ]

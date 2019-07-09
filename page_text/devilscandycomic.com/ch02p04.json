@@ -1,11 +1,11 @@
 [
 	{
 		"text": "デビライザーは<br/>大人のなり方を<br/>僕に教えて<br/>くれる！"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 12%;top: 5.5%;border-radius: 0%;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 12%;top: 5.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "注意深く<br/>観て<br/>君が学ぶべき<br/>事を<br/>知ってね！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 19.3%;top: 13%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 19.3%;top: 13%;border-radius: 20%;"
 	}
 	,{
 		"text": "でも学習に<br/>最高の場所は<br/>学校さ、<br/>だから準備<br/>しよう！"
@@ -13,14 +13,14 @@
 	}
 	,{
 		"text": "ニモが<br/>もうすぐ<br/>来るはず<br/>だから…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 66.5%;top: 37.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 66.5%;top: 37.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "カズ　やめろ"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 43%;top: 72.5%;border-radius: 0%;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 43%;top: 72.5%;border-radius: 10%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">どうして?</span><br/>彼女にも<br/>学習は<br/>必要だよ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 80.5%;top: 60%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 80.5%;top: 60%;border-radius: 20%;"
 	}
 ]

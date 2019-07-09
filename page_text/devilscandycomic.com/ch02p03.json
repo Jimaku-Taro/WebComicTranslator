@@ -1,26 +1,26 @@
 [
 	{
 		"text": "お前がその<br/>子供達を<br/><span style=\"font-weight: bold;\">食ったろ!</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 36%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 36%;top: 5%;border-radius: 20%;"
 	}
 	,{
 		"text": "見ろ、<br/>お前の口から<br/>腕が一本<br/>飛び出してる!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 45.5%;top: 7.1%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 45.5%;top: 7.1%;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">これはその、<br/>１度だけだ!<br/>二度としない!</span>"
-		,"style": "font-size: 19px;color: black;background-color: white;left: 9%;top: 47.3%;border-radius: 0%;"
+		,"style": "font-size: 19px;color: black;background-color: white;left: 9%;top: 47.3%;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">見逃して<br/>くれない<br/>か？</span>"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 21.6%;top: 54.5%;border-radius: 0%;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 21.6%;top: 54.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">軟弱者!!</span>"
-		,"style": "font-size: 55px;color: black;background-color: white;left: 30.7%;top: 65%;;border-radius: 0%;"
+		,"style": "font-size: 55px;color: black;background-color: white;left: 30.7%;top: 65%;;border-radius: 25%;"
 	}
 	,{
 		"text": "ハハハ！<br/>うわぁ～～"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 61%;top: 47.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 61%;top: 47.5%;border-radius: 20%;"
 	}
 ]
