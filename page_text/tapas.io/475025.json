@@ -1,0 +1,38 @@
+[
+	{
+		"text": "私の名はママン。<br/>私達の住む世界の<br/>重要な事を<br/>私は司っている"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 7.61%;top: 7.08%;width: 22.02%;height: 11.24%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "私は物理的な<br/>姿を持たない"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 38.03%;top: 4.64%;width: 19.36%;height: 5.11%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "皆の心の中にいる<br/>正確に言うとね"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 46.12%;top: 16.51%;width: 17.45%;height: 4.95%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "私の喋り方や性格は<br/>君の身近な親との関係で<br/>変わることもある"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 71.33%;top: 7.39%;width: 24.04%;height: 11.48%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "私については十分だね<br/>君達がここに来た<br/>用件を始めよう"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 4.95%;top: 27.83%;width: 19.15%;height: 9.04%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "予想より<br/>ずっと簡単だけど、<br/>終わった時<br/>何も覚えてないよ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 78.35%;top: 30.66%;width: 16.17%;height: 17.45%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "そこに座って"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 32.82%;top: 59.28%;width: 20.96%;height: 2.12%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "まず"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 8.03%;top: 85.53%;width: 6.38%;height: 2.83%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "いくつか<br/>質問するよ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 78.78%;top: 83.02%;width: 12.66%;height: 7.39%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+]

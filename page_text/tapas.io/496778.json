@@ -1,0 +1,42 @@
+[
+	{
+		"text": "例えば、<br/>強烈な怒りが<br/>変身条件の<br/>モンスターもいる"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 3.99%;top: 1.73%;width: 22.66%;height: 9.04%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "変身は<br/>特定の要素への<br/>記憶や接触、<br/>また発作的に<br/>起こる場合もある"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 46.54%;top: 1.42%;width: 17.66%;height: 13.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "変身は危険性から<br/>最小限に留める<br/>必要があるわ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 74.84%;top: 26.65%;width: 20.43%;height: 10.77%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "ん?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 33.24%;top: 42.14%;width: 7.45%;height: 3.77%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "習得まで<br/>どの位<br/>かかるの?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 57.29%;top: 41.98%;width: 10.00%;height: 11.01%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "良い質問だ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 81.97%;top: 43.71%;width: 9.68%;height: 5.42%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "ありがとう"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 75.90%;top: 51.34%;width: 10.64%;height: 2.99%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "来年、<br/>能力を扱えるか<br/>大きなテストを<br/>受けてもらう"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 76.44%;top: 58.33%;width: 19.15%;height: 11.64%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "え?!<br/>テスト?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 42.61%;top: 77.99%;width: 14.79%;height: 5.66%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "え～っ…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 52.07%;top: 90.49%;width: 12.34%;height: 2.52%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+]
