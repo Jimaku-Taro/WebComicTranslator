@@ -1,18 +1,18 @@
 [
 	{
 		"text": "マネージャーが<br/>見つけたら<br/>酷く腹を立てる<br/>だろう！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 70.5%;top: 6%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 70.5%;top: 6%;border-radius: 0%;"
 	}
 	,{
 		"text": "君達の望みは<br/>証拠を燃やす<br/>ことだ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 17%;top: 24%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 17%;top: 24%;border-radius: 0%;"
 	}
 	,{
 		"text": "ガスタンク<br/>があれば、<br/>役に立つだろう…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 24.3%;top: 31%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 24.3%;top: 31%;border-radius: 0%;"
 	}
 	,{
 		"text": "マイロ…!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 70%;top: 81%;font-weight: bold;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 70%;top: 81%;font-weight: bold;border-radius: 0%;"
 	}
 ]

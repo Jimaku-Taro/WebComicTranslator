@@ -1,62 +1,62 @@
 [
 	{
 		"text": "今まで<br/>ずっと<br/>授業<br/>サボってた<br/>？！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 8%;top: 5.5%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 8%;top: 5.5%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "私達は学校<br/>に行く必要<br/>ないの！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 36.8%;top: 9%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 36.8%;top: 9%;border-radius: 0%;"
 	}
 	,{
 		"text": "うん<br/>…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 52%;top: 10.7%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 52%;top: 10.7%;border-radius: 0%;"
 	}
 	,{
 		"text": "私達科学の<br/>エリートは<br/>無知な大衆を<br/>支配する！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 68%;top: 6%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 68%;top: 6%;border-radius: 0%;"
 	}
 	,{
 		"text": "バカな事は<br/>奴らが苦労して<br/>やればいい…<br/>体育とか<br/>社会科とか！"
-		,"style": "font-size: 14x;color: black;background-color: white;left: 78%;top: 6%;"
+		,"style": "font-size: 14x;color: black;background-color: white;left: 78%;top: 6%;border-radius: 0%;"
 	}
 	,{
 		"text": "それは<span style=\"font-weight: bold;\">逆だよ</span><br/>科学の<br/>あるべき姿と!<br/>知識は皆のものだ!<br/>無知は<br/>敵だ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 12.5%;top: 38%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 12.5%;top: 38%;border-radius: 0%;"
 	}
 	,{
 		"text": "僕は<br/><span style=\"font-weight: bold;\">決して</span>君達の<br/>計画の一部<br/>に<span style=\"font-weight: bold;\">ならない！</span>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 66.5%;top: 36%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 66.5%;top: 36%;border-radius: 0%;"
 	}
 	,{
 		"text": "もし僕の脳を<br/>入れたら、<br/><span style=\"font-weight: bold;\">新しい<br/>野蛮な体で、<br/>君達の顔を<br/>繰り返し<br/>蹴ってやるぞ！</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 75.9%;top: 40%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 75.9%;top: 40%;border-radius: 0%;"
 	}
 	,{
 		"text": "そんな事<br/>言われると<br/>怖い"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 11.5%;top: 60%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 11.5%;top: 60%;border-radius: 0%;"
 	}
 	,{
 		"text": "ならば私達<br/>天才の脳の一部を<br/>摘出してもいい…<br/>そして<br/>超集合脳を作る<br/>それなら少なくとも<br/>暴れたり裏切りは<br/>しないだろう"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 39%;top: 63.5%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 39%;top: 63.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "ええ、それ<br/>なんか怖い…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 10.6%;top: 81%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 10.6%;top: 81%;border-radius: 0%;"
 	}
 	,{
 		"text": "うん、それは<br/>投票で決める<br/>必要があるわ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 10.6%;top: 85.5%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 10.6%;top: 85.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "今のところ<br/>保留ね…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 23%;top: 87.5%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 23%;top: 87.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "詳細は<br/>後で<br/>詰めよう。<br/>今は…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 48.5%;top: 82%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 48.5%;top: 82%;border-radius: 0%;"
 	}
 	,{
 		"text": "…頭蓋骨を<br/>切り開いて<br/>貴重な知力を<br/>掘り出す！"
-		,"style": "font-size: 19px;color: black;background-color: white;left: 77%;top: 60%;font-weight: bold;"
+		,"style": "font-size: 19px;color: black;background-color: white;left: 77%;top: 60%;font-weight: bold;border-radius: 0%;"
 	}
 ]

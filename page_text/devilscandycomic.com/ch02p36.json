@@ -1,10 +1,10 @@
 [
 	{
 		"text": "わ…わぉ…<br/>ナイス<br/>ショット！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 19%;top: 37%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 19%;top: 37%;border-radius: 0%;"
 	}
 	,{
 		"text": "オレは<br/>物理は<br/>大得意<br/>だからな！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 78%;top: 67%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 78%;top: 67%;border-radius: 0%;"
 	}
 ]

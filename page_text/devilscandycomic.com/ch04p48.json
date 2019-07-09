@@ -1,46 +1,46 @@
 [
 	{
 		"text": "あの小さな子と<br/>この世界で<br/>共にいる。<br/>それが私達の<br/>誓いよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 11%;top: 6%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 11%;top: 6%;border-radius: 0%;"
 	}
 	,{
 		"text": "それは<br/>アスモディア<br/>の望みでも<br/>あった"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 66%;top: 5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 66%;top: 5%;border-radius: 0%;"
 	}
 	,{
 		"text": "アスモディア<br/>の望みは<br/><span style=\"font-weight: bold;\">敵の粉砕だ!</span>"
-		,"style": "font-size: 22px;color: black;background-color: white;left: 45%;top: 31%;"
+		,"style": "font-size: 22px;color: black;background-color: white;left: 45%;top: 31%;border-radius: 0%;"
 	}
 	,{
 		"text": "えぇ…"
-		,"style": "font-size: 15px;color: black;background-color: #b3b3b3;left: 64%;top: 33%;transform: rotate(-25deg);"
+		,"style": "font-size: 15px;color: black;background-color: #b3b3b3;left: 64%;top: 33%;transform: rotate(-25deg);border-radius: 0%;"
 	}
 	,{
 		"text": "インフェルノズ<br/>はアスモディア<br/>の交代を選択、<br/>だがこの構成で<br/>彼女が同じ<br/>役割をできるか<br/>疑問で…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 81%;top: 32.5%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 81%;top: 32.5%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "誰も<br/>アスモディア<br/>の代わりは<br/>できない！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 83%;top: 48%;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 83%;top: 48%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "おれの<br/>役割は…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 81%;top: 63%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 81%;top: 63%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "復讐だ"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 80%;top: 68.5%;font-weight: bold;width: 135px;"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 80%;top: 68.5%;font-weight: bold;width: 135px;border-radius: 0%;"
 	}
 	,{
 		"text": "じ…充分<br/>そうだ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 43%;top: 72.2%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 43%;top: 72.2%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "ナイトメアズ<br/>ですが、控え選手が<br/>いないとの情報です。<br/>残念ながら、それは<br/>あの人食い生徒が<br/>試合が終了し、<br/>即座に警察に<br/>護送されるまで<br/>競技を続けることを<br/>意味します"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 40%;top: 77%;font-weight: bold;width: 152px;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 40%;top: 77%;font-weight: bold;width: 152px;border-radius: 0%;"
 	}
 	,{
 		"text": "弱い慰め<br/>ですが、卵は<br/>インフェルノズ<br/>に行きます"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 82%;top: 84%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 82%;top: 84%;font-weight: bold;border-radius: 0%;"
 	}
 ]

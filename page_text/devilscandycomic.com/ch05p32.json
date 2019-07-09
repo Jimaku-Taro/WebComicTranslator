@@ -1,23 +1,23 @@
 [
 	{
 		"text": "かなり生意気<br/>じゃねぇか？<br/>俺達の仲間２人が<br/>殺された直後に<br/>古物商が１人で<br/>来るか？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 13.5%;top: 4%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 13.5%;top: 4%;border-radius: 0%;"
 	}
 	,{
 		"text": "君達がギターを<br/>手渡す契約を<br/>俺は信じて…"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 37%;top: 6%;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 37%;top: 6%;border-radius: 0%;"
 	}
 	,{
 		"text": "地獄で<br/>契約しな！"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 61%;top: 5%;font-weight: bold;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 61%;top: 5%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "俺達を脅して<br/>従わせたいなら、<br/>黒い殉教者でも<br/>連れてこい！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 74%;top: 6%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 74%;top: 6%;border-radius: 0%;"
 	}
 	,{
 		"text": "お前に答えてやる<br/>義理はない。<br/>それに、お前の頭を<br/>ギターケースに詰めて<br/><span style=\"font-weight: bold;\">ソレを</span>ストラツィオに<br/>送ってやる"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 74%;top: 27%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 74%;top: 27%;border-radius: 0%;"
 	}
 	,{
 		"text": "全く<br/>ひどい<br/>誤解だよ"
@@ -25,14 +25,14 @@
 	}
 	,{
 		"text": "第一、<br/>ケースは<br/>空だ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 71%;top: 45%;width: 88px;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 71%;top: 45%;width: 88px;border-radius: 0%;"
 	}
 	,{
 		"text": "何？！"
-		,"style": "font-size: 26px;color: black;background-color: white;left: 15.5%;top: 74.5%;font-weight: bold;"
+		,"style": "font-size: 26px;color: black;background-color: white;left: 15.5%;top: 74.5%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "誰かが盗んだ<br/>と言う気か?!<br/>貴様一体<br/>何をした?!"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 43%;top: 58.5%;font-weight: bold;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 43%;top: 58.5%;font-weight: bold;border-radius: 0%;"
 	}
 ]

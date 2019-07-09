@@ -1,14 +1,14 @@
 [
 	{
 		"text": "見てら<br/>れない！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 74%;top: 57%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 74%;top: 57%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "センチネル<br/>どうして!?<br/>あんなに<br/>オシャレ<br/>なのに！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 84.5%;top: 56.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 84.5%;top: 56.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "いえ…<br/>見て"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 87.5%;top: 80.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 87.5%;top: 80.5%;border-radius: 0%;"
 	}
 ]

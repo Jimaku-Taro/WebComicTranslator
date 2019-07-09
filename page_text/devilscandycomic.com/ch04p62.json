@@ -1,18 +1,18 @@
 [
 	{
 		"text": "“チャーリー”<br/>は知らんが<br/>俺達は援護する<br/>パンドラ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 12%;top: 3%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 12%;top: 3%;border-radius: 0%;"
 	}
 	,{
 		"text": "まぁ…<br/>言っても<br/>しょうが<br/>ねぇが"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 25%;top: 4%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 25%;top: 4%;border-radius: 0%;"
 	}
 	,{
 		"text": "おや、ごめん<br/>邪魔かな？<br/>景色を<br/>楽しみな"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 85%;top: 48%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 85%;top: 48%;border-radius: 0%;"
 	}
 	,{
 		"text": "お前から<br/>引っこ抜く!!!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 54%;top: 70.5%;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 54%;top: 70.5%;font-weight: bold;border-radius: 0%;"
 	}
 ]

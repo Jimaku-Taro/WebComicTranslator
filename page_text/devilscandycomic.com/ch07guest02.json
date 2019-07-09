@@ -1,15 +1,15 @@
 [
 	{
 		"text": "暴行2"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 43%;top: 5%;width: 115px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 43%;top: 5%;width: 115px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "絵:MISSY PEÑA<br/>@MISSPENART"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 26%;top: 7%;width: 208px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 26%;top: 7%;width: 208px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "話:BIKKURI"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 52%;top: 7%;width: 166px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 52%;top: 7%;width: 166px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "引越して<br/>落ち着き<br/>ましたか<br/>マイロ?"

@@ -1,46 +1,46 @@
 [
 	{
 		"text": "君がマイロ<br/>パンターノだね?<br/>お爺さんは<br/>どこですか?"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 16.6%;top: 4.3%;width: 96px;height: 72px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 16.6%;top: 4.3%;width: 96px;height: 72px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "死んだよ"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 65.7%;top: 11%;width: 52px;height: 27px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 65.7%;top: 11%;width: 52px;height: 27px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "僕の<br/>両親や"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 62%;top: 19%;width: 59px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 62%;top: 19%;width: 59px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "妹みたい<br/>にね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 64%;top: 23.8%;width: 59px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 64%;top: 23.8%;width: 59px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "聞け<br/>マイロ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 7.7%;top: 34.2%;width: 53px;height: 32px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 7.7%;top: 34.2%;width: 53px;height: 32px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "私を<br/>騙すな。<br/>私は嘘が<br/>分かる"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 29%;top: 32%;width: 67px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 29%;top: 32%;width: 67px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "私はこの友人程<br/>短気ではないが、<br/>遠回しも嫌いだ。<br/>率直に言おう"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 51.5%;top: 32%;width: 117px;height: 106px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 51.5%;top: 32%;width: 117px;height: 106px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "君達は自身を<br/>被害者と思うが、<br/>実際は、君の<br/>祖父は損害額や<br/>山程の死に対して<br/>君の想像以上に<br/>責任がある"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 8.8%;top: 82.5%;width: 125px;height: 127px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 8.8%;top: 82.5%;width: 125px;height: 127px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "私達はこの件を<br/>君の祖父に問う気だ<br/>例え君が阻もうとも"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 30.8%;top: 57%;width: 127px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 30.8%;top: 57%;width: 127px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "う…"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 42%;top: 65%;width: 35px;height: 16px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 42%;top: 65%;width: 35px;height: 16px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "さぁ<br/>どうする<br/>!?"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 73.4%;top: 60%;width: 96px;height: 72px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 73.4%;top: 60%;width: 96px;height: 72px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 ]

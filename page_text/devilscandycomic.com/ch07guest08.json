@@ -1,19 +1,19 @@
 [
 	{
 		"text": "いとこ"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 45.1%;top: 5%;width: 91px;height: 28px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 45.1%;top: 5%;width: 91px;height: 28px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "絵:"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 26%;top: 7%;width: 67px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 26%;top: 7%;width: 67px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "Puré"
-		,"style": "font-size: 20px;color: #C35A5C;background-color: white;left: 32.5%;top: 4.5%;width: 65px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;transform: rotate(-30deg);"
+		,"style": "font-size: 20px;color: #C35A5C;background-color: white;left: 32.5%;top: 4.5%;width: 65px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;transform: rotate(-30deg);border-radius: 0%;"
 	}
 	,{
 		"text": "話:BIKKURI"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 52%;top: 7%;width: 166px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 52%;top: 7%;width: 166px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "大勝負の前に<br/>特訓しねぇとな、<br/>でもお前の両親に<br/>俺のことを<br/>説明できるか?"

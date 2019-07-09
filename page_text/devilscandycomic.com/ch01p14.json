@@ -1,42 +1,42 @@
 [
 	{
 		"text": "鎖か何かに<br/>繋いでおくべき<br/>じゃないか？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 6.5%;top: 6.6%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 6.5%;top: 6.6%;border-radius: 10%;"
 	}
 	,{
 		"text": "それか口輪<br/>付けるか…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 13.5%;top: 13.2%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 13.5%;top: 13.2%;border-radius: 10%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ニモ、酷いよ！</span><br/>彼女は悪魔だ、<br/>僕らみたいな！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 25.5%;top: 8%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 25.5%;top: 8%;border-radius: 10%;"
 	}
 	,{
 		"text": "<span style=\"font-size: x-large;font-weight: bold;\">失礼だ！</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 27.3%;top: 17%;width: 103px;height: 35px;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 27.3%;top: 17%;width: 103px;height: 35px;border-radius: 10%;"
 	}
 	,{
 		"text": "オレら<br/>みたいか？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 44.5%;top: 6.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 44.5%;top: 6.5%;border-radius: 10%;"
 	}
 	,{
 		"text": "それで<br/>彼女の<br/>名前は？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 44.5%;top: 32%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 44.5%;top: 32%;border-radius: 10%;"
 	}
 	,{
 		"text": "ルバーブ？<br/>レックス？<br/>キラーか、<br/>多分？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 53.5%;top: 34%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 53.5%;top: 34%;border-radius: 10%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">キ…キラー！？</span><br/>ペットでも<br/>そんな名前<br/>良くないよ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 36.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 36.5%;border-radius: 10%;"
 	}
 	,{
 		"text": "でも うん、<br/>考えたんだ…<br/><span style=\"font-size: x-large;font-weight: bold;\">パンドラ</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 42.4%;top: 65.7%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 42.4%;top: 65.7%;border-radius: 10%;"
 	}
 	,{
 		"text": "いい<br/>名前<br/>だろう？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 82%;top: 82%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 82%;top: 82%;border-radius: 10%;"
 	}
 ]

@@ -1,30 +1,30 @@
 [
 	{
 		"text": "ハァ～～～～"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 75%;top: 10%;font-weight: bold;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 75%;top: 10%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "こんなの<br/>カズは望んでない<br/>気がする<br/>でも…もう…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 5.2%;top: 37.3%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 5.2%;top: 37.3%;border-radius: 0%;"
 	}
 	,{
 		"text": "どうでも<br/>いいわ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 24%;top: 44%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 24%;top: 44%;border-radius: 0%;"
 	}
 	,{
 		"text": "それなら<br/>大丈夫だよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 39.3%;top: 38%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 39.3%;top: 38%;border-radius: 0%;"
 	}
 	,{
 		"text": "僕はショーを<br/>楽しめたし。<br/>パンドラは<br/>見違える程だ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 58.5%;top: 39%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 58.5%;top: 39%;border-radius: 0%;"
 	}
 	,{
 		"text": "彼女の<span style=\"font-weight: bold;\">ドレス</span>は<br/>素敵だった。<br/>話してる間にも<br/>きっと一等賞<br/>を取るさ！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 75%;top: 38.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 75%;top: 38.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "君は受賞とか<br/>気にしないのは<br/>知ってる、でも<br/>僕は君と分かち<br/>合いたいんだ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 10.4%;top: 82%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 10.4%;top: 82%;border-radius: 0%;"
 	}
 ]

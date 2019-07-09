@@ -1,6 +1,6 @@
 [
 	{
 		"text": "ニューヨーク・コミコンのため漫画は小休止します!<br/>しばらくして今週末(10/4-7)に<br/>アーティスト・アレイ・ブース B35で私に会えます。<br/>待ってくれてありがとう、私達はすぐに戻ります!"
-		,"style": "font-size: 16px;color:white;background-color:  black;left: 14%;top: 89%;width: 615px;height: 115px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 16px;color:white;background-color:  black;left: 14%;top: 89%;width: 615px;height: 115px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 ]

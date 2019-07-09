@@ -1,46 +1,46 @@
 [
 	{
 		"text": "僕はここに<br/>メッセージを<br/>伝えに来た"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 28.5%;top: 18%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 28.5%;top: 18%;border-radius: 0%;"
 	}
 	,{
 		"text": "ただ…<br/>それ位は<br/>いいだろ、<br/>OK？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 59.6%;top: 21%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 59.6%;top: 21%;border-radius: 0%;"
 	}
 	,{
 		"text": "よ…よし<br/>俺が聞く"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 81%;top: 10%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 81%;top: 10%;border-radius: 0%;"
 	}
 	,{
 		"text": "最近<br/>僕の雇い主達が<br/>購入したい商品が<br/>オークションに<br/>あった"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 11.5%;top: 48.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 11.5%;top: 48.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "君達が<br/>落札した"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 20%;top: 57%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 20%;top: 57%;border-radius: 0%;"
 	}
 	,{
 		"text": "雇い主達は<br/>不満だ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 50.5%;top: 53%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 50.5%;top: 53%;border-radius: 0%;"
 	}
 	,{
 		"text": "おい、とにかく<br/>取引はできる。<br/>だからもう<br/>車を降りろ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 65.5%;top: 39%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 65.5%;top: 39%;border-radius: 0%;"
 	}
 	,{
 		"text": "俺のボスに<br/>お前のボスを<br/>呼ぶよう<br/>頼む…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 78.5%;top: 56.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 78.5%;top: 56.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "雇い主達は<br/>取引には<br/>興味ない"
-		,"style": "font-size: 19px;color: black;background-color: white;left: 13%;top: 70%;"
+		,"style": "font-size: 19px;color: black;background-color: white;left: 13%;top: 70%;border-radius: 0%;"
 	}
 	,{
 		"text": "雇い主達が<br/>興味があるのは<br/>君達を身の程に<br/>あった場所へ<br/>送ることだけだ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 54.5%;top: 81%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 54.5%;top: 81%;border-radius: 0%;"
 	}
 	,{
 		"text": "もういい!<br/>コイツを撃て!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 81%;top: 89%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 81%;top: 89%;font-weight: bold;border-radius: 0%;"
 	}
 ]

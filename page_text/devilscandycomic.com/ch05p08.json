@@ -1,42 +1,42 @@
 [
 	{
 		"text": "…でオレの<br/>姉妹が彼に電話<br/>投げつけてさ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 42%;top: 5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 42%;top: 5%;border-radius: 0%;"
 	}
 	,{
 		"text": "昔懐かしい<br/>大きな<br/>やつ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 71%;top: 4.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 71%;top: 4.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "ハハハ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 62.5%;top: 10%;transform: rotate(15deg);"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 62.5%;top: 10%;transform: rotate(15deg);border-radius: 0%;"
 	}
 	,{
 		"text": "おはよう<br/>スポーツチーム<br/>仲間。<br/>筋肉で勝つ準備は<br/>できてる？"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 7%;top: 29%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 7%;top: 29%;border-radius: 0%;"
 	}
 	,{
 		"text": "あぁ、<br/>微分積分の<br/>試験を<br/>ベンチプレス<br/>してやるよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 68.5%;top: 29%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 68.5%;top: 29%;border-radius: 0%;"
 	}
 	,{
 		"text": "調子どう<br/>パンドラ?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 19.2%;top: 53%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 19.2%;top: 53%;border-radius: 0%;"
 	}
 	,{
 		"text": "やぁ、<br/>クレアンス!<br/>君が挨拶するとは<br/>めずらしいね!<br/>今朝は…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 63%;top: 49.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 63%;top: 49.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "その娘に<br/>話してるん<br/>だよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 67%;top: 58%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 67%;top: 58%;border-radius: 0%;"
 	}
 	,{
 		"text": "別に<br/>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 78%;top: 69%;width: 57px;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 78%;top: 69%;width: 57px;border-radius: 0%;"
 	}
 	,{
 		"text": "いいね<br/>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 47%;top: 87.3%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 47%;top: 87.3%;border-radius: 0%;"
 	}
 ]

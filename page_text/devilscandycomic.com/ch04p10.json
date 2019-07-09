@@ -1,18 +1,18 @@
 [
 	{
 		"text": "パンドラは<br/>“海の不思議”<br/>受けたく<br/>ないのか？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 47%;top: 34%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 47%;top: 34%;border-radius: 0%;"
 	}
 	,{
 		"text": "彼女が<br/><span style=\"font-weight: bold;\">何</span>したいのか<br/>わからないよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 73%;top: 45.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 73%;top: 45.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "彼女は今<br/>年の割に<br/>超気難しいんだ。<br/>僕を見てさえ<br/>くれないよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 17.5%;top: 60%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 17.5%;top: 60%;border-radius: 0%;"
 	}
 	,{
 		"text": "ああ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 82%;top: 63.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 82%;top: 63.5%;border-radius: 0%;"
 	}
 ]

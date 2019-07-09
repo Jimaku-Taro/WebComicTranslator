@@ -1,38 +1,38 @@
 [
 	{
 		"text": "これは<br/>本当に<br/>マズいわ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 8%;top: 9%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 8%;top: 9%;border-radius: 0%;"
 	}
 	,{
 		"text": "ここから<br/>逃げなきゃ<br/>あの変人が<br/>電話してる<br/>うちに"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 6%;top: 14%;width: 94px;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 6%;top: 14%;width: 94px;border-radius: 0%;"
 	}
 	,{
 		"text": "メティア?"
-		,"style": "font-size: 14px;color: black;background-color: #DDDDDD;left: 29%;top: 13.5%;"
+		,"style": "font-size: 14px;color: black;background-color: #DDDDDD;left: 29%;top: 13.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "必要なら<br/>マークを<br/>また使って"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 55.5%;top: 17%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 55.5%;top: 17%;border-radius: 0%;"
 	}
 	,{
 		"text": "聞け、<br/>俺は殺しは<br/>好きじゃないが<br/>問題の排除が<br/>仕事だ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 27.5%;top: 33%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 27.5%;top: 33%;border-radius: 0%;"
 	}
 	,{
 		"text": "言いかえれば…<br/><span style=\"font-weight: bold;\">君は今問題に<br/>なりたくは<br/>ないだろ</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 63%;top: 39.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 63%;top: 39.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "ギターを<br/>置いて…"
-		,"style": "font-size: 19px;color: black;background-color: white;left: 12.5%;top: 56.5%;"
+		,"style": "font-size: 19px;color: black;background-color: white;left: 12.5%;top: 56.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "あーらら…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 70%;top: 76.2%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 70%;top: 76.2%;border-radius: 0%;"
 	}
 	,{
 		"text": "逃げろ!!<br/>行け!!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 82%;top: 80%;font-weight: bold;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 82%;top: 80%;font-weight: bold;border-radius: 0%;"
 	}
 ]

@@ -1,18 +1,18 @@
 [
 	{
 		"text": "アッ!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 54%;top: 14%;font-weight: bold;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 54%;top: 14%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "インター<br/>セプション！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 63%;top: 21.5%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 63%;top: 21.5%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "待望の<br/>ナイトメアズの<br/>ゴールだ！<br/>そして彼女の<br/>大はしゃぎ、<br/>彼女は…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 19.5%;top: 30.5%;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 19.5%;top: 30.5%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "あー、はい。<br/>非常に良いです<br/>インフェルノズ<br/>へ卵は移ります"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 79%;top: 87%;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 79%;top: 87%;font-weight: bold;border-radius: 0%;"
 	}
 ]

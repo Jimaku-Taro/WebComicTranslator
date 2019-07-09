@@ -1,18 +1,18 @@
 [
 	{
 		"text": "キャッ!!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 33%;top: 8.7%;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 33%;top: 8.7%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "わぁ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 61.1%;top: 7%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 61.1%;top: 7%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "そしてぇぇぇぇ<br/>再び動きが<br/>あるぞ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 36%;top: 63%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 36%;top: 63%;border-radius: 0%;"
 	}
 	,{
 		"text": "うわ、<br/>ええい！<br/>押し返せ！！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 63.5%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 63.5%;font-weight: bold;border-radius: 0%;"
 	}
 ]

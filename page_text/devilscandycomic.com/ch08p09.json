@@ -17,11 +17,11 @@
 	}
 	,{
 		"text": "彼らは一日に<br/>何時間も跳ね<br/>続けるんだ、<br/>疲れて止まるまで<br/>僕らは何も<br/>できなかったよ"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 75.5%;top: 3%;width: 116px;height: 106px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 75.5%;top: 3%;width: 116px;height: 106px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "僕の両親は<br/>足をケガした<br/>ロック達を治療してて<br/>僕は高齢や病気で<br/>跳べないロック達と<br/>遊んでたんだ"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 13%;top: 41%;width: 141px;height: 117px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 13%;top: 41%;width: 141px;height: 117px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "カズ<br/>９才"
@@ -29,7 +29,7 @@
 	}
 	,{
 		"text": "楽器を<br/>練習する時間は<br/>山程あった"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 78.5%;top: 41.5%;width: 98px;height: 98px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 78.5%;top: 41.5%;width: 98px;height: 98px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "実際、<br/>ロック族以外では<br/>僕が世界で唯一の<br/>クールッキ・<br/>カラウィ演奏者<br/>だろうね"

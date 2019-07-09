@@ -1,39 +1,39 @@
 [
 	{
 		"text": "うっ!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 12%;top: 7%;font-weight: bold;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 12%;top: 7%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "ぐっ"
-		,"style": "font-size: 21px;color: black;background-color: white;left: 46%;top: 4%;font-weight: bold;"
+		,"style": "font-size: 21px;color: black;background-color: white;left: 46%;top: 4%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "ぜ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 59%;top: 6.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 59%;top: 6.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "全部<br/>クレアンス<br/>のせいだ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 66%;top: 5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 66%;top: 5%;border-radius: 0%;"
 	}
 	,{
 		"text": "彼は…オレを<br/>止めるべき<br/>だったのに…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 83.5%;top: 5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 83.5%;top: 5%;border-radius: 0%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">助けても</span><br/>くれなかった!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 83.5%;top: 10%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 83.5%;top: 10%;border-radius: 0%;"
 	}
 	,{
 		"text": "皆の前にオレを<br/>置き去りに<br/>した"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 14.5%;top: 36.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 14.5%;top: 36.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "頭から<br/>離れないよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 80%;top: 36%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 80%;top: 36%;border-radius: 0%;"
 	}
 	,{
 		"text": "一生ずっと<br/>死ぬまで"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 80%;top: 42%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 80%;top: 42%;border-radius: 0%;"
 	}
 	,{
 		"text": "ニンジャルティ<br/>メット…"
@@ -41,22 +41,22 @@
 	}
 	,{
 		"text": "もういい<br/>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 83.5%;top: 58%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 83.5%;top: 58%;border-radius: 0%;"
 	}
 	,{
 		"text": "子供を<br/>苦しめるために<br/>その力を<br/>与えられたんじゃ<br/>ないだろ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 11.5%;top: 67.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 11.5%;top: 67.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "さっさと<br/>ギターを奪って<br/>終わりにしろ、<br/>トレモロ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 36%;top: 68%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 36%;top: 68%;border-radius: 0%;"
 	}
 	,{
 		"text": "チッ"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 54.5%;top: 76.7%;font-weight: bold;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 54.5%;top: 76.7%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "ト…<br/>トレモロ？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 86%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 86%;border-radius: 0%;"
 	}
 ]

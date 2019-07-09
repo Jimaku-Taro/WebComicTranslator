@@ -1,54 +1,54 @@
 [
 	{
 		"text": "これで美しく<br/>なれるのよ、<br/>親愛なる<br/>私の少年君"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 34%;top: 4%;width: 106px;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 34%;top: 4%;width: 106px;border-radius: 0%;"
 	}
 	,{
 		"text": "多分<br/>開けた方が<br/>効果的で<br/>…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 59.5%;top: 3%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 59.5%;top: 3%;border-radius: 0%;"
 	}
 	,{
 		"text": "ハウッ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 58.5%;top: 15.2%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 58.5%;top: 15.2%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "ゴホッ"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 62.5%;top: 27.8%;font-weight: bold;"
+		,"style": "font-size: 17px;color: black;background-color: white;left: 62.5%;top: 27.8%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "ああ、<br/>ハマった!"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 68%;top: 29%;"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 68%;top: 29%;border-radius: 0%;"
 	}
 	,{
 		"text": "あむ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 89.5%;top: 28%;transform: rotate(-15deg);"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 89.5%;top: 28%;transform: rotate(-15deg);border-radius: 0%;"
 	}
 	,{
 		"text": "塔達が<br/>できてゆく！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 67.6%;top: 43%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 67.6%;top: 43%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "いや、その<br/>塔が１つ<br/>できた"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 78.5%;top: 46%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 78.5%;top: 46%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "ウォルトン、<br/>お前は下だ！<br/>重すぎる！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 12%;top: 61%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 12%;top: 61%;border-radius: 0%;"
 	}
 	,{
 		"text": "おい、失礼な！<br/>僕は“重く”ない<br/>僕は端整だ！<br/>それにスターだ！<br/>上だ！上だ！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 43%;top: 59.4%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 43%;top: 59.4%;border-radius: 0%;"
 	}
 	,{
 		"text": "あー<br/>…"
-		,"style": "font-size: 10px;color: black;background-color: white;left: 51.4%;top: 81%;"
+		,"style": "font-size: 10px;color: black;background-color: white;left: 51.4%;top: 81%;border-radius: 0%;"
 	}
 	,{
 		"text": "いずれに<br/>せよ、<br/>天が開く！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 61.2%;top: 60%;font-weight: bold;width: 85px;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 61.2%;top: 60%;font-weight: bold;width: 85px;border-radius: 0%;"
 	}
 	,{
 		"text": "今夜の<br/>栄誉ある幼生の<br/>誇り高き両親が<br/>卵を落とす準備<br/>ができている！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 73.5%;top: 60.4%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 73.5%;top: 60.4%;font-weight: bold;border-radius: 0%;"
 	}
 ]

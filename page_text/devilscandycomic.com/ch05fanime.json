@@ -1,26 +1,26 @@
 [
 	{
 		"text": "やぁ皆！<br/><br/>今週末のFanimeに向けてコンベンションの準備が大変になったので<br/>簡潔に言えばストーリーを中断するつもりです。<br/>心配なく、月曜には戻ります！<br/>今、ここにはリケットとマイロと彼らの母と父の昔の写真があります。<br/>何かパッとしない人々ですね！！<br/>OK、コンベンションに行く人は、そこで会いましょう。<br/>他の人達は、月曜日に会いましょう！<br/><br/>--REM"
-		,"style": "font-size: 16px;color: white;background-color: #6c709A;left: 10%;top: 62%;text-align: left;width: 681px;"
+		,"style": "font-size: 16px;color: white;background-color: #6c709A;left: 10%;top: 62%;text-align: left;width: 681px;border-radius: 0%;"
 	}
 	,{
 		"text": "マイロ<br/>(16)"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 5%;top: 31%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 5%;top: 31%;border-radius: 0%;"
 	}
 	,{
 		"text": "ルーファス"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 39%;top: 12.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 39%;top: 12.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "ミッチー"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 55%;top: 12.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 55%;top: 12.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "リケット<br/>(7)"
-		,"style": "font-size: 18px;color: black;background-color: white;left:76.5%;top: 28%;"
+		,"style": "font-size: 18px;color: black;background-color: white;left:76.5%;top: 28%;border-radius: 0%;"
 	}
 	,{
 		"text": "パンターノ<br/>一家！"
-		,"style": "font-size: 16px;color: #6B7095;background-color: white;left: 79%;top: 15%;"
+		,"style": "font-size: 16px;color: #6B7095;background-color: white;left: 79%;top: 15%;border-radius: 0%;"
 	}
 ]

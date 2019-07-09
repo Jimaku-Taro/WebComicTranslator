@@ -1,18 +1,18 @@
 [
 	{
 		"text": "あら、<br/>見たことない<br/>生徒みたいね、<br/>でも確かに<br/>美しい素材ね"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 60.5%;top: 4%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 60.5%;top: 4%;border-radius: 0%;"
 	}
 	,{
 		"text": "憂愁の兆しを<br/>見せる魅惑の秋。<br/>どんな秘密を<br/>鋼のような<br/>冷たい瞳に<br/>隠すのか？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 76%;top: 12%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 76%;top: 12%;border-radius: 0%;"
 	}
 	,{
 		"text": "あっ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 10%;top: 75%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 10%;top: 75%;border-radius: 0%;"
 	}
 	,{
 		"text": "センチネル達の<br/>猛攻撃が<br/>始まった！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 14.5%;top: 79.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 14.5%;top: 79.5%;border-radius: 0%;"
 	}
 ]

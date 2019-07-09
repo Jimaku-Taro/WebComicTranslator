@@ -1,38 +1,38 @@
 [
 	{
 		"text": "ルール<br/>知らないの?<br/><span style=\"font-weight: bold;\">誰も</span>ルール<br/>知らない?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 11.5%;top: 3%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 11.5%;top: 3%;border-radius: 0%;"
 	}
 	,{
 		"text": "OK、OK…<br/>試合は数分後だが<br/>目的は卵を<br/>フィールドの<br/>端から逆の端へ<br/>運ぶことだ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 41%;top: 31%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 41%;top: 31%;border-radius: 0%;"
 	}
 	,{
 		"text": "相手チームが<br/>阻止してくる。<br/>タックルで<br/>卵がチームを<br/>移る"
-		,"style": "font-size: 16px;color: black;background-color: white;left:59%;top: 31%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left:59%;top: 31%;border-radius: 0%;"
 	}
 	,{
 		"text": "細かい事は<br/>重要じゃない…"
-		,"style": "font-size: 16px;color: black;background-color: #e1e1e1;left: 73.5%;top: 36%;transform: rotate(-10deg);"
+		,"style": "font-size: 16px;color: black;background-color: #e1e1e1;left: 73.5%;top: 36%;transform: rotate(-10deg);border-radius: 0%;"
 	}
 	,{
 		"text": "見よ、シンプルだ！"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 58%;top: 52%;transform: rotate(7deg);"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 58%;top: 52%;transform: rotate(7deg);border-radius: 0%;"
 	}
 	,{
 		"text": "フィールドの端に<br/>卵を持っていって<br/>ゴールした時、<br/>少しダンスして…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 11%;top: 63%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 11%;top: 63%;border-radius: 0%;"
 	}
 	,{
 		"text": "神聖な<br/>裁定の巣の<br/>頂きから見てる<br/>崇高なる<br/>ゾマ・ゴラモスに<br/>武勇を示すんだ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 28.5%;top: 65%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 28.5%;top: 65%;border-radius: 0%;"
 	}
 	,{
 		"text": "そこは<br/>心配<br/>いらない"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 49%;top: 78%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 49%;top: 78%;border-radius: 0%;"
 	}
 	,{
 		"text": "ただとにかく<br/>ドレイクに<br/>卵渡せば<br/>何とかする"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 65%;top: 78%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 65%;top: 78%;border-radius: 0%;"
 	}
 ]

@@ -1,10 +1,10 @@
 [
 	{
 		"text": "アタイの技<br/>盗むな<br/><ruby>試験管<rp>(</rp><rt>つくりもの</rt><rp>)</rp></ruby>の<br/>クソが!!"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 34.4%;top: 64%;font-weight: bold;"
+		,"style": "font-size: 17px;color: black;background-color: white;left: 34.4%;top: 64%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "苦労して<br/>覚えたんだぞ!!"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 76.5%;top: 64.7%;font-weight: bold;"
+		,"style": "font-size: 17px;color: black;background-color: white;left: 76.5%;top: 64.7%;font-weight: bold;border-radius: 0%;"
 	}
 ]

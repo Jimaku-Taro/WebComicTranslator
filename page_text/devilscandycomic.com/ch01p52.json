@@ -1,10 +1,10 @@
 [
 	{
 		"text": "ほらっ、<br/>お前鋭い物<br/>好きだろ？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 78%;top: 8%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 78%;top: 8%;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">化物</span>を<br/>殺せよ、<br/>オレは違う!"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 64%;top: 51.8%;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 64%;top: 51.8%;border-radius: 20%;"
 	}
 ]

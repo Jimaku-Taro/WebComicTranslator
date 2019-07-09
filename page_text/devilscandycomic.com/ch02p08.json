@@ -1,10 +1,10 @@
 [
 	{
 		"text": "ほらね?<br/>何も…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 45.5%;top: 8.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 45.5%;top: 8.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "これは<br/>普通じゃない。<br/>頼むから<br/>これは学ば<br/>ないでくれよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 14%;top: 79.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 14%;top: 79.5%;border-radius: 0%;"
 	}
 ]

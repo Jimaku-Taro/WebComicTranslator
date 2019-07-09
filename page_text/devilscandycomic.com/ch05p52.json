@@ -1,14 +1,14 @@
 [
 	{
 		"text": "むっ!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 41%;top: 47.8%;font-weight: bold;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 41%;top: 47.8%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "がぁ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 19%;top: 63%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 19%;top: 63%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "おぉ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 76%;top: 46%;transform: rotate(10deg);width: 61px;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 76%;top: 46%;transform: rotate(10deg);width: 61px;border-radius: 0%;"
 	}
 ]

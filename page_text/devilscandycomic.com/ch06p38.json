@@ -1,18 +1,18 @@
 [
 	{
 		"text": "ぐ!"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 22.3%;top: 16.5%;"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 22.3%;top: 16.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "ごめんデビライザー。<br/>僕にはまだ<br/>愛で世界を救う<br/>方法は分からない"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 8%;top: 23.5%;height: 79px;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 8%;top: 23.5%;height: 79px;border-radius: 0%;"
 	}
 	,{
 		"text": "今は妥協するよ<br/>２番目に<br/>良いお薬の…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 49%;top: 33.5%;width:133px; height: 65px;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 49%;top: 33.5%;width:133px; height: 65px;border-radius: 0%;"
 	}
 	,{
 		"text": "お薬で！"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 60%;top: 73%;width: 144px; height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 60%;top: 73%;width: 144px; height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 ]

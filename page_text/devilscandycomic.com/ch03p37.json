@@ -1,10 +1,10 @@
 [
 	{
 		"text": "電光石火の<br/>如く空を駆け<br/>君の元へ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 29.5%;top: 14.9%;font-weight: bold;height: 73px;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 29.5%;top: 14.9%;font-weight: bold;height: 73px;border-radius: 0%;"
 	}
 	,{
 		"text": "さぁ<br/>踊ろう"
-		,"style": "font-size: 32px;color: black;background-color: white;left: 71.5%;top: 68%;font-weight: bold;"
+		,"style": "font-size: 32px;color: black;background-color: white;left: 71.5%;top: 68%;font-weight: bold;border-radius: 0%;"
 	}
 ]

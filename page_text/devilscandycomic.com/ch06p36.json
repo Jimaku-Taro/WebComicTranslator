@@ -1,10 +1,10 @@
 [
 	{
 		"text": "君の炎じゃ<br/>アタイに<br/>ダメージは<br/>ない。<br/>君はただの<br/>灰さ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 73%;top: 7.5%; width:85px;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 73%;top: 7.5%; width:85px;border-radius: 0%;"
 	}
 	,{
 		"text": "２度目の死を<br/>迎えるまで<br/>解体してやる！"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 31%;top: 61%;font-weight: bold;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 31%;top: 61%;font-weight: bold;border-radius: 0%;"
 	}
 ]

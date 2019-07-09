@@ -1,18 +1,18 @@
 [
 	{
 		"text": "そ…"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 74%;top: 22%;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 74%;top: 22%;border-radius: 0%;"
 	}
 	,{
 		"text": "その通り<br/>です"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 44%;top: 52%;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 44%;top: 52%;border-radius: 0%;"
 	}
 	,{
 		"text": "なんて<br/>こと"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 11%;top: 72%;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 11%;top: 72%;border-radius: 0%;"
 	}
 	,{
 		"text": "一体何が<br/>起きてるの～～？"
-		,"style": "font-size:18px;color: black;background-color: white;left: 64%;top: 87%;"
+		,"style": "font-size:18px;color: black;background-color: white;left: 64%;top: 87%;border-radius: 0%;"
 	}
 ]

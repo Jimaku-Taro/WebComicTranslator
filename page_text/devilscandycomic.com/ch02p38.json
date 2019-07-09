@@ -1,10 +1,10 @@
 [
 	{
 		"text": "あっ"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 24%;top: 44%;"
+		,"style": "font-size: 17px;color: black;background-color: white;left: 24%;top: 44%;border-radius: 0%;"
 	}
 	,{
 		"text": "ヒドい!"
-		,"style": "font-size: 35px;color: black;background-color: white;left: 76%;top: 68.5%;"
+		,"style": "font-size: 35px;color: black;background-color: white;left: 76%;top: 68.5%;border-radius: 0%;"
 	}
 ]

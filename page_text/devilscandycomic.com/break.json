@@ -1,22 +1,22 @@
 [
 	{
 		"text": "小学校の頃は、ピュティアがアスモディアの面倒を見ていました、<br/>しかし高校に行く頃には、２人の関係は逆転していました。"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 22%;top: 8%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 22%;top: 8%;border-radius: 0%;"
 	}
 	,{
 		"text": "ピュティア<br/>(6)"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 13%;top: 36%;height: 63px;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 13%;top: 36%;height: 63px;border-radius: 0%;"
 	}
 	,{
 		"text": "アスモディア<br/>(6)"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 76%;top: 40%;height: 59px;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 76%;top: 40%;height: 59px;border-radius: 0%;"
 	}
 	,{
 		"text": "デビルズキャンディは12月26日、通常時間に再開予定です。<br/>運が良ければ、私達はその後日にショップ（本付き！）を<br/>開店します！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 18%;top: 77%;font-weight: bold;width: 535px;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 18%;top: 77%;font-weight: bold;width: 535px;border-radius: 0%;"
 	}
 	,{
 		"text": "両アカウントとも遅れてしまってすみません、<br/>しかし印刷の問題が本を遅らせ、<br/>突然の出来事でスケジュールが混乱してしまいました。<br/>全てがすぐに元に戻ることを願っています。"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 18%;top: 84%;font-weight: bold;width: 552px;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 18%;top: 84%;font-weight: bold;width: 552px;border-radius: 0%;"
 	}
 ]

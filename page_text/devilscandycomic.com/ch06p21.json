@@ -1,26 +1,26 @@
 [
 	{
 		"text": "アタイが<br/>クールか君が<br/>超ダサいだけ<br/>じゃない？"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 12.5%;top: 14%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 12.5%;top: 14%;border-radius: 0%;"
 	}
 	,{
 		"text": "要は、わざと<br/>弱くなるなんて<br/>何てバカなの?<br/>メイメイは<br/>彼の根性<br/>きっと嫌うわ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 25.5%;top: 17%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 25.5%;top: 17%;border-radius: 0%;"
 	}
 	,{
 		"text": "まぁ、<br/>とにかく。<br/>彼は最早<br/>路上のクッキー"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 16.5%;top: 32.5%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 16.5%;top: 32.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "さぁ<br/>ケンカ<br/>しましょ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 32%;top: 34%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 32%;top: 34%;border-radius: 0%;"
 	}
 	,{
 		"text": "怖がら<br/>ないで。<br/>戦いは<br/>楽しいわ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 50.8%;top: 31.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 50.8%;top: 31.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "いい<br/>パンチ<br/>頂戴。<br/>カモン"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 60.5%;top: 34.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 60.5%;top: 34.5%;border-radius: 0%;"
 	}
 ]

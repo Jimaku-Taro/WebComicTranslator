@@ -1,26 +1,26 @@
 [
 	{
 		"text": "あぐ!!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 50.8%;top: 20.5%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 50.8%;top: 20.5%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "よくやった、<br/>見事成功"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 59%;top: 18%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 59%;top: 18%;border-radius: 0%;"
 	}
 	,{
 		"text": "今はね"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 67.5%;top: 23%;"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 67.5%;top: 23%;border-radius: 0%;"
 	}
 	,{
 		"text": "負けたけど、<br/>とにかく！<br/>生きてる！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 28%;top: 59.4%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 28%;top: 59.4%;border-radius: 0%;"
 	}
 	,{
 		"text": "卵…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 60%;top: 61%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 60%;top: 61%;border-radius: 0%;"
 	}
 	,{
 		"text": "俺に<br/>触るな！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 78%;top: 83%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 78%;top: 83%;border-radius: 0%;"
 	}
 ]

@@ -1,42 +1,42 @@
 [
 	{
 		"text": "ハートに育つ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 74%;top: 5.5%;width: 152px;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 74%;top: 5.5%;width: 152px;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "この花は何だ？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 71.7%;top: 7%;width: 164px;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 71.7%;top: 7%;width: 164px;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "血を糧に、<br/>その爪は敵を引き裂く"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 70%;top: 9.5%;width: 175px;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 70%;top: 9.5%;width: 175px;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "悲しみの色に"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 10.1%;top: 45.2%;width: 89px;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 10.1%;top: 45.2%;width: 89px;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "染まり"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 5.5%;top: 46.5%;width: 139px;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 5.5%;top: 46.5%;width: 139px;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "無関心(アパシー)な<br/>顔に咲き"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 13%;top: 48.2%;width: 126px;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 13%;top: 48.2%;width: 126px;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "思いやり(シンパシー)"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 18%;top: 51.5%;width: 136px;font-weight: bold;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 18%;top: 51.5%;width: 136px;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "の光で輝く…"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 18%;top: 53%;width: 156px;font-weight: bold;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 18%;top: 53%;width: 156px;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "その花の名は正義!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 34%;top: 68%;width: 263px;font-weight: bold;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 34%;top: 68%;width: 263px;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "ぐぅ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 84.2%;top: 71%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 84.2%;top: 71%;font-weight: bold;border-radius: 0%;"
 	}
 ]

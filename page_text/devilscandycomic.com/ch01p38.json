@@ -1,38 +1,38 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">ガハッ!</span>"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 80%;top: 3%;width: 107px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 80%;top: 3%;width: 107px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
 	}
 	,{
 		"text": "うぐっ<br/>…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 48%;top: 57.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 48%;top: 57.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "痛て<br/>て"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 53%;top: 62.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 53%;top: 62.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "ハァ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 44.5%;top: 67%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 44.5%;top: 66.9%;border-radius: 20%;"
 	}
 	,{
 		"text": "ハァッ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 43.5%;top: 69.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 43.5%;top: 69.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "ニモ?!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 50%;top: 87%;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 50%;top: 87%;border-radius: 20%;"
 	}
 	,{
 		"text": "大丈夫<br/>かい？！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 53.5%;top: 91.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 53.5%;top: 91.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "心配すんな、<br/>俺が何とか<br/>する！"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 66%;top: 51.5%;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 66%;top: 51.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "でも…！"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 81%;top: 56.6%;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 81%;top: 56.6%;border-radius: 20%;"
 	}
 ]

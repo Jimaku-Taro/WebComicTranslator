@@ -1,22 +1,22 @@
 [
 	{
 		"text": "おー、次は<br/>アレをやる気<br/>なの？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 58%;top: 3%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 58%;top: 3%;border-radius: 0%;"
 	}
 	,{
 		"text": "アレ<br/>やって!<br/>アレ<br/>やって!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 72%;top: 3%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 72%;top: 3%;border-radius: 0%;"
 	}
 	,{
 		"text": "いいよ、私は<br/>見せたくないが<br/>選択肢はない<br/>ようだね"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 33%;top: 38.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 33%;top: 38.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "君達の微弱な<br/>感覚器官では<br/>不思議と<br/>見えないだろう、<br/>だがこの部屋は<br/>数インチ単位で<br/>私の計算下だ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 7.5%;top: 70%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 7.5%;top: 70%;border-radius: 0%;"
 	}
 	,{
 		"text": "私の攻撃速度も<br/>コースも<br/>含めてな…<br/>だがもう少し<br/>面白いことが<br/>起こる"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 72.2%;top: 74%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 72.2%;top: 74%;border-radius: 0%;"
 	}
 ]

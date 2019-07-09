@@ -1,26 +1,26 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">君はただの<br/>生物学の課題<br/>なんかじゃ<br/>ない！！</span>"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 18%;top: 5.5%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 18%;top: 5.5%;border-radius: 30%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">仲間になれぇぇ…</span>"
-		,"style": "font-size: 32px;color: black;background-color: white;left: 39%;top: 18%;width :283px;"
+		,"style": "font-size: 32px;color: black;background-color: white;left: 39%;top: 17.8%;width :283px;border-radius: 10%;"
 	}
 	,{
 		"text": "<span style=\"font-size: small;\">仲間になれ、<br/>デビライザー!</span>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 17%;top: 56%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 17%;top: 56%;border-radius: 20%;"
 	}
 	,{
 		"text": "その鎧の下の、<br/>お前は獣だ、<br/>私と同じだ！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 68.3%;top: 56.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 68.3%;top: 56.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "獣か…<br/>そうだ、<br/>多分<br/>そうだ<br/>ろう…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 15.5%;top: 71.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 15.5%;top: 71.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-size: large;font-weight: bold;\">だが俺は<br/>貴様とは<br/>違う！！</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 54.2%;top: 72%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 54.2%;top: 72%;border-radius: 20%;"
 	}
 ]

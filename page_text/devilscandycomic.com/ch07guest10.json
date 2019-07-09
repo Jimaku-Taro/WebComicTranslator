@@ -1,15 +1,15 @@
 [
 	{
 		"text": "約束は約束"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 38%;top: 5%;width: 206px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 38%;top: 5%;width: 206px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "<span>絵:<span style=\"color:#892E32;\">CosmicSpectrum</span></span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 26%;top: 7%;width: 218px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 26%;top: 7%;width: 218px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "話:REM"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 52%;top: 7%;width: 166px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 52%;top: 7%;width: 166px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "パンドラ!<br/>君に荷物が<br/>届いてるよ!"

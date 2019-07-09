@@ -1,27 +1,27 @@
 [
 	{
 		"text": "あなたの目だけに"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 38%;top: 5%;width: 206px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 38%;top: 5%;width: 206px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "<span>絵:<span style=\"color:#ff66c2;\">Z</span><span style=\"color:#e066ff;\">A</span><span style=\"color:#8566ff;\">M</span><span style=\"color:#66a3ff;\">B</span><span style=\"color:#66ffff;\">I</span><span style=\"color:#66d1ff;\">C</span><span style=\"color:#66a3ff;\">A</span><span style=\"color:#6675ff;\">N</span><span style=\"color:#8566ff;\">D</span><span style=\"color:#b366ff;\">Y</span></span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 26%;top: 7%;width: 218px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 26%;top: 7%;width: 218px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "話:BIKKURI"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 52%;top: 7%;width: 166px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 52%;top: 7%;width: 166px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "アタイ寂しいよメイメイ<br/>家に来てよぉぉぉ(╥_╥)"
-		,"style": "font-size: 10px;color: black;background-color: #FFE5BD;left: 29.5%;top: 14.5%;width: 134px;height: 33px;text-align: left;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 10px;color: black;background-color: #FFE5BD;left: 29.5%;top: 14.5%;width: 134px;height: 33px;text-align: left;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "あなたを守るわ<br/>ベイビー♡<br/>寂しい夜を<br/>乗り切れるものを<br/>送るわ ;^)"
-		,"style": "font-size: 10px;color: black;background-color: #FFE5BD;left: 56%;top: 33%;width: 102px;height: 75px;text-align: left;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 10px;color: black;background-color: #FFE5BD;left: 56%;top: 33%;width: 102px;height: 75px;text-align: left;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "私のお尻よ"
-		,"style": "font-size: 16px;color: black;background-color: #FFE5BD;left: 36%;top: 65%;width: 115px;height: 28px;text-align: left;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 16px;color: black;background-color: #FFE5BD;left: 36%;top: 65%;width: 115px;height: 28px;text-align: left;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "え～っと<br/>…???"

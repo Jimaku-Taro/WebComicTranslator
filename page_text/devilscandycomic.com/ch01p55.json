@@ -1,34 +1,34 @@
 [
 	{
 		"text": "<span style=\"font-size: x-large;font-weight: bold;\">す…<br/>すごいや、<br/>みんな！！</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 17%;top: 7.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 17%;top: 7.5%;border-radius: 20%;"
 	}
 	,{
-		"text": "<span style=\"font-size: x-large;font-weight: bold;\">バイオ<br/>モンスターを<br/>やつけた!!</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 50%;top: 8%;"
+		"text": "<span style=\"font-size: x-large;font-weight: bold;\">バイオ<br/>モンスターを<br/>たおした!!</span>"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 50%;top: 8%;border-radius: 50%;"
 	}
 	,{
 		"text": "ああ、<br/>オレはただ<br/>明日には別のと<br/>戦うハメに<br/>ならないことを<br/>望むよ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 76%;top: 9%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 76%;top: 9%;border-radius: 20%;"
 	}
 	,{
 		"text": "OK、<span style=\"font-weight: bold;\">今</span><br/>警察呼ぶよ。<br/>それと消防も。<br/>あと救急"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 25.5%;top: 55%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 25.5%;top: 55%;border-radius: 20%;"
 	}
 	,{
 		"text": "生物学の課題<br/>ダメにして<br/>ごめんね、<br/>ジャイロ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 42%;top: 60%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 42%;top: 60%;border-radius: 20%;"
 	}
 	,{
 		"text": "あたしは<br/>ハグされて<br/>ない…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 81.5%;top: 67%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 81.5%;top: 67%;border-radius: 20%;"
 	}
 	,{
 		"text": "あー<br/>…！"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 24%;top: 71.2%;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 24%;top: 70.7%;border-radius: 30%;"
 	}
 	,{
 		"text": "<span style=\"font-size: large;font-weight: bold;\">チャプター１：完</span>"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 79.5%;top: 95.5%;"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 79.5%;top: 95.5%;border-radius: 0%;"
 	}
 ]

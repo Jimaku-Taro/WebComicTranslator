@@ -1,50 +1,50 @@
 [
 	{
 		"text": "マイロ?"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 13%;top: 5%;font-weight: bold;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 13%;top: 5%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "えっと…<br/>家にいる?<br/>なんで<br/>暗いの…?"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 13.5%;top: 20%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 13.5%;top: 20%;border-radius: 0%;"
 	}
 	,{
 		"text": "ねぇ??"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 61%;top: 4.5%;"
+		,"style": "font-size: 17px;color: black;background-color: white;left: 61%;top: 4.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "うあっ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77.5%;top: 4%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77.5%;top: 4%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "マイロ!!"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 62%;top: 33%;font-weight: bold;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 62%;top: 33%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "グー……"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 12%;top: 53%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 12%;top: 53%;border-radius: 0%;"
 	}
 	,{
 		"text": "ふぅ…"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 35.4%;top: 76%;"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 35.4%;top: 76%;border-radius: 0%;"
 	}
 	,{
 		"text": "よかった。<br/>ここに<br/>いたんだ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 48%;top: 82.5%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 48%;top: 82.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "死んでない。<br/>それで<br/>十分だよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 48.5%;top: 89%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 48.5%;top: 89%;border-radius: 0%;"
 	}
 	,{
 		"text": "マーク<br/>と話せば<br/>全部分かる<br/>よね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 84.5%;top: 71%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 84.5%;top: 71%;border-radius: 0%;"
 	}
 	,{
 		"text": "誰…？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 65%;top: 82.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 65%;top: 82.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "シーッ"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 88.3%;top: 82.2%;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 88.3%;top: 82.2%;border-radius: 0%;"
 	}
 ]

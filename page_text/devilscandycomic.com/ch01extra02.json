@@ -1,74 +1,74 @@
 [
 	{
 		"text": "<span style=\"font-size: xx-large;font-weight: bold;\">ベッド タイム</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 15%;top: 10%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 15%;top: 10%;border-radius: 0%;"
 	}
 	,{
 		"text": "うわっ、<br/>もう<br/>こんな<br/>遅く！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 37.9%;top: 16%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 37.9%;top: 16%;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ベッド<br/>タイム</span>は<br/>どうすりゃ<br/>いい？！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 34%;top: 34.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 34%;top: 34.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "それに<br/>バスタイムも<br/>？！？"
-		,"style": "font-size: 16px;color: black;background-color: #938fb5;left: 34.5%;top: 43.5%;"
+		,"style": "font-size: 16px;color: black;background-color: #938fb5;left: 34.5%;top: 43.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "“女の子相手は恥ずかしい”"
-		,"style": "font-size: 16px;color: black;background-color: #adb5cb;left: 10%;top: 54.5%;transform: rotate(-5deg);"
+		,"style": "font-size: 16px;color: black;background-color: #adb5cb;left: 10%;top: 54.5%;transform: rotate(-5deg);border-radius: 20%;"
 	}
 	,{
 		"text": "“<span style=\"font-size: small;\">同棲<br/>メイド</span>”"
-		,"style": "font-size: 16px;color: black;background-color: #adb5cb;left: 26%;top: 56.5%;transform: rotate(10deg);"
+		,"style": "font-size: 16px;color: black;background-color: #adb5cb;left: 26%;top: 56.5%;transform: rotate(10deg);border-radius: 10%;"
 	}
 	,{
 		"text": "ううう！！<br/>ニモのバカ！<br/>想像しちゃう<br/>じゃない<br/>かぁぁぁぁぁ<br/>!!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 33.5%;top: 54%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 33.5%;top: 54%;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-size: small;\">“恋人をありあわせで<br/>作った”</span>"
-		,"style": "font-size: 16px;color: black;background-color: #adb5cb;left: 31%;top: 66.5%;transform: rotate(10deg);"
+		,"style": "font-size: 16px;color: black;background-color: #adb5cb;left: 31%;top: 66.5%;transform: rotate(10deg);border-radius: 20%;"
 	}
 	,{
 		"text": "パンドラ、<br/>どこで<br/>寝た…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 10%;top: 74%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 10%;top: 74%;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-size: small;\">あら！</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 37%;top: 76.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 37%;top: 76.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-size: xx-large;font-weight: bold;\">ショートカット</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 62%;top: 10%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 62%;top: 10%;border-radius: 30%;"
 	}
 	,{
 		"text": "彼女は…<br/>かなり…<br/>重い…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 56%;top: 16%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 56%;top: 16%;border-radius: 20%;"
 	}
 	,{
 		"text": "グーーーー"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 82.9%;top: 27.7%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 82.9%;top: 27.7%;border-radius: 20%;"
 	}
 	,{
 		"text": "でも彼女の<br/>初めての<br/>夜だ！<br/>ちゃんと<br/>ベッドに<br/>寝かせ<br/>ないと！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 55%;top: 36%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 55%;top: 36%;border-radius: 20%;"
 	}
 	,{
 		"text": "カズの家"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 56%;top: 54%;width: 129px;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 56%;top: 53.9%;width: 129px;border-radius: 20%;"
 	}
 	,{
 		"text": "スタート"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 53.2%;top: 66.2%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 53.2%;top: 66.2%;border-radius: 30%;"
 	}
 	,{
 		"text": "ゴール"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 81.5%;top: 55%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 81.5%;top: 55%;border-radius: 20%;"
 	}
 	,{
 		"text": "えぇ…"
-		,"style": "font-size: 12px;color: black;background-color: #938fb5;left: 82.3%;top: 70.1%;"
+		,"style": "font-size: 12px;color: black;background-color: #938fb5;left: 82.3%;top: 69.8%;border-radius: 30%;"
 	}
 ]

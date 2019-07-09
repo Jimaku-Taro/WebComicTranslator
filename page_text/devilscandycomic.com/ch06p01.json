@@ -1,18 +1,18 @@
 [
 	{
 		"text": "ステュクス<br/>キック!!!"
-		,"style": "font-size: 33px;color: black;background-color: white;left: 13%;top: 9%;font-weight: bold;transform: rotate(-9deg);"
+		,"style": "font-size: 33px;color: black;background-color: white;left: 13%;top: 9%;font-weight: bold;transform: rotate(-9deg);border-radius: 0%;"
 	}
 	,{
 		"text": "ギャアアアア!!<br/>"
-		,"style": "font-size: 28px;color: black;background-color: white;left: 34%;top: 34.5%;font-weight: bold;transform: rotate(13deg);"
+		,"style": "font-size: 28px;color: black;background-color: white;left: 34%;top: 34.5%;font-weight: bold;transform: rotate(13deg);border-radius: 0%;"
 	}
 	,{
 		"text": "はい、<br/>カット!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 59%;top: 72%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 59%;top: 72%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "5分<br/>休憩だ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 82.5%;top: 71.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 82.5%;top: 71.5%;border-radius: 0%;"
 	}
 ]

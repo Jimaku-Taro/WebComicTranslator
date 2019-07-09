@@ -1,22 +1,22 @@
 [
 	{
 		"text": "ごめんよー<br/>！！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 32.5%;top: 8%;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 32.5%;top: 8%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "さらば、<br/>チャーリー、<br/>最も気高い<br/>獣よ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 13%;top: 30%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 13%;top: 30%;border-radius: 0%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">とにかく…</span><br/>オレがここにいる以上<br/>最も価値ある脳を<br/><span style=\"font-weight: bold;\">浪ぉぉ費させるのは<br/>恥ずべきことだな…</span>"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 50%;top: 27.5%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 50%;top: 27.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "あっ、やぁ<br/>ヒトミ。<br/>歯医者の<br/>予約へ行って<br/>どうだった?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 48%;top: 66%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 48%;top: 66%;border-radius: 0%;"
 	}
 	,{
 		"text": "チャプター4：完"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 63.5%;top: 95%;border:solid 1px;font-weight: bold;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 63.5%;top: 95%;border:solid 1px;font-weight: bold;border-radius: 0%;"
 	}
 ]

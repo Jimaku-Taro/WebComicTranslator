@@ -1,10 +1,10 @@
 [
 	{
 		"text": "おい<br/>審判！<br/>何してる?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 46%;top: 36.7%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 46%;top: 36.7%;border-radius: 0%;"
 	}
 	,{
 		"text": "試合<br/>するぞ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 80%;top: 39%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 80%;top: 39%;border-radius: 0%;"
 	}
 ]

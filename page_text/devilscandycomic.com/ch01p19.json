@@ -1,42 +1,42 @@
 [
 	{
 		"text": "あたし何言ってるの?<br/>彼みたいな男の子が<br/>あたしみたいな醜い<br/>サイクロプス見て<br/>どうするのよ？"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 17.2%;top: 8.2%;width: 143px;height: 73px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 17.2%;top: 8.2%;width: 143px;height: 73px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
 	}
 	,{
 		"text": "お困りかぁぁぁい？"
-		,"style": "font-size: 16px;color: black;left: 40.5%;top: 7.7%;"
+		,"style": "font-size: 16px;color: black;left: 40.5%;top: 7.7%;border-radius: 0%;"
 	}
 	,{
 		"text": "おはよう、<br/>ジャイロ。<br/>大丈夫よ。<br/>考え事してた<br/>だけよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 65%;top: 10.5%;width: 96px;height: 88px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 65%;top: 10.5%;width: 96px;height: 88px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">カズゥゥゥ</span>のこと<br/>考えてたな?"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 13%;top: 45%;width: 120px;height: 73px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 13%;top: 45%;width: 120px;height: 73px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "いえ、<br/>その…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 57%;top: 46%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 57%;top: 46%;border-radius: 0%;"
 	}
 	,{
 		"text": "<span><span style=\"font-weight: bold;\">２つ目</span>の女の子</span>しか好きじゃ<br/>ないかって?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 72.5%;top: 45.5%;width: 125px;height: 89px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 72.5%;top: 45.5%;width: 125px;height: 89px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">彼がそう<br/>言ったの!?</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 13%;top: 64%;width: 125px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 13%;top: 64%;width: 125px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">そう<br/>だぜぇ</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 32.2%;top: 64.5%;"
+		,"style": "font-size: 17px;color: black;background-color: white;left: 32.2%;top: 64.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "２つ目に限らず<br/><span>３、４、５個<span style=\"font-weight: bold;\">以上</span></span>でもいいとよ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 64%;top: 68%;width: 112px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 64%;top: 68%;width: 112px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
 	}
 	,{
 		"text": "あたし…<br/>全然<br/>足りない"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 80%;top: 74.9%;width: 77px;height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 80%;top: 74.9%;width: 77px;height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

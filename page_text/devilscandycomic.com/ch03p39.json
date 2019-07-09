@@ -1,46 +1,46 @@
 [
 	{
 		"text": "センチネル達は、<br/><span style=\"font-weight: bold;\">苦痛の花道</span>の<br/>両側に配置され、<br/>通る者全てを<br/>次元間レーザー発射で<br/>審査するわ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 50%;top: 6%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 50%;top: 6%;border-radius: 0%;"
 	}
 	,{
 		"text": "優雅な参加者達は<br/>勇敢に試練に挑み<br/>服を保ち生き残れば、<br/>私達のパネルによる<br/>より安全な審査を<br/>受けられます"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 76%;top: 30.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 76%;top: 30.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "お兄様、<br/>今晩は肝臓を<br/>見られる？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 11%;top: 48.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 11%;top: 48.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "…何を<br/>見る？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 22.5%;top: 52%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 22.5%;top: 52%;border-radius: 0%;"
 	}
 	,{
 		"text": "センチネル達が<br/>“反転”にレーザーを<br/>設定しない限り<br/>哀れな子供達の<br/>体の内外が反転し<br/>内蔵は晒さん"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 38%;top: 49%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 38%;top: 49%;border-radius: 0%;"
 	}
 	,{
 		"text": "(美しいが、<br/>恐ろしく<br/>不適切だ)"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 41%;top: 60.5%;width: 90px;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 41%;top: 60.5%;width: 90px;border-radius: 0%;"
 	}
 	,{
 		"text": "ヘムロックの<br/><span style=\"font-weight: bold;\">大きく、脈打つ</span><br/>肝臓の方が<br/>見たいわ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 56.5%;top: 49%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 56.5%;top: 49%;border-radius: 0%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">私の肝臓が<br/>充血してる?!</span><br/>うわっ…鬱血性<br/>肝障害？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 49%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 49%;border-radius: 0%;"
 	}
 	,{
 		"text": "医者を<br/>呼ばな<br/>いと…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 84.5%;top: 58%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 84.5%;top: 58%;border-radius: 0%;"
 	}
 	,{
 		"text": "いえ、冗談よ。<br/>男の人にある<br/>大きな肝臓って<br/>わかるでしょ？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 9.5%;top: 71%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 9.5%;top: 71%;border-radius: 0%;"
 	}
 	,{
 		"text": "<span style=\"font-size: 32px;\">とにかく</span><br/>ショーを<br/>始めます!!!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 79.5%;top: 87%;font-weight: bold;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 79.5%;top: 87%;font-weight: bold;border-radius: 0%;"
 	}
 ]

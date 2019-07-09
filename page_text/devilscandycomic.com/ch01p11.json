@@ -1,34 +1,34 @@
 [
 	{
 		"text": "性同一性障害は<br/>許す、レディ・<br/>ダーク・ロード<br/>だが<span style=\"font-weight: bold;\">お前の<br/>心の悪</span>は<br/>許さん！"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 10.5%;top: 7%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 10.5%;top: 7%;border-radius: 10%;"
 	}
 	,{
 		"text": "そう言うがな、<br/>デビライザー、<br/>その鎧の下の、<br/>お前は獣だ、<br/>私と同じだ！"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 81%;top: 8%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 81%;top: 8%;border-radius: 10%;"
 	}
 	,{
 		"text": "仲間になれ<br/>デビライザー"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 7%;top: 40%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 7%;top: 40%;border-radius: 10%;"
 	}
 	,{
 		"text": "仲間になれ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 15%;top: 47%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 15%;top: 47%;border-radius: 10%;"
 	}
 	,{
 		"text": "仲間になれ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 73%;top: 43.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 73%;top: 43.5%;border-radius: 10%;"
 	}
 	,{
 		"text": "獣か…<br/>そうだ、<br/>多分そう<br/>だろう…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 9%;top: 58%;width: 68px;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 9%;top: 58%;width: 68px;border-radius: 10%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">…だが俺は<br/>貴様とは違う！</span><br/>俺の<ruby>顎門<rp>(</rp><rt>あぎと</rt><rp>)</rp></ruby>は<br/>正義のために<br/>のみ飢える！"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 15%;top: 64.5%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 15%;top: 64.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "俺の爪は<br/>世界を覆う闇の<br/>血まみれの腸から<br/>希望の光を<br/>解き放つために<br/>のみ切り裂く！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 76%;top: 60.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 76%;top: 60.5%;border-radius: 20%;"
 	}
 ]

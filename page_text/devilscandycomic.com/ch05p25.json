@@ -1,42 +1,42 @@
 [
 	{
 		"text": "早く来てる、<br/>でもクールに<br/>見せようと<br/>してる"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 30%;top: 5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 30%;top: 5%;border-radius: 0%;"
 	}
 	,{
 		"text": "ぼくに<br/>気づいた!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 50%;top: 7%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 50%;top: 7%;border-radius: 0%;"
 	}
 	,{
 		"text": "…でもまた<br/>クールに<br/>見せに<br/>戻った"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 60%;top: 6%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 60%;top: 6%;border-radius: 0%;"
 	}
 	,{
 		"text": "OK、<br/>立場を逆転<br/>させる時よ、<br/><span style=\"font-weight: bold;\">グレーテル<br/>スタイルで!</span>"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 81.5%;top: 5%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 81.5%;top: 5%;border-radius: 0%;"
 	}
 	,{
 		"text": "だーれだ、<br/>こん畜生!?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 14%;top: 36.5%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 14%;top: 36.5%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "グラックル?"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 62%;top: 43%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 62%;top: 43%;border-radius: 0%;"
 	}
 	,{
 		"text": "じ…十分<br/>近いかな"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 84%;top: 49%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 84%;top: 49%;border-radius: 0%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ブワッ<br/>ホー ホー！</span><br/>優雅な美女<br/>だと思ったか、<br/>本当の私は<br/>情緒不安定な<br/>狂人よ！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 12.5%;top: 63%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 12.5%;top: 63%;border-radius: 0%;"
 	}
 	,{
 		"text": "ラカップスは<br/>オレが書いた<br/>歌のこと<br/>言ってるの？"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 57.5%;top: 63.3%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 57.5%;top: 63.3%;border-radius: 0%;"
 	}
 	,{
 		"text": "“ラカップス”!?<br/>ぼくのこと？<br/>何でそんなに名前<br/>覚えるの苦手！？"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 74%;top: 63.5%;font-weight: bold;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 74%;top: 63.5%;font-weight: bold;border-radius: 0%;"
 	}
 ]

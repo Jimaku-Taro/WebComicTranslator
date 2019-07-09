@@ -1,18 +1,18 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">スゲェな、おい!</span><br/>お前本当に<br/>作り方知って<br/>んだよな…<br/>アレの！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 13.5%;top: 31.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 13.5%;top: 31.5%;border-radius: 20%;"
 	}
 	,{
-		"text": "あー、その、<br/>ありがと。<br/><span style=\"font-weight: bold;\">でも、ねぇ！<br/>彼女は<br/>物じゃない<br/>って！！</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 27.5%;top: 34%;"
+		"text": "えっと、<br/>ありがと。<br/><span style=\"font-weight: bold;\">でも、ねぇ！<br/>彼女は<br/>物じゃない<br/>って！！</span>"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 27.5%;top: 34%;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">気をつけろ、<br/>キラー！</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 70%;top: 65.5%;height: 49px;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 70%;top: 65.5%;height: 49px;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">その呼び方<br/>やめて！！</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 68%;top: 72%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 68%;top: 72%;border-radius: 20%;"
 	}
 ]

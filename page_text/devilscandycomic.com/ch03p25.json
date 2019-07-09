@@ -1,38 +1,38 @@
 [
 	{
 		"text": "おはよう<br/>ございます!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 52%;top: 33.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 52%;top: 33.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "仕事は<br/>どうです?<br/>家族は?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 81%;top: 35%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 81%;top: 35%;border-radius: 0%;"
 	}
 	,{
 		"text": "ごめん<br/>スケルトンは<br/>喋れないの<br/>忘れてた…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 13%;top: 71%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 13%;top: 71%;border-radius: 0%;"
 	}
 	,{
 		"text": "それに君は<br/>死んでて、<br/>多分…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 25%;top: 73%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 25%;top: 73%;border-radius: 0%;"
 	}
 	,{
 		"text": "その…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 44%;top: 65.9%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 44%;top: 65.9%;border-radius: 0%;"
 	}
 	,{
 		"text": "気に<br/>しないで"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 52.7%;top: 84%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 52.7%;top: 84%;border-radius: 0%;"
 	}
 	,{
 		"text": "僕は…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 74.3%;top: 64%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 74.3%;top: 64%;border-radius: 0%;"
 	}
 	,{
 		"text": "落ち込むのは<br/>やめて荷物に<br/>サインするよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 80%;top: 65%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 80%;top: 65%;border-radius: 0%;"
 	}
 	,{
 		"text": "何して<br/>んだ僕?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 84.7%;top: 71.3%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 84.7%;top: 71.3%;border-radius: 0%;"
 	}
 ]

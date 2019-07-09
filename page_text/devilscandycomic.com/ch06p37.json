@@ -1,14 +1,14 @@
 [
 	{
 		"text": "ウザい"
-		,"style": "font-size: 19px;color: black;background-color: white;left: 85.5%;top: 7.5%;"
+		,"style": "font-size: 19px;color: black;background-color: white;left: 85.5%;top: 7.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "邪魔者め<br/>アタイの<br/>時間を無駄に<br/>するなんて<br/>信じらんない"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 24%;top: 61.5%;width: 95px;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 24%;top: 61.5%;width: 95px;border-radius: 0%;"
 	}
 	,{
 		"text": "君の<br/>無価値な頭は<br/>彼の頭の横に<br/>置いてあげる"
-		,"style": "font-size: 16.5px;color: black;background-color: white;left: 80.4%;top: 85%;font-weight: bold;"
+		,"style": "font-size: 16.5px;color: black;background-color: white;left: 80.4%;top: 85%;font-weight: bold;border-radius: 0%;"
 	}
 ]

@@ -1,14 +1,14 @@
 [
 	{
 		"text": "ハッ!"
-		,"style": "font-size: 36px;color: black;background-color: white;left: 19%;top: 7.2%;font-weight: bold;"
+		,"style": "font-size: 36px;color: black;background-color: white;left: 19%;top: 7.2%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "毎回…"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 32%;top: 63.5%;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 32%;top: 63.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "毎回…!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 68.5%;top: 63.5%;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 68.5%;top: 63.5%;border-radius: 0%;"
 	}
 ]

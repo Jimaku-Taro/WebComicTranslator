@@ -21,11 +21,11 @@
 	}
 	,{
 		"text": "初視聴の方に<br/>説明すると…<br/>挑戦者が進むのは<span style=\"font-weight: bold;\">忍者地獄コース、</span><span><span style=\"font-weight: bold;\">忍者地獄</span>の火中で作られ</span><span style=\"font-weight: bold;\">地獄へ堕ちたヘル忍者</span>によって現れました!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 14.5%;top: 52%;width: 158px;height: 182px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 14.5%;top: 52%;width: 158px;height: 182px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "*忍者地獄は本物ではありません。<br/>マネしないで下さい。"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 17%;top: 76%;width: 291px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 17%;top: 76%;width: 291px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "ゴールにあるのは<br/>羨望の忍者クラウン、<br/>冠する称号は<span style=\"font-weight: bold;\">ニンジャルティメット!</span>"

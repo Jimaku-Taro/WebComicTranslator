@@ -1,26 +1,26 @@
 [
 	{
 		"text": "OK、<br/>まず第一<br/>にだな…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 80%;top: 6%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 80%;top: 6%;border-radius: 0%;"
 	}
 	,{
 		"text": "来て<br/>るよ!"
-		,"style": "font-size: 33px;color: black;background-color: white;left: 39%;top: 35%;font-weight: bold;"
+		,"style": "font-size: 33px;color: black;background-color: white;left: 39%;top: 35%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "あぐっ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 41.5%;top: 54%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 41.5%;top: 54%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "しっっ<br/>れぇぇい"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 33%;top: 67.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 33%;top: 67.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "いや…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 84.5%;top: 81%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 84.5%;top: 81%;border-radius: 0%;"
 	}
 	,{
 		"text": "まだだ…!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 88.5%;top: 86.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 88.5%;top: 86.5%;border-radius: 0%;"
 	}
 ]

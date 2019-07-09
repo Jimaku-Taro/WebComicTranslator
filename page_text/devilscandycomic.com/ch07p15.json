@@ -5,15 +5,15 @@
 	}
 	,{
 		"text": "奴らの所で<br/>働いてるのに<br/>奴ら住所<br/>知らねぇの?"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 41%;top: 1.8%;width: 92px;height: 86px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 41%;top: 1.8%;width: 92px;height: 86px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "あぁうん、彼らは都心に<br/>高級住宅を用意したけど<br/>この場所は彼らが<br/>くれる僅かなお金で<br/>僕が用意したんだ"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 56%;top: 2.5%;width: 133px;height: 89px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 56%;top: 2.5%;width: 133px;height: 89px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">何ですってぇぇ!?</span>普通の家があるのに<br/>こんなボロに<br/>住んでるの!?<span style=\"font-weight: bold;\">何でよ?</span>"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 81%;top: 4%;width: 108px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 81%;top: 4%;width: 108px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ただ…"
@@ -29,11 +29,11 @@
 	}
 	,{
 		"text": "どういうこと?<br/>この人君の<br/>パパか何か?<br/>麻薬売った金で<br/>同棲してるの?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 76%;top: 29.5%;width: 121px;height: 102px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 76%;top: 29.5%;width: 121px;height: 102px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "黙れ<br/>ヤギー"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 79%;top: 39.5%;width: 72px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 79%;top: 39.5%;width: 72px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "あの、カズ…<br/>大丈夫？<br/>ここ来てから<br/>一言も喋って<br/>ないけど"

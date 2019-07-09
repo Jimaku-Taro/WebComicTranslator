@@ -1,26 +1,26 @@
 [
 	{
 		"text": "悪役達が次に<br/>何をしたのか？"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 37.5%;top: 5%;width: 210px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 37.5%;top: 5%;width: 210px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "トレモロは怒り狂い<br/>自分の店をさらに荒らした"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 35%;top: 10%;width: 260px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 35%;top: 10%;width: 260px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;border-radius: 0%;"
 	}
 	,{
 		"text": "ストラツィオは病院行き"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 35%;top: 32%;width: 221px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 35%;top: 32%;width: 221px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;border-radius: 0%;"
 	}
 	,{
 		"text": "メティアは電話を新調した"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 38%;top: 53.3%;width: 204px;height: 24px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 38%;top: 53.3%;width: 204px;height: 24px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;border-radius: 0%;"
 	}
 	,{
 		"text": "2つ<br/>取った!"
-		,"style": "font-size: 14px;color: black;background-color: #F6E8F0;left: 50%;top: 55.5%;width: 57px;height: 35px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: black;background-color: #F6E8F0;left: 50%;top: 55.5%;width: 57px;height: 35px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ピアは路上でお昼寝"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 36.5%;top: 75%;width: 210px;height: 25px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 36.5%;top: 75%;width: 210px;height: 25px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;border-radius: 0%;"
 	}
 ]

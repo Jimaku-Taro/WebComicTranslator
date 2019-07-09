@@ -17,7 +17,7 @@
 	}
 	,{
 		"text": "この話は<br/>聞いた<br/>ことある"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 23.5%;top: 40%;width: 82px;height: 52px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;transform: rotate(-20deg);"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 23.5%;top: 40%;width: 82px;height: 52px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;transform: rotate(-20deg);border-radius: 0%;"
 	}
 	,{
 		"text": "ママ、オレに<br/>恥かかせ<br/>ないで…"

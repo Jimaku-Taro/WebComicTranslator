@@ -1,54 +1,54 @@
 [
 	{
 		"text": "何で<br/>お前…<br/>なぜ…?!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 12%;top: 5%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 12%;top: 5%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "どうして<br/>!?!?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 21.5%;top: 8%;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 21.5%;top: 8%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "わぁ、僕達<br/>オシャレ<br/>だね？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 35%;top: 5.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 35%;top: 5.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "俺の柄<br/>じゃあねえよ！<br/>これじゃ<br/><span style=\"font-weight: bold;\">扮装だ！</span>"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 49%;top: 5%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 49%;top: 5%;border-radius: 0%;"
 	}
 	,{
 		"text": "オシャレな<br/>人に？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 67%;top: 6%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 67%;top: 6%;border-radius: 0%;"
 	}
 	,{
 		"text": "怒りで<br/>言葉もねぇ。<br/>静かな怒り<br/>だけだ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 79%;top: 5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 79%;top: 5%;border-radius: 0%;"
 	}
 	,{
 		"text": "カズーーー！"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 72%;top: 28%;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 72%;top: 28%;border-radius: 0%;"
 	}
 	,{
 		"text": "ふうっ！<br/>間に<br/>合った！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 6%;top: 36%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 6%;top: 36%;border-radius: 0%;"
 	}
 	,{
 		"text": "徹夜<br/>だったわ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 25%;top: 57.7%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 25%;top: 57.7%;border-radius: 0%;"
 	}
 	,{
 		"text": "わあ、<br/>パンドラ、<br/>とっても<br/>魅力的だよ！"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 68%;top: 35.5%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 68%;top: 35.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "僕の<br/>服はどう、<br/>ねぇ?ねぇ?"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 79.5%;top: 39%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 79.5%;top: 39%;border-radius: 0%;"
 	}
 	,{
 		"text": "今だ、<br/>撤退の<br/>時だ！"
-		,"style": "font-size: 14.2px;color: black;background-color: white;left: 82.4%;top: 63%;"
+		,"style": "font-size: 14.2px;color: black;background-color: white;left: 82.4%;top: 63%;border-radius: 0%;"
 	}
 	,{
 		"text": "何を私のこと<br/>喋ってるの!?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 82.6%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 82.6%;border-radius: 0%;"
 	}
 ]

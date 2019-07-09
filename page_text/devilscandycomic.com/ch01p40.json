@@ -1,26 +1,26 @@
 [
 	{
 		"text": "効いて<br/>ない！"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 12.5%;top: 33%;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 12.5%;top: 33%;border-radius: 20%;"
 	}
 	,{
 		"text": "効いてない<br/>ってどういう<br/>意味だ？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 11.7%;top: 58.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 11.7%;top: 58.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "黙らせ<br/>ただろ？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 19%;top: 63.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 19.1%;top: 63.3%;border-radius: 10%;"
 	}
 	,{
 		"text": "そうじゃ<br/>なくて…"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 28%;top: 65%;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 28%;top: 65%;border-radius: 20%;"
 	}
 	,{
 		"text": "もしお前の<br/>生物の課題が<br/>吸収されたら<br/>どうすれば<br/>いいんだ？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 76%;top: 40.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 76%;top: 40.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ああっ!<br/>パンドラ!!</span>"
-		,"style": "font-size: 22px;color: black;background-color: white;left: 78%;top: 76%;"
+		,"style": "font-size: 22px;color: black;background-color: white;left: 78%;top: 76%;border-radius: 20%;"
 	}
 ]

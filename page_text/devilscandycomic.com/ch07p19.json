@@ -41,7 +41,7 @@
 	}
 	,{
 		"text": "本当…?"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 87.6%;top: 37%;width: 54px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 87.6%;top: 37%;width: 54px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "“…私を<br/>創った”<br/>…?"

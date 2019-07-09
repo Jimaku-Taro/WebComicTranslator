@@ -1,26 +1,26 @@
 [
 	{
 		"text": "やぁ　みんな！"
-		,"style": "font-size: 47px;color: black;background-color: #cacaca;left: 17%;top: 6%;font-weight: bold;"
+		,"style": "font-size: 47px;color: black;background-color: #cacaca;left: 17%;top: 6%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "デビルズキャンディは<br/>日曜の夜<br/>いつもの時間に再開するよ、<br/>でもその前に、<br/>ニュヨーク コミコン、<br/>ブース U-7で会おう！"
-		,"style": "font-size: 14px;color: black;background-color: #cacaca;left: 17%;top: 13%;text-align: left;width: 226px;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: #cacaca;left: 17%;top: 13%;text-align: left;width: 226px;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "デビルズキャンディを<br/>印刷した<br/>本物の紙上の本を<br/>販売するよ。"
-		,"style": "font-size: 14px;color: black;background-color: #cacaca;left: 17%;top: 24.2%;text-align: left;width: 211px;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: #cacaca;left: 17%;top: 24.2%;text-align: left;width: 211px;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "最初の本の<br/>コミコンに<br/>来れない人達も、<br/>心配ご無用。<br/>コンベンションの後<br/>オンライン注文を<br/>できるだけ早く<br/>オープンするよ。<br/>関連ステッカーも<br/>あるかも！"
-		,"style": "font-size: 14px;color: black;background-color: #cacaca;left: 17%;top: 32%;text-align: left;width: 225px;font-weight: bold;"
+		,"style": "font-size: 14px;color: black;background-color: #cacaca;left: 17%;top: 32%;text-align: left;width: 225px;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "読んでくれてありがとう！！"
-		,"style": "font-size: 17px;color: black;background-color: #cacaca;left: 17%;top: 49.8%;text-align: left;font-weight: bold;"
+		,"style": "font-size: 17px;color: black;background-color: #cacaca;left: 17%;top: 49.8%;text-align: left;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "--REM"
-		,"style": "font-size: 19px;color: black;background-color: #cecece;left: 17%;top: 53%;text-align: left;width: 81px;font-weight: bold;"
+		,"style": "font-size: 19px;color: black;background-color: #cecece;left: 17%;top: 53%;text-align: left;width: 81px;font-weight: bold;border-radius: 0%;"
 	}
 ]

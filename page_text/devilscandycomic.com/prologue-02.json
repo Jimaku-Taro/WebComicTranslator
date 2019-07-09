@@ -1,14 +1,14 @@
 [
 	{
 		"text": "鏡を見る時、<br/>我らは見る<br/>喜びと共に受け入れた<br/>残忍な姿を持つ生き物達を"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 38%;top: 33%;"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 38%;top: 33%;border-radius: 0%;"
 	}
 	,{
 		"text": "引き裂くための爪、飛び立つための翼<br/>噛むための牙、突き刺すための角"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 35%;top: 41.5%;"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 35%;top: 41.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "夜を見通すための<br/>明るく輝く目、<br/>全てに恐怖を与えるための<br/>長く、鞭打つ尻尾"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 35%;top: 47%;"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 35%;top: 47%;border-radius: 0%;"
 	}
 ]

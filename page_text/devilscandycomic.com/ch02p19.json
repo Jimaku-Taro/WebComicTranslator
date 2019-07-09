@@ -1,22 +1,22 @@
 [
 	{
 		"text": "くあっ!"
-		,"style": "font-size: 40px;color: black;background-color: white;left: 73%;top: 47.5%;font-weight: bold;width: 141px; line-height: 86px;"
+		,"style": "font-size: 40px;color: black;background-color: white;left: 73%;top: 47.5%;font-weight: bold;width: 141px; line-height: 86px;border-radius: 0%;"
 	}
 	,{
 		"text": "ようこそ、<br/>科学の者"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 40%;top: 61%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 40%;top: 61%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "ようこそ、<br/>科学の者"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 46%;top: 69%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 46%;top: 69%;border-radius: 0%;"
 	}
 	,{
 		"text": "ようこそ、<br/>科学の者"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 75.3%;top: 62%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 75.3%;top: 62%;border-radius: 0%;"
 	}
 	,{
 		"text": "ようこそ、<br/>科学の者"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 70.5%;top: 68%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 70.5%;top: 68%;border-radius: 0%;"
 	}
 ]

@@ -1,19 +1,19 @@
 [
 	{
 		"text": "暴行"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 44%;top: 5%;width: 105px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 44%;top: 5%;width: 105px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "絵:reetz@alphasasuke"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 26%;top: 7%;width: 208px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 26%;top: 7%;width: 208px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "話:BIKKURI"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 52%;top: 7%;width: 166px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 52%;top: 7%;width: 166px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "パンドラが<br/>襲われた?!<br/>暴行だろ!<br/>警察呼べよ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 29%;top: 11.5%;width: 93px;height: 140px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 29%;top: 11.5%;width: 93px;height: 140px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "なぜ警察を?<br/>また問題<br/>ですか?"
@@ -21,7 +21,7 @@
 	}
 	,{
 		"text": "いえいえ!言葉の綾です!<br/>“わぁニモ、それ警察呼ばなくて<br/>いいの?”みたいな"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 33%;top: 53.5%;width: 283px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 33%;top: 53.5%;width: 283px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "それは面白い!<br/>子供は創造性<br/>豊かですね!"

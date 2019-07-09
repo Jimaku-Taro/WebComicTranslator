@@ -1,10 +1,10 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">見よ、究極の<br/>第９グレード<br/>バイオ<br/>プロジェクト…</span>"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 11.5%;top: 16.5%;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 11.5%;top: 16.5%;border-radius: 10%;"
 	}
 	,{
 		"text": "究極の<br/><span style=\"font-weight: bold;\">女性！！</span>"
-		,"style": "font-size: 38px;color: black;background-color: white;left: 71%;top: 28%;"
+		,"style": "font-size: 38px;color: black;background-color: white;left: 71%;top: 28%;border-radius: 10%;"
 	}
 ]

@@ -1,30 +1,30 @@
 [
 	{
 		"text": "また<br/>私の事<br/>喋ってる<br/>のね？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 14%;top: 6%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 14%;top: 6%;border-radius: 0%;"
 	}
 	,{
 		"text": "誰に<br/>言ってるか?<br/>もちろん<br/>あなた達よ!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 45.5%;top: 16%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 45.5%;top: 16%;border-radius: 0%;"
 	}
 	,{
 		"text": "わかる、わかるわ、<br/>私はあなた達の<br/>暗く小さな生活の<br/>唯一の光、<br/>でも私の噂話を<br/><span style=\"font-weight: bold;\">ずっと</span>する<br/>必要ある？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 67.5%;top: 4.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 67.5%;top: 4.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "だと<br/><span style=\"font-weight: bold;\">いいね</span>"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 13%;top: 60%;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 13%;top: 60%;border-radius: 0%;"
 	}
 	,{
 		"text": "だけど、もし熱烈で、<br/>でも礼儀正しい論争を<br/>君が探してるなら、<br/>僕はいくつか言葉を<br/>思いつくよ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 23%;top: 60.5%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 23%;top: 60.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "カズ、大丈夫よ。<br/>席に行ってて。<br/>この場は<br/>まかせて"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 48.5%;top: 64.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 48.5%;top: 64.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "き…<br/>君は<br/>本当に…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 69%;top: 62%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 69%;top: 62%;border-radius: 0%;"
 	}
 ]

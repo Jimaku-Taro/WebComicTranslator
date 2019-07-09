@@ -1,42 +1,42 @@
 [
 	{
 		"text": "なぁ、<br/>おい"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 21.5%;top: 23.5%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 21.5%;top: 23.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "チャンス<br/>だぜ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 40.5%;top: 19%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 40.5%;top: 19%;border-radius: 0%;"
 	}
 	,{
 		"text": "彼女に<br/>キスしろ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 41.5%;top: 25%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 41.5%;top: 25%;border-radius: 0%;"
 	}
 	,{
 		"text": "う、うん…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 80%;top: 26%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 80%;top: 26%;border-radius: 0%;"
 	}
 	,{
 		"text": "わ…<br/>わぁ"
-		,"style": "font-size:22px;color: black;background-color: white;left: 24%;top: 56%;"
+		,"style": "font-size:22px;color: black;background-color: white;left: 24%;top: 56%;border-radius: 0%;"
 	}
 	,{
 		"text": "ここで<br/>情熱的なこと<br/>する気？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 29%;top: 82%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 29%;top: 82%;border-radius: 0%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ニンジャルティメット<br/>ニンジャリミネイ<br/>ション チャレンジ</span><br/>と同じ位情熱的ね"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 51%;top: 67.5%;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 51%;top: 67.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "な…<br/>な…！？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 50.5%;top: 77.8%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 50.5%;top: 77.8%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "ア！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 82.8%;top: 64.5%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 82.8%;top: 64.5%;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "ワ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 89%;top: 84.4%;font-weight: bold;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 89%;top: 84.4%;font-weight: bold;border-radius: 0%;"
 	}
 ]
