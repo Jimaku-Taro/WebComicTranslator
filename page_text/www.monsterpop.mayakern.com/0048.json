@@ -1,18 +1,18 @@
 [
 	{
 		"text": "ええっ<br/>わ…私も<br/>好きよ!!!"
-		,"style": "font-size: 13px;color: #5C4E27;background-color: #F7EE6A;left: 52px;top: 29px;width: 85px; height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 13px;color: #5C4E27;background-color: #F7EE6A;left: 52px;top: 29px;width: 85px; height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
 	}
 	,{
 		"text": "あの、その<span style=\"font-weight: bold;font-size: 25px;\">はい!</span>"
-		,"style": "font-size: 14px;color: #5C4E27;background-color: #F7EE6A;left: 282px;top: 369px;width: 81px; height: 68px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #5C4E27;background-color: #F7EE6A;left: 282px;top: 369px;width: 81px; height: 68px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
 	}
 	,{
 		"text": "でも私<br/>言うことが…"
-		,"style": "font-size: 14px;color: #5C4E27;background-color: #F7EE6A;left: 396px;top: 37px;width: 123px; height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #5C4E27;background-color: #F7EE6A;left: 396px;top: 37px;width: 123px; height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
 	}
 	,{
 		"text": "その…あぁ…"
-		,"style": "font-size: 20px;color: #5C4E27;background-color: #F7EE6A;left: 605px;top: 419px;width: 130px; height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 20px;color: #5C4E27;background-color: #F7EE6A;left: 605px;top: 419px;width: 130px; height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 20%;"
 	}
 ]

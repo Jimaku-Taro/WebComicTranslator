@@ -1,14 +1,14 @@
 [
 	{
 		"text": "遅れてなきゃ<br/>いいんだけど!<br/>少し迷って"
-		,"style": "font-size: 14px;color: #785628;background-color: #FCF26C;left: 177px;top: 10px;width: 110px; height: 68px;text-align: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #785628;background-color: #FCF26C;left: 177px;top: 10px;width: 110px; height: 68px;text-align: center;border-radius: 40%;"
 	}
 	,{
 		"text": "大丈夫さ!<br/>来てくれて<br/>嬉しいよ"
-		,"style": "font-size: 14px;color: #764123;background-color: #F7B367;left: 628px;top: 59px;width: 133px; height: 51px;text-align: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #764123;background-color: #F7B367;left: 628px;top: 59px;width: 133px; height: 51px;text-align: center;border-radius: 30%;"
 	}
 	,{
 		"text": "あなたは<br/>最高の友達よ<br/>愛してる!!"
-		,"style": "font-size: 14px;color: #785628;background-color: #FCF26C;left: 513px;top: 411px;width: 133px; height: 69px;text-align: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #785628;background-color: #FCF26C;left: 513px;top: 411px;width: 133px; height: 69px;text-align: center;border-radius: 30%;"
 	}
 ]

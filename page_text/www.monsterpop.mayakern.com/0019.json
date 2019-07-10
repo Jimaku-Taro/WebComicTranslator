@@ -1,14 +1,14 @@
 [
 	{
 		"text": "で…俺達は<br/>不思議に<br/>思うんだ…"
-		,"style": "font-size: 14px;color: #5E2A1B;background-color: #EF844E;left: 31px;top: 225px;width: 80px; height: 50px;text-align: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #5E2A1B;background-color: #EF844E;left: 31px;top: 225px;width: 80px; height: 50px;text-align: center;border-radius: 20%;"
 	}
 	,{
 		"text": "アミティ高は<br/>どんな感じ?<br/>モンスターと一緒の<br/>学校ってさ…"
-		,"style": "font-size: 14px;color: #5E2A1B;background-color: #EF844E;left: 27px;top: 294px;width: 133px; height: 67px;text-align: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #5E2A1B;background-color: #EF844E;left: 27px;top: 294px;width: 133px; height: 67px;text-align: center;border-radius: 30%;"
 	}
 	,{
 		"text": "変じゃないか?<br/>授業全部一緒なわけ?<br/>同じこと学ぶ必要なくね?<br/>鱗洗ったり空飛んだりさ"
-		,"style": "font-size: 14px;color: #5E2A1B;background-color: #EF844E;left: 498px;top: 64px;width: 190px; height: 149px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 16px;color: #5E2A1B;background-color: #EF844E;left: 498px;top: 64px;width: 190px; height: 149px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
 	}
 ]

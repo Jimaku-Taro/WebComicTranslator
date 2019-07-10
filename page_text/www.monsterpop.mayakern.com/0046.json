@@ -5,10 +5,10 @@
 	}
 	,{
 		"text": "ねぇ話が<br/>あるんだけど"
-		,"style": "font-size: 14px;color: #524322;background-color: #FEF670;left: 625px;top: 261px;width: 123px; height: 52px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #524322;background-color: #FEF670;left: 625px;top: 261px;width: 123px; height: 52px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
 	}
 	,{
 		"text": "そりゃいい<br/>俺もさ"
-		,"style": "font-size: 14px;color: #6D3D25;background-color: #F1935B;left: 641px;top: 380px;width: 85px; height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #6D3D25;background-color: #F1935B;left: 641px;top: 380px;width: 85px; height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
 	}
 ]

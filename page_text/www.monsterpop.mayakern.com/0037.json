@@ -1,6 +1,6 @@
 [
 	{
-		"text": "ジョージ!!"
-		,"style": "font-size: 60px;color: #060606;background-color: #7059A2;left: 35px;top: 149px;font-weight: bold;transform: rotate(-30deg);border-radius: 0%;"
+		"text": "ジョージ!"
+		,"style": "font-size: 55px;color: #060606;background-color: #7059A2;left: 35px;top: 145px;width: 270px;height:140px;;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;transform: rotate(-30deg);border-radius: 50%;"
 	}
 ]

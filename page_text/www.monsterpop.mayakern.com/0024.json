@@ -1,14 +1,14 @@
 [
 	{
 		"text": "ジョージ<br/>行くわよ"
-		,"style": "font-size: 16px;color: #482C5A1;background-color: #D1AFD0;left: 205px;top: 32px;width: 96px; height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 16px;color: #482C5A1;background-color: #D1AFD0;left: 205px;top: 32px;width: 96px; height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
 	}
 	,{
 		"text": "うううぐぐぐぐうぅ!!!!!!"
-		,"style": "font-size: 16px;color: #3A224E;background-color: #A982B7;left: 402px;top: 25px;width: 191px; height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 16px;color: #3A224E;background-color: #A982B7;left: 402px;top: 25px;width: 191px; height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
 	}
 	,{
 		"text": "あいつら<br/><span style=\"font-weight: bold;\">ヒドイ!!</span>"
-		,"style": "font-size: 16px;color: #482D58;background-color: #CA86B5;left: 594px;top: 301px;width: 127px; height: 40px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 16px;color: #482D58;background-color: #CA86B5;left: 594px;top: 301px;width: 127px; height: 40px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
 	}
 ]

@@ -1,14 +1,14 @@
 [
 	{
 		"text": "モンスターは全員<br/>嘘つきで人を騙し<br/>傷つける!!"
-		,"style": "font-size: 14px;color: #70291D;background-color: #ED7636;left: 108px;top: 9px;width: 138px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #70291D;background-color: #ED7636;left: 108px;top: 9px;width: 138px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
 	}
 	,{
 		"text": "君も<br/>違わない…"
-		,"style": "font-size: 14px;color: #70291D;background-color: #ED7636;left: 431px;top: 39px;width: 99px;height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #70291D;background-color: #ED7636;left: 431px;top: 39px;width: 99px;height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
 	}
 	,{
 		"text": "君は<br/>俺を<br/>騙した!!"
-		,"style": "font-size: 14px;color: #70291D;background-color: #ED7636;left: 703px;top: 409px;width: 58px;height: 55px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #70291D;background-color: #ED7636;left: 703px;top: 409px;width: 58px;height: 55px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
 	}
 ]

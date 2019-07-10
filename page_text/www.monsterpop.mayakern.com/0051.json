@@ -1,22 +1,22 @@
 [
 	{
 		"text": "モ"
-		,"style": "font-size: 18px;color: #511316;background-color: #EA5447;left: 29px;top: 29px;width: 35px; height: 35px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 18px;color: #511316;background-color: #EA5447;left: 29px;top: 29px;width: 35px; height: 35px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "モ"
-		,"style": "font-size: 18px;color: #511316;background-color: #EA5447;left: 71px;top: 61px;width: 29px; height: 20px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 18px;color: #511316;background-color: #EA5447;left: 71px;top: 61px;width: 29px; height: 20px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "モ"
-		,"style": "font-size: 18px;color: #511316;background-color: #EA5447;left: 45px;top: 122px;width: 31px; height: 30px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 18px;color: #511316;background-color: #EA5447;left: 45px;top: 122px;width: 31px; height: 30px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "モ"
-		,"style": "font-size: 18px;color: #511316;background-color: #EA5447;left: 341px;top: 212px;width: 38px; height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 18px;color: #511316;background-color: #EA5447;left: 341px;top: 212px;width: 38px; height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "モンスター!!"
-		,"style": "font-size: 45px;color: #511316;background-color: #EA5447;left: 385px;top: 30px;height: 100px;transform: rotate(-20deg);text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 45px;color: #511316;background-color: #EA5447;left: 385px;top: 20px;height: 140px;transform: rotate(-15deg);text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 50%;"
 	}
 ]

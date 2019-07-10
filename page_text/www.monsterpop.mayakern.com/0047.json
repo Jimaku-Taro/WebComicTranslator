@@ -1,18 +1,18 @@
 [
 	{
 		"text": "私…"
-		,"style": "font-size: 14px;color: #695625;background-color: #FFE574;left: 47px;top: 43px;width: 26px; height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #695625;background-color: #FFE574;left: 47px;top: 43px;width: 26px; height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
 	}
 	,{
 		"text": "俺君が<br/>好きだ…"
-		,"style": "font-size: 14px;color: #581316;background-color: #EB6A53;left: 80px;top: 46px;width: 56px; height: 67px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #581316;background-color: #EB6A53;left: 80px;top: 46px;width: 56px; height: 67px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
 	}
 	,{
 		"text": "…それに<br/>期待してたんだ"
-		,"style": "font-size: 14px;color: #581316;background-color: #EB6A53;left: 265px;top: 204px;width: 114px; height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #581316;background-color: #EB6A53;left: 265px;top: 204px;width: 114px; height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
 	}
 	,{
 		"text": "…君が俺の<br/>彼女になって<br/>くれるかなって"
-		,"style": "font-size: 14px;color: #581316;background-color: #EB6A53;left: 362px;top: 380px;width: 112px; height: 52px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #581316;background-color: #EB6A53;left: 362px;top: 380px;width: 112px; height: 52px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
 	}
 ]

@@ -1,22 +1,22 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">うぐぅ</span><br/>何でイケメンは皆<br/>差別主義の嫌な奴<br/>なのかしら!"
-		,"style": "font-size: 13px;color: #060000;background-color: #B788BC;left: 33px;top: 38px;width: 112px; height: 69px;text-align: center;border-radius: 0%;"
+		,"style": "font-size: 13px;color: #060000;background-color: #B788BC;left: 33px;top: 38px;width: 112px; height: 69px;text-align: center;border-radius: 30%;"
 	}
 	,{
 		"text": "少なくとも<br/>あいつらに二度と<br/>会わなくて<br/>いいじゃん!"
-		,"style": "font-size: 14px;color: #090909;background-color: #ACDDF4;left: 231px;top: 17px;width: 127px; height: 70px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #090909;background-color: #ACDDF4;left: 231px;top: 17px;width: 127px; height: 70px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
 	}
 	,{
 		"text": "奴ら最低<br/>君は最高!"
-		,"style": "font-size: 14px;color: #090909;background-color: #ACDDF4;left: 337px;top: 117px;width: 85px; height: 55px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #090909;background-color: #ACDDF4;left: 337px;top: 117px;width: 85px; height: 55px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
 	}
 	,{
 		"text": "奴ら<br/>クズね!"
-		,"style": "font-size: 14px;color: #090909;background-color: #ACDDF4;left: 313px;top: 419px;width: 70px; height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #090909;background-color: #ACDDF4;left: 313px;top: 419px;width: 70px; height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
 	}
 	,{
 		"text": "あの人達<br/><span style=\"font-weight: bold;\">そこまで</span><br/>悪くないかと…"
-		,"style": "font-size: 14px;color: #00000C;background-color: #FBF278;left: 662px;top: 20px;width: 114px; height: 71px;text-align: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #00000C;background-color: #FBF278;left: 662px;top: 20px;width: 114px; height: 71px;text-align: center;border-radius: 40%;"
 	}
 ]
