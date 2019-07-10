@@ -1,30 +1,30 @@
 [
 	{
 		"text": "それ…<br/>面白いの?"
-		,"style": "font-size: 14px;color: #684C11;background-color: #FCFB84;left: 202px;top: 17px;width: 72px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #684C11;background-color: #FCFB84;left: 202px;top: 17px;width: 72px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "うん<br/>私大好きよ!"
-		,"style": "font-size: 14px;color: #106659;background-color: #84FFF2;left: 310px;top: 20px;width: 100px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #106659;background-color: #84FFF2;left: 310px;top: 20px;width: 100px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "全てを破壊する<br/>愛の話よ!"
-		,"style": "font-size: 14px;color: #106659;background-color: #84FFF2;left: 405px;top: 70px;width: 155px;height: 66px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #106659;background-color: #84FFF2;left: 405px;top: 70px;width: 155px;height: 66px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "つまり簡単な<br/>読物じゃ<br/>ないわ…"
-		,"style": "font-size: 14px;color: #106659;background-color: #84FFF2;left: 485px;top: 162px;width: 94px;height: 59px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #106659;background-color: #84FFF2;left: 485px;top: 162px;width: 94px;height: 59px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ヒスクリフは<br/>恐ろしい<br/>奴だけど…"
-		,"style": "font-size: 14px;color: #106659;background-color: #84FFF2;left: 600px;top: 172px;width: 90px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #106659;background-color: #84FFF2;left: 600px;top: 172px;width: 90px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "私は好きよ!<br/>ロマンスだけど<br/>幽霊の話<br/>でもあるの"
-		,"style": "font-size: 14px;color: #106659;background-color: #84FFF2;left: 640px;top: 275px;width: 132px;height: 99px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #106659;background-color: #84FFF2;left: 640px;top: 275px;width: 132px;height: 99px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "それで<br/>蛇達が登場<br/>してね…"
-		,"style": "font-size: 14px;color: #106659;background-color: #84FFF2;left: 637px;top: 420px;width: 118px;height: 59px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #106659;background-color: #84FFF2;left: 637px;top: 420px;width: 118px;height: 59px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

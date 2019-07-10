@@ -1,50 +1,50 @@
 [
 	{
 		"text": "※着メロ：セーラームーンのテーマ(英語版)"
-		,"style": "font-size: 12px;color: black;left: 20px;top: 0px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 12px;color: black;left: 20px;top: 0px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "君は…"
-		,"style": "font-size: 14px;color: #883A01;background-color: #FDFF6E;left: 20px;top: 20px;width: 59px;height: 41px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #883A01;background-color: #FDFF6E;left: 20px;top: 20px;width: 59px;height: 41px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "あら<br/>御免なさいね<br/>二人共…"
-		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 685px;top: 30px;width: 98px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 685px;top: 30px;width: 98px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ママ!"
-		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 46px;top: 290px;width: 51px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 46px;top: 290px;width: 51px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ゴメン<br/>今友達と<br/>いるの"
-		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 130px;top: 290px;width: 88px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 130px;top: 290px;width: 88px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "後で<br/>かけ直して<br/>いい?"
-		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 275px;top: 320px;width: 102px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 275px;top: 320px;width: 102px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "後で<br/>かけ直して<br/>いい?"
-		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 275px;top: 320px;width: 102px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 275px;top: 320px;width: 102px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "OK<br/>私も<br/>愛してる"
-		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 395px;top: 300px;width: 71px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 395px;top: 300px;width: 71px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "パパと父さん<br/>にも愛してる<br/>って伝えて"
-		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 475px;top: 360px;width: 104px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 475px;top: 360px;width: 104px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ありがと"
-		,"style": "font-size: 12px;color: #06748B;background-color: #6EFFFD;left: 600px;top: 330px;width: 55px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 12px;color: #06748B;background-color: #6EFFFD;left: 600px;top: 330px;width: 55px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "私も<br/>寂しいわ!"
-		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 663px;top: 373px;width: 66px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 663px;top: 373px;width: 66px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "OK<br/>バイ!"
-		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 725px;top: 427px;width: 46px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #06748B;background-color: #6EFFFD;left: 725px;top: 427px;width: 46px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

@@ -1,7 +1,7 @@
 [
 	{
 		"text": "すっっごく寒くなったわね!<span style=\"color: #827F70;\">#何このありえない気象<br/>#まだ11月ですらないわよ<br/>#ジョージ 文章</span>"
-		,"style": "font-size: 13px;color: #32301C;background-color: #FAEF74;left: 35px;top: 20px;width: 266px;height: 74px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 13px;color: #32301C;background-color: #FAEF74;left: 35px;top: 20px;width: 266px;height: 74px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "…それで<br/>何事かと思ったわよ!<br/>だってどうしようもないし<br/>全部お終いよ"

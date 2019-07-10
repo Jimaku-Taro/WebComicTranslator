@@ -1,14 +1,14 @@
 [
 	{
 		"text": "フラニー!"
-		,"style": "font-size: 12px;color: #916B25;background-color: #FBF16B;left: 106px;top: 250px;width: 57px; height: 22px;text-align: center;"
+		,"style": "font-size: 12px;color: #916B25;background-color: #FBF16B;left: 106px;top: 250px;width: 57px; height: 22px;text-align: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ねぇ、G、<br/>帰る時間よ!"
-		,"style": "font-size: 14px;color: #7E4091;background-color: #D5C1DD;left: 341px;top: 246px;width: 93px; height: 49px;text-align: center;"
+		,"style": "font-size: 14px;color: #7E4091;background-color: #D5C1DD;left: 341px;top: 246px;width: 93px; height: 49px;text-align: center;border-radius: 0%;"
 	}
 	,{
 		"text": "わぁ、もう<br/>こんな時間!"
-		,"style": "font-size: 14px;color: #916B25;background-color: #FBF16B;left: 486px;top: 267px;width: 103px; height: 54px;text-align: center;"
+		,"style": "font-size: 14px;color: #916B25;background-color: #FBF16B;left: 486px;top: 267px;width: 103px; height: 54px;text-align: center;border-radius: 0%;"
 	}
 ]

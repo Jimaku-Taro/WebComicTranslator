@@ -1,22 +1,22 @@
 [
 	{
 		"text": "ハイ!私はマヤ・カーン!<br/>モンスターポップ!の作者です。<br/>1章の執筆に付き合って頂き<br/>ありがとう。<br/>楽しかったです!"
-		,"style": "font-size: 14px;color: #87290C;background-color: #FCFCDF;left: 7px;top: 12px;width: 213px;height: 115px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #87290C;background-color: #FCFCDF;left: 7px;top: 12px;width: 213px;height: 115px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ジョージのブログについて<br/>少し混乱があると思います、<br/>なので明言しておきます。<br/>1章終了時まで彼女は<br/>実際にはブログを作っていません"
-		,"style": "font-size: 14px;color: #87290C;background-color: #FCFCDF;left: 44px;top: 154px;width: 248px;height: 135px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #87290C;background-color: #FCFCDF;left: 44px;top: 154px;width: 248px;height: 135px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "1章のメインストーリー以前の<br/>ブログの場面は全て<br/>ベンと会った後です"
-		,"style": "font-size: 14px;color: #87290C;background-color: #FCFCDF;left: 479px;top: 82px;width: 261px;height: 114px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #87290C;background-color: #FCFCDF;left: 479px;top: 82px;width: 261px;height: 114px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "関連事項として<br/>\"cast\"ページのキャストや<br/>リンクページから実際の<br/>ブログを見つけられます!"
-		,"style": "font-size: 14px;color: #87290C;background-color: #FCFCDF;left: 580px;top: 229px;width: 219px;height: 112px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #87290C;background-color: #FCFCDF;left: 580px;top: 229px;width: 219px;height: 112px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "私に付いて来て下さり<br/>ありがとうございます<br/>2章も楽しんで頂けると<br/>嬉しいです!"
-		,"style": "font-size: 14px;color: #87290C;background-color: #FCFCDF;left: 542px;top: 375px;width: 220px;height: 74px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #87290C;background-color: #FCFCDF;left: 542px;top: 375px;width: 220px;height: 74px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

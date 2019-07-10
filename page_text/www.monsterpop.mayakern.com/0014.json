@@ -1,30 +1,30 @@
 [
 	{
 		"text": "その、<br/>会えて<br/>良かった…"
-		,"style": "font-size: 14px;color: #916B25;background-color: #FBF16B;left: 398px;top: 25px;width: 101px; height: 52px;text-align: center;"
+		,"style": "font-size: 14px;color: #916B25;background-color: #FBF16B;left: 398px;top: 25px;width: 101px; height: 52px;text-align: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ベン、よね？"
-		,"style": "font-size: 14px;color: #916B25;background-color: #FBF16B;left: 545px;top: 99px;width: 95px; height: 24px;text-align: center;"
+		,"style": "font-size: 14px;color: #916B25;background-color: #FBF16B;left: 545px;top: 99px;width: 95px; height: 24px;text-align: center;border-radius: 0%;"
 	}
 	,{
 		"text": "うん!"
-		,"style": "font-size: 14px;color: #6F452C;background-color: #F5A752;left: 663px;top: 149px;width: 53px; height: 24px;text-align: center;"
+		,"style": "font-size: 14px;color: #6F452C;background-color: #F5A752;left: 663px;top: 149px;width: 53px; height: 24px;text-align: center;border-radius: 0%;"
 	}
 	,{
 		"text": "俺と友達2人で<br/>ピクニックに<br/>明日行くんだ…"
-		,"style": "font-size: 14px;color: #6F452C;background-color: #F5A752;left: 87px;top: 244px;width: 137px; height: 67px;text-align: center;"
+		,"style": "font-size: 14px;color: #6F452C;background-color: #F5A752;left: 87px;top: 244px;width: 137px; height: 67px;text-align: center;border-radius: 0%;"
 	}
 	,{
 		"text": "…一緒に<br/>どうかな？"
-		,"style": "font-size: 14px;color: #6F452C;background-color: #F5A752;left: 479px;top: 260px;width: 84px; height: 52px;text-align: center;"
+		,"style": "font-size: 14px;color: #6F452C;background-color: #F5A752;left: 479px;top: 260px;width: 84px; height: 52px;text-align: center;border-radius: 0%;"
 	}
 	,{
 		"text": "はい!<br/>是非とも!!"
-		,"style": "font-size: 14px;color: #916B25;background-color: #FBF16B;left: 549px;top: 338px;width: 83px; height: 44px;text-align: center;"
+		,"style": "font-size: 14px;color: #916B25;background-color: #FBF16B;left: 549px;top: 338px;width: 83px; height: 44px;text-align: center;border-radius: 0%;"
 	}
 	,{
 		"text": "…その"
-		,"style": "font-size: 14px;color: #916B25;background-color: #FBF16B;left: 675px;top: 405px;width: 56px; height: 25px;text-align: center;"
+		,"style": "font-size: 14px;color: #916B25;background-color: #FBF16B;left: 675px;top: 405px;width: 56px; height: 25px;text-align: center;border-radius: 0%;"
 	}
 ]

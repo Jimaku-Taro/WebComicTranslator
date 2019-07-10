@@ -1,14 +1,14 @@
 [
 	{
 		"text": "ジョージ<br/>初放送おめでとう!<br/>とても上手かったわ!"
-		,"style": "font-size: 14px;color: #00696F;background-color: #6BFFE8;left: 155px;top: 20px;width: 177px;height: 81px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #00696F;background-color: #6BFFE8;left: 155px;top: 20px;width: 177px;height: 81px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "あら<br/>ありがとう!"
-		,"style": "font-size: 12px;color: #683F12;background-color: #FFFD60;left: 515px;top: 50px;width: 75px;height: 43px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 12px;color: #683F12;background-color: #FFFD60;left: 515px;top: 50px;width: 75px;height: 43px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "エヘヘヘヘ"
-		,"style": "font-size: 14px;color: #683F12;background-color: #FFFD60;left: 474px;top: 410px;width: 130px;height: 24px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #683F12;background-color: #FFFD60;left: 474px;top: 410px;width: 130px;height: 24px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

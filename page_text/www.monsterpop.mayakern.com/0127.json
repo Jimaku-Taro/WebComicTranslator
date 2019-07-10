@@ -1,30 +1,30 @@
 [
 	{
 		"text": "アハハ<br/>何でもない!"
-		,"style": "font-size: 14px;color: #6F2E06;background-color: #FCF38B;left: 10px;top: 15px;width: 93px;height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #6F2E06;background-color: #FCF38B;left: 10px;top: 15px;width: 93px;height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "眼鏡<br/>見つけたわ!"
-		,"style": "font-size: 14px;color: #6F2E06;background-color: #FCF38B;left: 155px;top: 405px;width: 93px;height: 61px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #6F2E06;background-color: #FCF38B;left: 155px;top: 405px;width: 93px;height: 61px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "はい<br/>どうぞ"
-		,"style": "font-size: 14px;color: #6F2E06;background-color: #FCF38B;left: 590px;top: 12px;width: 53px;height: 40px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #6F2E06;background-color: #FCF38B;left: 590px;top: 12px;width: 53px;height: 40px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "さぁこれで<br/>いいわ"
-		,"style": "font-size: 14px;color: #6F2E06;background-color: #FCF38B;left: 297px;top: 260px;width: 91px;height: 44px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #6F2E06;background-color: #FCF38B;left: 297px;top: 260px;width: 91px;height: 44px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "目を開けて!"
-		,"style": "font-size: 14px;color: #6F2E06;background-color: #FCF38B;left: 350px;top: 330px;width: 107px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #6F2E06;background-color: #FCF38B;left: 350px;top: 330px;width: 107px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "あ…<br/>ありがとう"
-		,"style": "font-size: 13px;color: #007070;background-color: #8BFCF0;left: 505px;top: 265px;width: 67px;height: 41px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 13px;color: #007070;background-color: #8BFCF0;left: 505px;top: 265px;width: 67px;height: 41px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "うわあっ<br/>僕のDS!!"
-		,"style": "font-size: 14px;color: #36891C;background-color: #B4FC8B;left: 703px;top: 435px;width: 84px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #36891C;background-color: #B4FC8B;left: 703px;top: 435px;width: 84px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

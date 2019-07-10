@@ -1,14 +1,14 @@
 [
 	{
 		"text": "ハッキリ言って<br/>俺達には奇妙だよ。<br/>上手く一緒にはやれるけど<br/>すげぇ<span style=\"font-weight: bold;\">変だよ!</span>"
-		,"style": "font-size: 14px;color: #702D20;background-color: #F1953F;left: 106px;top: 73px;width: 169px; height: 102px;text-align: center;"
+		,"style": "font-size: 14px;color: #702D20;background-color: #F1953F;left: 106px;top: 73px;width: 169px; height: 102px;text-align: center;border-radius: 0%;"
 	}
 	,{
 		"text": "え…ええ、私達は<br/>違うことも習うわ。<br/>でもほとんどの<br/>授業は一緒よ"
-		,"style": "font-size: 14px;color: #6B4927;background-color: #FAEF5D;left: 592px;top: 19px;width: 175px; height: 83px;text-align: center;"
+		,"style": "font-size: 14px;color: #6B4927;background-color: #FAEF5D;left: 592px;top: 19px;width: 175px; height: 83px;text-align: center;border-radius: 0%;"
 	}
 	,{
 		"text": "モンスター保健体育が<br/>別になる以外は、<br/>ほぼモンスターの<br/>授業は選択科目よ。<br/>大半のモンスターは自宅で<br/>種族別のセルフケアを学ぶけど、<br/>ただの生活習慣の違いよ"
-		,"style": "font-size: 12px;color: #6B4927;background-color: #FAEF5D;left: 566px;top: 257px;width: 200px; height: 135px;text-align: center;"
+		,"style": "font-size: 12px;color: #6B4927;background-color: #FAEF5D;left: 566px;top: 257px;width: 200px; height: 135px;text-align: center;border-radius: 0%;"
 	}
 ]

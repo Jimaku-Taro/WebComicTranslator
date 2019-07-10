@@ -1,34 +1,34 @@
 [
 	{
 		"text": "ゴホン!<br/>ようこそ創作文101へ!<br/>私が本講義の教授<br/>バートラム・ディーズ。<br/>バートラムでいい。<br/>もう高校じゃない、<br/>名前だけでいい"
-		,"style": "font-size: 14px;color: #2E2A94;background-color: #8596FF;left: 10px;top: 15px;width: 167px;height: 151px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #2E2A94;background-color: #8596FF;left: 10px;top: 15px;width: 167px;height: 151px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "点呼はしない、<br/>君達はとても多く<br/>名を覚える<br/>努力はするが、<br/>印象に残るよう<br/>努めてくれると<br/>私も助かる"
-		,"style": "font-size: 14px;color: #2E2A94;background-color: #8596FF;left: 105px;top: 215px;width: 140px;height: 229px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #2E2A94;background-color: #8596FF;left: 105px;top: 215px;width: 140px;height: 229px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "出席は授業の<br/>休憩時間中に<br/>私の席に表を置く。<br/>名前をサイン<br/>してくれ<br/>間違って他人の名を<br/>記入するなよ<br/>私は矛盾の発見は<br/>得意だ"
-		,"style": "font-size: 13px;color: #2E2A94;background-color: #8596FF;left: 240px;top: 45px;width: 117px;height: 258px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 13px;color: #2E2A94;background-color: #8596FF;left: 240px;top: 45px;width: 117px;height: 258px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "始まった<br/>みたい!"
-		,"style": "font-size: 14px;color: #A34B07;background-color: #FBFEBA;left: 335px;top: 350px;width: 79px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #A34B07;background-color: #FBFEBA;left: 335px;top: 350px;width: 79px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "やぁ<br/>君達"
-		,"style": "font-size: 14px;color: #A3203C;background-color: #FEB9C4;left: 563px;top: 8px;width: 42px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #A3203C;background-color: #FEB9C4;left: 563px;top: 8px;width: 42px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ハイ…"
-		,"style": "font-size: 14px;color: #A34B07;background-color: #FBFEBA;left: 545px;top: 62px;width: 42px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #A34B07;background-color: #FBFEBA;left: 545px;top: 62px;width: 42px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "この授業は<br/>オンラインと講義の<br/>両方で構成され、<br/>最終成績の30%は<br/>オンラインだ、<br/>学習サイトを<br/>よく理解すること"
-		,"style": "font-size: 13px;color: #2E2A94;background-color: #8596FF;left: 448px;top: 135px;width: 146px;height: 170px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 13px;color: #2E2A94;background-color: #8596FF;left: 448px;top: 135px;width: 146px;height: 170px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "授業の課題は<br/>高校を出た者には<br/>難しくない、<br/>持てる力で、<br/>毎週やり続ければ<br/>ついていける"
-		,"style": "font-size: 13px;color: #2E2A94;background-color: #8596FF;left: 435px;top: 318px;width: 157px;height: 170px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 13px;color: #2E2A94;background-color: #8596FF;left: 435px;top: 318px;width: 157px;height: 170px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

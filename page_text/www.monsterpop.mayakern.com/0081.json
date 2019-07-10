@@ -1,14 +1,14 @@
 [
 	{
 		"text": "皆がいる!"
-		,"style": "font-size: 14px;color: #523F01;background-color: #FCF1AE;left: 12px;top: 285px;width: 85px;height: 41px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #523F01;background-color: #FCF1AE;left: 12px;top: 285px;width: 85px;height: 41px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "シーッ!<br/>静かに!"
-		,"style": "font-size: 14px;color: #523F01;background-color: #FCF1AE;left: 335px;top: 288px;width: 98px;height: 81px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #523F01;background-color: #FCF1AE;left: 335px;top: 288px;width: 98px;height: 81px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "う…うん"
-		,"style": "font-size: 14px;color: #093D37;background-color: #CFFFF7;left: 629px;top: 419px;width: 59px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #093D37;background-color: #CFFFF7;left: 629px;top: 419px;width: 59px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

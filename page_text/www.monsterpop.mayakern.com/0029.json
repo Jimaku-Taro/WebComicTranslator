@@ -1,22 +1,22 @@
 [
 	{
 		"text": "うん<br/>是非!"
-		,"style": "font-size: 14px;color: #100E0C;background-color: #FEF55C;left: 183px;top: 181px;width: 58px; height: 58px;"
+		,"style": "font-size: 14px;color: #100E0C;background-color: #FEF55C;left: 183px;top: 181px;width: 58px; height: 58px;border-radius: 0%;"
 	}
 	,{
 		"text": "いいね!リバー<br/>デールに7時は?"
-		,"style": "font-size: 14px;color: #231810;background-color: #EF8647;left: 300px;top: 24px;width: 105px; height: 40px;"
+		,"style": "font-size: 14px;color: #231810;background-color: #EF8647;left: 300px;top: 24px;width: 105px; height: 40px;border-radius: 0%;"
 	}
 	,{
 		"text": "いいわよ！"
-		,"style": "font-size: 14px;color: #100E0C;background-color: #FEF55C;left: 387px;top: 77px;width: 102px; height: 41px;"
+		,"style": "font-size: 14px;color: #100E0C;background-color: #FEF55C;left: 387px;top: 77px;width: 102px; height: 41px;border-radius: 0%;"
 	}
 	,{
 		"text": "またね"
-		,"style": "font-size: 14px;color: #231810;background-color: #EF8647;left: 298px;top: 132px;width: 109px; height: 24px;"
+		,"style": "font-size: 14px;color: #231810;background-color: #EF8647;left: 298px;top: 132px;width: 109px; height: 24px;border-radius: 0%;"
 	}
 	,{
 		"text": "楽しみ!"
-		,"style": "font-size: 16px;color: #100E0C;background-color: #FEF55C;left: 696px;top: 209px;width: 83px; height: 26px;"
+		,"style": "font-size: 16px;color: #100E0C;background-color: #FEF55C;left: 696px;top: 209px;width: 83px; height: 26px;border-radius: 0%;"
 	}
 ]

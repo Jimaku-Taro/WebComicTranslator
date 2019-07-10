@@ -1,14 +1,14 @@
 [
 	{
 		"text": "ジョージ…"
-		,"style": "font-size: 18px;color: #0C090D;background-color: #C99FC7;left: 38px;top: 267px;width: 111px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 18px;color: #0C090D;background-color: #C99FC7;left: 38px;top: 267px;width: 111px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "ジョージ!!"
-		,"style": "font-size: 45px;color: #0C090D;background-color: #C99FC7;left: 175px;top: 300px;width: 234px;height: 89px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 45px;color: #0C090D;background-color: #C99FC7;left: 175px;top: 300px;width: 234px;height: 89px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "授業は<br/>終わりよ<br/>バカ"
-		,"style": "font-size: 17px;color: #0C090D;background-color: #C99FC7;left: 696px;top: 424px;width: 75px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 17px;color: #0C090D;background-color: #C99FC7;left: 696px;top: 424px;width: 75px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

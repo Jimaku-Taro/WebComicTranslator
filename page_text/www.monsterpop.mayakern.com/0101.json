@@ -1,38 +1,38 @@
 [
 	{
 		"text": "ふぅ<br/>落ち着いた!"
-		,"style": "font-size: 14px;color: #00747A;background-color: #9FFDF2;left: 52px;top: 24px;width: 99px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #00747A;background-color: #9FFDF2;left: 52px;top: 24px;width: 99px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ごめん<br/>なさいね!"
-		,"style": "font-size: 14px;color: #00747A;background-color: #9FFDF2;left: 221px;top: 35px;width: 82px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #00747A;background-color: #9FFDF2;left: 221px;top: 35px;width: 82px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "この子達<br/>驚くのは<br/>好きじゃ<br/>ないの"
-		,"style": "font-size: 14px;color: #00747A;background-color: #9FFDF2;left: 282px;top: 99px;width: 73px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #00747A;background-color: #9FFDF2;left: 282px;top: 99px;width: 73px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "完全に<br/>私のせいよ<br/>ごめんね!"
-		,"style": "font-size: 14px;color: #793B01;background-color: #F6FD72;left: 428px;top: 25px;width: 87px;height: 97px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #793B01;background-color: #F6FD72;left: 428px;top: 25px;width: 87px;height: 97px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "考えなしの<br/>私は大バカね!"
-		,"style": "font-size: 14px;color: #793B01;background-color: #F6FD72;left: 383px;top: 144px;width: 103px;height: 96px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #793B01;background-color: #F6FD72;left: 383px;top: 144px;width: 103px;height: 96px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "それにしても<br/>あなた<br/>超可愛い<br/>わね!"
-		,"style": "font-size: 14px;color: #793B01;background-color: #F6FD72;left: 687px;top: 29px;width: 87px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #793B01;background-color: #F6FD72;left: 687px;top: 29px;width: 87px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "わぁ"
-		,"style": "font-size: 14px;color: #793B01;background-color: #F6FD72;left: 722px;top: 155px;width: 47px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #793B01;background-color: #F6FD72;left: 722px;top: 155px;width: 47px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "超可愛い…"
-		,"style": "font-size: 14px;color: #793B01;background-color: #F6FD72;left: 687px;top: 200px;width: 76px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #793B01;background-color: #F6FD72;left: 687px;top: 200px;width: 76px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "フラニー<br/>マリナの<br/>可愛さを見…"
-		,"style": "font-size: 14px;color: #793B01;background-color: #F6FD72;left: 487px;top: 286px;width: 92px;height: 55px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #793B01;background-color: #F6FD72;left: 487px;top: 286px;width: 92px;height: 55px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

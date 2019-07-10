@@ -1,18 +1,18 @@
 [
 	{
 		"text": "やぁジョージ<br/>大丈夫？<br/>突然帰った<br/>からさ"
-		,"style": "font-size: 14px;color: #1F140E;background-color: #EF8645;left: 242px;top: 343px;width: 129px; height: 83px;"
+		,"style": "font-size: 14px;color: #1F140E;background-color: #EF8645;left: 242px;top: 343px;width: 129px; height: 83px;border-radius: 0%;"
 	}
 	,{
 		"text": "大丈夫よ！<br/>フラニーが急用を<br/>思い出しただけ。<br/>家族のことで忙しいみたい"
-		,"style": "font-size: 14px;color: #060000;background-color: #FFF45C;left: 579px;top: 77px;width: 201px; height: 83px;"
+		,"style": "font-size: 14px;color: #060000;background-color: #FFF45C;left: 579px;top: 77px;width: 201px; height: 83px;border-radius: 0%;"
 	}
 	,{
 		"text": "家族のことで<br/>忙しいみたい"
-		,"style": "font-size: 12px;color: #060000;background-color: #FFF45C;left: 555px;top: 315px;width: 94px; height: 30px;"
+		,"style": "font-size: 12px;color: #060000;background-color: #FFF45C;left: 555px;top: 315px;width: 94px; height: 30px;border-radius: 0%;"
 	}
 	,{
 		"text": "OK<br/>後で一緒に<br/>遊びに行かない？<br/>映画でもどう？"
-		,"style": "font-size: 12px;color: #1F140E;background-color: #EF8645;left: 500px;top: 358px;width: 106px; height: 119px;"
+		,"style": "font-size: 12px;color: #1F140E;background-color: #EF8645;left: 500px;top: 358px;width: 106px; height: 119px;border-radius: 0%;"
 	}
 ]

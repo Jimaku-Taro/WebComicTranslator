@@ -1,42 +1,42 @@
 [
 	{
 		"text": "ヤバッ、<br/>休憩終わりだわ!<br/>急がないと!"
-		,"style": "font-size: 14px;color: #A825A8;background-color: #EEC0FF;left: 60px;top: 45px;width: 119px;height: 123px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #A825A8;background-color: #EEC0FF;left: 60px;top: 45px;width: 119px;height: 123px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "あらら…"
-		,"style": "font-size: 14px;color: #894B09;background-color: #FFFCB4;left: 61px;top: 215px;width: 64px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #894B09;background-color: #FFFCB4;left: 61px;top: 215px;width: 64px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ごめんね G"
-		,"style": "font-size: 14px;color: #A825A8;background-color: #EEC0FF;left: 213px;top: 187px;width: 90px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #A825A8;background-color: #EEC0FF;left: 213px;top: 187px;width: 90px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "皆<br/>またね!"
-		,"style": "font-size: 14px;color: #A825A8;background-color: #EEC0FF;left: 438px;top: 8px;width: 67px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #A825A8;background-color: #EEC0FF;left: 438px;top: 8px;width: 67px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "会えて<br/>よかったわ<br/>マリナ!"
-		,"style": "font-size: 14px;color: #A825A8;background-color: #EEC0FF;left: 667px;top: 20px;width: 92px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #A825A8;background-color: #EEC0FF;left: 667px;top: 20px;width: 92px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "うん、<br/>私もよ!"
-		,"style": "font-size: 14px;color: #0D7E73;background-color: #BBFFF8;left: 456px;top: 192px;width: 89px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #0D7E73;background-color: #BBFFF8;left: 456px;top: 192px;width: 89px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "またね、<br/>オタク"
-		,"style": "font-size: 14px;color: #894B09;background-color: #FFFCB4;left: 639px;top: 126px;width: 62px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #894B09;background-color: #FFFCB4;left: 639px;top: 126px;width: 62px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "彼女完全に<br/>パーシーに<br/>惚れてる"
-		,"style": "font-size: 14px;color: #894B09;background-color: #FFFCB4;left: 546px;top: 256px;width: 107px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #894B09;background-color: #FFFCB4;left: 546px;top: 256px;width: 107px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "私はそう<br/>睨んでる"
-		,"style": "font-size: 14px;color: #894B09;background-color: #FFFCB4;left: 688px;top: 277px;width: 60px;height: 59px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #894B09;background-color: #FFFCB4;left: 688px;top: 277px;width: 60px;height: 59px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "彼らの<br/>初子の命名権<br/>欲しいわね"
-		,"style": "font-size: 14px;color: #894B09;background-color: #FFFCB4;left: 680px;top: 394px;width: 91px;height: 75px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #894B09;background-color: #FFFCB4;left: 680px;top: 394px;width: 91px;height: 75px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

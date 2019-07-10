@@ -1,26 +1,26 @@
 [
 	{
 		"text": "さっきはゴメンね"
-		,"style": "font-size: 14px;color: #000000;background-color: #F7F289;left: 20px;top: 30px;width: 146px; height: 21px;"
+		,"style": "font-size: 14px;color: #000000;background-color: #F7F289;left: 20px;top: 30px;width: 146px; height: 21px;border-radius: 0%;"
 	}
 	,{
 		"text": "彼女は俺が好きじゃ<br/>なさそうだね？"
-		,"style": "font-size: 14px;color: #201611;background-color: #F19055;left: 131px;top: 58px;width: 146px; height: 41px;"
+		,"style": "font-size: 14px;color: #201611;background-color: #F19055;left: 131px;top: 58px;width: 146px; height: 41px;border-radius: 0%;"
 	}
 	,{
 		"text": "ゴメン:("
-		,"style": "font-size: 14px;color: #000000;background-color: #F7F289;left: 253px;top: 113px;width: 62px; height: 21px;"
+		,"style": "font-size: 14px;color: #000000;background-color: #F7F289;left: 253px;top: 113px;width: 62px; height: 21px;border-radius: 0%;"
 	}
 	,{
 		"text": "大丈夫"
-		,"style": "font-size: 14px;color: #201611;background-color: #F19055;left: 313px;top: 144px;width: 58px; height: 20px;"
+		,"style": "font-size: 14px;color: #201611;background-color: #F19055;left: 313px;top: 144px;width: 58px; height: 20px;border-radius: 0%;"
 	}
 	,{
 		"text": "それで…俺とは<br/>もう会いたくない<br/>ってこと？"
-		,"style": "font-size: 14px;color: #201611;background-color: #F19055;left: 386px;top: 173px;width: 120px; height: 78px;"
+		,"style": "font-size: 14px;color: #201611;background-color: #F19055;left: 386px;top: 173px;width: 120px; height: 78px;border-radius: 0%;"
 	}
 	,{
 		"text": "土曜日が<br/>空いてたらって<br/>思ってたけど"
-		,"style": "font-size: 14px;color: #201611;background-color: #F19055;left: 496px;top: 239px;width: 149px; height: 63px;"
+		,"style": "font-size: 14px;color: #201611;background-color: #F19055;left: 496px;top: 239px;width: 149px; height: 63px;border-radius: 0%;"
 	}
 ]

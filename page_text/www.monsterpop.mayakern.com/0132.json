@@ -1,54 +1,54 @@
 [
 	{
 		"text": "ところで<br/>マリナあなた<br/>絵が本当に<br/>上手ね！"
-		,"style": "font-size: 14px;color: #7E4001;background-color: #FBFC7C;left: 15px;top: 10px;width: 97px;height: 99px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #7E4001;background-color: #FBFC7C;left: 15px;top: 10px;width: 97px;height: 99px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "あの…<br/>その…あ…<br/>ありがとう!"
-		,"style": "font-size: 14px;color: #007B79;background-color: #73FDE8;left: 18px;top: 130px;width: 77px;height: 61px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #007B79;background-color: #73FDE8;left: 18px;top: 130px;width: 77px;height: 61px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "絵が<br/>好き<br/>なの?"
-		,"style": "font-size: 14px;color: #277401;background-color: #AFFE73;left: 138px;top: 35px;width: 61px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #277401;background-color: #AFFE73;left: 138px;top: 35px;width: 61px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "う…<br/>うん!"
-		,"style": "font-size: 14px;color: #007B79;background-color: #73FDE8;left: 169px;top: 105px;width: 60px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #007B79;background-color: #73FDE8;left: 169px;top: 105px;width: 60px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "僕も!"
-		,"style": "font-size: 14px;color: #277401;background-color: #AFFE73;left: 187px;top: 140px;width: 67px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #277401;background-color: #AFFE73;left: 187px;top: 140px;width: 67px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "描くのは下手で<br/>観るのは好き<br/>って意味だけど"
-		,"style": "font-size: 14px;color: #277401;background-color: #AFFE73;left: 250px;top: 50px;width: 118px;height: 82px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #277401;background-color: #AFFE73;left: 250px;top: 50px;width: 118px;height: 82px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "私達皆<br/>好きなものが<br/>違うわね…"
-		,"style": "font-size: 14px;color: #7E4001;background-color: #FBFC7C;left: 390px;top: 70px;width: 87px;height: 99px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #7E4001;background-color: #FBFC7C;left: 390px;top: 70px;width: 87px;height: 99px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "そうみたい<br/>だね"
-		,"style": "font-size: 14px;color: #277401;background-color: #AFFE73;left: 330px;top: 340px;width: 90px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #277401;background-color: #AFFE73;left: 330px;top: 340px;width: 90px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "私は音楽家<br/>みたいな<br/>ものよ"
-		,"style": "font-size: 14px;color: #7E4001;background-color: #FBFC7C;left: 420px;top: 410px;width: 104px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #7E4001;background-color: #FBFC7C;left: 420px;top: 410px;width: 104px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "本当?"
-		,"style": "font-size: 14px;color: #007B79;background-color: #73FDE8;left: 538px;top: 30px;width: 49px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #007B79;background-color: #73FDE8;left: 538px;top: 30px;width: 49px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "何<br/>してるの?"
-		,"style": "font-size: 14px;color: #277401;background-color: #AFFE73;left: 624px;top: 40px;width: 69px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #277401;background-color: #AFFE73;left: 624px;top: 40px;width: 69px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ウクレレ<br/>演奏して<br/>歌うわ<br/>たまに<br/>作曲も"
-		,"style": "font-size: 14px;color: #7E4001;background-color: #FBFC7C;left: 680px;top: 95px;width: 96px;height: 99px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #7E4001;background-color: #FBFC7C;left: 680px;top: 95px;width: 96px;height: 99px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "まだそんな<br/>上手くない<br/>けど…"
-		,"style": "font-size: 14px;color: #7E4001;background-color: #FBFC7C;left: 712px;top: 423px;width: 78px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #7E4001;background-color: #FBFC7C;left: 712px;top: 423px;width: 78px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

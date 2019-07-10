@@ -1,10 +1,10 @@
 [
 	{
 		"text": "…モンスター史!"
-		,"style": "font-size: 14px;color: #2E2B1B;background-color: #FFE265;left: 25px;top: 21px;width: 137px;height: 22px;"
+		,"style": "font-size: 14px;color: #2E2B1B;background-color: #FFE265;left: 25px;top: 21px;width: 137px;height: 22px;border-radius: 0%;"
 	}
 	,{
 		"text": "楽しみよ!"
-		,"style": "font-size: 14px;color: #2E2B1B;background-color: #FFE265;left: 692px;top: 458px;width: 82px;height: 21px;"
+		,"style": "font-size: 14px;color: #2E2B1B;background-color: #FFE265;left: 692px;top: 458px;width: 82px;height: 21px;border-radius: 0%;"
 	}
 ]

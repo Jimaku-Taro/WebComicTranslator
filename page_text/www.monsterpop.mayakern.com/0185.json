@@ -1,22 +1,22 @@
 [
 	{
 		"text": "あらあら、<br/>あの2人お互い<br/>ベッタリね!"
-		,"style": "font-size: 14px;color: #724410;background-color: #FBFF90;left: 35px;top: 20px;width: 120px;height: 97px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #724410;background-color: #FBFF90;left: 35px;top: 20px;width: 120px;height: 97px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "何て大オタク<br/>かしら!"
-		,"style": "font-size: 14px;color: #724410;background-color: #FBFF90;left: 95px;top: 140px;width: 87px;height: 41px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #724410;background-color: #FBFF90;left: 95px;top: 140px;width: 87px;height: 41px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "あいつらマジ<br/>可愛いってこと!"
-		,"style": "font-size: 14px;color: #724410;background-color: #FBFF90;left: 502px;top: 15px;width: 122px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #724410;background-color: #FBFF90;left: 502px;top: 15px;width: 122px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "でもちょ～～っと<br/>学校でイチャつき<br/>すぎじゃない?"
-		,"style": "font-size: 14px;color: #724410;background-color: #FBFF90;left: 500px;top: 125px;width: 132px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #724410;background-color: #FBFF90;left: 500px;top: 125px;width: 132px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "あの…<br/>ジョージ…<br/>大丈夫…?"
-		,"style": "font-size: 14px;color: #1E8373;background-color: #91FEFF;left: 677px;top: 280px;width: 96px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #1E8373;background-color: #91FEFF;left: 677px;top: 280px;width: 96px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

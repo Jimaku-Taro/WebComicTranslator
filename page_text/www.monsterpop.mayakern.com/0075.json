@@ -1,10 +1,10 @@
 [
 	{
 		"text": "要約：図書館　今週はクッキー無料"
-		,"style": "font-size: 14px;color: black;left: 14px;left: 15px;top: -5px;"
+		,"style": "font-size: 14px;color: black;left: 14px;left: 15px;top: -5px;border-radius: 0%;"
 	}
 	,{
 		"text": "クッキー無料の図書館！<br/>最高ね"
-		,"style": "font-size: 14px;color: #1B1814;background-color: #FFF480;left: 303px;top: 31px;width: 190px;height: 38px;"
+		,"style": "font-size: 14px;color: #1B1814;background-color: #FFF480;left: 303px;top: 31px;width: 190px;height: 38px;border-radius: 0%;"
 	}
 ]

@@ -1,14 +1,14 @@
 [
 	{
 		"text": "ご…ごめん<br/>後で呼ぶわ!"
-		,"style": "font-size: 14px;color: #5F3822;background-color: #9FBA71;left: 530px;top: 33px;width: 90px; height: 48px;text-align: center;"
+		,"style": "font-size: 14px;color: #5F3822;background-color: #9FBA71;left: 530px;top: 33px;width: 90px; height: 48px;text-align: center;border-radius: 0%;"
 	}
 	,{
 		"text": "呼ばない<br/>っての!!!"
-		,"style": "font-size: 14px;color: #111A30;background-color: #512F89;left: 654px;top: 95px;width: 63px; height: 34px;text-align: center;"
+		,"style": "font-size: 14px;color: #111A30;background-color: #512F89;left: 654px;top: 95px;width: 63px; height: 34px;text-align: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ハハ…<br/>OK…"
-		,"style": "font-size: 14px;color: #513023;background-color: #8D534B;left: 731px;top: 435px;width: 59px; height: 37px;text-align: center;"
+		,"style": "font-size: 14px;color: #513023;background-color: #8D534B;left: 731px;top: 435px;width: 59px; height: 37px;text-align: center;border-radius: 0%;"
 	}
 ]

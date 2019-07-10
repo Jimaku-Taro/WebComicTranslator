@@ -1,22 +1,22 @@
 [
 	{
 		"text": "ところで<br/>ユニティ<br/>ユニコーン<br/>もう見た?"
-		,"style": "font-size: 14px;color: #87121E;background-color: #FF8B9E;left: 10px;top: 10px;width: 113px;height: 75px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #87121E;background-color: #FF8B9E;left: 10px;top: 10px;width: 113px;height: 75px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "うん!!<br/>友達の半分は<br/>それ着てるわよ!"
-		,"style": "font-size: 14px;color: #753301;background-color: #FFFAA8;left: 130px;top: 45px;width: 129px;height: 97px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #753301;background-color: #FFFAA8;left: 130px;top: 45px;width: 129px;height: 97px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "へぇ!!<br/>そりゃ<br/>いいね"
-		,"style": "font-size: 14px;color: #87121E;background-color: #FF8B9E;left: 285px;top: 65px;width: 49px;height: 63px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #87121E;background-color: #FF8B9E;left: 285px;top: 65px;width: 49px;height: 63px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "私達はすごく<br/>繋がってるのよ"
-		,"style": "font-size: 14px;color: #753301;background-color: #FFFAA8;left: 622px;top: 38px;width: 127px;height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #753301;background-color: #FFFAA8;left: 622px;top: 38px;width: 127px;height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "実際はまだ見てない、<br/>皆はただの見習いよ。<br/>本当のマスコットは<br/>２つ上の上級生で…"
-		,"style": "font-size: 14px;color: #530066;background-color: #E9A6FF;left: 630px;top: 120px;width: 146px;height: 97px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #530066;background-color: #E9A6FF;left: 630px;top: 120px;width: 146px;height: 97px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

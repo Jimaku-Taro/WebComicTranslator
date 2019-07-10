@@ -1,18 +1,18 @@
 [
 	{
 		"text": "それじゃ…<br/>私用事<br/>あるから!!"
-		,"style": "font-size: 14px;color: #786101;background-color: #FFFF93;left: 493px;top: 10px;width: 83px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #786101;background-color: #FFFF93;left: 493px;top: 10px;width: 83px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "後で連絡<br/>して、F!!!"
-		,"style": "font-size: 14px;color: #786101;background-color: #FFFF93;left: 585px;top: 10px;width: 75px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #786101;background-color: #FFFF93;left: 585px;top: 10px;width: 75px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "バイ<br/>オタク!"
-		,"style": "font-size: 14px;color: #786101;background-color: #FFFF93;left: 730px;top: 22px;width: 52px;height: 40px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #786101;background-color: #FFFF93;left: 730px;top: 22px;width: 52px;height: 40px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "バイ…"
-		,"style": "font-size: 14px;color: #AA30A9;background-color: #FD9AE2;left: 530px;top: 460px;width: 56px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #AA30A9;background-color: #FD9AE2;left: 530px;top: 460px;width: 56px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

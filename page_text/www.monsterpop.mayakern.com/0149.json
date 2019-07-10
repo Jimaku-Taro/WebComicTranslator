@@ -1,10 +1,10 @@
 [
 	{
 		"text": "私…<br/>15分後に仕事<br/>終わるけど…<br/>一緒にどこか…<br/>行かない…?"
-		,"style": "font-size: 14px;color: #37065E;background-color: #DEAAFB;left: 190px;top: 25px;width: 141px;height: 117px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #37065E;background-color: #DEAAFB;left: 190px;top: 25px;width: 141px;height: 117px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "うん。<br/>ぜひとも"
-		,"style": "font-size: 14px;color: #9A121F;background-color: #FD8299;left: 660px;top: 310px;width: 73px;height: 61px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #9A121F;background-color: #FD8299;left: 660px;top: 310px;width: 73px;height: 61px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

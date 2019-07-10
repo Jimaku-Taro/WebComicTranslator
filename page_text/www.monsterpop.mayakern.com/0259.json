@@ -1,26 +1,26 @@
 [
 	{
 		"text": "うぐぅ 中間試験の準備全然できてない"
-		,"style": "font-size: 14px;color: #322D1AF;background-color: #FFF660;left: 25px;top: 20px;width: 254px;height: 27px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 14px;color: #322D1AF;background-color: #FFF660;left: 25px;top: 20px;width: 254px;height: 27px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "まぁいいか、後１週間位あるし！<br/>自由が終わる前に<br/>もう少し楽しめるわよね<span style=\"color: #9C9173;\">#ジョージ 文章</span>"
-		,"style": "font-size: 12px;color: #322D1AF;background-color: #FFF660;left: 50px;top: 65px;width: 235px;height: 68px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 12px;color: #322D1AF;background-color: #FFF660;left: 50px;top: 65px;width: 235px;height: 68px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "ジョージ、お願いだから<br/>勉強してよ<br/>手伝ってあげるから"
-		,"style": "font-size: 14px;color: #352636;background-color: #F0A3FF;left: 40px;top: 160px;width: 182px;height: 72px;text-align: lelft;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 14px;color: #352636;background-color: #F0A3FF;left: 40px;top: 160px;width: 182px;height: 72px;text-align: lelft;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "一緒に勉強しない?<span style=\"color: #988486;\">#パーシー 会話</span>"
-		,"style": "font-size: 14px;color: #352426;background-color: #FFA5B2;left: 220px;top: 400px;width: 127px;height: 54px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 14px;color: #352426;background-color: #FFA5B2;left: 220px;top: 400px;width: 127px;height: 54px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "勉強会ね!! OD<span style=\"color: #9C9173;\">#ジョージ 文章</span>"
-		,"style": "font-size: 14px;color: #322D1AF;background-color: #FFF660;left: 405px;top: 25px;width: 120px;height: 37px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 14px;color: #322D1AF;background-color: #FFF660;left: 405px;top: 25px;width: 120px;height: 37px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 	,{
 		"text": "勉強して<br/>中間試験の後<br/>パーティするのはどう?"
-		,"style": "font-size: 14px;color: #352636;background-color: #F0A3FF;left: 460px;top: 80px;width: 166px;height: 53px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 14px;color: #352636;background-color: #F0A3FF;left: 460px;top: 80px;width: 166px;height: 53px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 ]

@@ -13,6 +13,6 @@
 	}
 	,{
 		"text": "初雪!<br/>ちょっと早すぎ、でも超キレイ!<span style=\"color: #7E7F60;\">#ジョージ 文章</span>"
-		,"style": "font-size: 13px;color: #2B2918;background-color: #FFF775;left: 335px;top: 415px;width: 208px;height: 58px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;"
+		,"style": "font-size: 13px;color: #2B2918;background-color: #FFF775;left: 335px;top: 415px;width: 208px;height: 58px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
 	}
 ]

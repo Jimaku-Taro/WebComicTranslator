@@ -1,10 +1,10 @@
 [
 	{
 		"text": "最後に、金曜日は忘れずにユニティ・<br/>ユニコーンズのシャツを着て支援してね<br/>試合でカンペ大学のアンフィ…<br/>アンフィスバイナイに対抗しましょう!"
-		,"style": "font-size: 14px;color: #7D3F0B;background-color: #FFF268;left: 27px;top: 390px;width: 290px;height: 85px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #7D3F0B;background-color: #FFF268;left: 27px;top: 390px;width: 290px;height: 85px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ジョージ・テンスリーの<br/>朝の連絡でした!"
-		,"style": "font-size: 14px;color: #7D3F0B;background-color: #FFF268;left: 478px;top: 30px;width: 257px;height: 49px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #7D3F0B;background-color: #FFF268;left: 478px;top: 30px;width: 257px;height: 49px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

@@ -1,14 +1,14 @@
 [
 	{
 		"text": "周りを気にせず<br/>授業中指されず眠れる<br/>大いなる可能性に<br/>心を開いて!"
-		,"style": "font-size: 14px;color: #6E2F06F;background-color: #F7FB70;left: 35px;top: 30px;width: 209px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #6E2F06F;background-color: #F7FB70;left: 35px;top: 30px;width: 209px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "教えてあげる<br/><span>若き<ruby>弟子<rp>(</rp><rt>バッタ</rt><rp>)</rp></ruby>よ</span>君が望むならね～"
-		,"style": "font-size: 14px;color: #6E2F06F;background-color: #F7FB70;left: 295px;top: 50px;width: 132px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #6E2F06F;background-color: #F7FB70;left: 295px;top: 50px;width: 132px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "わ…わ…<br/>わかった!!!!"
-		,"style": "font-size: 14px;color: #206B09;background-color: #D4FD9B;left: 560px;top: 80px;width: 130px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #206B09;background-color: #D4FD9B;left: 560px;top: 80px;width: 130px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

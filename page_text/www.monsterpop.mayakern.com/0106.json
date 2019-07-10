@@ -1,42 +1,42 @@
 [
 	{
 		"text": "うん<br/>そうね!"
-		,"style": "font-size: 14px;color: #763E09;background-color: #FBF8B2;left: 265px;top: 15px;width: 72px;height: 40px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #763E09;background-color: #FBF8B2;left: 265px;top: 15px;width: 72px;height: 40px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "子供の頃から<br/>ここに来たかったけど<br/>期待通り住めて<br/>嬉しいわ!"
-		,"style": "font-size: 14px;color: #1B5A5C;background-color: #94E5C4;left: 347px;top: 30px;width: 183px;height: 98px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #1B5A5C;background-color: #94E5C4;left: 347px;top: 30px;width: 183px;height: 98px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ハイ<br/>パーシー!"
-		,"style": "font-size: 12px;color: #27404D;background-color: #95D9E6;left: 192px;top: 286px;width: 54px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 12px;color: #27404D;background-color: #95D9E6;left: 192px;top: 286px;width: 54px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "やぁ!"
-		,"style": "font-size: 14px;color: #860B17;background-color: #FF9EAC;left: 580px;top: 276px;width: 66px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #860B17;background-color: #FF9EAC;left: 580px;top: 276px;width: 66px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "いいパーティ<br/>だね?"
-		,"style": "font-size: 14px;color: #860B17;background-color: #FF9EAC;left: 592px;top: 304px;width: 93px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #860B17;background-color: #FF9EAC;left: 592px;top: 304px;width: 93px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "えぇ!"
-		,"style": "font-size: 14px;color: #27404D;background-color: #95D9E6;left: 573px;top: 345px;width: 43px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #27404D;background-color: #95D9E6;left: 573px;top: 345px;width: 43px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "友達?"
-		,"style": "font-size: 14px;color: #860B17;background-color: #FF9EAC;left: 705px;top: 277px;width: 74px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #860B17;background-color: #FF9EAC;left: 705px;top: 277px;width: 74px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "アレックス<br/>彼氏よ"
-		,"style": "font-size: 14px;color: #27404D;background-color: #95D9E6;left: 699px;top: 323px;width: 93px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #27404D;background-color: #95D9E6;left: 699px;top: 323px;width: 93px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "いいね"
-		,"style": "font-size: 14px;color: #860B17;background-color: #FF9EAC;left: 732px;top: 373px;width: 45px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #860B17;background-color: #FF9EAC;left: 732px;top: 373px;width: 45px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "はじめ<br/>まして!"
-		,"style": "font-size: 14px;color: #914029;background-color: #FCCFB2;left: 710px;top: 450px;width: 73px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #914029;background-color: #FCCFB2;left: 710px;top: 450px;width: 73px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]

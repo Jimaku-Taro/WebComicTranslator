@@ -1,18 +1,18 @@
 [
 	{
 		"text": "いえ大丈夫よ<br/>出かけましょ!"
-		,"style": "font-size: 14px;color: #060009;background-color: #F7F28B;left: 247px;top: 12px;width: 131px; height: 38px;"
+		,"style": "font-size: 14px;color: #060009;background-color: #F7F28B;left: 247px;top: 12px;width: 131px; height: 38px;border-radius: 0%;"
 	}
 	,{
 		"text": "何も問題ないわ<br/>土曜に会うの<br/>楽しみよ!!"
-		,"style": "font-size: 14px;color: #060009;background-color: #F7F28B;left: 350px;top: 53px;width: 136px; height: 59px;"
+		,"style": "font-size: 14px;color: #060009;background-color: #F7F28B;left: 350px;top: 53px;width: 136px; height: 59px;border-radius: 0%;"
 	}
 	,{
 		"text": "OK<br/>ハーモニー<br/>パークに<br/>3時は?"
-		,"style": "font-size: 14px;color: #000000;background-color: #F19055;left: 553px;top: 70px;width: 93px; height: 80px;"
+		,"style": "font-size: 14px;color: #000000;background-color: #F19055;left: 553px;top: 70px;width: 93px; height: 80px;border-radius: 0%;"
 	}
 	,{
 		"text": "うん!<br/>いいわね!<br/>またね!!"
-		,"style": "font-size: 14px;color: #060009;background-color: #F7F28B;left: 651px;top: 157px;width: 95px; height: 57px;"
+		,"style": "font-size: 14px;color: #060009;background-color: #F7F28B;left: 651px;top: 157px;width: 95px; height: 57px;border-radius: 0%;"
 	}
 ]

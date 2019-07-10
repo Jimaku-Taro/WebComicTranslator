@@ -1,26 +1,26 @@
 [
 	{
 		"text": "さて創作文とは。<br/>授業で何をすると思う?<br/>定期的な演習と<br/>テーマ別の読書を通じ、<br/>創造的な視野を広げて<br/>くれれば幸いだ"
-		,"style": "font-size: 14px;color: #19184B;background-color: #9E99E9;left: 270px;top: 22px;width: 177px;height: 148px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #19184B;background-color: #9E99E9;left: 270px;top: 22px;width: 177px;height: 148px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "授業<br/>初日よ"
-		,"style": "font-size: 14px;color: #A03D16;background-color: #EEFBB2;left: 110px;top: 214px;width: 90px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #A03D16;background-color: #EEFBB2;left: 110px;top: 214px;width: 90px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "\"創造は難しい\"<br/>と言うだろう。<br/>だが創造的な<br/>思考を簡単に<br/>するのが<br/>私の仕事だ"
-		,"style": "font-size: 14px;color: #19184B;background-color: #9E99E9;left: 15px;top: 350px;width: 111px;height: 132px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #19184B;background-color: #9E99E9;left: 15px;top: 350px;width: 111px;height: 132px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "ノートに<br/>何か書くこと<br/>あるの?"
-		,"style": "font-size: 14px;color: #A03D16;background-color: #EEFBB2;left: 285px;top: 392px;width: 97px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #A03D16;background-color: #EEFBB2;left: 285px;top: 392px;width: 97px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "学期の終わりには<br/>思考や感情を<br/>創造的な書き方で<br/>表現できるように<br/>なって欲しい"
-		,"style": "font-size: 14px;color: #19184B;background-color: #9E99E9;left: 620px;top: 30px;width: 155px;height: 156px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #19184B;background-color: #9E99E9;left: 620px;top: 30px;width: 155px;height: 156px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "わぁ 私の新しい友達は<br/>超かわいい<span style=\"color: #8A8C7F;\">#ユニユニ</span>"
-		,"style": "font-size: 14px;color: #000600;background-color: #EEFBB2;left: 418px;top: 415px;width: 152px;height: 58px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;"
+		,"style": "font-size: 14px;color: #000600;background-color: #EEFBB2;left: 418px;top: 415px;width: 152px;height: 58px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
 	}
 ]

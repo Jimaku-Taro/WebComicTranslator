@@ -1,30 +1,30 @@
 [
 	{
 		"text": "ただ<br/>…"
-		,"style": "font-size: 14px;color: #428509;background-color: #BAFB67;left: 25px;top: 20px;width: 34px;height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #428509;background-color: #BAFB67;left: 25px;top: 20px;width: 34px;height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "僕は何も<br/>得意じゃ<br/>ないんだ…"
-		,"style": "font-size: 14px;color: #428509;background-color: #BAFB67;left: 75px;top: 50px;width: 93px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #428509;background-color: #BAFB67;left: 75px;top: 50px;width: 93px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "そんなこと<br/>ないと<br/>思うけど!"
-		,"style": "font-size: 14px;color: #7C5601;background-color: #FBF267;left: 235px;top: 10px;width: 88px;height: 74px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #7C5601;background-color: #FBF267;left: 235px;top: 10px;width: 88px;height: 74px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "無神経で<br/>ごめんね!"
-		,"style": "font-size: 14px;color: #7C5601;background-color: #FBF267;left: 345px;top: 20px;width: 91px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #7C5601;background-color: #FBF267;left: 345px;top: 20px;width: 91px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "私は迷惑な<br/>アレよね<br/>御免なさい!"
-		,"style": "font-size: 14px;color: #7C5601;background-color: #FBF267;left: 452px;top: 52px;width: 100px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #7C5601;background-color: #FBF267;left: 452px;top: 52px;width: 100px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "心配しなくて<br/>いいよ!"
-		,"style": "font-size: 14px;color: #428509;background-color: #BAFB67;left: 528px;top: 355px;width: 92px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #428509;background-color: #BAFB67;left: 528px;top: 355px;width: 92px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 	,{
 		"text": "大した<br/>ことじゃ<br/>ない"
-		,"style": "font-size: 14px;color: #428509;background-color: #BAFB67;left: 580px;top: 412px;width: 71px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;"
+		,"style": "font-size: 14px;color: #428509;background-color: #BAFB67;left: 580px;top: 412px;width: 71px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
 	}
 ]
