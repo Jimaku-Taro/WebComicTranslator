@@ -1,35 +1,35 @@
 [
 	{
 		"text": "君はそれを<br/>人に見せるのを<br/>怖がるべき<br/>じゃない"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 6%;top: 4.5%;border-radius: 0%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 6%;top: 4.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "＊ヒトミビジョン起動　"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 43%;top: 17.3%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 43%;top: 17.3%;border-radius: 20%;"
 	}
 	,{
 		"text": "君の成功に<br/>必要なのは<br/>君らしくいる<br/>ことだ…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 6.5%;top: 21.5%;border-radius: 0%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 6.5%;top: 21.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "そこにいる<br/>君が最高の<br/>“ヒトミ”さ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 6%;top: 40.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 6%;top: 40.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "ハァ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 48%;top: 38.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 48%;top: 38.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "ハァ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 51.2%;top: 42%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 51.2%;top: 42%;border-radius: 20%;"
 	}
 	,{
 		"text": "うあ なんだ!<br/>大丈夫?!"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 8.5%;top: 59.5%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 8.5%;top: 59.5%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "ああああ！<br/>誰か救急車を<br/>呼んで！"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 24.5%;top: 59%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 24.5%;top: 59%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": ""
@@ -37,14 +37,14 @@
 	}
 	,{
 		"text": "進展した<br/>ようだな、<br/>兄弟"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 41.3%;top: 63%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 41.3%;top: 63%;border-radius: 20%;"
 	}
 	,{
 		"text": "そして今…<br/>ここでの<br/>オレの仕事は<br/>終わったぜ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 60%;top: 58.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 60%;top: 58.3%;border-radius: 30%;"
 	}
 	,{
 		"text": "ヒトミィィ!!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 56.3%;top: 81%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 56.3%;top: 81%;font-weight: bold;border-radius: 20%;"
 	}
 ]

@@ -9,30 +9,30 @@
 	}
 	,{
 		"text": "どう<br/>ですか、<br/>ドクター?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 53.5%;top: 9.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 53.5%;top: 9.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "私が<br/>来る前は<br/>酷かった"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 80.6%;top: 9%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 80.6%;top: 9%;border-radius: 20%;"
 	}
 	,{
-		"text": "子供の<br/>致死率は<br/>666%…<br/>世帯毎にだ"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 11.5%;top: 39%;border-radius: 0%;"
+		"text": "子供の<br/>致死率は<br/>666%…<br/>全世帯でだ"
+		,"style": "font-size: 17px;color: black;background-color: white;left: 11.5%;top: 39%;border-radius: 10%;"
 	}
 	,{
 		"text": "彼らは<br/>全て棒と泥で<br/>治そうとする<br/>それで上手く<br/>いかない"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 23%;top: 40%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 23%;top: 40%;border-radius: 20%;"
 	}
 	,{
-		"text": "だから<br/>得意技を<br/>持ってきたわ。<br/>最良のお薬は…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 80%;top: 38%;border-radius: 0%;"
+		"text": "だから<br/>得意技を<br/>持ってきたわ<br/>最良の薬は…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 80.5%;top: 37.5%;border-radius: 40%;"
 	}
 	,{
 		"text": "そして<br/>２番目に良い<br/>お薬は…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 80%;top: 56%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 80%;top: 56%;border-radius: 40%;"
 	}
 	,{
 		"text": "お薬！"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 73%;top: 72%;width: 136px;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 73%;top: 72%;width: 136px;font-weight: bold;border-radius: 20%;"
 	}
 ]

@@ -1,15 +1,15 @@
 [
 	{
 		"text": "下品な<br/>野蛮人<br/>みたいに<br/>しないで!!"
-		,"style": "font-size: 21px;color: black;background-color: white;left: 35.5%;top: 3%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 21px;color: black;background-color: white;left: 35.5%;top: 3%;font-weight: bold;border-radius: 30%;"
 	}
 	,{
 		"text": "家族皆<br/>クソだ！"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 55%;top: 5.5%;width: 149px;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 55%;top: 5.5%;width: 149px;font-weight: bold;border-radius: 40%;"
 	}
 	,{
 		"text": "また<br/>か…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 67.5%;top: 13%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 67.5%;top: 13%;border-radius: 30%;"
 	}
 	,{
 		"text": "(後ろの会話:)フェリシティ、ダーリン、落ち着いて"
@@ -21,26 +21,26 @@
 	}
 	,{
 		"text": "大丈夫よ、<br/>カズ、<br/>いきましょ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 81%;top: 48%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 80.8%;top: 48%;border-radius: 20%;"
 	}
 	,{
 		"text": "え？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 81.5%;top: 60%;border-radius: 0%;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 81.0%;top: 60.2%;border-radius: 0%;"
 	}
 	,{
 		"text": "何でバカげたTV番組観に戻らないんだ？"
-		,"style": "font-size: 16px;color: black;left: 7%;top: 92%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;left: 7%;top: 92.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "いくわよ<br/>パンドラ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 33%;top: 71%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 33%;top: 71%;border-radius: 20%;"
 	}
 	,{
 		"text": "エリアル！！お父さんを<br/>置きなさい！<br/>…食卓割るわよ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 45%;top: 92%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 45%;top: 92.5%;border-radius: 0%;"
 	}
 	,{
 		"text": "食卓なんて屁だ！！<br/>お前に屁を…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 72%;top: 92%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 72%;top: 92.5%;border-radius: 0%;"
 	}
 ]

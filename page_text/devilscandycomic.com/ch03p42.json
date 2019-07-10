@@ -1,30 +1,30 @@
 [
 	{
 		"text": "ふん!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 30.2%;top: 25%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 30.2%;top: 24.8%;font-weight: bold;border-radius: 10%;"
 	}
 	,{
 		"text": "うわ!"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 83%;top: 15%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 83%;top: 15%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "わぁ!"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 62.5%;top: 40%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 62.5%;top: 40%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
-		"text": "<span style=\"font-weight: bold;\">ラビ、<br/>このバカ!</span><br/>突っ立て１日中<br/>ファンを避けて<br/>られないのよ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 7%;top: 56%;border-radius: 0%;"
+		"text": "<span style=\"font-weight: bold;\">ラビ、<br/>このバカ!</span><br/>突っ立て１日中<br/>ファンを避けて<br/>られないの！"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 7%;top: 56%;border-radius: 30%;"
 	}
 	,{
 		"text": "ファッション<br/>ショーに出場<br/>するの、忘れた!?<br/><span style=\"font-weight: bold;\">それが最優先よ!</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 15%;top: 65.5%;height: 100px;border-radius: 0%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 15%;top: 65.5%;height: 100px;border-radius: 30%;"
 	}
 	,{
 		"text": "ああ<br/>うん…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77.5%;top: 69.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77.5%;top: 69.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "この場合、<br/>オレは少し<br/>熱くなる<br/>べきだね"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 16.5%;top: 83.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 16.5%;top: 83.5%;border-radius: 20%;"
 	}
 ]

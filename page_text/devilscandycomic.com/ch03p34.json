@@ -1,38 +1,38 @@
 [
 	{
 		"text": "ヘムロック<br/>ハートは<br/>ゴミよ！"
-		,"style": "font-size: 23px;color: black;background-color: white;left: 16%;top: 7%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 23px;color: black;background-color: white;left: 16%;top: 7%;font-weight: bold;border-radius: 30%;"
 	}
 	,{
 		"text": "悪魔達に<br/>調和を生まず…<br/>対立に<br/>陥れるわ！"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 70.5%;top: 12%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 70.5%;top: 12%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "スライムに<br/>体育が必要？<br/>ミノタウロスが<br/>代数をして<br/>何になるの！？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 9%;top: 40%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 9%;top: 40%;border-radius: 20%;"
 	}
 	,{
 		"text": "最後には関係ない<br/>スポットライトを<br/>盗もうとする<br/>あんたのような<br/>悪魔が現れる始末!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 71%;top: 40%;height: 120px;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 71%;top: 40%;height: 120px;border-radius: 20%;"
 	}
 	,{
 		"text": "だから、あんたは<br/><span style=\"font-weight: bold;\">“礼儀正しい論争”</span>でも<br/><span style=\"font-weight: bold;\">“暴力なしの対決”</span>でも<br/><span style=\"font-weight: bold;\">喰らって黙ってな！</span><br/>今日は<span style=\"font-weight: bold;\">私の</span>日！<br/>私だけのものよ！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 28%;top: 59.5%;height: 120px;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 28%;top: 59.5%;height: 120px;border-radius: 20%;"
 	}
 	,{
 		"text": "いいわよ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 51.5%;top: 62.3%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 51.5%;top: 62.3%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "とにかく<br/>話したく<br/>ないし"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 80%;top: 64.2%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 80%;top: 64.2%;border-radius: 20%;"
 	}
 	,{
 		"text": "パンドラ、<br/>更衣室へ走って<br/>準備して"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 75.5%;top: 76.5%;border-radius: 0%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 75.5%;top: 76.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "カズは<span style=\"font-weight: bold;\">君に</span><br/>戦いを禁じた<br/>けどあたしは<br/>やらなきゃ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 77%;top: 83.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 77%;top: 83.5%;border-radius: 20%;"
 	}
 ]

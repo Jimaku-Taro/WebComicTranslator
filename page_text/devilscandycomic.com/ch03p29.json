@@ -1,18 +1,18 @@
 [
 	{
 		"text": "僕の調和の<br/>取れた服に<br/>振り向いた"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 47.5%;top: 28.2%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 47.5%;top: 28.2%;border-radius: 20%;"
 	}
 	,{
 		"text": "オシャレ<br/>成功だ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 58.5%;top: 32.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 58.5%;top: 32.5%;border-radius: 20%;"
 	}
 	,{
-		"text": "どれ…<br/>知人は?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 75%;top: 28.7%;border-radius: 0%;"
+		"text": "どれ…<br/>皆は?　"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 75%;top: 28.7%;border-radius: 20%;"
 	}
 	,{
 		"text": "ニモ!<br/>やぁ!"
-		,"style": "font-size: 28px;color: black;background-color: white;left: 19%;top: 74%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 28px;color: black;background-color: white;left: 19%;top: 74%;font-weight: bold;border-radius: 20%;"
 	}
 ]

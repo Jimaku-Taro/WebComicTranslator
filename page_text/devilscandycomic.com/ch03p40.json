@@ -1,30 +1,30 @@
 [
 	{
 		"text": "残念ながら、<br/>まだ何名か<br/>来ていない<br/>ようです…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 33%;top: 18%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 33%;top: 18%;border-radius: 20%;"
 	}
 	,{
 		"text": "ですがジラスの<br/>センチネル達は<br/>破壊管理の<br/>正確さ同様に<br/>時間厳守！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 46.5%;top: 19.5%;border-radius: 0%;"
+		,"style": "font-size: 17px;color: black;background-color: white;left: 46.5%;top: 19.5%;border-radius: 30%;"
 	}
 	,{
 		"text": "ファッション<br/>の饗宴を<br/>開始する！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 80%;top: 23%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 80%;top: 23%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "最初の<br/>出演者は<br/>愛らしいミス<br/>エリノア"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 41%;top: 36%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 41%;top: 36%;border-radius: 20%;"
 	}
 	,{
 		"text": "大胆な<br/>デザインのギガ<br/>ペトラゴン製の<br/>ダウンコー…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 52%;top: 38.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 52%;top: 38.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "おっと"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 51.5%;top: 87%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 51.5%;top: 87%;border-radius: 20%;"
 	}
 	,{
 		"text": "これは<br/>ファッショナブル<br/>では<span style=\"font-weight: bold;\">無いな</span>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 73%;top: 90.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 73%;top: 90.5%;border-radius: 30%;"
 	}
 ]

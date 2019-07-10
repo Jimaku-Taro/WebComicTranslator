@@ -1,34 +1,34 @@
 [
 	{
 		"text": "教員<br/>共有<br/>ルーム"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 10%;top: 15%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 10%;top: 15%;border-radius: 10%;"
 	}
 	,{
 		"text": "どんな学校でも<br/>問題を共有するのは<br/>分かってるけど、<br/>腰抜けの校長が<br/>災害をどうにか<br/>してくれるのを<br/>願うわ！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 29%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 29%;top: 5%;border-radius: 30%;"
 	}
 	,{
 		"text": "あら?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 69%;top: 12%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 69%;top: 12%;border-radius: 30%;"
 	}
 	,{
 		"text": "思い起こせば、<br/>最近の２つの<br/>“災害”は<br/>科学関係<br/>だったわね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 73.5%;top: 14.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 73.5%;top: 14.5%;border-radius: 30%;"
 	}
 	,{
 		"text": "３つ目が<br/>あんたのショー!<br/>廊下で爆弾が<br/>爆発したようよ!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 10%;top: 33%;border-radius: 0%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 10%;top: 33%;border-radius: 20%;"
 	}
 	,{
 		"text": "なんのこと<br/>言ってるのか<br/>わからない<br/>わね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 27.5%;top: 34.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 27.5%;top: 34.5%;border-radius: 30%;"
 	}
 	,{
 		"text": "私に分かるのは<br/>火も爆弾も<br/>早期退職まで<br/>遠ざけろ<br/>ってこと!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 42.5%;top: 33%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 42.5%;top: 33%;border-radius: 30%;"
 	}
 	,{
 		"text": "火の話と<br/>いえば、<br/>この建物は<br/>禁煙よ！<br/><span style=\"font-weight: bold;\">それを置き<br/>なさい!</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 59%;top: 32%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 59%;top: 32%;border-radius: 30%;"
 	}
 ]

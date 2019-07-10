@@ -1,22 +1,22 @@
 [
 	{
 		"text": "嫌いよね？<br/>超気味悪い<br/>でしょ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 20%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 20%;top: 5%;border-radius: 20%;"
 	}
 	,{
 		"text": "まるで<br/>魔法だ！"
-		,"style": "font-size: 19px;color: black;background-color: white;left: 38.5%;top: 4.5%;border-radius: 0%;"
+		,"style": "font-size: 19px;color: black;background-color: white;left: 38.5%;top: 4.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "君みたいだ、<br/>ヒトミ！<br/>ふわふわで<br/>キラキラして<br/>かわいくて…<br/>そして…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 67%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 67%;top: 5%;border-radius: 30%;"
 	}
 	,{
 		"text": "温かい"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 76.5%;top: 42%;border-radius: 0%;"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 76.5%;top: 42%;border-radius: 20%;"
 	}
 	,{
 		"text": "カズ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 29.5%;top: 70%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 29.5%;top: 70%;border-radius: 20%;"
 	}
 ]

@@ -1,10 +1,10 @@
 [
 	{
 		"text": "アッ?!"
-		,"style": "font-size: 21px;color: black;background-color: white;left: 46.4%;top: 16.5%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 21px;color: black;background-color: white;left: 46.4%;top: 16.5%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "オウ!!"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 79%;top: 86.5%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 79%;top: 86.5%;font-weight: bold;border-radius: 20%;"
 	}
 ]
