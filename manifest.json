@@ -7,12 +7,12 @@
     ,"content_scripts": [
 		{
 			"matches": [
-				"http://devilscandycomic.com/comic/*"
-				,"http://www.monsterpop.mayakern.com/*"
-				,"https://tapas.io/episode/*"
-				,"https://www.avasdemon.com/*"
-				,"http://milktoastandmaple.smackjeeves.com/*"
-				,"http://mayakern.com/cshort.html*"
+				"*://devilscandycomic.com/comic/*"
+				,"*://www.monsterpop.mayakern.com/*"
+				,"*://tapas.io/episode/*"
+				,"*://www.avasdemon.com/*"
+				,"*://milktoastandmaple.smackjeeves.com/*"
+				,"*://mayakern.com/cshort.html*"
 				,"*://hoppinggills.com/*"
 			]
 			,"js": ["WebComicTranslator.js"]
