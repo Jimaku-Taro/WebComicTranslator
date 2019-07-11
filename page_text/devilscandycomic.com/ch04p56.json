@@ -1,30 +1,30 @@
 [
 	{
 		"text": "ところで<br/>カズは<br/>どこ？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 14%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 14%;top: 5%;border-radius: 20%;"
 	}
 	,{
 		"text": "救護の<br/>はずよね？<br/>応援？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 24%;top: 6%;width: 96px;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 24%;top: 6%;width: 96px;border-radius: 20%;"
 	}
 	,{
 		"text": "つまり、彼が<br/><span style=\"font-weight: bold;\">出場してる</span><br/>はずは…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 44.3%;top: 6%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 44.3%;top: 6%;border-radius: 20%;"
 	}
 	,{
 		"text": "誰が<br/>やったの？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 70%;top: 40.7%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 70%;top: 40.7%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "奴ら<br/>殺す!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 9.5%;top: 56.2%;font-weight: bold;width: 76px;border-radius: 0%;"
+		,"style": "font-size: 20px;color: black;background-color: white;left: 9.5%;top: 56.2%;font-weight: bold;width: 76px;border-radius: 20%;"
 	}
 	,{
 		"text": "全員<br/>ブッ殺す!"
-		,"style": "font-size: 28px;color: black;background-color: white;left: 13%;top: 62%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 28px;color: black;background-color: white;left: 13%;top: 62%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "骨から<br/>肉を喰い<br/>千切って<br/>やる！"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 54%;top: 78%;font-weight: bold;width: 128px;border-radius: 0%;"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 54%;top: 78%;font-weight: bold;width: 128px;border-radius: 20%;"
 	}
 ]

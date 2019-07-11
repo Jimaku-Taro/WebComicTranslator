@@ -1,14 +1,14 @@
 [
 	{
 		"text": "行け 行け<br/>行け!!"
-		,"style": "font-size: 23px;color: black;background-color: white;left: 74%;top: 4%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 23px;color: black;background-color: white;left: 74%;top: 4%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "ゴメン、<br/>ドアストン!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 8%;top: 31.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 8%;top: 31.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "卵！"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 83%;top: 33%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 30px;color: black;background-color: white;left: 83%;top: 33%;font-weight: bold;border-radius: 20%;"
 	}
 ]

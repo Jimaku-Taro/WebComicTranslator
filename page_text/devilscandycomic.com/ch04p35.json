@@ -1,58 +1,58 @@
 [
 	{
 		"text": "両親が裁定の<br/>巣に着地。<br/>彼の動きを<br/>気に入るか<br/>見ましょう！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 20.3%;top: 14.3%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 20.3%;top: 14.0%;border-radius: 20%;"
 	}
 	,{
 		"text": "最高得点!<br/>ゴール4点<br/>ダンス6点!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 37%;top: 5%;width: 106px;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 37%;top: 5%;width: 106px;border-radius: 20%;"
 	}
 	,{
 		"text": "全く予想外!<br/>彼の誠意に<br/>動かされた<br/>としか思えない!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 47%;top: 9.5%;border-radius: 0%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 47%;top: 9.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "ダンスが<br/>最重要<br/>なんだ…?!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 39%;top: 24.1%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 39%;top: 24.1%;border-radius: 20%;"
 	}
 	,{
 		"text": "見て、<br/>パンドラ！<br/>君もあんなの<br/>できるよね？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 69%;top: 7%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 69%;top: 7%;border-radius: 20%;"
 	}
 	,{
 		"text": "いいぞ、<br/>ドレイクが<br/>この調子<br/>なら…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 7%;top: 41%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 7%;top: 41%;border-radius: 20%;"
 	}
 	,{
 		"text": "…彼女<br/>抜きでも<br/>大丈夫だな"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 56%;top: 39%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 56%;top: 39%;border-radius: 20%;"
 	}
 	,{
 		"text": "やる<br/>じゃん"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 13.5%;top: 62%;border-radius: 0%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 13.5%;top: 62%;border-radius: 20%;"
 	}
 	,{
 		"text": "あれは<br/>スゴ<br/>かった！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 5%;top: 65.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 5%;top: 65.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "ふん…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 24.5%;top: 63%;transform: rotate(-10deg);border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 24.5%;top: 63%;transform: rotate(-10deg);border-radius: 20%;"
 	}
 	,{
 		"text": "奇襲は<br/>２度は通じない<br/>オレ１人じゃ<br/>止めきれない"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 41%;top: 58.5%;height:116px;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 41%;top: 58.5%;height:116px;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
 	}
 	,{
 		"text": "守備を<br/>固くする<br/>必要がある"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 80%;top: 59.4%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 80%;top: 59.4%;border-radius: 20%;"
 	}
 	,{
 		"text": "君に期待<br/>してるよ、<br/>ウォル…<br/>えーと…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 40.5%;top: 80%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 40.5%;top: 80%;border-radius: 20%;"
 	}
 	,{
 		"text": "ドア…<br/>ドアリィ?<br/>ドアストン?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 51%;top: 81.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 51%;top: 81.5%;border-radius: 20%;"
 	}
 ]

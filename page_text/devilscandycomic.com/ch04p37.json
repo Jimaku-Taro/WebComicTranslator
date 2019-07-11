@@ -1,22 +1,22 @@
 [
 	{
 		"text": "インフェルノズ<br/>の得点で<br/>ダンスが<br/>ヒット！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 14%;top: 66.5%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 13.5%;top: 66.5%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "得点は<br/>今<br/>10対10！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 26%;top: 71%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 26%;top: 71%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "オレらは奴らを<br/>打ち破れないし<br/>チームワークも<br/>良くない"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 41%;top: 70%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 41%;top: 70%;border-radius: 20%;"
 	}
 	,{
 		"text": "唯一の選択肢は<br/>妙なクソの寄集めで<br/>奴らを驚かせて<br/>ドレイクの突破口が<br/>できるのを<br/>望むだけだ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 39%;top: 81%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 39%;top: 80.5%;border-radius: 30%;"
 	}
 	,{
 		"text": "問題ない。<br/>私にいい<br/>考えがある"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 71%;top: 82.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 71.4%;top: 82.5%;border-radius: 30%;"
 	}
 ]

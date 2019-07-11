@@ -1,62 +1,62 @@
 [
 	{
 		"text": "何ソレ"
-		,"style": "font-size: 28px;color: black;background-color: white;left: 10.5%;top: 7%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 28px;color: black;background-color: white;left: 10.5%;top: 7%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "オレの質問の<br/>答えになって<br/>ねーぞ、<span style=\"font-weight: bold;\">全然…</span><br/>お前は何を<br/>分かってるんだ？<br/>もういいよ"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 24%;top: 4.5%;border-radius: 0%;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 24%;top: 4.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "問題ないよ、<br/>ニモ、だって<br/>感動的な話で<br/>僕のハートに火が<br/>ついた…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 42%;top: 7.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 42%;top: 7.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "脳に血を送り込み、<br/>ニューロンに<br/>力を生み<br/>素晴らしい<br/>考えが閃いた!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 41.5%;top: 17.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 41.5%;top: 17.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "ほほ本当に??"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77.5%;top: 8%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77.5%;top: 8%;border-radius: 20%;"
 	}
 	,{
 		"text": "ヘムロック<br/>ハートの<br/>生徒の皆<br/>ちょっと<br/>聞いて？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 33.5%;top: 37.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 33.5%;top: 37.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "突然だけど、<br/>本日をもって、<br/>学校に新ルールが<br/>追加されました！<br/>課外活動が必須に<br/>なりました！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 43.3%;top: 41.8%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 43.3%;top: 41.8%;border-radius: 20%;"
 	}
 	,{
 		"text": "スライム君主"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 48%;top: 35.4%;transform: rotate(3deg);width :130px;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 48%;top: 35.4%;transform: rotate(3deg);width :130px;border-radius: 10%;"
 	}
 	,{
 		"text": "・ブロブ王<br/>・1000年の<br/>自賛の治世"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 53.5%;top: 37%;text-align:left;transform: rotate(3deg);width :85px;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 53.5%;top: 37%;text-align:left;transform: rotate(3deg);width :85px;border-radius: 10%;"
 	}
 	,{
 		"text": "護身の<br/>心得"
-		,"style": "font-size: 14.5px;color: black;background-color: white;left: 82.5%;top: 44%;width: 65px;border-radius: 0%;"
+		,"style": "font-size: 14.5px;color: black;background-color: white;left: 82.5%;top: 44%;width: 65px;border-radius: 20%;"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;border-bottom: solid 1px black;\">噛み付き</span><br/>禁止"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 91.8%;top: 46.8%;border-radius: 0%;"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 91.8%;top: 46.8%;border-radius: 20%;"
 	}
 	,{
-		"text": "すでにクラブに<br/>入っている人達には<br/>朗報です、<br/>自動的に成績に<br/>評価が加点されます。<br/>他の人達も…<br/>心配いりません！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 74%;top: 52%;border-radius: 0%;"
+		"text": "すでにクラブに<br/>入っている人達には<br/>朗報です、<br/>自動的に成績に<br/>評価が加点されます。<br/>他の人達も…<br/>心配ご無用!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 74%;top: 52%;border-radius: 40%;"
 	}
 	,{
 		"text": "超楽しい部が<br/>新メンバーを<br/>募集中です…<br/>一度参加するだけで<br/>無料で‘A’評価が<br/>ゲットできます！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 29.5%;top: 65.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 29.5%;top: 65.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "興味のある人は<br/>ヘムロックさん<br/>のオフィスまで<br/>至急報告に来て!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 44%;top: 73.7%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 44%;top: 73.7%;border-radius: 20%;"
 	}
 	,{
 		"text": "やる価値は<br/>ねーよ。<br/>オレを<br/>信じろ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 84.5%;top: 75.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 84.2%;top: 75.3%;border-radius: 40%;"
 	}
 ]

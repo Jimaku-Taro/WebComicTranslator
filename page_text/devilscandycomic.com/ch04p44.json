@@ -1,38 +1,38 @@
 [
 	{
 		"text": "パンドラ、<br/>もし君の気が<br/>変わるなら、<br/>今がいい時だよ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 12%;top: 5.5%;border-radius: 0%;"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 12%;top: 5.2%;border-radius: 20%;"
 	}
 	,{
 		"text": "僕は君に何も<br/>させられない。<br/>君に何か<br/>学ばせることも<br/>できない"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 59%;top: 3%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 59%;top: 3%;border-radius: 20%;"
 	}
 	,{
 		"text": "僕はただ普通に<br/>生きて欲しかった<br/>それがどういう<br/>意味かは<br/>わからない<br/>けど"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 70.5%;top: 7%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 70.5%;top: 7%;border-radius: 50%;"
 	}
 	,{
 		"text": "さぁ、<br/>なんとか<br/>しようぜ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 69%;top: 22%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 69%;top: 22%;border-radius: 20%;"
 	}
 	,{
 		"text": "でも、<br/>１つだけ<br/>言うよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 15.8%;top: 38.5%;width: 71px;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 15.8%;top: 38.5%;width: 71px;border-radius: 10%;"
 	}
 	,{
 		"text": "誰かに助けが<br/>必要な時に<br/>座って<br/>何もしないのは<br/>間違ってる"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 41.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 41.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "それで<br/>人が納得しても<br/>しなくても…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 12.6%;top: 60%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 12.6%;top: 60%;border-radius: 20%;"
 	}
 	,{
 		"text": "僕が<br/>できるのは<br/>率先して<br/>手本を示す<br/>だけだ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 28%;top: 59%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 28%;top: 58.5%;border-radius: 30%;"
 	}
 	,{
 		"text": "もし僕が<br/>死んでも、<br/>ただ僕は君に<br/>とっての最善を<br/>望んでたって<br/>覚えてて"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 66%;top: 60%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 66%;top: 59.5%;border-radius: 30%;"
 	}
 ]

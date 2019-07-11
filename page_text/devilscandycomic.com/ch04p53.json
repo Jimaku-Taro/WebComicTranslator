@@ -1,38 +1,38 @@
 [
 	{
 		"text": "さらに<br/>10点だ<br/>インフェルノズ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 11.5%;top: 8%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 11.5%;top: 8%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "さらに<br/>追加得点だ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 48%;top: 14%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 48%;top: 14%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "インター<br/>セプション！"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 72.5%;top: 23.5%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 18px;color: black;background-color: white;left: 72.5%;top: 23.5%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "素早い<br/>反撃により<br/>さらに完璧な<br/>10点だ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 64.4%;top: 42%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 64.4%;top: 42%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "イン<br/>フェル<br/>ノズ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 8%;top: 48%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 8%;top: 48%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "イン<br/>フェル<br/>ノズ！"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 35%;top: 41%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 35%;top: 41%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "イン<br/>フェル<br/>ノズ！"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 45%;top: 43.5%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 45%;top: 43.5%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "また<br/>得点だ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 36%;top: 54%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 36%;top: 54%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "さらに<br/>得点！"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 76%;top: 75%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 76%;top: 75%;font-weight: bold;border-radius: 20%;"
 	}
 ]

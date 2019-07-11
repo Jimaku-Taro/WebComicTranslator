@@ -1,38 +1,38 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">カズ、お前は<br/>余計なお世話<br/>焼きすぎだ！</span><br/>これは明らかに<br/><span style=\"font-weight: bold;\">バカげてる！</span>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 12%;top: 6%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 12%;top: 6%;border-radius: 30%;"
 	}
 	,{
 		"text": "えぐっ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 31.5%;top: 19.7%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 31.5%;top: 19.7%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "ありがとう、<br/>ニモ。それが<br/>君を呼んだ<br/>理由なんだ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 38.5%;top: 28.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 38.5%;top: 28.5%;border-radius: 20%;"
 	}
 	,{
 		"text": "カズと私は<br/>熱中しやすい。<br/>君の消極性で<br/>私達を抑える<br/>必要がある"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 74.5%;top: 9%;border-radius: 0%;"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 74.5%;top: 9%;border-radius: 20%;"
 	}
 	,{
 		"text": "ヘムロックさんは<br/>オレがスカーレット<br/>クラウンに単独で<br/>挑むのを禁じた、<br/>だからチームを組む<br/>必要がある、<br/>手順に従うだけ<br/>ならね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 10%;top: 43%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 10%;top: 43%;border-radius: 40%;"
 	}
 	,{
 		"text": "言い換えれば、<br/>チームに専門技能が<br/>欠けていても、<br/>オレがそれ以上に<br/>補えばいい！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 49%;top: 44%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 49%;top: 44%;border-radius: 20%;"
 	}
 	,{
 		"text": "うん？お前<br/>エッグスクラム<br/>上手いの？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 66%;top: 43.2%;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 66%;top: 43.2%;border-radius: 20%;"
 	}
 	,{
 		"text": "オレは<br/>エッグスクラム<br/>に命の恩がある!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 78.5%;top: 43.7%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 78.5%;top: 43.7%;font-weight: bold;border-radius: 20%;"
 	}
 	,{
 		"text": "大昔、<br/>オレが子供の頃、<br/>火事関係の事故が<br/>不運にも俺の家で<br/>あった"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 70.5%;top: 74.5%;border-radius: 0%;"
+		,"style": "font-size: 17px;color: black;background-color: white;left: 70.5%;top: 74.5%;border-radius: 20%;"
 	}
 ]
