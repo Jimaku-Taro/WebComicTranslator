@@ -1,0 +1,46 @@
+[
+	{
+		"text": "なぜ<br/>そんなに<br/>落ち込むの?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 3.03%;top: 0.39%;width: 14.79%;height: 9.98%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "たかが<br/>寝室で"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 22.82%;top: 1.65%;width: 10.64%;height: 10.93%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "うん、でも<br/>慣れない場所で寝ると<br/>アイツ不安になるから"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 38.78%;top: -1.02%;width: 20.43%;height: 10.69%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "よく<br/>知ってる<br/>のね!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 66.86%;top: -0.08%;width: 11.38%;height: 9.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "生まれた時から<br/>友達だからさ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 71.65%;top: 15.96%;width: 12.66%;height: 11.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "両親が知り合いで<br/>ずっと一緒だった!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 27.71%;top: 28.62%;width: 24.68%;height: 6.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "お互いの<br/>成長も見た!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 47.82%;top: 38.05%;width: 12.87%;height: 4.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "彼は<br/>本当に<br/>１番で<br/>唯一の<br/>親友…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 82.39%;top: 49.45%;width: 15.11%;height: 13.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "悲しませたく<br/>ないんだ!!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 3.88%;top: 65.88%;width: 10.43%;height: 8.25%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "エイフェン<br/>早く<br/>降りて!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 50.27%;top: 63.68%;width: 7.87%;height: 5.97%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "スケア!!!"
+		,"style": "font-size: 16px;color: black;background-color: ;left: 17.39%;top: 84.28%;width: 10.53%;height: 2.52%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;font-weight: bold;"
+	}
+]

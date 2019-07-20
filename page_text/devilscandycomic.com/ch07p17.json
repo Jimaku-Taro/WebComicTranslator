@@ -1,7 +1,7 @@
 [
 	{
 		"text": "おいおい…。<br/>笑えないよ。<br/>そんな理論が<br/>あるなら<br/>聞いてるはずだ"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 10%;top: 1.5%;width: 127px;height: 94px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 10.5%;top: 1.5%;width: 127px;height: 94px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
 	}
 	,{
 		"text": "あらゆる<br/>歴史書や科学誌を<br/>漁ったけど<br/>神話しか見つから<br/>なかったよ…"
@@ -48,12 +48,12 @@
 		,"style": "font-size: 12px;color: black;background-color: white;left: 81.5%;top: 41%;width: 90px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
 	}
 	,{
-		"text": "つまりその考えは、<br/>マイロの頭骨に<br/>彼が動揺すると<br/>破壊波を出す<br/>虫がいる?"
+		"text": "つまり<br/>その考えは、<br/>マイロの頭骨に<br/>彼が動揺すると<br/>破壊波を出す<br/>虫がいる?"
 		,"style": "font-size: 13px;color: black;background-color: white;left: 9.2%;top: 62.4%;width: 131px;height: 137px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
 	}
 	,{
-		"text": "その通り。その現象は<br/>現代社会では<br/>報告がないから<br/>Dr.パンターノが発見した<br/>ミイラの頭骨にある種の<br/>休眠状態で寄生虫が<br/>いた可能性が高い"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 25.5%;top: 62.7%;width: 170px;height: 150px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		"text": "その通り。<br/>その現象は現代社会では<br/>報告がないから<br/>Dr.パンターノが発見した<br/>ミイラの頭骨にある種の<br/>休眠状態で寄生虫が<br/>いた可能性が高い"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 25.7%;top: 62.9%;width: 170px;height: 150px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
 	}
 	,{
 		"text": "祖父との<br/>長期接触で<br/>マイロに感染<br/>したみたいだ"

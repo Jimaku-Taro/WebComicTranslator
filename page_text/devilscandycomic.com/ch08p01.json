@@ -21,7 +21,7 @@
 	}
 	,{
 		"text": "初視聴の方に<br/>説明すると…<br/>挑戦者が進むのは<span style=\"font-weight: bold;\">忍者地獄コース、</span><span><span style=\"font-weight: bold;\">忍者地獄</span>の火中で作られ</span><span style=\"font-weight: bold;\">地獄へ堕ちたヘル忍者</span>によって現れました!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 14.5%;top: 52%;width: 158px;height: 182px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 14.5%;top: 52%;width: 158px;height: 182px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 5%;"
 	}
 	,{
 		"text": "*忍者地獄は本物ではありません。<br/>マネしないで下さい。"

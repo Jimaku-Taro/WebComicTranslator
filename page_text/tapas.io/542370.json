@@ -1,0 +1,42 @@
+[
+	{
+		"text": "僕らのグループの<br/>用事は終わったから<br/>準備ができたら<br/>リビングルームに<br/>来なよ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 2.37%;top: 2.75%;width: 21.60%;height: 24.37%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "スケア!!!"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 6.33%;top: 31.21%;width: 18.30%;height: 6.60%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "大丈夫?"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 7.71%;top: 38.99%;width: 15.85%;height: 6.37%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "コスタは<br/>イジメない?"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 4.31%;top: 45.91%;width: 19.79%;height: 7.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "寂しくない?"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 12.18%;top: 54.09%;width: 20.11%;height: 7.86%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "何か<br/>して欲しい<br/>ことは?"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 72.71%;top: 28.62%;width: 19.68%;height: 8.88%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "新しい枕<br/>欲しくない?"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 73.03%;top: 38.29%;width: 22.66%;height: 9.75%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "新しい<br/>毛布は?"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 78.14%;top: 49.21%;width: 16.17%;height: 7.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "エイフェン<br/>まだ10分しか<br/>経ってないよ…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 2.61%;top: 62.50%;width: 21.49%;height: 10.06%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "さて、<br/>皆も知るように、<br/>私達はここに<br/>２泊する"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 68.88%;top: 61.87%;width: 26.81%;height: 10.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

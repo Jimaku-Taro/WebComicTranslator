@@ -1,0 +1,22 @@
+[
+	{
+		"text": "痛っ!"
+		,"style": "font-size: 40px;color: black;background-color: white;left: 42.71%;top: 9.43%;width: 11.38%;height: 7.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+	}
+	,{
+		"text": "うわぁ、エイフェン…<br/>もっと気を付けてよ…!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 67.82%;top: 0.08%;width: 24.04%;height: 7.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ごめん…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 78.46%;top: 17.30%;width: 6.49%;height: 2.75%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "嫌になる"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 75.37%;top: 57.15%;width: 7.13%;height: 2.20%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "ポテトの<br/>皮むくの<br/>うまいね"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 82.82%;top: 87.66%;width: 11.49%;height: 12.26%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+]
