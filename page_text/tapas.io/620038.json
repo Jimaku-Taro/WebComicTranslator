@@ -1,0 +1,30 @@
+[
+	{
+		"text": "エイフェン<br/>さっき何を<br/>言おうと<br/>したの?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 6.12%;top: 23.19%;width: 21.81%;height: 8.10%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "思ったんだ…<br/>俺 心の中で歌ったろ?<br/>それが聞こえたのは<br/>能力が覚醒した<br/>からじゃない?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 38.88%;top: 21.86%;width: 18.19%;height: 19.65%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "え…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 4.20%;top: 51.89%;width: 6.81%;height: 4.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "もう?!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 2.71%;top: 65.80%;width: 11.38%;height: 4.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "何<br/>驚いてんだよ!<br/>本人が<br/>分からない<br/>って変だろ!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 31.76%;top: 51.26%;width: 11.17%;height: 12.42%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "さぁ心を<br/>読んでみろ!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 69.63%;top: 53.22%;width: 13.30%;height: 6.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ダメ…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 89.84%;top: 76.97%;width: 6.60%;height: 8.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"text": "…みたい"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 3.88%;top: 1.02%;width: 7.55%;height: 6.84%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "近すぎ!!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 40.90%;top: 5.82%;width: 6.81%;height: 7.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "鼻が<br/>真っ赤だ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 80.48%;top: 1.89%;width: 14.89%;height: 6.37%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "…僕の鼻<br/>真っ赤?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 12.18%;top: 28.22%;width: 14.15%;height: 7.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "うん<br/>そう思った…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 11.76%;top: 44.50%;width: 13.30%;height: 7.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "成功だ!!!"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 39.31%;top: 56.37%;width: 17.77%;height: 5.74%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "うるさい!"
+		,"style": "font-size: 60px;color: black;background-color: white;left: 67.07%;top: 89.15%;width: 30.32%;height: 8.73%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;font-weight: bold;"
+	}
+]

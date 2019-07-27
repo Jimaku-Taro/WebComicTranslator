@@ -1,0 +1,34 @@
+[
+	{
+		"text": "風が強く<br/>なってきた…<br/>登り続けて<br/>大丈夫かな…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 51.86%;top: 21.23%;width: 14.26%;height: 13.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "先生<br/>戻った方が<br/>いいかも…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 10.69%;top: 38.44%;width: 12.23%;height: 11.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "いや<br/>もう遅い<br/>山頂の方が<br/>ロッジより<br/>近い"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 26.33%;top: 42.85%;width: 12.45%;height: 13.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ストック<br/>が…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 69.41%;top: 41.90%;width: 6.70%;height: 7.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ほら"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 6.01%;top: 69.42%;width: 8.40%;height: 4.40%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;transform:rotate(-15deg);"
+	}
+	,{
+		"text": "でも先生<br/>この天気は<br/>予想外で<br/>装備の強度も<br/>不足してます"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 11.97%;top: 68.71%;width: 14.47%;height: 14.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "チッ<br/>そうだな<br/>この状況では<br/>装備が<br/>安っぽく<br/>見える"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 34.73%;top: 69.10%;width: 12.55%;height: 13.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "分かった<br/>装備を<br/>取ってくる"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 69.20%;top: 72.01%;width: 11.28%;height: 11.64%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]

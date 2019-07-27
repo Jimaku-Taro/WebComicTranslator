@@ -1,0 +1,34 @@
+[
+	{
+		"text": "皿を<br/>割ったか…"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 4.63%;top: 0.86%;width: 10.53%;height: 7.23%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "罰としては…<br/>良くないが、<br/>全員5分以内に<br/>食事して<br/>就寝しろ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 13.99%;top: 1.73%;width: 18.94%;height: 20.13%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "残り<br/>４分"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 67.18%;top: 40.49%;width: 12.34%;height: 10.93%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "急げ!!<br/>新しい皿を<br/>探せ!!!"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 9.63%;top: 62.89%;width: 17.23%;height: 11.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;font-weight: bold;"
+	}
+	,{
+		"text": "エイフェン<br/>スープ作り<br/>手伝え!"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 20.27%;top: 83.57%;width: 17.55%;height: 9.59%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;font-weight: bold;"
+	}
+	,{
+		"text": "うん!!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 32.61%;top: 93.87%;width: 6.28%;height: 2.91%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;font-weight: bold;"
+	}
+	,{
+		"text": "アハハ…<br/>意地悪<br/>すぎますよ<br/>先生"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 46.65%;top: 65.02%;width: 17.66%;height: 8.33%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "頭がすでに<br/>食事済み"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 55.37%;top: 92.85%;width: 12.13%;height: 3.77%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+]

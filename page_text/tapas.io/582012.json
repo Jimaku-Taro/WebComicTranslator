@@ -1,0 +1,18 @@
+[
+	{
+		"text": "皆<br/>この場に<br/>留まるのは<br/>良くないと<br/>思う"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 23.46%;top: 30.42%;width: 12.34%;height: 13.44%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "立つのが<br/>やっとの<br/>子もいるし<br/>風が強すぎる"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 53.35%;top: 31.05%;width: 13.83%;height: 14.70%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "向こうの<br/>木の側に<br/>固まった方が<br/>いい!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 5.69%;top: 71.93%;width: 22.77%;height: 11.87%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "行くぞ<br/>ユリウス!"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 69.84%;top: 61.71%;width: 9.15%;height: 8.88%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]
