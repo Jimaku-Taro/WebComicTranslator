@@ -1,0 +1,102 @@
+[
+	{
+		"text": "信じ<br/>られないわ<br/>全く"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 34.95%;top: 6.35%;width: 10.21%;height: 1.86%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "でも手紙は君の<br/>姉妹からだろ?<br/>一番信用できるんじゃ<br/>なかったのか?"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 37.07%;top: 8.37%;width: 18.30%;height: 1.89%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+	}
+	,{
+		"text": "彼は簡単に<br/>操れるのよ。<br/>以前もやったわ"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 46.97%;top: 10.46%;width: 15.96%;height: 1.60%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "反面…筆跡に<br/>彼女の悪意を感じる。<br/>彼でもそれはコピー<br/>できないわ"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 84.41%;top: 6.77%;width: 13.09%;height: 3.21%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "それで…<br/>行こうか<br/>考えてるの?"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 65.90%;top: 11.74%;width: 11.28%;height: 2.41%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+	}
+	,{
+		"text": "あなた<br/>行ねぇ!"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 88.56%;top: 14.63%;width: 6.91%;height: 1.70%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "以前の私の家族の<br/>対応を忘れたの?"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 28.14%;top: 18.54%;width: 22.87%;height: 3.91%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "あなた<br/>ねぇ!"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 88.56%;top: 14.63%;width: 6.91%;height: 1.70%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "いや、でも僕は知らない…家族会だっけ?<br/>怪しい感じはしない。君は彼がこの時期<br/>年に一度の行事をやるって言ったか?"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 15.80%;top: 27.62%;width: 24.47%;height: 1.96%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+	}
+	,{
+		"text": "そうだけど何か変よ。<br/>なぜ今なの?<br/>何も話を聞いてないわ"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 19.20%;top: 29.74%;width: 18.40%;height: 2.02%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "なぁ、<br/>もし彼が<br/>心配なら…"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 77.29%;top: 28.42%;width: 13.62%;height: 2.28%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "心配なのは彼じゃない。<br/>もし彼があなたやアーマに<br/>会ったら何をする気かしら?<br/>人に縁遠い家族とも私達は<br/>会ったことないし"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 53.67%;top: 34.04%;width: 17.02%;height: 4.07%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "まぁ<br/>僕の家族は<br/>幽霊の類に<br/>会ったこと<br/>ないか"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 15.69%;top: 41.03%;width: 9.04%;height: 3.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "まぁ<br/>僕側の家族は<br/>幽霊の類に<br/>会ったこと<br/>ないか"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 15.69%;top: 41.03%;width: 9.04%;height: 3.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "私の親戚は<br/>あなた程<br/>心を開かないし<br/>殺しも<br/>いとわない"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 8.14%;top: 47.10%;width: 9.47%;height: 3.72%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+	}
+	,{
+		"text": "私が行くのは<br/>考えるけど<br/>あなたとアーマは<br/>連れてけないわ。<br/>２人に何が起こるか<br/>分からない"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 27.71%;top: 48.38%;width: 15.00%;height: 3.50%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "エミコ<br/>ずっと前<br/>約束したろ?"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 49.52%;top: 50.72%;width: 13.62%;height: 1.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "互いに<br/>向き合うって"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 54.41%;top: 52.26%;width: 11.60%;height: 1.35%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "隠れ続けてたら<br/>向こうが探して来た時<br/>状況が悪くなる。<br/>それにアーマも知るべきだと思う"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 70.05%;top: 40.36%;width: 27.87%;height: 2.09%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+	}
+	,{
+		"text": "ハァ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 12.71%;top: 67.50%;width: 9.15%;height: 1.67%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "乗り気はしないけど…<br/>あなたの言うとおりね。<br/>乗り越えるべきだと思う<br/>一緒に行きましょう"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 38.88%;top: 66.06%;width: 21.81%;height: 2.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "アーマに<br/>近いうちに<br/>説明するわ"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 73.88%;top: 54.44%;width: 17.02%;height: 2.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "今じゃ<br/>ないのか？<br/>彼女起きてる<br/>だろ"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 14.63%;top: 71.45%;width: 11.49%;height: 2.89%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "ハニー"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 18.99%;top: 85.18%;width: 10.85%;height: 1.70%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+	,{
+		"text": "話があるの"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 60.69%;top: 85.31%;width: 12.23%;height: 3.46%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+	}
+]
