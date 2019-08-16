@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2
 	,"name": "WebComicTranslator"
-	,"version": "2.14.0"
+	,"version": "2.15.0"
 	,"short_name": "コミトラ"
 	,"description": "一部のWebコミックに日本語訳を人力で追加"
     ,"content_scripts": [
