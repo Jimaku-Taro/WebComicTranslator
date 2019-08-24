@@ -288,7 +288,6 @@ const handleErrors = (res) => {
  */
 function webComicTranslator() {
 	trace('WCT：メイン処理動作開始');
-
 	// 対象ページのデータ取得
 	let {imageParentElement, json_url} = getTargetData();
 

@@ -1,0 +1,38 @@
+[
+	{
+		"text": "調理<br/>器具だ"
+		,"style": "font-size: 16px;color: black;background-color: white;left: 12.23%;top: 6.94%;width: 8.95%;height: 6.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+	}
+	,{
+		"text": "ドン・チョンマゲ<br/>タタラトゥスに住む<br/>世界一有名な<br/>吸血鬼シェフ。<br/>彼と同じ調理法さ"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 28.46%;top: 3.26%;width: 15.75%;height: 9.97%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+	}
+	,{
+		"text": "言い換えると、<br/>吸血鬼が消化しやすい<br/>素材を使いつつも<br/>他種族の悪魔にも<br/>美味い料理を作る"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 70.58%;top: 4.93%;width: 19.09%;height: 10.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+	}
+	,{
+		"text": "いつか弟子に<br/>なりたいから<br/>２，３教えを<br/>請えるといいな"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 9.96%;top: 36.53%;width: 16.83%;height: 8.30%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+	}
+	,{
+		"text": "料理のことには<br/>うるさいんだよ。<br/>黙らないなら<br/>お前らみたいな<br/>オタクになれよ"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 42.18%;top: 35.44%;width: 15.04%;height: 11.32%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+	}
+	,{
+		"text": "ぼくは<br/>君達みたいな<br/>イケメンの<br/>仲間入りって<br/>こと?"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 59.61%;top: 36.78%;width: 13.84%;height: 8.97%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+	}
+	,{
+		"text": "それと…<span style=\"font-weight: bold;\">ヨッと!</span>"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 73.81%;top: 39.38%;width: 9.43%;height: 4.11%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:50%;font-weight: normal;"
+	}
+	,{
+		"text": "ニモの鞄の<br/>奥深くに<br/>隠された<br/>性癖は何かな!"
+		,"style": "font-size: 15px;color: black;background-color: white;left: 9.96%;top: 66.12%;width: 17.54%;height: 7.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+	}
+	,{
+		"text": "ニャんじゃこりゃ!<br/>生首!"
+		,"style": "font-size: 25px;color: black;background-color: white;left: 30.97%;top: 65.70%;width: 25.66%;height: 7.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: bold;"
+	}
+]
