@@ -1,0 +1,30 @@
+[
+	{
+		"text": "<span><span style=\"font-weight: bold;\">普通</span>の食物を</span><span><span style=\"font-weight: bold;\">友達</span>と食べれる!</span>"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 7.94%;top: 3.64%;width: 12.77%;height: 7.04%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+	}
+	,{
+		"text": "マイロが<br/>死にかけて<br/>困ることも<br/>ない!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 8.17%;top: 10.68%;width: 12.89%;height: 7.46%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+	}
+	,{
+		"text": "夜も<br/>眠れる!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 8.53%;top: 17.89%;width: 11.93%;height: 7.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+	}
+	,{
+		"text": "世界を見れば<br/>リケットの<br/>人生バラ色さ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 28.94%;top: 4.48%;width: 12.05%;height: 9.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+	}
+	,{
+		"text": "グスン"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 81.44%;top: 10.26%;width: 5.25%;height: 3.02%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: bold;"
+	}
+	,{
+		"text": "お…<br/>おかしいな。<br/>列車内に雨が<br/>降ってるみたい"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 9.13%;top: 33.31%;width: 16.23%;height: 10.14%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+	}
+	,{
+		"text": "待てよ…<br/>本当に雨!?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 79.30%;top: 49.83%;width: 12.17%;height: 6.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+	}
+]
