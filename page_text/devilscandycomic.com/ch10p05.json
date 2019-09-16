@@ -4,6 +4,10 @@
 		,"style": "font-size: 50px;color: black;background-color: white;left: 27.03%;top: 2.42%;width: 50.24%;height: 8.05%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:0%;font-weight: bold;border:solid 1px;"
 	}
 	,{
+		"text": "男らしい男の<br/>ハンサムメイク"
+		,"style": "font-size: 13px;color: white;background-color: #686868;left: 66.17%;top: 12.63%;width: 12.89%;height: 4.95%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:0%;font-weight: normal;transform: rotate(-10deg);"
+	}
+	,{
 		"text": "嫌だ"
 		,"style": "font-size: 13px;color: black;background-color: #DFDFDF;left: 27.74%;top: 60.09%;width: 5.61%;height: 2.60%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: bold;"
 	}
