@@ -17,14 +17,14 @@
 /** デバッグフラグ */
 let DEBUG_MODE = true;
 
-/** デバッグトレース */
-function trace(s) {
+/** デバッグ用コンソール表示 */
+function consoleLog(s) {
 	if (DEBUG_MODE && this.console && typeof console.log != "undefined") {
 		console.log(s);
  	}
 }
 
-trace('WebComicTransrator初回動作始動');
+consoleLog('WebComicTransrator初回動作始動');
 
 // WCT用のタグ
 const TEXT_TAG_NAME = "figcaption";
@@ -48,7 +48,7 @@ let imageParentElement;
  * @param {data} string - 任意の文字列
  */
 function clipboardSetData(data){
-	trace(data);
+	consoleLog(data);
 	var body = document.body;
 	if(!body) return false;
 
@@ -79,7 +79,7 @@ function KeyDownFunc(keyboardEvent){
 
 		let pageRulerDev = document.getElementById("page-ruler");
 		if (pageRulerDev) {
-			trace("自動算出");
+			consoleLog("自動算出");
 			let offsetLeft = pageRulerDev.offsetLeft;
 			let offsetTop = pageRulerDev.offsetTop;
 	
@@ -91,13 +91,13 @@ function KeyDownFunc(keyboardEvent){
 			// 要素内におけるクリック位置を計算
 			let x = offsetLeft - positionX;
 			let y = offsetTop - positionY;
-			trace("x:" + x + "px y:" + y + "px");
+			consoleLog("x:" + x + "px y:" + y + "px");
 			let parcentX = x / imageParentElement.clientWidth * 100;
 			let parcentY = y / imageParentElement.clientHeight * 100;
 			let parcentWidth = pageRulerDev.offsetWidth / imageParentElement.clientWidth * 100;
 			let parcentHeight = pageRulerDev.offsetHeight / imageParentElement.clientHeight * 100;
 			//　クリップボードに吹き出し用サイズ文字列を保存
-			trace("w:" + pageRulerDev.offsetWidth + "px h:" + pageRulerDev.offsetHeight + "px");
+			consoleLog("w:" + pageRulerDev.offsetWidth + "px h:" + pageRulerDev.offsetHeight + "px");
 			clipboardSetData(
 				"left: " + parcentX.toFixed(2) + "%;top: " + parcentY.toFixed(2) 
 				+ "%;width: " + parcentWidth.toFixed(2) + "%;height: " + parcentHeight.toFixed(2) +"%;");
@@ -287,12 +287,12 @@ const handleErrors = (res) => {
  * ・画像の親タグ内に文字タグを重ねる
  */
 function webComicTranslator() {
-	trace('WCT：メイン処理動作開始');
+	consoleLog('WCT：メイン処理動作開始');
 	// 対象ページのデータ取得
 	let {imageParentElement, json_url} = getTargetData();
 
 	if (!imageParentElement) {
-		trace("WCT：現在のページの画像の親タグが見つかりません。");
+		consoleLog("WCT：現在のページの画像の親タグが見つかりません。");
 		// 処理対象のタグがなければ処理終了
 		return;
 	}
@@ -300,7 +300,7 @@ function webComicTranslator() {
 
 	if (figcaptionHtmlCollection.length != 0) {
 		// すでにfigcaptionタグ追加済みなら処理回避
-		trace("WCT：すでにWCT用のタグ追加済みのようです。");
+		consoleLog("WCT：すでにWCT用のタグ追加済みのようです。");
 		return;
 	}
 
@@ -320,7 +320,7 @@ function webComicTranslator() {
 		writePageTexts(jsonObject, imageParentElement);
 	});
 
-	trace('WCT：メイン処理動作終了');
+	consoleLog('WCT：メイン処理動作終了');
 };
 
 //オブザーバーの作成
@@ -363,4 +363,4 @@ const OBSERVER = new MutationObserver(records => {
  	webComicTranslator();
 }();
 
-trace('WebComicTransrator初回動作終了');
+consoleLog('WebComicTransrator初回動作終了');
