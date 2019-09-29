@@ -28,7 +28,7 @@
 		,"style": "font-size: 16px;color: black;background-color: white;left: 19.95%;top: 48.43%;width: 17.98%;height: 7.94%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
 	}
 	,{
-		"text": "でももう<br/>知ってる<br/>でしょ!"
+		"text": "でももう<br/>分かってる<br/>でしょ!"
 		,"style": "font-size: 16px;color: black;background-color: white;left: 58.35%;top: 35.06%;width: 9.89%;height: 9.28%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
 	}
 	,{
@@ -36,8 +36,8 @@
 		,"style": "font-size: 16px;color: black;background-color: white;left: 58.56%;top: 44.89%;width: 8.62%;height: 8.25%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
 	}
 	,{
-		"text": "僕より<br/>知ってる<br/>ハハ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 81.22%;top: 47.33%;width: 8.30%;height: 7.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		"text": "僕より<br/>分かってる<br/>ハハ…"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 81.22%;top: 47.33%;width: 8.30%;height: 7.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
 	}
 	,{
 		"text": "でも…「別のフォーム」<br/>くれるって…"

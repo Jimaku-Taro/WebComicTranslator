@@ -1,0 +1,98 @@
+[
+	{
+		"text": "ここから<br/>歩きよ"
+		,"style": "font-size: 13px;color: black;background-color: white;left: 16.76%;top: 38.26%;width: 16.49%;height: 0.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "霧が出るわ<br/>離れないで"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 59.52%;top: 38.40%;width: 14.57%;height: 0.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "もう少しよ。<br/>下に着いたら<br/>霧が晴れるわ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 55.69%;top: 61.78%;width: 20.00%;height: 1.12%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "先に下に<br/>着くわよ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 20.27%;top: 64.22%;width: 15.00%;height: 0.72%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "無理ね!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 35.05%;top: 64.96%;width: 8.94%;height: 0.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "どう?<br/>この階段で<br/>私達に勝てる?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 18.24%;top: 66.76%;width: 15.00%;height: 0.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "どうかな、ミツ。<br/>空港のショックが<br/>残ってるみたい"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 27.39%;top: 71.17%;width: 18.51%;height: 0.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "やめて<br/>おきなさい"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 6.33%;top: 72.91%;width: 12.66%;height: 0.89%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "ママの許可が必要?<br/>可愛い娘ちゃん"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 48.67%;top: 72.75%;width: 20.11%;height: 0.60%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "下で<br/>会いま<br/>しょう!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 85.90%;top: 75.60%;width: 10.74%;height: 0.93%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "エミ、これって子供の頃の<br/>一つ目小僧を思い出すわね。<br/>私達にいつもイタズラして<br/>楽しんでたの覚えてる?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 22.39%;top: 77.93%;width: 23.72%;height: 1.18%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 25%;"
+	}
+	,{
+		"text": "えぇ、奴ら<br/>捕まらないと<br/>思ってたわね"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 20.05%;top: 80.01%;width: 11.17%;height: 0.83%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "うん、結局奴らを<br/>川に叩き落として<br/>遊んだけどね"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 25.27%;top: 81.71%;width: 20.32%;height: 0.87%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "父の願いには<br/>反してたけどね"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 52.29%;top: 77.87%;width: 15.43%;height: 0.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "父のようにするのは<br/>楽しくなかった。<br/>家からあまり出して<br/>くれないし"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 49.84%;top: 81.72%;width: 18.51%;height: 0.88%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "子育てで１つ学んだのは<br/>子供の意思はずっとは<br/>抑えられないってこと"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 74.63%;top: 77.85%;width: 20.64%;height: 0.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "し…下で<br/>待つのよ?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 5.16%;top: 90.42%;width: 14.47%;height: 0.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "気をつけて!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 12.39%;top: 91.22%;width: 13.40%;height: 0.62%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "どうして<br/>あんなこと<br/>言ったの?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 22.39%;top: 93.32%;width: 8.62%;height: 0.88%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "ゴメン。<br/>旅路は長かったし<br/>リラックスさせて<br/>あげたかったの。<br/>下で待ってるわよ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 75.27%;top: 93.38%;width: 20.64%;height: 1.65%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "これから<br/>どうなるか<br/>見ものだ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 2.07%;top: 96.71%;width: 10.43%;height: 1.14%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "サミュエル・<br/>ウィリアムズ<br/>考えが読めるわ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 67.93%;top: 96.15%;width: 18.51%;height: 0.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "新しい本のネタを<br/>思いついたん<br/>でしょ?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 64.20%;top: 96.84%;width: 15.11%;height: 1.07%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+	,{
+		"text": "いやいや<br/>そんなことは"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 59.95%;top: 98.23%;width: 10.96%;height: 0.72%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+	}
+]

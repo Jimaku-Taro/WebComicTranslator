@@ -1,0 +1,18 @@
+[
+	{
+		"text": "うぐぅ"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 37.05%;top: 33.18%;width: 5.25%;height: 2.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:45%;font-weight: normal;"
+	}
+	,{
+		"text": "ありがと<br/>ラリベラ<br/>さん!"
+		,"style": "font-size: 12px;color: black;background-color: white;left: 21.90%;top: 75.18%;width: 7.16%;height: 3.94%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;font-weight: normal;"
+	}
+	,{
+		"text": "途中の街の広場で<br/>今夜お祭りあるけど<br/>行かないの?"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 32.64%;top: 60.00%;width: 15.99%;height: 8.38%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+	}
+	,{
+		"text": "できれば<br/>行きたいけど<br/>ぼくらの分も<br/>見てよ!"
+		,"style": "font-size: 14px;color: black;background-color: white;left: 66.05%;top: 60.17%;width: 10.62%;height: 5.87%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+	}
+]
