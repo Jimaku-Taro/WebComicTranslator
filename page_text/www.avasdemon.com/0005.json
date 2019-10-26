@@ -1,6 +1,7 @@
 [
 	{
 		"text": "頭から<br/>出て行け!<br/>デーモン!"
-		,"style": "font-size: 30px;color: #B81605;background-color: #E4C7BE;left: 9.85%;top: 5.91%;width: 32.22%;height: 29.98%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "left: 9.85%;top: 5.91%;width: 32.22%;height: 29.98%;font-size: 30px;color: #B81605;background-color: #E4C7BE;border-radius: 20%;"
+		,"class": "CENTER"
 	}
 ]

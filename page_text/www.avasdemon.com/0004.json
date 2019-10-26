@@ -1,6 +1,7 @@
 [
 	{
-		"text": "焼け死ね<br/>エヴァ・アィア"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 67.61%;top: 2.63%;width: 29.05%;height: 16.19%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;border-style: solid;"
+		"text": "焼け死ね<br/>エィヴァ・アィア"
+		,"style": "left: 67.61%;top: 2.63%;width: 29.05%;height: 16.19%;font-size: 20px;border-radius: 0%;border-style: solid;"
+		,"class": "CENTER WHITE"
 	}
 ]

@@ -1,0 +1,52 @@
+[
+	{
+		"text": "さぁ<br/>ここよ<br/>大雲工房"
+		,"style": "left: 27.15%;top: 6.07%;width: 11.81%;height: 7.54%;font-size: 14px;border-radius:45%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "少し注意ね。<br/>お婆ちゃんは<span><ruby><rb>悪魔語</rb><rp>（</rp><rt>daemondo</rt><rp>）</rp></ruby> 話さないの</span>彼女の話中は<br/>笑顔で頷いてて"
+		,"style": "font-size: 14px;left: 11.99%;top: 32.59%;width: 15.63%;height: 10.39%;border-radius:45%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ヒトミィィィ!<br/>頼りになると<br/>分かってたゾイ!<br/>工房を引き継ぎに<br/>来たんじゃな?"
+		,"style": "left: 78.70%;top: 37.71%;width: 16.47%;height: 12.66%;font-size: 16px;border-radius:45%;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "死にそうじゃ!<br/>死ぬ!"
+		,"style": "left: 10.56%;top: 59.75%;width: 14.08%;height: 5.78%;font-size: 16px;border-radius:45%;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "ワシに祭に<br/>出る力は無い!<br/>ちょうど<br/>良い時に<br/>来てくれた!"
+		,"style": "left: 25.00%;top: 59.84%;width: 16.59%;height: 10.39%;font-size: 14px;border-radius:40%;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "お…おっと<br/>友達も一緒<br/>じゃったか"
+		,"style": "left: 34.19%;top: 68.97%;width: 9.55%;height: 4.95%;font-size: 12px;border-radius:45%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "まぁワシが<br/>冗談好きと<br/>説明しとるじゃろ!<br/>死んどらんぞ、<br/>もちろん!"
+		,"style": "left: 48.63%;top: 60.67%;width: 14.80%;height: 8.97%;font-size: 14px;border-radius:40%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "強靭無敵!<br/>絶好調!<br/>健康じゃ!<br/>ビクとも…<br/><span class=\"BOLD\">した!</span>"
+		,"style": "left: 49.34%;top: 69.81%;width: 12.89%;height: 7.96%;font-size: 14px;border-radius:35%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ギャアアア<br/>背骨が!"
+		,"style": "left: 59.37%;top: 75.09%;width: 17.78%;height: 4.86%;font-size: 16px;border-radius:45%;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "注意したのは<span><span class=\"BOLD\">お婆ちゃん</span>の</span>ことだよね?!"
+		,"style": "left: 81.21%;top: 77.69%;width: 13.48%;height: 5.87%;font-size: 14px;border-radius:45%;"
+		,"class": "CENTER WHITE"
+	}
+]

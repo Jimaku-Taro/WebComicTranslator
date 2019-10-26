@@ -1,0 +1,127 @@
+[
+	{
+		"text": "大丈夫"
+		,"style": "font-size: 13px;color: #8F4F5D;background-color: white;left: 2.68%;top: 4.25%;width: 10.00%;height: 0.16%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "すぐに<br/>帰れる"
+		,"style": "font-size: 12px;color: #8F4F5D;background-color: white;left: 25.58%;top: 4.60%;width: 8.55%;height: 0.19%;border-radius: 3%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "愛してる"
+		,"style": "font-size: 12px;color: #8F4F5D;background-color: white;left: 47.90%;top: 4.26%;width: 10.29%;height: 0.10%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "愛してる"
+		,"style": "font-size: 12px;color: #8F4F5D;background-color: white;left: 59.90%;top: 4.33%;width: 10.29%;height: 0.11%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "愛してる"
+		,"style": "font-size: 12px;color: #8F4F5D;background-color: white;left: 57.05%;top: 4.44%;width: 9.52%;height: 0.13%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お婆さんに<br/>これを"
+		,"style": "font-size: 12px;color: #8F4F5D;background-color: white;left: 83.90%;top: 4.25%;width: 12.00%;height: 0.21%;border-radius: 30%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "愛してる"
+		,"style": "font-size: 12px;color: #8F4F5D;background-color: white;left: 51.33%;top: 5.52%;width: 11.24%;height: 0.13%;border-radius: 40%;transform: rotate(-20deg);"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "気をつけて"
+		,"style": "font-size: 13px;color: #8F4F5D;background-color: white;left: 47.90%;top: 7.70%;width: 12.76%;height: 0.14%;border-radius: 40%;transform: rotate(40deg);"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ありがとう"
+		,"style": "font-size: 10px;color: #5B3B87;background-color: white;left: 4.48%;top: 16.72%;width: 10.48%;height: 0.12%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お嬢さん、こんな<br/>深夜にどちらに?"
+		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 9.05%;top: 16.81%;width: 21.33%;height: 0.21%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お婆さんの所"
+		,"style": "font-size: 12px;color: #C44654;background-color: white;left: 74.76%;top: 16.81%;width: 18.67%;height: 0.16%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "やめた<br/>方がいい"
+		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 15.33%;top: 18.04%;width: 15.24%;height: 0.22%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お婆さんは<br/>君を一飲みに<br/>するだろう"
+		,"style": "font-size: 13px;color: #5B3B87;background-color: white;left: 33.24%;top: 18.03%;width: 16.00%;height: 0.32%;border-radius: 30%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "一瞬でだ"
+		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 57.62%;top: 18.03%;width: 10.10%;height: 0.18%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "でも<br/>行か<br/>ないと"
+		,"style": "font-size: 10px;color: #C44654;background-color: white;left: 69.05%;top: 18.06%;width: 6.10%;height: 0.31%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "本気<br/>かい?"
+		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 77.05%;top: 18.14%;width: 5.90%;height: 0.21%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "うん"
+		,"style": "font-size: 10px;color: #C44654;background-color: white;left: 78.00%;top: 18.45%;width: 4.19%;height: 0.12%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "なら君に<br/>贈り物だ"
+		,"style": "font-size: 13px;color: #5B3B87;background-color: white;left: 21.62%;top: 19.07%;width: 12.19%;height: 0.24%;border-radius: 30%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "私の自由を<br/>君に貸そう"
+		,"style": "font-size: 13px;color: #5B3B87;background-color: white;left: 38.38%;top: 19.08%;width: 12.95%;height: 0.21%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "コレは<br/>君の物だ"
+		,"style": "font-size: 13px;color: #5B3B87;background-color: white;left: 69.43%;top: 19.08%;width: 12.95%;height: 0.23%;border-radius: 30%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "コートだ"
+		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 16.67%;top: 22.16%;width: 11.24%;height: 0.12%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "君を純粋に保つ"
+		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 37.43%;top: 22.26%;width: 10.29%;height: 0.21%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "行け!"
+		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 60.86%;top: 22.14%;width: 8.19%;height: 0.13%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お婆さんを<br/>待たせるな!"
+		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 66.95%;top: 22.24%;width: 13.90%;height: 0.26%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ありがとう"
+		,"style": "font-size: 11px;color: #C44654;background-color: white;left: 60.48%;top: 23.34%;width: 12.00%;height: 0.11%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+]

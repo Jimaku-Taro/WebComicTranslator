@@ -1,0 +1,46 @@
+figcaption.WCT {
+	position: absolute !important;
+	font-family: Meiryo
+	, メイリオ
+	, '游ゴシック'
+	, 'Yu Gothic'
+	, YuGothic !important;
+}
+
+figcaption.CENTER {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+figcaption.LEFT {
+	text-align: left;
+	display: flex;
+	flex-direction: column;
+	align-items: left;
+	justify-content: left;
+}
+
+figcaption.RIGHT {
+	text-align: right;
+	display: flex;
+	flex-direction: column;
+	align-items: right;
+	justify-content: right;
+}
+
+figcaption.WHITE {
+	color: black;
+	background-color: white;
+}
+
+figcaption.BLACK {
+	color: white;
+	background-color: black;
+}
+
+.BOLD {
+	font-weight: bold;
+}

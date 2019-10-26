@@ -1,0 +1,9 @@
+figcaption.WCT {
+	position: absolute !important;
+	font-family: Meiryo
+	, メイリオ
+	, '游ゴシック'
+	, 'Yu Gothic'
+	, YuGothic !important;
+	line-height: 1.1em;
+}
