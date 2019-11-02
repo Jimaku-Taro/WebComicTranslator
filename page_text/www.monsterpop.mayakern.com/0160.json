@@ -1,14 +1,17 @@
 [
 	{
 		"text": "へへへ"
-		,"style": "font-size: 14px;color: #966232;background-color: #FFFFBB;left: 23px;top: 22px;width: 67px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #966232;background-color: #FFFFBB;left: 23px;top: 22px;width: 67px;height: 29px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "可愛い<br/>ヤツらね"
-		,"style": "font-size: 14px;color: #966232;background-color: #FFFFBB;left: 326px;top: 36px;width: 59px;height: 41px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #966232;background-color: #FFFFBB;left: 326px;top: 36px;width: 59px;height: 41px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ぐぅ…"
-		,"style": "font-size: 14px;color: #966232;background-color: #FFFFBB;left: 508px;top: 82px;width: 55px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #966232;background-color: #FFFFBB;left: 508px;top: 82px;width: 55px;height: 23px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

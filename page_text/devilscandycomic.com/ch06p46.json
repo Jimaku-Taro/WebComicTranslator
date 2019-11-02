@@ -1,54 +1,67 @@
 [
 	{
 		"text": "ほらまた!<br/>タバコは<br/>止めてよ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 38%;top: 6%;width: 78px;height: 86px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 38%;top: 6%;width: 78px;height: 86px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "喫煙は早くに<br/>墓場行きよ<br/>私を独りに<br/>しないで!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 80%;top: 5%;width: 105px;height: 102px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 80%;top: 5%;width: 105px;height: 102px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "俺は…俺は<br/>どこにも<br/>行かないよ…<br/>この世の悪が<br/>消えるまで"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 14%;top: 33.5%;width: 93px;height: 86px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 14%;top: 33.5%;width: 93px;height: 86px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "全ての悪と<br/><span><span style=\"font-weight: bold;\">戦う</span>か</span>私みたいに<br/>結婚する気?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 40.5%;top: 41.5%;width: 92px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 40.5%;top: 41.5%;width: 92px;height: 80px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "さあね、奴ら皆<br/>君位セクシーか?<br/>俺にセクシーな<br/>悪党紹介したい?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 78.5%;top: 32%;width: 114px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 78.5%;top: 32%;width: 114px;height: 79px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "私にも<br/>紹介して!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 40.5%;top: 51.8%;width: 73px;height: 31px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 40.5%;top: 51.8%;width: 73px;height: 31px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "僕も<br/>頼む…<br/>独身だ"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 52.5%;top: 52%;width: 55px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 12px;left: 52.5%;top: 52%;width: 55px;height: 45px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "失礼!<br/>予約なしの<br/>席の専有は<br/>遠慮下さい!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 62%;top: 52%;width: 89px;height: 75px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 62%;top: 52%;width: 89px;height: 75px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ここは<br/>他の方の<br/>席です!<span style=\"font-weight: bold;\">シッ!<br/>シッ!</span>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 84.8%;top: 52%;width: 61px;height: 86px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 84.8%;top: 52%;width: 61px;height: 86px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ガビーン?"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 43.3%;top: 72.5%;width: 92px;height: 35px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 20px;left: 43.3%;top: 72.5%;width: 92px;height: 35px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ハニー<br/>やめて"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 58%;top: 74%;width: 43px;height: 31px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 58%;top: 74%;width: 43px;height: 31px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "恥ずかしい…"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 80%;top: 74%;width: 87px;height: 31px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 12px;left: 80%;top: 74%;width: 87px;height: 31px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "6章 外伝:完。 "
-		,"style": "font-size: 20px;color: black;background-color: white;left: 68%;top: 95%;width: 243px;height: 27px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 20px;left: 68%;top: 95%;width: 243px;height: 27px;border:solid 1px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

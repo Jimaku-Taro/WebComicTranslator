@@ -1,14 +1,17 @@
 [
 	{
 		"text": "食物を"
-		,"style": "font-size: 36px;color: black;background-color: white;left: 11%;top: 38%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 36px;left: 11%;top: 38%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "粗末に"
-		,"style": "font-size: 36px;color: black;background-color: white;left: 62%;top: 57%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 36px;left: 62%;top: 57%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "するな!!"
-		,"style": "font-size: 36px;color: black;background-color: white;left: 70%;top: 85%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 36px;left: 70%;top: 85%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 ]

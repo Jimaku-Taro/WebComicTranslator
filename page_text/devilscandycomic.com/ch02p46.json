@@ -2,9 +2,11 @@
 	{
 		"text": "チャプター 2 エクストラ！"
 		,"style": "font-size: 27px;color: white;background-color: black;left: 10%;top: 4%;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "ジャイロ?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 80.5%;top: 69%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 80.5%;top: 69%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

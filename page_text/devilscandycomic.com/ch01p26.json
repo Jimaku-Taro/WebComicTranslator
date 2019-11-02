@@ -1,46 +1,57 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">いいぃぃぃ</span><br/>仕事だ、<br/>カズ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 15%;top: 5%;border-radius: 10%;"
+		,"style": "font-size: 14px;left: 15%;top: 5%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "彼女は<br/><span style=\"font-weight: bold;\">見事だぁぁぁぁ！</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 18%;top: 10.5%;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 18%;top: 10.5%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">は？！</span>"
-		,"style": "font-size: 22px;color: black;background-color: white;left: 11.5%;top: 15.5%;border-radius: 10%;"
+		,"style": "font-size: 22px;left: 11.5%;top: 15.5%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">あ！</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 55.5%;top: 8%;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 55.5%;top: 8%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "課題評価の後<br/>彼女を<span style=\"font-weight: bold;\">オレ</span>に<span style=\"font-weight: bold;\">手放す</span><br/>気はないか？"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 54.5%;top: 25.6%;border-radius: 30%;"
+		,"style": "font-size: 15px;left: 54.5%;top: 25.6%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">彼女を<br/>手放す？！</span>"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 15%;top: 50%;border-radius: 20%;"
+		,"style": "font-size: 20px;left: 15%;top: 50%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "彼女は<br/><span style=\"font-weight: bold;\">物</span>じゃない、<br/>ジャイロ！<br/>彼女は悪魔だ<br/>僕らと同じ！"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 76.5%;top: 47.5%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 76.5%;top: 47.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">合理的</span>にいこうぜ。<br/><span style=\"font-weight: bold;\">取引</span>しよう。<br/><span style=\"font-weight: bold;\">あらゆるぅぅ</span>種類の<br/>パーツと交換してやる"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 14.5%;top: 63.2%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 14.5%;top: 63.2%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">パーツ？！</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 11.5%;top: 73.2%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 11.5%;top: 73.2%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">これは<br/>彼の<br/>仕業？</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 58.5%;top: 63%;width: 82px;border-radius: 35%;"
+		,"style": "font-size: 16px;left: 58.5%;top: 63%;width: 82px;border-radius: 35%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "皆交換<br/>したのか…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 75%;top: 63%;height: 53px;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 75%;top: 63%;height: 53px;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

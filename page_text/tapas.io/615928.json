@@ -1,18 +1,22 @@
 [
 	{
 		"text": "それ<br/>まさか…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 20.37%;top: 22.01%;width: 7.23%;height: 8.73%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 20.37%;top: 22.01%;width: 7.23%;height: 8.73%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "おい"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77.50%;top: 17.61%;width: 7.55%;height: 7.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 77.50%;top: 17.61%;width: 7.55%;height: 7.15%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "立て<br/>帰るぞ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 3.35%;top: 86.95%;width: 8.72%;height: 12.74%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 3.35%;top: 86.95%;width: 8.72%;height: 12.74%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "は…はい"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 60.48%;top: 76.65%;width: 15.64%;height: 7.00%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 60.48%;top: 76.65%;width: 15.64%;height: 7.00%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

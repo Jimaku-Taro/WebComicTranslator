@@ -1,14 +1,17 @@
 [
 	{
 		"text": "私が君を<br/>愛してるの<br/>分かるよね…"
-		,"style": "font-size: 14px;color: #4A3D06;background-color: #FFFE68;left: 310px;top: 20px;width: 105px;height: 69px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #4A3D06;background-color: #FFFE68;left: 310px;top: 20px;width: 105px;height: 69px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ジョージ<br/>どうしたの?"
-		,"style": "font-size: 14px;color: #450071;background-color: #C874FF;left: 260px;top: 330px;width: 108px;height: 59px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #450071;background-color: #C874FF;left: 260px;top: 330px;width: 108px;height: 59px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "私はただ…<br/>寂しいの。とっても。<br/>君達が付き合い<br/>初めてから<br/>あまり一緒に遊びに<br/>行けないし…"
-		,"style": "font-size: 14px;color: #4A3D06;background-color: #FFFE68;left: 625px;top: 10px;width: 162px;height: 146px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #4A3D06;background-color: #FFFE68;left: 625px;top: 10px;width: 162px;height: 146px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

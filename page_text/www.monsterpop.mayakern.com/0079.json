@@ -1,54 +1,67 @@
 [
 	{
 		"text": "わぁ、<br/>ありがとう!"
-		,"style": "font-size: 14px;color: #166B83;background-color: #9BD6E6;left: 50px;top: 80px;width: 82px;height: 66px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #166B83;background-color: #9BD6E6;left: 50px;top: 80px;width: 82px;height: 66px;border-radius: 0%;"
+		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "大丈夫よ!"
-		,"style": "font-size: 14px;color: #614023;background-color: #F6ED5D;left: 128px;top: 318px;width: 67px;height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #614023;background-color: #F6ED5D;left: 128px;top: 318px;width: 67px;height: 33px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "さぁ、<br/>手伝うわ!"
-		,"style": "font-size: 14px;color: #614023;background-color: #F6ED5D;left: 133px;top: 363px;width: 86px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #614023;background-color: #F6ED5D;left: 133px;top: 363px;width: 86px;height: 50px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "う…うん"
-		,"style": "font-size: 14px;color: #166B83;background-color: #9BD6E6;left: 160px;top: 439px;width: 58px;height: 26px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #166B83;background-color: #9BD6E6;left: 160px;top: 439px;width: 58px;height: 26px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それで<br/>授業初日の<br/>図書館に<br/>何を?"
-		,"style": "font-size: 14px;color: #614023;background-color: #F6ED5D;left: 345px;top: 33px;width: 124px;height: 84px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #614023;background-color: #F6ED5D;left: 345px;top: 33px;width: 124px;height: 84px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ここで働くの!<br/>W-9<sup>※</sup>を出したのよ"
 		,"style": "font-size: 14px;color: #166B83;background-color: #9BD6E6;left: 345px;top: 140px;width: 150px;height: 67px;text-align: center;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "※W-9:アメリカの一般的な課税書"
 		,"style": "font-size: 12px;color: black;left: 358px;top: 232px;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "いいわね!"
-		,"style": "font-size: 14px;color: #614023;background-color: #F6ED5D;left: 704px;top: 24px;width: 65px;height: 17px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #614023;background-color: #F6ED5D;left: 704px;top: 24px;width: 65px;height: 17px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "あなたは？"
-		,"style": "font-size: 14px;color: #166B83;background-color: #9BD6E6;left: 685px;top: 58px;width: 80px;height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #166B83;background-color: #9BD6E6;left: 685px;top: 58px;width: 80px;height: 33px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "…私はただ<br/>クッキーを<br/>食べに"
-		,"style": "font-size: 13px;color: #614023;background-color: #F6ED5D;left: 680px;top: 115px;width: 92px;height: 49px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 13px;color: #614023;background-color: #F6ED5D;left: 680px;top: 115px;width: 92px;height: 49px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "アハハ"
-		,"style": "font-size: 14px;color: #166B83;background-color: #9BD6E6;left: 704px;top: 188px;width: 42px;height: 17px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #166B83;background-color: #9BD6E6;left: 704px;top: 188px;width: 42px;height: 17px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それで図書館に<br/>早めに来たの?"
-		,"style": "font-size: 14px;color: #614023;background-color: #F6ED5D;left: 323px;top: 382px;width: 107px;height: 82px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #614023;background-color: #F6ED5D;left: 323px;top: 382px;width: 107px;height: 82px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "そうよ!<br/>私は寮生だから<br/>少し早めに<br/>越して来たの"
-		,"style": "font-size: 14px;color: #166B83;background-color: #9BD6E6;left: 670px;top: 255px;width: 125px;height: 88px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #166B83;background-color: #9BD6E6;left: 670px;top: 255px;width: 125px;height: 88px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

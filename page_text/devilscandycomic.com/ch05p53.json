@@ -1,14 +1,17 @@
 [
 	{
 		"text": "パンドラ!!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 44%;top: 18.5%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 20px;left: 44%;top: 18.5%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "...パンドラ..."
-		,"style": "font-size: 16px;color: black;background-color: white;left: 59%;top: 70%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 59%;top: 70%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "チャプター５：完"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 71%;top: 95.5%;font-weight: bold;border: solid 1px;border-radius: 0%;"
+		,"style": "font-size: 20px;left: 71%;top: 95.5%;border: solid 1px;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 ]

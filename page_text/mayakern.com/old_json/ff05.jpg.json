@@ -1,0 +1,42 @@
+[
+	{
+		"text": "行ってもいい?"
+		,"style": "font-size: 12px;left: 73.92%;top: 7.18%;width: 19.67%;height: 3.44%;border-radius: 50%;border: solid 1px;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "その…"
+		,"style": "font-size: 12px;left: 1.75%;top: 24.38%;width: 12.50%;height: 4.39%;border-radius: 50%;border: solid 1px;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "君の家"
+		,"style": "font-size: 12px;left: 4.92%;top: 34.70%;width: 12.00%;height: 4.03%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ごめん"
+		,"style": "font-size: 12px;left: 47.25%;top: 30.78%;width: 8.17%;height: 3.32%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "引越中でさ"
+		,"style": "font-size: 12px;left: 56.75%;top: 23.90%;width: 27.67%;height: 2.97%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "散らかってる"
+		,"style": "font-size: 12px;left: 70.42%;top: 25.92%;width: 24.33%;height: 2.85%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "じゃ…<br/>私のアパート<br/>行きましょ"
+		,"style": "font-size: 12px;left: 74.58%;top: 33.99%;width: 20.33%;height: 5.69%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "愛してる"
+		,"style": "font-size: 12px;left: 23.42%;top: 64.47%;width: 17.83%;height: 3.08%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+]

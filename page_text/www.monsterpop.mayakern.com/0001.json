@@ -2,17 +2,21 @@
 	{
 		"text": "ダッシュボード"
 		,"style": "font-size: 12px;color: #A9AFBC;background-color: #495772;left: 666px;top: 23px;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "文書を投稿"
-		,"style": "font-size: 20px;color: #2D3D57;background-color: white;left: 417px;top: 81px;font-weight: bold;text-align: left;width:205px;border-radius: 0%;"
+		,"style": "font-size: 20px;color: #2D3D57;background-color: white;left: 417px;top: 81px;text-align: left;width:205px;border-radius: 0%;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "タイトル<span style=\"font-size: 10px;color: #C3CCDD;\">(オプション)</span>"
 		,"style": "font-size: 14px;color: #716F77;background-color: white;left: 417px;top: 124px;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "投稿"
 		,"style": "font-size: 14px;color: #54617A;background-color: white;left: 417px;top: 202px;border-radius: 0%;"
+		,"class": ""
 	}
 ]

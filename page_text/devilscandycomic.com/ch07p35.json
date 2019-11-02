@@ -1,62 +1,77 @@
 [
 	{
 		"text": "スリバーフェイス"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 41%;top: 5%;width: 151px;height: 32px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 41%;top: 5%;width: 151px;height: 32px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "絵:Rem"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 26%;top: 7%;width: 105px;height: 26px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 26%;top: 7%;width: 105px;height: 26px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "話:Rem"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 54%;top: 7%;width: 145px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 54%;top: 7%;width: 145px;height: 22px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "聞いた?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 27%;top: 9.5%;width: 62px;height: 47px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 27%;top: 9.5%;width: 62px;height: 47px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "研究棟で子供達が<br/>行方不明、<span style=\"font-weight: bold;\">スリバーフェイス</span>の仕業だって。<br/>近寄らない<br/>方がいいよ…"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 27%;top: 13.5%;width: 109px;height: 147px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;left: 27%;top: 13.5%;width: 109px;height: 147px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "スリバー<br/>フェイスなんて<br/>いないよ…"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 51.5%;top: 9.5%;width: 92px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;left: 51.5%;top: 9.5%;width: 92px;height: 62px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "証明して<br/>あげる!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 64.5%;top:12%;width: 65px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 64.5%;top:12%;width: 65px;height: 57px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "責任<br/>持たないよ"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 56%;top: 24.5%;width: 68px;height: 47px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;left: 56%;top: 24.5%;width: 68px;height: 47px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ハッ</span>何もいない<br/>つまんない"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 27.5%;top: 31.5%;width: 91px;height: 102px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 27.5%;top: 31.5%;width: 91px;height: 102px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "待って<br/>何アレ?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 40.5%;top: 32%;width: 65px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 40.5%;top: 32%;width: 65px;height: 56px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "失礼…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 64%;top: 42.5%;width: 51px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 64%;top: 42.5%;width: 51px;height: 37px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "わぁ　スリバー<br/>フェイスだ!!"
-		,"style": "font-size: 16px;color: #CE3058;background-color: white;left: 29%;top: 53.5%;width: 138px;height: 46px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;color: #CE3058;background-color: white;left: 29%;top: 53.5%;width: 138px;height: 46px;border-radius: 0%;"
+		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "目玉を<br/>吸われる!!"
-		,"style": "font-size: 15px;color: #CE3058;background-color: white;left: 49%;top: 53.5%;width: 88px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 15px;color: #CE3058;background-color: white;left: 49%;top: 53.5%;width: 88px;height: 53px;border-radius: 0%;"
+		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "君が噂を<br/>広めてるの?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 30.5%;top: 74%;width: 83px;height: 96px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 30.5%;top: 74%;width: 83px;height: 96px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "静かで<br/>平和なのが<br/>いいって<span style=\"font-weight: bold;\">言った</span>じゃん?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 62%;top: 74%;width: 83px;height: 105px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 62%;top: 74%;width: 83px;height: 105px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

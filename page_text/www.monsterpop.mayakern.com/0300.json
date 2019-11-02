@@ -1,38 +1,47 @@
 [
 	{
 		"text": "電話で<br/>超恥ずかしい事<br/>言ってやるわ。<br/>家に帰ったら<br/>お菓子も全部<br/>盗んでやるの!!"
-		,"style": "font-size: 12px;color: #6A4F02;background-color: #FFF54E;left: 1.38%;top: 1.38%;width: 22.25%;height: 29.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;color: #6A4F02;background-color: #FFF54E;left: 1.38%;top: 1.38%;width: 22.25%;height: 29.78%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "あらら<br/>酷い話ね!"
-		,"style": "font-size: 12px;color: #006E6B;background-color: #59FFF9;left: 27.88%;top: 3.98%;width: 12.63%;height: 8.73%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;color: #006E6B;background-color: #59FFF9;left: 27.88%;top: 3.98%;width: 12.63%;height: 8.73%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "楽しんでね!"
-		,"style": "font-size: 12px;color: #006E6B;background-color: #59FFF9;left: 35.50%;top: 12.70%;width: 10.25%;height: 6.75%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;color: #006E6B;background-color: #59FFF9;left: 35.50%;top: 12.70%;width: 10.25%;height: 6.75%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "もちろん!<br/>アハハ…"
-		,"style": "font-size: 12px;color: #6A4F02;background-color: #FFF54E;left: 31.00%;top: 23.21%;width: 13.00%;height: 14.09%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;color: #6A4F02;background-color: #FFF54E;left: 31.00%;top: 23.21%;width: 13.00%;height: 14.09%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "あのね、<br/>マリナ…?"
-		,"style": "font-size: 12px;color: #6A4F02;background-color: #FFF54E;left: 59.13%;top: 4.76%;width: 10.25%;height: 10.12%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;color: #6A4F02;background-color: #FFF54E;left: 59.13%;top: 4.76%;width: 10.25%;height: 10.12%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "何<br/>ジョージ?"
-		,"style": "font-size: 12px;color: #006E6B;background-color: #59FFF9;left: 87.88%;top: 41.87%;width: 9.38%;height: 10.52%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;color: #006E6B;background-color: #59FFF9;left: 87.88%;top: 41.87%;width: 9.38%;height: 10.52%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "いえ<br/>何でもない<br/>…"
-		,"style": "font-size: 12px;color: #6A4F02;background-color: #FFF54E;left: 82.50%;top: 59.32%;width: 11.25%;height: 11.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;color: #6A4F02;background-color: #FFF54E;left: 82.50%;top: 59.32%;width: 11.25%;height: 11.71%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "後で<br/>いい…"
-		,"style": "font-size: 12px;color: #6A4F02;background-color: #FFF54E;left: 87.50%;top: 70.63%;width: 8.75%;height: 13.49%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;color: #6A4F02;background-color: #FFF54E;left: 87.50%;top: 70.63%;width: 8.75%;height: 13.49%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "分かった<br/>後でね"
-		,"style": "font-size: 12px;color: #006E6B;background-color: #59FFF9;left: 90.63%;top: 87.60%;width: 8.00%;height: 8.73%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;color: #006E6B;background-color: #59FFF9;left: 90.63%;top: 87.60%;width: 8.00%;height: 8.73%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

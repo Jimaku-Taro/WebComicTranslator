@@ -1,10 +1,12 @@
 [
 	{
 		"text": "わぁ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 54.24%;top: 30.92%;width: 12.89%;height: 6.23%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 54.24%;top: 30.92%;width: 12.89%;height: 6.23%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "やぁ皆さん! 新章の準備のまだもう少し時間がかかりそうです。<br/>(子供達は旅の荷詰めすら終わっていません!)<br/>デビルズキャンディの10章は7月29日から開始予定です、それでは<br/>--REM"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 11.75%;top: 87.95%;width: 76.01%;height: 9.03%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 11.75%;top: 87.95%;width: 76.01%;height: 9.03%;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

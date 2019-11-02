@@ -1,0 +1,532 @@
+[
+	{
+		"text": "人魚になる方法"
+		,"style": "font-size: 25px;color: #5A7758;background-color: transport;left: 19.3333%;top: 9.2218%;width: 60.5714%;height: 0.3928%;border-radius: 35%;"
+		,"class": "CENTER BOLD"
+	}
+	,{
+		"text": "陸が<br/>待ち遠しいよ"
+		,"style": "font-size: 12px;color: #000100;background-color: #E9999A;left: 81.0476%;top: 13.6114%;width: 17.7143%;height: 0.2058%;border-radius: 35%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "あぁ<br/>もうすぐだ"
+		,"style": "font-size: 12px;color: #000100;background-color: #E9999A;left: 2.9524%;top: 13.9419%;width: 17.5238%;height: 0.1995%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "やっと上陸か!"
+		,"style": "font-size: 12px;color: #000100;background-color: #E9999A;left: 7.1429%;top: 14.1726%;width: 22.0952%;height: 0.1684%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "素晴らしい<br/>結婚式になるだろう"
+		,"style": "font-size: 12px;color: #000100;background-color: #E9999A;left: 20.8571%;top: 14.4781%;width: 20.7619%;height: 0.2182%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "今世紀最大の<br/>パーティだ!"
+		,"style": "font-size: 12px;color: #000100;background-color: #E9999A;left: 62.9524%;top: 14.6091%;width: 16.7619%;height: 0.2245%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "稀有な機会だ<br/>婚礼で古き因縁を<br/>終わらせられる"
+		,"style": "font-size: 12px;color: #000100;background-color: #E9999A;left: 7.1429%;top: 15.9122%;width: 26.0952%;height: 0.3554%;border-radius: 35%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "姫は我らのため<br/>良き選択を<br/>して下さった"
+		,"style": "font-size: 12px;color: #000100;background-color: #E9999A;left: 54.9524%;top: 15.8187%;width: 22.0952%;height: 0.2806%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "彼女に選択肢が<br/>あるとでも?"
+		,"style": "font-size: 12px;color: #000100;background-color: #E9999A;left: 74.9524%;top: 16.3674%;width: 17.5238%;height: 0.1684%;border-radius: 35%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "皆　来てくれ!"
+		,"style": "font-size: 12px;color: black;background-color: #E6BEE1;left: 2.1905%;top: 29.2493%;width: 29.7143%;height: 0.1496%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "姫を見つけた!"
+		,"style": "font-size: 12px;color: black;background-color: #E6BEE1;left: 48.0952%;top: 29.2430%;width: 17.7143%;height: 0.2120%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お怪我は?"
+		,"style": "font-size: 12px;color: black;background-color: #E6BEE1;left: 71.9048%;top: 29.2929%;width: 17.7143%;height: 0.2494%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "…大丈夫"
+		,"style": "font-size: 12px;color: black;background-color: #CEDFD7;left: 80.8571%;top: 29.6109%;width: 11.4286%;height: 0.1559%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "アビゲイル姫!"
+		,"style": "font-size: 12px;color: black;background-color: #F8F5E2;left: 11.9048%;top: 30.5213%;width: 26.2857%;height: 0.1434%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "到着が遅れて<br/>すみません"
+		,"style": "font-size: 12px;color: black;background-color: #CEDFD7;left: 40.2857%;top: 30.5711%;width: 20.0000%;height: 0.2494%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "遅れましたが…"
+		,"style": "font-size: 12px;color: black;background-color: #CEDFD7;left: 69.8095%;top: 30.4963%;width: 21.9048%;height: 0.1559%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お会いできて<br/>光栄です"
+		,"style": "font-size: 12px;color: black;background-color: #CEDFD7;left: 81.0476%;top: 31.1136%;width: 17.9048%;height: 0.2120%;border-radius: 45%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "こちら…<br/>フフ…こそ"
+		,"style": "font-size: 12px;color: black;background-color: #F9F6E5;left: 11.7143%;top: 31.4004%;width: 23.4286%;height: 0.2120%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "絵で見るよりも<br/>お美しい"
+		,"style": "font-size: 12px;color: black;background-color: #F9F6E5;left: 40.2857%;top: 31.3880%;width: 28.3810%;height: 0.3055%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "素敵よ<br/>水が似合うわ"
+		,"style": "font-size: 12px;color: black;background-color: #F4C8C7;left: 51.5238%;top: 31.8681%;width: 16.1905%;height: 0.2931%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "…ご親切に<br/>どうも"
+		,"style": "font-size: 12px;color: black;background-color: #CEDFD7;left: 67.1429%;top: 32.0239%;width: 18.8571%;height: 0.1933%;border-radius: 45%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "こちらは<br/>ロレーヌ嬢"
+		,"style": "font-size: 12px;color: black;background-color: #F9F6E5;left: 1.4286%;top: 32.3045%;width: 25.7143%;height: 0.2120%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "初めまして"
+		,"style": "font-size: 12px;color: black;background-color: #CEDFD7;left: 24.4762%;top: 32.4853%;width: 13.9048%;height: 0.1309%;border-radius: 45%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "こちらこそ"
+		,"style": "font-size: 12px;color: black;background-color: #F4C8C7;left: 50.1905%;top: 32.2297%;width: 11.8095%;height: 0.1372%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "歓迎ありがとう<br/>ございます"
+		,"style": "font-size: 12px;color: black;background-color: #CEDFD7;left: 37.8095%;top: 32.8408%;width: 19.0476%;height: 0.2369%;border-radius: 45%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ですが少々<br/>疲れたので"
+		,"style": "font-size: 12px;color: black;background-color: #CEDFD7;left: 58.7619%;top: 32.9156%;width: 22.4762%;height: 0.2307%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "夜まで<br/>失礼いたします"
+		,"style": "font-size: 12px;color: black;background-color: #CEDFD7;left: 69.8095%;top: 33.0839%;width: 26.6667%;height: 0.2182%;border-radius: 45%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "酷い場所ね"
+		,"style": "font-size: 12px;color: black;background-color: #D3E2DD;left: 0.6667%;top: 33.4331%;width: 19.8095%;height: 0.2245%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "私が見つからなきゃ<br/>良かったの<br/>でしょうけど…"
+		,"style": "font-size: 12px;color: black;background-color: #D4E3DE;left: 67.3333%;top: 33.9194%;width: 28.9524%;height: 0.3741%;border-radius: 45%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "どうして私は<br/>海で生き残れたの…?<br/>陸は遠いし…何かあった気が…"
+		,"style": "font-size: 12px;color: black;background-color: #D4E3DE;left: 38.3810%;top: 34.2873%;width: 44.9524%;height: 0.4552%;border-radius: 45%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ねぇ?　誰かいるの?"
+		,"style": "font-size: 12px;color: black;background-color: #D4FAE5;left: 6.7619%;top: 34.9794%;width: 32.1905%;height: 0.1746%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お礼を<br/>言いたいの"
+		,"style": "font-size: 12px;color: black;background-color: #D4FAE5;left: 74.7619%;top: 34.9171%;width: 25.1429%;height: 0.2681%;border-radius: 45%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "いるなら…"
+		,"style": "font-size: 12px;color: black;background-color: #D4FAE5;left: 77.0476%;top: 36.0831%;width: 22.8571%;height: 0.1122%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "何してるんだろ?<br/>バカみたい"
+		,"style": "font-size: 12px;color: black;background-color: #D4FAE5;left: 7.7143%;top: 37.2303%;width: 25.1429%;height: 0.2182%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "あなたが<br/>助けてくれたの?"
+		,"style": "font-size: 12px;color: black;background-color: #D0FCE3;left: 1.8095%;top: 37.5608%;width: 23.2381%;height: 0.2182%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "あ…<br/>ありがとう"
+		,"style": "font-size: 12px;color: black;background-color: #D0FCE3;left: 39.5238%;top: 37.7167%;width: 18.4762%;height: 0.2556%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "どういたしまして"
+		,"style": "font-size: 12px;color: #F9F8FD;background-color: #0B114D;left: 69.8095%;top: 37.5857%;width: 23.8095%;height: 0.2307%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "変な声!"
+		,"style": "font-size: 12px;color: black;background-color: #D0FCE5;left: 48.4762%;top: 38.6395%;width: 18.6667%;height: 0.2307%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "私の名は<br/>アビゲイル"
+		,"style": "font-size: 12px;color: black;background-color: #D0FCE5;left: 79.1429%;top: 38.5958%;width: 14.6667%;height: 0.2307%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "やぁやぁ"
+		,"style": "font-size: 12px;color: #F9F8FD;background-color: #0B114D;left: 80.4762%;top: 38.8639%;width: 11.4286%;height: 0.1933%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "人魚と会うのは<br/>初めてね…"
+		,"style": "font-size: 12px;color: black;background-color: #D0FCE3;left: 34.7619%;top: 39.6496%;width: 24.0000%;height: 0.2681%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "人魚の肉を食べると<br/>不老不死になるって<br/>伝説知ってる?"
+		,"style": "font-size: 15px;color: black;background-color: #D0FCE5;left: 57.2381%;top: 39.9489%;width: 34.8571%;height: 0.4302%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "人間の肉を食べれば<br/>一週間分の<br/>食物になるって<br/>伝説知ってる?"
+		,"style": "font-size: 15px;color: #F9F8FD;background-color: #0B114D;left: 30.0000%;top: 40.6597%;width: 36.3810%;height: 0.4988%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "そ…<br/>そうなの?"
+		,"style": "font-size: 12px;color: black;background-color: #D1FBE5;left: 86.0000%;top: 41.3954%;width: 12.5714%;height: 0.2245%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "我らが国から<br/>去らねば殺す"
+		,"style": "font-size: 12px;left: 1.4286%;top: 42.7173%;width: 29.7143%;height: 0.2307%;border: 1px solid;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "何これ…"
+		,"style": "font-size: 12px;color: black;background-color: #E3FFEE;left: 55.9048%;top: 42.7111%;width: 14.4762%;height: 0.1559%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "誰が送り<br/>続けてるの?"
+		,"style": "font-size: 12px;color: black;background-color: #E3FFEE;left: 62.7619%;top: 42.7796%;width: 21.9048%;height: 0.2369%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "アビゲイル様<br/>お急ぎかしら?"
+		,"style": "font-size: 12px;color: black;background-color: #F5D4DD;left: 7.3333%;top: 43.4967%;width: 24.1905%;height: 0.2619%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "御機嫌よう"
+		,"style": "font-size: 12px;color: black;background-color: #E4FEF1;left: 9.0476%;top: 43.9768%;width: 16.9524%;height: 0.1372%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "何か<br/>あったの?"
+		,"style": "font-size: 12px;color: black;background-color: #F3D4DC;left: 4.0952%;top: 44.2387%;width: 18.0952%;height: 0.2369%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "妙な手紙を<br/>受け取って…"
+		,"style": "font-size: 12px;color: black;background-color: #E2FEEF;left: 43.1429%;top: 43.5216%;width: 20.9524%;height: 0.2182%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "王子にお伝え<br/>しようと"
+		,"style": "font-size: 12px;color: black;background-color: #E6FEF0;left: 41.6190%;top: 43.7523%;width: 22.6667%;height: 0.1933%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "それは大変ね"
+		,"style": "font-size: 12px;color: black;background-color: #F5D4DD;left: 38.1905%;top: 44.1826%;width: 17.9048%;height: 0.2120%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "彼が助けて<br/>くれるといいわね<br/>彼は依存型の娘<br/>好きだから"
+		,"style": "font-size: 12px;color: black;background-color: #F5D4DD;left: 68.8571%;top: 43.4780%;width: 25.9048%;height: 0.3180%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ロレーヌ嬢<br/>ここにいたか"
+		,"style": "font-size: 12px;color: black;background-color: #FFFCDD;left: 7.1429%;top: 44.5691%;width: 20.5714%;height: 0.2058%;border-radius: 45%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": ""
+		,"style": "font-size: 12px;color: black;background-color: #FFFEE0;left: 30.5714%;top: 44.8622%;width: 17.7143%;height: 0.2245%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "アビゲイル<br/>会えて嬉しいよ"
+		,"style": "font-size: 12px;color: black;background-color: #FFFCDD;left: 20.4762%;top: 44.7188%;width: 22.0952%;height: 0.1965%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "何かあったの?"
+		,"style": "font-size: 12px;color: black;background-color: transparent;left: 30.5714%;top: 44.8622%;width: 17.7143%;height: 0.2245%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "いえ"
+		,"style": "font-size: 12px;color: black;background-color: #E4FFF0;left: 53.4286%;top: 45.1864%;width: 9.3333%;height: 0.1434%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "何でも<br/>ありません"
+		,"style": "font-size: 12px;color: black;background-color: #E4FFF0;left: 62.3810%;top: 45.5356%;width: 14.4762%;height: 0.1871%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ここ嫌い"
+		,"style": "font-size: 12px;color: black;background-color: #C7FFDF;left: 1.2381%;top: 46.5395%;width: 18.6667%;height: 0.1060%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お家に帰りたい<br/>私の国に…"
+		,"style": "font-size: 12px;color: black;background-color: #C7FFDF;left: 6.3810%;top: 46.6268%;width: 20.0000%;height: 0.2743%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "何で<br/>帰らない?"
+		,"style": "font-size: 12px;color: #E9EEF1;background-color: #052160;left: 17.8095%;top: 46.8512%;width: 19.0476%;height: 0.2120%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "無理よ<br/>話は単純じゃない"
+		,"style": "font-size: 12px;color: black;background-color: #C7FFDF;left: 42.3810%;top: 46.6829%;width: 22.6667%;height: 0.2245%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "何で?"
+		,"style": "font-size: 12px;color: #E9EEF1;background-color: #052160;left: 68.0952%;top: 46.8512%;width: 15.8095%;height: 0.1247%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "複雑なの"
+		,"style": "font-size: 12px;color: black;background-color: #C7FFDF;left: 77.8095%;top: 47.0383%;width: 15.0476%;height: 0.1995%;border-radius: 45%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "私達はずっと<br/>戦争してて"
+		,"style": "font-size: 12px;color: black;background-color: #C7FFDF;left: 11.3333%;top: 47.4062%;width: 22.2857%;height: 0.1933%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "今回の…私の結婚は<br/>平和になるチャンスなの"
+		,"style": "font-size: 12px;color: black;background-color: #C7FFDF;left: 24.4762%;top: 47.5558%;width: 36.5714%;height: 0.2307%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お金も<br/>絡むし"
+		,"style": "font-size: 12px;color: black;background-color: #C7FFDF;left: 46.5714%;top: 47.7740%;width: 16.3810%;height: 0.1995%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お金って<br/>何?"
+		,"style": "font-size: 12px;color: #E9EEF1;background-color: #052160;left: 60.0952%;top: 47.9549%;width: 10.2857%;height: 0.2120%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "え"
+		,"style": "font-size: 12px;color: black;background-color: #C7FFDF;left: 90.9524%;top: 47.7865%;width: 7.4286%;height: 0.1372%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ほら"
+		,"style": "font-size: 12px;color: black;background-color: #C7FFDF;left: 13.0476%;top: 48.2417%;width: 10.0952%;height: 0.1621%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "これがお金"
+		,"style": "font-size: 12px;color: black;background-color: #C7FFDF;left: 19.7143%;top: 48.4225%;width: 18.4762%;height: 0.1434%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "グエッ!"
+		,"style": "font-size: 12px;color: #E9EEF1;background-color: #052160;left: 2.0000%;top: 49.6758%;width: 10.8571%;height: 0.1496%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "キモい!"
+		,"style": "font-size: 12px;color: #E9EEF1;background-color: #052160;left: 3.3333%;top: 49.8005%;width: 12.5714%;height: 0.1684%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": ""
+		,"style": "font-size: 12px;color: black;background-color: #C7FFDF;left: 69.0476%;top: 49.3578%;width: 28.7619%;height: 0.2931%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "アハハ　そんな単純で<br/>背負う物の無い生活なら楽しい<br/>でしょうね"
+		,"style": "font-size: 11px;color: black;background-color: #C7FFDF;left: 56.0952%;top: 49.1520%;width: 32.1905%;height: 0.2931%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "人魚って素敵ね<br/>あなたみたいに<br/>生きたかった"
+		,"style": "font-size: 11px;color: black;background-color: ;left: 68.8571%;top: 49.3578%;width: 28.7619%;height: 0.2931%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "グエエエエ"
+		,"style": "font-size: 12px;color: #E9EEF1;background-color: #052160;left: 54.0000%;top: 49.6508%;width: 18.2857%;height: 0.2058%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": ""
+		,"style": "font-size: 12px;color: black;background-color: #C7FFDF;left: 31.5238%;top: 50.2993%;width: 16.0000%;height: 0.2245%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "何で私を<br/>食べずに…"
+		,"style": "font-size: 12px;color: black;background-color: #C7FFDF;left: 24.6667%;top: 50.1247%;width: 22.4762%;height: 0.2307%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "助けたの?"
+		,"style": "font-size: 12px;color: black;background-color: transparent;left: 31.5238%;top: 50.2993%;width: 16.0000%;height: 0.2245%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "君は生き物を<br/>殺したり<br/>してないダロ?"
+		,"style": "font-size: 12px;color: #E9EEF1;background-color: #052160;left: 48.2857%;top: 50.0686%;width: 23.4286%;height: 0.3118%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "それに<br/>君が好き"
+		,"style": "font-size: 12px;color: #E9EEF1;background-color: #052160;left: 55.5238%;top: 50.4739%;width: 15.0476%;height: 0.2369%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "来て…"
+		,"style": "font-size: 16px;color: #E9EEF1;background-color: #052160;left: 20.0952%;top: 51.8581%;width: 21.7143%;height: 0.1995%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "人魚になる方法<br/>教えてあげる"
+		,"style": "font-size: 16px;color: #E9EEF1;background-color: #052160;left: 3.5238%;top: 52.8245%;width: 23.8095%;height: 0.3554%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "これで全部ね"
+		,"style": "font-size: 12px;color: black;background-color: #FDD9D9;left: 68.4762%;top: 55.4246%;width: 17.9048%;height: 0.1309%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "…あら"
+		,"style": "font-size: 12px;color: black;background-color: #BDF7E9;left: 8.2857%;top: 59.0410%;width: 15.6190%;height: 0.1247%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "少し噛ん<br/>じゃったのね"
+		,"style": "font-size: 12px;color: black;background-color: #BDF7E9;left: 43.3333%;top: 59.4401%;width: 21.5238%;height: 0.2556%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "へへへ!♡"
+		,"style": "font-size: 12px;color: #F9F9F9;background-color: #050038;left: 83.9048%;top: 58.6108%;width: 12.3810%;height: 0.1496%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "可愛い娘"
+		,"style": "font-size: 12px;color: black;background-color: #BDF7E9;left: 66.7619%;top: 59.5523%;width: 18.2857%;height: 0.1372%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "あなたと永遠に<br/>一緒になれたら<br/>いいのに"
+		,"style": "font-size: 12px;color: black;background-color: #BDF7E9;left: 16.8571%;top: 60.3255%;width: 21.9048%;height: 0.2494%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "後でまた来るわ!<br/>人魚になる方法<br/>また教えて"
+		,"style": "font-size: 12px;color: black;background-color: #BDF7E9;left: 34.5714%;top: 59.7269%;width: 24.5714%;height: 0.3679%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "うん!"
+		,"style": "font-size: 14px;color: #F9F9F9;background-color: #050038;left: 51.7143%;top: 60.4128%;width: 23.2381%;height: 0.1309%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "陛下<br/>こんばんは"
+		,"style": "font-size: 12px;color: black;background-color: #BDF7E9;left: 38.1905%;top: 60.6435%;width: 18.0952%;height: 0.2120%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "やぁ姫<br/>素敵な夜だね?"
+		,"style": "font-size: 12px;color: black;background-color: #FDEFC8;left: 56.8571%;top: 60.5811%;width: 18.4762%;height: 0.3118%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ええ"
+		,"style": "font-size: 12px;color: black;background-color: #BDF7E9;left: 85.8095%;top: 60.9053%;width: 9.9048%;height: 0.1185%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "また海に<br/>落ちたの<br/>かい?"
+		,"style": "font-size: 12px;color: black;background-color: #FDEFC8;left: 0.8571%;top: 61.3480%;width: 17.1429%;height: 0.3055%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "人魚になる方法を<br/>習ってましたの"
+		,"style": "font-size: 12px;color: black;background-color: #BDF7E9;left: 17.8095%;top: 61.9903%;width: 20.0000%;height: 0.2993%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "…よろしければ<br/>身なりを整えに<br/>行きたいのですが"
+		,"style": "font-size: 12px;color: black;background-color: #BDF7E9;left: 57.8095%;top: 61.8282%;width: 22.2857%;height: 0.3429%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "もちろん!<br/>またね"
+		,"style": "font-size: 12px;color: black;background-color: #FDEFC8;left: 79.1429%;top: 61.3730%;width: 20.0000%;height: 0.2120%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "アビゲイル…"
+		,"style": "font-size: 16px;color: #EFE6F7;background-color: #0D022C;left: 41.8095%;top: 70.3891%;width: 20.1905%;height: 0.3616%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "手伝ってくれるの?"
+		,"style": "font-size: 14px;color: black;background-color: #68A7AC;left: 1.2381%;top: 77.2291%;width: 27.4286%;height: 0.1434%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "私はあなたみたいな<br/>人魚になりたいの"
+		,"style": "font-size: 13px;color: black;background-color: #68A7AC;left: 73.0476%;top: 78.9126%;width: 24.1905%;height: 0.2120%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "教えて"
+		,"style": "font-size: 14px;color: black;background-color: #508DE0;left: 4.0952%;top: 80.1846%;width: 14.0952%;height: 0.1434%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "これが人魚になる方法なの?"
+		,"style": "font-size: 14px;color: black;background-color: #55A9E7;left: 52.2857%;top: 83.1089%;width: 44.9524%;height: 0.1309%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+]

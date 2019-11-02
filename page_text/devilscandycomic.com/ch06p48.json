@@ -1,30 +1,37 @@
 [
 	{
 		"text": "人気の女の子"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 35.5%;top: 5.8%;width: 239px;height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 25px;left: 35.5%;top: 5.8%;width: 239px;height: 33px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "愛しのピア!<br/>パンドラと<br/>喧嘩したのね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 30.4%;top: 10.8%;width: 92px;height: 75px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 30.4%;top: 10.8%;width: 92px;height: 75px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "どうだった?<br/>彼女強い?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 30.7%;top: 19%;width: 81px;height: 61px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 30.7%;top: 19%;width: 81px;height: 61px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "強い?<br/>いや<br/>アタイが<br/>ボコした"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 29%;top: 33%;width: 70px;height: 91px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 29%;top: 33%;width: 70px;height: 91px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "友達は多い<br/>けどね。<br/>彼女は本当に<br/>人気者よ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 59.5%;top: 32%;width: 109px;height: 91px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 59.5%;top: 32%;width: 109px;height: 91px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ハハハ…<br/>人気なの?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 32%;top: 56.4%;width: 71px;height: 47px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 32%;top: 56.4%;width: 71px;height: 47px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "私より人気<br/>じゃない<br/>わよね?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 30%;top: 76.3%;width: 75px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 30%;top: 76.3%;width: 75px;height: 80px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

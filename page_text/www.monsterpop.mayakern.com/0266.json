@@ -1,10 +1,12 @@
 [
 	{
 		"text": "OK、<br/>色男!"
-		,"style": "font-size: 14px;color: #C47A17;background-color: #FEFB99;left: 85px;top: 25px;width: 100px;height: 49px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #C47A17;background-color: #FEFB99;left: 85px;top: 25px;width: 100px;height: 49px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それ<br/>じゃあ…"
-		,"style": "font-size: 14px;color: #C47A17;background-color: #FEFB99;left: 525px;top: 235px;width: 65px;height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #C47A17;background-color: #FEFB99;left: 525px;top: 235px;width: 65px;height: 51px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

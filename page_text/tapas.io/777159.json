@@ -1,30 +1,37 @@
 [
 	{
 		"text": "催涙<br/>スプレーだ!<br/>誰か助けて!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 19.68%;top: 2.07%;width: 8.72%;height: 10.23%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 19.68%;top: 2.07%;width: 8.72%;height: 10.23%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
     }
 	,{
 		"text": "痛い!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 45.11%;top: 4.39%;width: 8.72%;height: 7.07%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 45.11%;top: 4.39%;width: 8.72%;height: 7.07%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
     }
 	,{
 		"text": "待てよ…<br/>これただの<br/>水だ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 73.09%;top: 13.78%;width: 7.87%;height: 9.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 73.09%;top: 13.78%;width: 7.87%;height: 9.76%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
     }
 	,{
 		"text": "本当に<br/>申し訳あり<br/>ません…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 18.62%;top: 71.22%;width: 10.64%;height: 10.85%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 18.62%;top: 71.22%;width: 10.64%;height: 10.85%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
     }
 	,{
 		"text": "穏やかな<br/>午後が<br/>台無しに…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 29.68%;top: 89.02%;width: 9.04%;height: 10.49%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 29.68%;top: 89.02%;width: 9.04%;height: 10.49%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
     }
 	,{
 		"text": "平気だよ<br/>ルシーヌ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 40.00%;top: 71.71%;width: 7.87%;height: 5.98%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 40.00%;top: 71.71%;width: 7.87%;height: 5.98%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
     }
 	,{
 		"text": "君と<br/>一緒の午後は<br/>楽しいよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 54.89%;top: 89.02%;width: 9.36%;height: 10.73%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 54.89%;top: 89.02%;width: 9.36%;height: 10.73%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
     }
 ]

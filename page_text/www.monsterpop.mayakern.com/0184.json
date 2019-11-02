@@ -1,10 +1,12 @@
 [
 	{
 		"text": "えっ…? OK!<br/>楽しんで来て!"
-		,"style": "font-size: 14px;color: #5C006D;background-color: #D78FFE;left: 320px;top: 13px;width: 112px;height: 63px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #5C006D;background-color: #D78FFE;left: 320px;top: 13px;width: 112px;height: 63px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "またね!"
-		,"style": "font-size: 14px;color: #660C18;background-color: #FDA0A8;left: 337px;top: 176px;width: 61px;height: 24px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #660C18;background-color: #FDA0A8;left: 337px;top: 176px;width: 61px;height: 24px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

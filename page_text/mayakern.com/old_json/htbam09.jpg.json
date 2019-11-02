@@ -1,0 +1,52 @@
+[
+	{
+		"text": "あなたが助けて<br/>くれたの?"
+		,"style": "font-size: 12px;color: black;background-color: #D0FCE3;left: 1.75%;top: 6.22%;width: 23.33%;height: 5.21%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "あ…<br/>ありがとう"
+		,"style": "font-size: 12px;color: black;background-color: #D0FCE3;left: 39.25%;top: 9.89%;width: 17.33%;height: 5.33%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "どういたしまして"
+		,"style": "font-size: 12px;color: #F9F8FD;background-color: #0B114D;left: 69.58%;top: 7.05%;width: 24.00%;height: 4.74%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "変な声!"
+		,"style": "font-size: 12px;color: black;background-color: #D0FCE5;left: 48.58%;top: 29.28%;width: 18.00%;height: 4.98%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "私の名は<br/>アビゲイル"
+		,"style": "font-size: 12px;color: black;background-color: #D0FCE5;left: 79.42%;top: 27.85%;width: 14.17%;height: 5.90%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "やぁやぁ"
+		,"style": "font-size: 12px;color: #F9F8FD;background-color: #0B114D;left: 81.08%;top: 35.01%;width: 10.17%;height: 3.79%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "人魚と会うのは<br/>初めてね…"
+		,"style": "font-size: 12px;color: black;background-color: #D0FCE3;left: 34.75%;top: 51.84%;width: 23.83%;height: 5.57%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "人魚の肉を食べると<br/>不老不死になれるって<br/>伝説知ってる?"
+		,"style": "font-size: 16px;color: black;background-color: #D0FCE5;left: 57.08%;top: 58.47%;width: 35.00%;height: 8.77%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "人間の肉を食べれば<br/>一週間分の食料になるって<br/>伝説知ってる?"
+		,"style": "font-size: 16px;color: #F9F8FD;background-color: #0B114D;left: 30.42%;top: 73.76%;width: 36.83%;height: 10.07%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "そ…<br/>そうなの?"
+		,"style": "font-size: 12px;color: black;background-color: #D1FBE5;left: 86.25%;top: 89.87%;width: 12.67%;height: 4.50%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+]

@@ -1,22 +1,27 @@
 [
 	{
 		"text": "再会"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 40.10%;top: 8.44%;width: 19.21%;height: 3.27%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 20px;left: 40.10%;top: 8.44%;width: 19.21%;height: 3.27%;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "うぅ…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 36.63%;top: 15.31%;width: 7.28%;height: 2.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 36.63%;top: 15.31%;width: 7.28%;height: 2.68%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "スケールズ?!"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 58.59%;top: 55.13%;width: 9.55%;height: 9.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 12px;left: 58.59%;top: 55.13%;width: 9.55%;height: 9.56%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "スケールズ<br/>無事<br/>だったか"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 31.15%;top: 74.83%;width: 9.55%;height: 7.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 12px;left: 31.15%;top: 74.83%;width: 9.55%;height: 7.29%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "超病気なので9章は数日後にします!<br/>私が咳込む合間に描いた<br/>この悲しい漫画を楽しんでね。:D<br/>9章は今週金曜22日開始です。 -Rem"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 24.94%;top: 92.26%;width: 50.84%;height: 5.70%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;border: 0px solid; #black;"
+		,"style": "font-size: 13px;left: 24.94%;top: 92.26%;width: 50.84%;height: 5.70%;border-radius: 0%;font-weight: normal;border: 0px solid; #black;"
+		,"class": "CENTER WHITE"
 	}
 ]

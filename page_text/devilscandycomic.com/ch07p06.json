@@ -1,22 +1,27 @@
 [
 	{
 		"text": "彼は地下深い<br/>古代のピラミッドを<br/>発掘していた。<br/>大陸外の生活は<br/>ほぼ未知だから<br/>素晴らしい発見だ"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 39%;top: 6%;width: 135px;height: 113px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 12px;left: 39%;top: 6%;width: 135px;height: 113px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "彼は最深部で、<br/>現代世界では類を見ない<br/>ミイラを発見した。<br/>考古学者としては、<br/>誇るべき瞬間だ。<br/>親としては、悪夢の<br/>始まりだった。"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 39%;top: 18.5%;width: 142px;height: 124px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 12px;left: 39%;top: 18.5%;width: 142px;height: 124px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "事態はすぐ崩壊した、<br/>団体は祖父の<br/>発見を理解せず、<br/>発掘に興味を失い、<br/>予告なしに<br/>現場を閉鎖した。"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 9%;top: 49%;width: 132px;height: 111px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 12px;left: 9%;top: 49%;width: 132px;height: 111px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "祖父は現場の膨大な<br/>残作業で残ったが<br/>当然悔しがった"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 69.5%;top: 50%;width: 115px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 12px;left: 69.5%;top: 50%;width: 115px;height: 77px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "事後処理の最中…<br/>事故は起こった"
-		,"style": "font-size: 12px;color: white;background-color: black;left: 40.3%;top: 80%;width: 119px;height: 40px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 12px;color: white;background-color: black;left: 40.3%;top: 80%;width: 119px;height: 40px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

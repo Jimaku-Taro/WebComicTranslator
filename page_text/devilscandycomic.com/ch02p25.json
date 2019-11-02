@@ -1,34 +1,42 @@
 [
 	{
 		"text": "ぐわっ!"
-		,"style": "font-size: 35px;color: black;background-color: white;left: 10%;top: 7%;font-weight: bold;border-radius: 30%;"
+		,"style": "font-size: 35px;left: 10%;top: 7%;border-radius: 30%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "君は少し<br/>違う<br/>ようだね"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 65.6%;top: 6.5%;border-radius: 20%;"
+		,"style": "font-size: 18px;left: 65.6%;top: 6.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "君自身が<br/>究極の存在<br/>そう<br/>なんだろ？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77.5%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 77.5%;top: 6%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "カズの脳が<br/>完璧な体に入れば<br/>彼は君の夫に<br/>なれるぞ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 36.5%;top: 36.5%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 36.5%;top: 36.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">優れた<br/>超脳タンク</span>より<br/>その<span style=\"font-weight: bold;\">痩せこけた<br/>脳袋</span>の方が<br/>好きとか<br/>言うなよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 43%;top: 44%;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 43%;top: 44%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "そんな目的で<br/>パンドラを<br/>創ってない！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 64%;top: 36%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 64%;top: 36%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "科学の<br/>課題で…"
-		,"style": "font-size: 24px;color: black;background-color: white;left: 77%;top: 36%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 24px;left: 77%;top: 36%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "何だ？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 73.5%;top: 71%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 73.5%;top: 71%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

@@ -1,6 +1,7 @@
 [
 	{
 		"text": "パステル<br/>マジックの時間"
-		,"style": "font-size: 14px;color: #FF1353;background-color: #FFFFEF;left: -10px;top: 35px;width: 165px;height: 31px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;transform: rotate(-10deg);border-radius: 0%;"
+		,"style": "font-size: 14px;color: #FF1353;background-color: #FFFFEF;left: -10px;top: 35px;width: 165px;height: 31px;transform: rotate(-10deg);border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

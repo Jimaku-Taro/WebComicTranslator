@@ -1,50 +1,62 @@
 [
 	{
 		"text": "超<br/>可愛い…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 4.20%;top: 7.94%;width: 6.60%;height: 4.40%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 14px;left: 4.20%;top: 7.94%;width: 6.60%;height: 4.40%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "例えば、<br/>僕のテストは<br/>変身能力を持つ<br/>他の子達と<br/>受けた"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 23.38%;top: 14.94%;width: 15.96%;height: 18.40%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 23.38%;top: 14.94%;width: 15.96%;height: 18.40%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "もちろん、全員が<br/>単純な変身って<br/>わけじゃない"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 43.56%;top: 0.55%;width: 25.43%;height: 11.79%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 43.56%;top: 0.55%;width: 25.43%;height: 11.79%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "例えば僕は<br/>空気中の湿気で<br/>変身してる。<br/>空気中の水分を使い<br/>変身したい形の<br/>パーツを作る"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 69.10%;top: 0.63%;width: 29.04%;height: 18.16%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 69.10%;top: 0.63%;width: 29.04%;height: 18.16%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "蒸発"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 3.99%;top: 38.84%;width: 9.47%;height: 2.83%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 14px;left: 3.99%;top: 38.84%;width: 9.47%;height: 2.83%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "水分で<br/>再構成"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 31.76%;top: 34.04%;width: 12.34%;height: 4.72%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 14px;left: 31.76%;top: 34.04%;width: 12.34%;height: 4.72%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "当然<br/>僕の能力<br/>無しには<br/>不可能だ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 16.01%;top: 46.15%;width: 13.62%;height: 7.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 16.01%;top: 46.15%;width: 13.62%;height: 7.31%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "従って、<br/>湿気の無い環境では<br/>変身が難しくなる"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 46.01%;top: 30.58%;width: 25.21%;height: 12.50%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 46.01%;top: 30.58%;width: 25.21%;height: 12.50%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "テストでは<br/>近場の物体から<br/>変身後のパーツを<br/>形成する子達も<br/>いたな"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 72.29%;top: 35.69%;width: 23.51%;height: 12.58%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 72.29%;top: 35.69%;width: 23.51%;height: 12.58%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "つまん<br/>ねぇ!!"
-		,"style": "font-size: 50px;color: black;background-color: white;left: 12.07%;top: 57.78%;width: 22.66%;height: 12.03%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;font-weight: bold;"
+		,"style": "font-size: 50px;left: 12.07%;top: 57.78%;width: 22.66%;height: 12.03%;border-radius: 10%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "エイフェン?!<br/>どうたんだ?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 80.69%;top: 79.40%;width: 16.49%;height: 7.00%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 80.69%;top: 79.40%;width: 16.49%;height: 7.00%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "痛いぞ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 86.97%;top: 86.87%;width: 8.94%;height: 1.89%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 14px;left: 86.97%;top: 86.87%;width: 8.94%;height: 1.89%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 ]

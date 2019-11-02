@@ -1,58 +1,72 @@
 [
 	{
 		"text": "ブランディは<br/>何の悪魔<br/>だと思う?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 6.21%;top: 4.18%;width: 14.08%;height: 11.65%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 16px;left: 6.21%;top: 4.18%;width: 14.08%;height: 11.65%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "彼女は<br/>バンダースナッチ<br/>希少種よ"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 72.91%;top: 10.30%;width: 13.25%;height: 6.62%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 13px;left: 72.91%;top: 10.30%;width: 13.25%;height: 6.62%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "大半の悪魔は<br/>存在すら<br/>信じてない"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 72.32%;top: 16.67%;width: 15.16%;height: 8.97%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 16px;left: 72.32%;top: 16.67%;width: 15.16%;height: 8.97%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "蛙を<br/>食べる<br/>かな?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 11.10%;top: 32.17%;width: 10.50%;height: 8.30%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 16px;left: 11.10%;top: 32.17%;width: 10.50%;height: 8.30%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "彼女を敵に<br/>回すべきじゃない<br/>その気になれば<br/>オレの首を狩れる"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 70.88%;top: 32.59%;width: 14.32%;height: 10.23%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 70.88%;top: 32.59%;width: 14.32%;height: 10.23%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "クソ<br/>ホフマンMkⅡ<br/>連れて来る<br/>べきだった"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 8.95%;top: 46.93%;width: 9.90%;height: 7.96%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 12px;left: 8.95%;top: 46.93%;width: 9.90%;height: 7.96%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ホフマン<br/>ってどなた?"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 23.27%;top: 59.75%;width: 9.31%;height: 4.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 12px;left: 23.27%;top: 59.75%;width: 9.31%;height: 4.53%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "古い<br/>友達さ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 7.94%;top: 67.63%;width: 9.31%;height: 3.77%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 7.94%;top: 67.63%;width: 9.31%;height: 3.77%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "それより<br/>警察呼んで<br/>来る"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 7.58%;top: 71.07%;width: 10.62%;height: 8.05%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 7.58%;top: 71.07%;width: 10.62%;height: 8.05%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "この中の<br/>1人が犯人と<br/>思ってる<br/>でしょ?"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 53.16%;top: 53.47%;width: 9.19%;height: 6.87%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 13px;left: 53.16%;top: 53.47%;width: 9.19%;height: 6.87%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "じゃ<br/>誰?"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 59.13%;top: 59.58%;width: 7.04%;height: 4.11%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 13px;left: 59.13%;top: 59.58%;width: 7.04%;height: 4.11%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "理由は?"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 71.90%;top: 64.19%;width: 6.21%;height: 3.94%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 13px;left: 71.90%;top: 64.19%;width: 6.21%;height: 3.94%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "方法は?"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 77.39%;top: 67.13%;width: 6.56%;height: 4.11%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 13px;left: 77.39%;top: 67.13%;width: 6.56%;height: 4.11%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "お父様の<br/>仕事の代理なら<br/>この謎を解いて。<br/>殺人犯がいるなら<br/>あなたが行く間に<br/>誰か殺されるかも<br/>しれないでしょ"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 72.02%;top: 82.80%;width: 17.18%;height: 13.66%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 13px;left: 72.02%;top: 82.80%;width: 17.18%;height: 13.66%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 ]

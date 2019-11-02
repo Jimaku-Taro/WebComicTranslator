@@ -1,6 +1,7 @@
 [
 	{
 		"text": "ジョージ!"
-		,"style": "font-size: 14px;color: #C47B69;background-color: #F8FCBE;left: 45px;top: 34px;width: 71px;height: 27px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #C47B69;background-color: #F8FCBE;left: 45px;top: 34px;width: 71px;height: 27px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

@@ -1,22 +1,27 @@
 [
 	{
 		"text": "う…<br/>うわぁ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 54.5%;top: 69.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 54.5%;top: 69.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "逃げろ<br/>！"
-		,"style": "font-size: 21px;color: black;background-color: white;left: 66%;top: 72%;font-weight: bold;height: 60px;display: flex;align-items: center;border-radius: 0%;"
+		,"style": "font-size: 21px;left: 66%;top: 72%;height: 60px;display: flex;align-items: center;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "行け!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 77.5%;top: 92%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 20px;left: 77.5%;top: 92%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "行け!"
-		,"style": "font-size: 21px;color: black;background-color: white;left: 83%;top: 93%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 21px;left: 83%;top: 93%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "行け!"
-		,"style": "font-size: 21px;color: black;background-color: white;left: 88%;top: 91%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 21px;left: 88%;top: 91%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 ]

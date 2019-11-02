@@ -1,38 +1,47 @@
 [
 	{
 		"text": "ここから<br/>逃げろ、<br/>急げ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 12%;top: 4%;font-weight: bold;width: 80px;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 12%;top: 4%;width: 80px;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "心配するな！<br/>安全になったら<br/>呼ぶ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 11.5%;top: 10.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 11.5%;top: 10.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "もしオレの<br/>連絡がなければ<br/><span style=\"font-weight: bold;\">絶対戻って<br/>来るな！</span>"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 47.5%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 47.5%;top: 5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "クレアンス…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 46.7%;top: 18.2%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 46.7%;top: 18.2%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "行くわよ!!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 82%;top: 21%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 82%;top: 21%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ねぇ<br/>ガキ共"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 19%;top: 51.4%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 19%;top: 51.4%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "まだ<br/>生きてる<br/>よね？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 83%;top: 49%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 83%;top: 49%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "もう遅い。<br/>奴らは<br/>もう逃げた"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 64.5%;top: 65%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 64.5%;top: 65%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "お前らは<br/>ギターを<br/>取り戻せない"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 74.5%;top: 65%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 74.5%;top: 65%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

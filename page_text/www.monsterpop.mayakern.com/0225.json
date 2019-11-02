@@ -1,30 +1,37 @@
 [
 	{
 		"text": "メッセージ"
-		,"style": "font-size: 14px;color: #7967BF;background-color: #EBD3B9;left: 64px;top: 44px;width: 82px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #7967BF;background-color: #EBD3B9;left: 64px;top: 44px;width: 82px;height: 23px;border-radius: 10px;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "フラニー"
-		,"style": "font-size: 16px;color: #100E57;background-color: #E8CCB6;left: 170px;top: 40px;width: 66px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10px;font-weight: bold;"
+		,"style": "font-size: 16px;color: #100E57;background-color: #E8CCB6;left: 170px;top: 40px;width: 66px;height: 29px;border-radius: 10px;"
+		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "通話"
-		,"style": "font-size: 14px;color: #7967BF;background-color: #EBD3B9;left: 280px;top: 40px;width: 69px;height: 30px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #7967BF;background-color: #EBD3B9;left: 280px;top: 40px;width: 69px;height: 30px;border-radius: 10px;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "フラニー?????????"
-		,"style": "font-size: 14px;color: #121663;background-color: #EDC07F;left: 208px;top: 223px;width: 141px;height: 22px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #121663;background-color: #EDC07F;left: 208px;top: 223px;width: 141px;height: 22px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "もしもし????????????????"
-		,"style": "font-size: 14px;color: #121663;background-color: #EDC07F;left: 148px;top: 280px;width: 202px;height: 22px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #121663;background-color: #EDC07F;left: 148px;top: 280px;width: 202px;height: 22px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "送信"
-		,"style": "font-size: 14px;color: #7967BF;background-color: #EBD3B9;left: 308px;top: 440px;width: 52px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #7967BF;background-color: #EBD3B9;left: 308px;top: 440px;width: 52px;height: 23px;border-radius: 10px;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "一体<br/>何よ…"
-		,"style": "font-size: 16px;color: #8A7502;background-color: #F3FF49;left: 670px;top: 100px;width: 86px;height: 61px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;color: #8A7502;background-color: #F3FF49;left: 670px;top: 100px;width: 86px;height: 61px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

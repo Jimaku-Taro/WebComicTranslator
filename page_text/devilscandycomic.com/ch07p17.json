@@ -1,78 +1,97 @@
 [
 	{
 		"text": "おいおい…。<br/>笑えないよ。<br/>そんな理論が<br/>あるなら<br/>聞いてるはずだ"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 10.5%;top: 1.5%;width: 127px;height: 94px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 13px;left: 10.5%;top: 1.5%;width: 127px;height: 94px;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あらゆる<br/>歴史書や科学誌を<br/>漁ったけど<br/>神話しか見つから<br/>なかったよ…"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 9%;top: 10%;width: 146px;height: 101px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;left: 9%;top: 10%;width: 146px;height: 101px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "情報統制<br/>されたからです。<br/>遺跡の発掘を<br/>中止させた<br/>連中でしょう"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 41%;top: 2.5%;width: 128px;height: 134px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;left: 41%;top: 2.5%;width: 128px;height: 134px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "僕の両親は東大陸で<br/>“Dr.エースがおくる<br/>：世界はおかしい!<br/>治そう”を撮影しました。<br/>でもミイラの部分は<br/>番組ではカット<br/>父の発見は<br/>公表されなかった"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 75%;top: 3%;width: 150px;height: 158px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;left: 75%;top: 3%;width: 150px;height: 158px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "父はバカですが<br/>同時に天才です。<br/>とにかく父はカースモ<br/>バグバギーは絶対に<br/>事実だと言って<br/>いました"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 77%;top: 16.5%;width: 134px;height: 109px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;left: 77%;top: 16.5%;width: 134px;height: 109px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "で…<br/>何を発見<br/>したの?"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 12%;top: 39.2%;width: 97px;height: 63px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;left: 12%;top: 39.2%;width: 97px;height: 63px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "バグバギーが<br/>頭蓋骨内に住む寄生虫で、<br/>大抵は休眠中ですが<br/>宿主が興奮すると<br/>あるものを発します…"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 29.2%;top: 39.8%;width: 164px;height: 103px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 12px;left: 29.2%;top: 39.8%;width: 164px;height: 103px;border:solid 1px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "…何を<br/>発するの?"
-		,"style": "font-size: 11px;color: black;background-color: white;left: 53%;top: 41%;width: 63px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 11px;left: 53%;top: 41%;width: 63px;height: 38px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "チョー<br/>トテモ<br/>スゴイ波"
-		,"style": "font-size: 11px;color: black;background-color: white;left: 63%;top: 40%;width: 60px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 11px;left: 63%;top: 40%;width: 60px;height: 58px;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "この現象は<br/>そう呼ばれ…"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 70.2%;top: 40%;width: 79px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;left: 70.2%;top: 40%;width: 79px;height: 53px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "呼ばれ…"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 71.2%;top: 44.8%;width: 62px;height: 25px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;left: 71.2%;top: 44.8%;width: 62px;height: 25px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "バカな名前は<br/>気にしなくて<br/>いいから…"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 81.5%;top: 41%;width: 90px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;left: 81.5%;top: 41%;width: 90px;height: 62px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "つまり<br/>その考えは、<br/>マイロの頭骨に<br/>彼が動揺すると<br/>破壊波を出す<br/>虫がいる?"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 9.2%;top: 62.4%;width: 131px;height: 137px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;left: 9.2%;top: 62.4%;width: 131px;height: 137px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "その通り。<br/>その現象は現代社会では<br/>報告がないから<br/>Dr.パンターノが発見した<br/>ミイラの頭骨にある種の<br/>休眠状態で寄生虫が<br/>いた可能性が高い"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 25.7%;top: 62.9%;width: 170px;height: 150px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;left: 25.7%;top: 62.9%;width: 170px;height: 150px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "祖父との<br/>長期接触で<br/>マイロに感染<br/>したみたいだ"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 46%;top: 63.5%;width: 115px;height: 110px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;left: 46%;top: 63.5%;width: 115px;height: 110px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "でもリケットも<br/>運が悪い!<br/>呪いの初期段階<br/>だと思う?"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 87.5%;top: 63.6%;width: 87px;height: 75px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 12px;left: 87.5%;top: 63.6%;width: 87px;height: 75px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "父の理論だと<br/>感染は同性間のみ<br/>なので…その…<br/>リケットはただの<br/>不運かな?"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 62.5%;top: 78%;width: 110px;height: 112px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;left: 62.5%;top: 78%;width: 110px;height: 112px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ふうっ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 79%;top: 80.6%;width: 53px;height: 27px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 79%;top: 80.6%;width: 53px;height: 27px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "寄生虫に<br/>とって私は<br/>男らしく<br/>ない?"
-		,"style": "font-size: 11px;color: black;background-color: white;left: 89.2%;top: 80.8%;width: 62px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 11px;left: 89.2%;top: 80.8%;width: 62px;height: 60px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 ]

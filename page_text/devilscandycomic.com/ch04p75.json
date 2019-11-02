@@ -1,34 +1,42 @@
 [
 	{
 		"text": "ラブ ライフ"
-		,"style": "font-size: 34px;color: black;background-color: white;left: 37%;top: 5%;font-weight: bold;width: 212px;border-radius: 0%;"
+		,"style": "font-size: 34px;left: 37%;top: 5%;width: 212px;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ねぇ<br/>ピュティア、<br/>デズモンドだ!<br/>勉強の<br/>パートナー<br/>頼みなよ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 29%;top: 10%;border-radius: 30%;"
+		,"style": "font-size: 15px;left: 29%;top: 10%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "おれ…<br/>無理強いは<br/>できない"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 55%;top: 11%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 55%;top: 11%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "じゃあ<br/>見返りに何か<br/>してあげなよ!<br/>あなたが<br/>できる何か<br/>特別な事を"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 25%;top: 33%;height: 127px;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 25%;top: 33%;height: 127px;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "わ…わかった<br/>やってみる<br/>…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 63%;top: 42.5%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 63%;top: 42.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "デズモンド、<br/>勉強手伝ってくれたら、<br/>お前の敵全て倒してやる！"
-		,"style": "font-size: 16.5px;color: black;background-color: white;left: 29.5%;top: 53.7%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16.5px;left: 29.5%;top: 53.7%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ふむ。素晴らしい<br/>僕は敵が多い。<br/>これはお互い<br/>有益な関係だね"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 55%;top: 54.3%;border-radius: 20%;"
+		,"style": "font-size: 17px;left: 55%;top: 54.3%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "か…<br/>関係！"
-		,"style": "font-size: 27px;color: black;background-color: white;left: 28%;top: 76%;font-weight: bold;border:solid 1px;transform: rotate(-10deg);width: 221px;border-radius: 0%;"
+		,"style": "font-size: 27px;left: 28%;top: 76%;border:solid 1px;transform: rotate(-10deg);width: 221px;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 ]

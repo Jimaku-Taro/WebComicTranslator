@@ -2,21 +2,26 @@
 	{
 		"text": "うん<br/>是非!"
 		,"style": "font-size: 14px;color: #100E0C;background-color: #FEF55C;left: 183px;top: 181px;width: 58px; height: 58px;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "いいね!リバー<br/>デールに7時は?"
 		,"style": "font-size: 14px;color: #231810;background-color: #EF8647;left: 300px;top: 24px;width: 105px; height: 40px;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "いいわよ！"
 		,"style": "font-size: 14px;color: #100E0C;background-color: #FEF55C;left: 387px;top: 77px;width: 102px; height: 41px;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "またね"
 		,"style": "font-size: 14px;color: #231810;background-color: #EF8647;left: 298px;top: 132px;width: 109px; height: 24px;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "楽しみ!"
 		,"style": "font-size: 16px;color: #100E0C;background-color: #FEF55C;left: 696px;top: 209px;width: 83px; height: 26px;border-radius: 0%;"
+		,"class": ""
 	}
 ]

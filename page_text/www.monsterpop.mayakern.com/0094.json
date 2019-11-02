@@ -1,70 +1,87 @@
 [
 	{
 		"text": "ところで<br/>新入生向けの<br/>懇親会が<br/>今夜あるの<br/>聞いてる？"
-		,"style": "font-size: 14px;color: #FA1432;background-color: #FEAFB6;left: 159px;top: 7px;width: 109px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #FA1432;background-color: #FEAFB6;left: 159px;top: 7px;width: 109px;height: 95px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うん!"
-		,"style": "font-size: 14px;color: #AF5316;background-color: #FAFB7B;left: 103px;top: 173px;width: 43px;height: 19px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #AF5316;background-color: #FAFB7B;left: 103px;top: 173px;width: 43px;height: 19px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "行く？"
-		,"style": "font-size: 14px;color: #F91A33;background-color: #FFC3CB;left: 72px;top: 220px;width: 78px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #F91A33;background-color: #FFC3CB;left: 72px;top: 220px;width: 78px;height: 39px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うん!"
-		,"style": "font-size: 14px;color: #AF5316;background-color: #FAFB7B;left: 131px;top: 266px;width: 43px;height: 19px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #AF5316;background-color: #FAFB7B;left: 131px;top: 266px;width: 43px;height: 19px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それで<br/>その…"
-		,"style": "font-size: 14px;color: #F91A33;background-color: #FFC3CB;left: 446px;top: 54px;width: 45px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #F91A33;background-color: #FFC3CB;left: 446px;top: 54px;width: 45px;height: 42px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "君の友達の<br/>フラニー?<br/>彼女来る?"
-		,"style": "font-size: 14px;color: #F80027;background-color: #FEAFB8;left: 400px;top: 132px;width: 111px;height: 73px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #F80027;background-color: #FEAFB8;left: 400px;top: 132px;width: 111px;height: 73px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "どうかな"
-		,"style": "font-size: 14px;color: #F62943;background-color: #EC8C9A;left: 449px;top: 232px;width: 71px;height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #F62943;background-color: #EC8C9A;left: 449px;top: 232px;width: 71px;height: 33px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "来るわよ<span style=\"font-weight: bold;\">絶対ね</span>"
-		,"style": "font-size: 14px;color: #AF5316;background-color: #FAFB7B;left: 670px;top: 28px;width: 117px;height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #AF5316;background-color: #FAFB7B;left: 670px;top: 28px;width: 117px;height: 33px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "へへへへへ"
-		,"style": "font-size: 14px;color: #AF5316;background-color: #FAFB7B;left: 684px;top: 256px;width: 84px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #AF5316;background-color: #FAFB7B;left: 684px;top: 256px;width: 84px;height: 21px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "彼は完全に<br/>君のこと<br/>好きね"
-		,"style": "font-size: 14px;color: #181B11;background-color: #FAFB7B;left: 28px;top: 325px;width: 88px;height: 57px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #181B11;background-color: #FAFB7B;left: 28px;top: 325px;width: 88px;height: 57px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "何!!!<br/>誰よ"
-		,"style": "font-size: 14px;color: #40263F;background-color: #FA7BF7;left: 71px;top: 390px;width: 57px;height: 37px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #40263F;background-color: #FA7BF7;left: 71px;top: 390px;width: 57px;height: 37px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "パーシーよ<br/>当然!!!"
-		,"style": "font-size: 14px;color: #181B11;background-color: #FAFB7B;left: 120px;top: 429px;width: 84px;height: 34px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #181B11;background-color: #FAFB7B;left: 120px;top: 429px;width: 84px;height: 34px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "そ…そう<br/>よかった"
-		,"style": "font-size: 14px;color: #F62943;background-color: #EC8C9A;left: 132px;top: 325px;width: 58px;height: 52px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #F62943;background-color: #EC8C9A;left: 132px;top: 325px;width: 58px;height: 52px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "授業<br/>始ま<br/>るね…"
-		,"style": "font-size: 12px;color: #F62943;background-color: #EC8C9A;left: 170px;top: 370px;width: 45px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 12px;color: #F62943;background-color: #EC8C9A;left: 170px;top: 370px;width: 45px;height: 50px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "何変なこと<br/>言い出すの??"
-		,"style": "font-size: 14px;color: #40263F;background-color: #FA7BF7;left: 355px;top: 323px;width: 108px;height: 73px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #40263F;background-color: #FA7BF7;left: 355px;top: 323px;width: 108px;height: 73px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "いや彼が<br/>君が懇親会<br/>行くか<br/>聞くからさ"
-		,"style": "font-size: 14px;color: #181B11;background-color: #FAFB7B;left: 587px;top: 325px;width: 96px;height: 78px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #181B11;background-color: #FAFB7B;left: 587px;top: 325px;width: 96px;height: 78px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "今晩彼と<br/>つきあわせたげる"
-		,"style": "font-size: 14px;color: #181B11;background-color: #FAFB7B;left: 650px;top: 425px;width: 113px;height: 37px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #181B11;background-color: #FAFB7B;left: 650px;top: 425px;width: 113px;height: 37px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": "BOLD"
 	}
 ]

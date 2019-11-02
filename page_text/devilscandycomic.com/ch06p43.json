@@ -1,22 +1,27 @@
 [
 	{
 		"text": "来てくれて<br/>ありがとうね<br/>ローワン!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 19%;top: 20%;width: 97px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 19%;top: 20%;width: 97px;height: 60px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "直接<span style=\"font-weight: bold;\">会いたかったわ!</span><br/>エースとあなたは<br/>長いこと一緒だから<br/>妬けちゃうわ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 62.5%;top: 5.5%;width: 161px;height: 73px;text-align: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 62.5%;top: 5.5%;width: 161px;height: 73px;text-align: center;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "保証しますよ、<br/>俺とあなたの夫は<br/>プラトニックな<br/>関係だって"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 66%;top: 37%;width: 120px;height: 65px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 66%;top: 37%;width: 120px;height: 65px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "※眉をひそめる"
-		,"style": "font-size: 14px;color: black;left: 85%;top: 74%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;left: 85%;top: 74%;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "やめろ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 73.5%;top: 78.5%;width: 42px;height: 19px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 73.5%;top: 78.5%;width: 42px;height: 19px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 ]

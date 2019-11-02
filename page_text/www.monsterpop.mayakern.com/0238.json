@@ -2,9 +2,11 @@
 	{
 		"text": "マリナ～!!!"
 		,"style": "font-size: 16px;color: black;left: 220px;top: 40px;transform: rotate(20deg);text-shadow:#F3FF49 1px 1px 0, #F3FF49 -1px -1px 0,#F3FF49 -1px 1px 0, #F3FF49 1px -1px 0,#F3FF49 0px 1px 0, #F3FF49  0 -1px 0,#F3FF49 -1px 0 0, #F3FF49 1px 0 0;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "あ…ありがとう<br/>とっても優しいのね…<br/>本当にありがたいわ!!!"
-		,"style": "font-size: 14px;color: #837702;background-color: #F3FF49;left: 365px;top: 35px;width: 177px;height: 90px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #837702;background-color: #F3FF49;left: 365px;top: 35px;width: 177px;height: 90px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

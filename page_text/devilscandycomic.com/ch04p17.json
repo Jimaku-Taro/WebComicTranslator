@@ -1,58 +1,72 @@
 [
 	{
 		"text": "カズ、お前は<br/>校長じゃない。<br/>そんな決定権<br/>ないだろ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 4.5%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 4.5%;top: 6%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "君の新しい<br/>エッグスクラム<br/>チームに会う<br/>準備だ、<br/>ドレイク!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 59.5%;top: 2.5%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 59.5%;top: 2.5%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "しばらく後…"
-		,"style": "font-size: 24px;color: black;background-color: white;left: 10%;top: 23.5%;border-radius: 10%;"
+		,"style": "font-size: 24px;left: 10%;top: 23.5%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "エッグスクラム?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 4.5%;top: 39.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 4.5%;top: 39.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">出産の</span><br/>スポーツ?"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 26%;top: 56%;border-radius: 20%;"
+		,"style": "font-size: 18px;left: 26%;top: 56%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "それにしちゃあ<br/>チームの野郎共<br/>やたら多いね…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 26.5%;top: 62.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 26.5%;top: 62.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ペトラ・フォボス(15)</span><br/>強い責任感があるが、<br/>授業はいつも<br/>サボる"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 21.2%;top: 76.8%;border-radius: 10%;"
+		,"style": "font-size: 14px;left: 21.2%;top: 76.8%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">OK、</span><br/>まず第一<br/>に…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 44%;top: 37%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 44%;top: 37%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "人前で着替えは<br/>不愉快だ、<br/>だから僕専用の<br/>ロッカー室が<br/>いる"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 42.7%;top: 42.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 42.7%;top: 42.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">第二に、</span><br/>僕は臭いの検出域が低い、<br/>だから標準尺度で３ランクを<br/>超えたら即座に標準に戻して。<br/>もし誰かがスパゲッティ食べて<br/>僕に分けてくれなかったら、<br/>僕は気絶するまで叫ぶよ。<br/>それが条件だ。調べておけよ。<br/>20キロヘルツ以下の音で僕は<br/>すぐに吐くよ。僕の父の名は<br/>ウォレス。もし僕に贈物する<br/>なら、オレンジはやめろ。<br/>アレルギーとかじゃないけど、<br/>オレンジとかは十分ある。<br/>それと、医者の注意に…"
-		,"style": "font-size: 12.5px;color: black;background-color: white;left: 72.5%;top: 38%;border-radius: 20%;"
+		,"style": "font-size: 12.5px;left: 72.5%;top: 38%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ウォルトン・<br/>ストーンウォール(16)</span><br/>完全に嫌な奴。<br/>どのクラブも彼をとらなかった"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 65.33%;top: 59.84%;width: 22.32%;height: 4.86%;border-radius: 10%;"
+		,"style": "font-size: 12px;left: 65.33%;top: 59.84%;width: 22.32%;height: 4.86%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "マスかき野郎共<br/>大当たりだ!俺より<br/>エッグスクラムの<br/>上手い奴はいねぇ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 45%;top: 68%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 45%;top: 68%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">全てにおいて</span><br/>俺より優れた<br/>奴はいねぇ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 81%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 77%;top: 81%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ナイジェル・デュースナップ(16)</span><br/>小さすぎ。<br/>どんなクラブでもただ小さすぎ。<br/>あと、好戦的"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 54.47%;top: 90.10%;width: 25.54%;height: 5.87%;border-radius: 10%;"
+		,"style": "font-size: 12px;left: 54.47%;top: 90.10%;width: 25.54%;height: 5.87%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 ]

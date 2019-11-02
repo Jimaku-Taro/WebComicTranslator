@@ -1,10 +1,12 @@
 [
 	{
 		"text": "ジョージ! 金曜の<br/>ムービーナイト<br/>行かない?"
-		,"style": "font-size: 14px;color: #457E24;background-color: #AFFF77;left: 430px;top: 35px;width: 143px;height: 100px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #457E24;background-color: #AFFF77;left: 430px;top: 35px;width: 143px;height: 100px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "楽しそう<br/>だよ!"
-		,"style": "font-size: 14px;color: #457E24;background-color: #AFFF77;left: 605px;top: 85px;width: 91px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #457E24;background-color: #AFFF77;left: 605px;top: 85px;width: 91px;height: 60px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

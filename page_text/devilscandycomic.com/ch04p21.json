@@ -1,94 +1,117 @@
 [
 	{
 		"text": "ここ来たか<br/>状況<br/>分かる？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 5.5%;top: 4%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 5.5%;top: 4%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">全然、</span><br/>でもバイオ<br/>モンスターで<br/>全て解決だ！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 24.5%;top: 3%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 24.5%;top: 3%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "バイオモンスター<br/><span style=\"font-weight: bold;\">チーム!</span><br/>うまくいくかも!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 39.5%;top: 2%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 39.5%;top: 2%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "明らかに<br/>ダメだろ!!!<br/>最初に何で<br/>停学にしたのか<br/>忘れたか！？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 56%;top: 2%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 56%;top: 2%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "OK、OK、<br/>ジャイロに<span style=\"font-weight: bold;\">一体</span><br/>だけ付けます、<br/>片腕ないですし"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 73.5%;top: 1.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 73.5%;top: 1.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "交渉成立!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 82.5%;top: 9.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 82.5%;top: 9.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">パーフェクトォ<br/>ォォォ</span>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 7.5%;top: 28%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 7.5%;top: 28%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "本物の生徒でないと<br/>誰も<span style=\"font-weight: bold;\">疑うまい</span>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 71%;top: 28%;border-radius: 10%;"
+		,"style": "font-size: 14px;left: 71%;top: 28%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "カズ、<br/>ヒトミ呼べない?<br/>彼女なら多分<br/>１人で試合圧勝<br/>できるよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 5%;top: 37%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 5%;top: 37%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "彼女は<br/>今日歯医者<br/>なんだ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 28.1%;top: 39%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 28.1%;top: 39%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "待って…<br/>君は兄弟か<br/>何かいたね?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 56%;top: 38%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 56%;top: 38%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "いや…<br/>兄弟が２人。<br/>プリンスと<br/>レトロな<br/>感じの？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 66.6%;top: 37.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 66.6%;top: 37.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "それに姉妹<br/>かな?長い<br/>金髪の?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 67.5%;top: 46.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 67.5%;top: 46.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ある時は<br/>優雅な乙女、<br/>またある時は<br/>勇敢な剣士、<br/><span style=\"font-weight: bold;\">無数の仮面</span>と<br/>知られる!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 5.7%;top: 57%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 5.7%;top: 57%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "舞台の学者、<br/><span style=\"font-weight: bold;\">リケット・<br/>パンターノ!</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 29%;top: 82.8%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 29%;top: 82.8%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "あぁ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 50.7%;top: 58.5%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 50.7%;top: 58.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "つまり君は<br/>学校で唯一の<br/>デーモンの<br/>生徒の人?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 55.5%;top: 59%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 55.5%;top: 59%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "はぁ…君の<br/>“兄弟姉妹”の<br/>参加を期待<br/>してたけど"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 79.9%;top: 59%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 79.9%;top: 59%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "デーモン3人<br/>は1.5ヒトミ<br/>の価値が…"
-		,"style": "font-size: 14.5px;color: black;background-color: white;left: 81%;top: 67%;border-radius: 10%;"
+		,"style": "font-size: 14.5px;left: 81%;top: 67%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "でも君は<br/>すごいって<br/>わかるよ！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 48%;top: 75.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 48%;top: 75.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "この<br/>筋肉で?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 64.5%;top: 77%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 64.5%;top: 77%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "プシュー!<br/>やるさ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 82.5%;top: 82.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 82.5%;top: 82.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "奴らに<br/>潰される<br/>だろうなぁ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 78%;top: 90.5%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 78%;top: 90.5%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 ]

@@ -1,38 +1,47 @@
 [
 	{
 		"text": "着いた"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 87.39%;top: 32.63%;width: 6.28%;height: 5.97%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 87.39%;top: 32.63%;width: 6.28%;height: 5.97%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "まだ<br/>心の準備が<br/>できて<br/>ないかも"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 3.67%;top: 48.66%;width: 10.85%;height: 14.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 3.67%;top: 48.66%;width: 10.85%;height: 14.31%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "でき<br/>てるさ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 3.88%;top: 65.41%;width: 8.30%;height: 7.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 3.88%;top: 65.41%;width: 8.30%;height: 7.63%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "う～ん…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 63.24%;top: 66.59%;width: 7.13%;height: 4.48%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 63.24%;top: 66.59%;width: 7.13%;height: 4.48%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ねぇ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 17.82%;top: 90.25%;width: 6.28%;height: 7.23%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 17.82%;top: 90.25%;width: 6.28%;height: 7.23%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "一緒なら<br/>何も心配<br/>ないさ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 45.16%;top: 73.90%;width: 8.72%;height: 13.21%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 45.16%;top: 73.90%;width: 8.72%;height: 13.21%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "今日<br/>新しい苺の<br/>歯磨き粉<br/>試して<br/>みたよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 85.59%;top: 73.66%;width: 9.26%;height: 10.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 85.59%;top: 73.66%;width: 9.26%;height: 10.22%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "味は<br/>どう?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 68.78%;top: 90.41%;width: 5.64%;height: 6.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 68.78%;top: 90.41%;width: 5.64%;height: 6.68%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ミント<br/>みたい"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 91.54%;top: 92.61%;width: 4.68%;height: 5.19%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 91.54%;top: 92.61%;width: 4.68%;height: 5.19%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 ]

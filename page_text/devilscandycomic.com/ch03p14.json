@@ -1,34 +1,42 @@
 [
 	{
 		"text": "言うこと<br/>なしだ！"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 16%;top: 14%;border-radius: 10%;"
+		,"style": "font-size: 20px;left: 16%;top: 14%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "子供達を<br/>愛してる！"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 75%;top: 15%;border-radius: 10%;"
+		,"style": "font-size: 20px;left: 75%;top: 15%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "次回"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 58.5%;top: 43.3%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 58.5%;top: 43.3%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "沼流感<br/>治療!"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 67%;top: 43%;border-radius: 20%;"
+		,"style": "font-size: 12px;left: 67%;top: 43%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "カズ？<br/>大丈夫？<br/>食物悪かった?<br/>食べなくても<br/>いいのよ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 42.5%;top: 60%;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 42.5%;top: 60%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "いやぁ、<br/>バカな<br/>番組だぜ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 42.2%;top: 73.5%;width: 67px;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 42.2%;top: 73.5%;width: 67px;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ダンカン!<br/>Dr.エースは<br/>偉大な人よ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 53.5%;top: 74.4%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 53.5%;top: 74.4%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "Dr.エース<br/>なんか<br/>ケツだ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 66.5%;top: 73.5%;font-weight: bold;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 66.5%;top: 73.5%;border-radius: 30%;"
+		,"class": "WHITE BOLD"
 	}
 ]

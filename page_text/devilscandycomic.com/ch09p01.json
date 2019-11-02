@@ -1,6 +1,7 @@
 [
 	{
 		"text": "85 深海平原"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 14.50%;top: 62.10%;width: 17.78%;height: 1.59%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;border: solid 1px;"
+		,"style": "font-size: 14px;left: 14.50%;top: 62.10%;width: 17.78%;height: 1.59%;border-radius: 0%;font-weight: normal;border: solid 1px;"
+		,"class": "CENTER WHITE"
 	}
 ]

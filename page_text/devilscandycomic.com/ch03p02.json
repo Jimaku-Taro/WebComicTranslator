@@ -1,50 +1,62 @@
 [
 	{
 		"text": "皆の涙を拭い<br/>皆の<span style=\"font-weight: bold;\">輝く光</span>に<br/>なりま<br/>せんか？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 6.7%;top: 4%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 6.7%;top: 4%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">全力で</span><br/>腐敗を<br/>叩き潰し<br/>ませんか？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 34%;top: 3%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 34%;top: 3%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "…真剣に、<br/>生徒会へ参加を。<br/>助けが必要です<br/>履歴書にも<br/>いいですよ"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 51%;top: 21%;border-radius: 30%;"
+		,"style": "font-size: 12px;left: 51%;top: 21%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "やります<br/>！！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 67.5%;top: 5%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 67.5%;top: 5%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "よせ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 82.5%;top: 27%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 82.5%;top: 27%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "お前はもう<br/>13もクラブに<br/>サイン<br/>しただろ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 4.5%;top: 35%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 4.5%;top: 35%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ノーカンだよ！<br/>君が僕の名前<br/>全部リストから<br/>消したろ！"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 23.5%;top: 37%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 23.5%;top: 37%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">当然だ！</span>簡単に<br/>影響されすぎる！<br/><span style=\"font-weight: bold;\">“重量挙げ部”</span><br/>があってると<br/>思うか？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 45.4%;top: 34%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 45.4%;top: 34%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "もちろんさ！<br/>重量挙げを<br/>成し遂げる血が<br/>全身に流れてるさ<br/><span style=\"font-weight: bold;\">今はね</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 73%;top: 35%;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 73%;top: 35%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "学校は最近<br/>高額な事故が<br/>多いからね、<br/><span style=\"font-weight: bold;\">バイオモンスター</span><br/>とか<span style=\"font-weight: bold;\">爆発</span>とか"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 8%;top: 68%;z-index: 1;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 8%;top: 68%;z-index: 1;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "学園支援団体との<br/>団結や募金活動で<br/>出来る限りの<br/>学校支援は<br/>生徒の義務だよ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 17%;top: 77%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 17%;top: 77%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "何かのクソ文の<br/>受け売りか?<br/>その妙な<br/>話し方が自然<br/>なのか?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 64%;top: 71.5%;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 64%;top: 71.5%;border-radius: 40%;"
+		,"class": "WHITE"
 	}
 ]

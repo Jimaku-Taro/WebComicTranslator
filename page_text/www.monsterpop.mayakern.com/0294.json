@@ -1,30 +1,37 @@
 [
 	{
 		"text": "マリナ<br/>あなたも好きな人<br/>いるわね…?"
-		,"style": "font-size: 14px;color: #6E5400;background-color: #FFF65B;left: 1.94%;top: 2.38%;width: 16.38%;height: 19.25%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #6E5400;background-color: #FFF65B;left: 1.94%;top: 2.38%;width: 16.38%;height: 19.25%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うぅ…"
-		,"style": "font-size: 16px;color: #037F7D;background-color: #6FFAFF;left: 21.44%;top: 12.90%;width: 10.00%;height: 8.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;color: #037F7D;background-color: #6FFAFF;left: 21.44%;top: 12.90%;width: 10.00%;height: 8.53%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "う…<br/>うん"
-		,"style": "font-size: 14px;color: #037F7D;background-color: #6FFAFF;left: 28.19%;top: 24.80%;width: 5.88%;height: 9.33%;height: 8.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #037F7D;background-color: #6FFAFF;left: 28.19%;top: 24.80%;width: 5.88%;height: 9.33%;height: 8.53%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "じ…実は<br/>そうなの"
-		,"style": "font-size: 14px;color: #037F7D;background-color: #6FFAFF;left: 46.19%;top: 63.59%;width: 9.00%;height: 10.32%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #037F7D;background-color: #6FFAFF;left: 46.19%;top: 63.59%;width: 9.00%;height: 10.32%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それ…私の<br/>知ってる人?"
-		,"style": "font-size: 14px;color: #6E5400;background-color: #FFF65B;left: 86.44%;top: 2.98%;width: 11.25%;height: 15.08%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #6E5400;background-color: #FFF65B;left: 86.44%;top: 2.98%;width: 11.25%;height: 15.08%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "その…"
-		,"style": "font-size: 14px;color: #037F7D;background-color: #6FFAFF;left: 86.94%;top: 84.13%;width: 6.38%;height: 6.75%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #037F7D;background-color: #6FFAFF;left: 86.94%;top: 84.13%;width: 6.38%;height: 6.75%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うん…"
-		,"style": "font-size: 14px;color: #037F7D;background-color: #6FFAFF;left: 90.44%;top: 90.28%;width: 7.88%;height: 7.14%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #037F7D;background-color: #6FFAFF;left: 90.44%;top: 90.28%;width: 7.88%;height: 7.14%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

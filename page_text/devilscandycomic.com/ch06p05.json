@@ -1,42 +1,52 @@
 [
 	{
 		"text": "あの…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 11%;top: 10.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 11%;top: 10.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "皆で<br/>写真撮っても<br/>いい？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 44%;top: 6.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 44%;top: 6.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "いいよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 51%;top: 19%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 51%;top: 19%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "じゃ、<br/>私が<br/>撮ろう"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 76%;top: 4.5%;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 76%;top: 4.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "Dr.エース!!!<br/>キャアアア"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 76%;top: 43.9%;font-weight: bold;transform: rotate(-13deg);border-radius: 0%;"
+		,"style": "font-size: 14px;left: 76%;top: 43.9%;transform: rotate(-13deg);border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "よし、<br/>皆<br/>集まって！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 15%;top: 61%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 15%;top: 61%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "おっと！<br/>僕もー！"
-		,"style": "font-size: 15px;color: black;background-color: #C2C2C2;left: 32.5%;top: 61.2%;font-weight: bold;transform: rotate(3deg);border-radius: 0%;"
+		,"style": "font-size: 15px;color: black;background-color: #C2C2C2;left: 32.5%;top: 61.2%;transform: rotate(3deg);border-radius: 0%;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "さぁ、<br/>撮ろう!"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 54%;top: 63%;border-radius: 0%;"
+		,"style": "font-size: 17px;left: 54%;top: 63%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ヘルメット<br/>脱げたよ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 56.5%;top: 68%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 56.5%;top: 68%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "はい<br/>“チーズ”!"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 68%;top: 64%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 68%;top: 64%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 ]

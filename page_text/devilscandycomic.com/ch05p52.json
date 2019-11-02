@@ -1,14 +1,17 @@
 [
 	{
 		"text": "むっ!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 41%;top: 47.8%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 41%;top: 47.8%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "がぁ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 19%;top: 63%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 19%;top: 63%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "おぉ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 76%;top: 46%;transform: rotate(10deg);width: 61px;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 76%;top: 46%;transform: rotate(10deg);width: 61px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

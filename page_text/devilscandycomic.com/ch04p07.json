@@ -2,29 +2,36 @@
 	{
 		"text": "エッグスクラムの歌を歌おう、至高のスポーツ<br/>優雅にして野蛮、一種の儀式でもある"
 		,"style": "font-size: 16px;color: white;background-color: black;left: 29.8%;top: 1%;border-radius: 10%;"
+		,"class": ""
 	}
 	,{
 		"text": "我らを天上から審判する恐るべきゾマ・ゴラモスによって<br/>高い山の上で、それは古代に生まれた"
 		,"style": "font-size: 16px;color: white;background-color: black;left: 25%;top: 5%;border-radius: 10%;"
+		,"class": ""
 	}
 	,{
 		"text": "次代の悪魔である神聖なエッグスクラムの卵が生まれ<br/>戦士達はそれを手に取り、戦うことを、誓った"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 29.2%;top: 40%;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 29.2%;top: 40%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "男、女、子供を成す全てのもの<br/>我らを賢く、狡猾に野蛮にする全てのもの<br/>我らの全ての愛憎と情熱が神聖なエッグスクラムの<br/>競技場に飛び上がり、卵へと注がれる"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 4.8%;top: 50.5%;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 4.8%;top: 50.5%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "戦士達が真に一進一退の攻防を繰り広げる時、<br/>卵は静かな殻の中で世界の全てを聴き学ぶ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 41.5%;top: 63%;width: 424px;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 41.5%;top: 63%;width: 424px;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "これは一体！何事か？<br/>試合が終わり、ひび割れからゾマ・ゴラモスが<br/>不気味な光のなかに、生れ出る"
 		,"style": "font-size: 16px;color: white;background-color: black;left: 26%;top: 68.5%;width: 404px;border-radius: 10%;"
+		,"class": ""
 	}
 	,{
 		"text": "猛火の戦いで鍛えた、強力な子が皆の努力で生まれる<br/>新たな卵が生まれる時、新たな試合が始まる<br/>さぁ盃を高く掲げ、その日を祝おう"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 27%;top: 92%;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 27%;top: 92%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 ]

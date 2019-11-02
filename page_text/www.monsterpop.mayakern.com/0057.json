@@ -1,26 +1,32 @@
 [
 	{
 		"text": "う…うん<br/>そう思う"
-		,"style": "font-size: 14px;color: #673E20;background-color: #FDEE5A;left: 65px;top: 13px;width: 78px;height: 35px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+		,"style": "font-size: 14px;color: #673E20;background-color: #FDEE5A;left: 65px;top: 13px;width: 78px;height: 35px;border-radius: 30%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "思い返せば<br/>嫌な奴だったし<br/>君は私を思って<br/>くれてた"
-		,"style": "font-size: 14px;color: #673E20;background-color: #FDEE5A;left: 213px;top: 51px;width: 163px;height: 83px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+		,"style": "font-size: 14px;color: #673E20;background-color: #FDEE5A;left: 213px;top: 51px;width: 163px;height: 83px;border-radius: 30%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ありがと<br/>F.<br/>愛してる"
-		,"style": "font-size: 14px;color: #673E20;background-color: #FDEE5A;left: 335px;top: 167px;width: 66px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+		,"style": "font-size: 14px;color: #673E20;background-color: #FDEE5A;left: 335px;top: 167px;width: 66px;height: 53px;border-radius: 30%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "私も<br/>愛してる G."
-		,"style": "font-size: 14px;color: #572865;background-color: #B297C7;left: 346px;top: 249px;width: 87px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+		,"style": "font-size: 14px;color: #572865;background-color: #B297C7;left: 346px;top: 249px;width: 87px;height: 38px;border-radius: 30%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "…アイス<br/>でもどう?<br/>おごるわよ"
-		,"style": "font-size: 14px;color: #572865;background-color: #B297C7;left: 317px;top: 328px;width: 124px;height: 71px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+		,"style": "font-size: 14px;color: #572865;background-color: #B297C7;left: 317px;top: 328px;width: 124px;height: 71px;border-radius: 30%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うん…<br/>すぐ<br/>行く…"
-		,"style": "font-size: 14px;color: #673E20;background-color: #FDEE5A;left: 430px;top: 438px;width: 65px;height: 46px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+		,"style": "font-size: 14px;color: #673E20;background-color: #FDEE5A;left: 430px;top: 438px;width: 65px;height: 46px;border-radius: 30%;"
+		,"class": "CENTER"
 	}
 ]

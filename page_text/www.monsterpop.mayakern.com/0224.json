@@ -1,26 +1,32 @@
 [
 	{
 		"text": "G、私達は食物の側<br/>どこにいるの?"
-		,"style": "font-size: 14px;color: #2D2031;background-color: #E58FFF;left: 10px;top: 10px;width: 144px;height: 59px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #2D2031;background-color: #E58FFF;left: 10px;top: 10px;width: 144px;height: 59px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "変な男いたから<br/>外へ出た"
-		,"style": "font-size: 14px;color: #53533D;background-color: #FEFFB2;left: 168px;top: 27px;width: 107px;height: 60px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #53533D;background-color: #FEFFB2;left: 168px;top: 27px;width: 107px;height: 60px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "OK私達は<br/>ゴミを募集してる"
-		,"style": "font-size: 14px;color: #2D2031;background-color: #E58FFF;left: 53px;top: 91px;width: 134px;height: 40px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #2D2031;background-color: #E58FFF;left: 53px;top: 91px;width: 134px;height: 40px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "リンゴ狩りに行く"
-		,"style": "font-size: 14px;color: #2D2031;background-color: #E58FFF;left: 35px;top: 195px;width: 112px;height: 42px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #2D2031;background-color: #E58FFF;left: 35px;top: 195px;width: 112px;height: 42px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "訂正は不愉快"
-		,"style": "font-size: 14px;color: #2D2031;background-color: #E58FFF;left: 38px;top: 305px;width: 88px;height: 42px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #2D2031;background-color: #E58FFF;left: 38px;top: 305px;width: 88px;height: 42px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "フラニー、何???"
-		,"style": "font-size: 14px;color: #53533D;background-color: #FEFFB2;left: 397px;top: 20px;width: 131px;height: 25px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #53533D;background-color: #FEFFB2;left: 397px;top: 20px;width: 131px;height: 25px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 ]

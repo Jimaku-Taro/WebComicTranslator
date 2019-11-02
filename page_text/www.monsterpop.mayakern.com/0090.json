@@ -1,30 +1,37 @@
 [
 	{
 		"text": "パーシー!"
-		,"style": "font-size: 14px;color: #7E4A06;background-color: #FCFDB6;left: 33px;top: 92px;width: 92px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #7E4A06;background-color: #FCFDB6;left: 33px;top: 92px;width: 92px;height: 42px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "誰??"
-		,"style": "font-size: 14px;color: #178669;background-color: #CFFFF9;left: 172px;top: 182px;width: 63px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #178669;background-color: #CFFFF9;left: 172px;top: 182px;width: 63px;height: 21px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "フラニーの<br/>未来の夫よ!"
-		,"style": "font-size: 14px;color: #7E4A06;background-color: #FCFDB6;left: 201px;top: 312px;width: 133px;height: 40px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #7E4A06;background-color: #FCFDB6;left: 201px;top: 312px;width: 133px;height: 40px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "あぁ"
-		,"style": "font-size: 13px;color: #178669;background-color: #CFFFF9;left: 181px;top: 416px;width: 27px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 13px;color: #178669;background-color: #CFFFF9;left: 181px;top: 416px;width: 27px;height: 23px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ねぇ!"
-		,"style": "font-size: 14px;color: #7E4A06;background-color: #FCFDB6;left: 412px;top: 29px;width: 54px;height: 27px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #7E4A06;background-color: #FCFDB6;left: 412px;top: 29px;width: 54px;height: 27px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ねぇ、<br/>パーシー!"
-		,"style": "font-size: 13px;color: #7E4A06;background-color: #FCFDB6;left: 498px;top: 41px;width: 63px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 13px;color: #7E4A06;background-color: #FCFDB6;left: 498px;top: 41px;width: 63px;height: 45px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ねぇ<br/>パーシー<br/>ちょっと!"
-		,"style": "font-size: 16px;color: #7E4A06;background-color: #FCFDB6;left: 495px;top: 250px;width: 100px;height: 63px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 16px;color: #7E4A06;background-color: #FCFDB6;left: 495px;top: 250px;width: 100px;height: 63px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

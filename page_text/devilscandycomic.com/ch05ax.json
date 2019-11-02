@@ -1,10 +1,12 @@
 [
 	{
 		"text": "あなたは死のドアに<br/>爪を立てている？<br/>それなら<span style=\"font-weight: bold;\">奇跡</span>が必要だ！<br/>お電話は奇跡のニック<br/>1-666-MIRACLE！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 49%;top: 6.5%;width: 174px;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 49%;top: 6.5%;width: 174px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "やあ皆！<br/>私は今アニメ・エキスポにいます<br/>だから更新は今度の金曜日(７月7日)に再開します<br/>それではまた会いましょう！<br/>--REM"
-		,"style": "font-size: 20px;color: white;background-color: black;left: 22%;top: 83%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 20px;color: white;background-color: black;left: 22%;top: 83%;border-radius: 0%;"
+		,"class": "BOLD"
 	}
 ]

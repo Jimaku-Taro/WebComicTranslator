@@ -1,38 +1,47 @@
 [
 	{
 		"text": "ねぇマリナ<br/>あなた<br/>寮生よね？"
-		,"style": "font-size: 14px;color: #694601;background-color: #FCFFB1;left: 40px;top: 10px;width: 119px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #694601;background-color: #FCFFB1;left: 40px;top: 10px;width: 119px;height: 76px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うん!"
-		,"style": "font-size: 14px;color: #067C7E;background-color: #9FFFFF;left: 200px;top: 82px;width: 36px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #067C7E;background-color: #9FFFFF;left: 200px;top: 82px;width: 36px;height: 22px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それじゃ<br/>どこから<br/>来たの？"
-		,"style": "font-size: 14px;color: #694601;background-color: #FCFFB1;left: 248px;top: 150px;width: 76px;height: 65px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #694601;background-color: #FCFFB1;left: 248px;top: 150px;width: 76px;height: 65px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "フランケンズタウンよ!<br/>正直言うと、<br/>引っ越しは不安だったの<br/>人間達と暮らしたこと<br/>なかったから、<br/>でも皆いい人だった!"
-		,"style": "font-size: 14px;color: #067C7E;background-color: #9FFFFF;left: 425px;top: 20px;width: 159px;height: 194px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #067C7E;background-color: #9FFFFF;left: 425px;top: 20px;width: 159px;height: 194px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "待って<br/>それじゃ周りに<br/>人間いなかった??<br/>今まで???"
-		,"style": "font-size: 14px;color: #694601;background-color: #FCFFB1;left: 16px;top: 255px;width: 130px;height: 73px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #694601;background-color: #FCFFB1;left: 16px;top: 255px;width: 130px;height: 73px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "いえ!"
-		,"style": "font-size: 14px;color: #067C7E;background-color: #9FFFFF;left: 185px;top: 258px;width: 47px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #067C7E;background-color: #9FFFFF;left: 185px;top: 258px;width: 47px;height: 22px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ネット上ではね、<br/>直接はないわ"
-		,"style": "font-size: 14px;color: #067C7E;background-color: #9FFFFF;left: 245px;top: 275px;width: 117px;height: 75px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #067C7E;background-color: #9FFFFF;left: 245px;top: 275px;width: 117px;height: 75px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "実際、２人の<br/>ルームメイトは<br/>人間だけど、まだ<br/>慣れないわね!"
-		,"style": "font-size: 14px;color: #067C7E;background-color: #9FFFFF;left: 295px;top: 360px;width: 131px;height: 112px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #067C7E;background-color: #9FFFFF;left: 295px;top: 360px;width: 131px;height: 112px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ユニティは<br/>今の所大好きよ!<br/>皆本当に<br/>親切だもの"
-		,"style": "font-size: 14px;color: #067C7E;background-color: #9FFFFF;left: 438px;top: 286px;width: 127px;height: 96px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #067C7E;background-color: #9FFFFF;left: 438px;top: 286px;width: 127px;height: 96px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

@@ -1,0 +1,17 @@
+[
+	{
+		"text": "エー、私のこと愛してる?"
+		,"style": "font-size: 12px;color: black;background-color: #FDE6F0;left: 13.08%;top: 55.58%;width: 26.83%;height: 3.32%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "うん"
+		,"style": "font-size: 12px;color: black;background-color: #FEE2DE;left: 68.42%;top: 57.71%;width: 7.00%;height: 3.32%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "私も愛してる"
+		,"style": "font-size: 12px;color: black;background-color: #FDE6F0;left: 37.75%;top: 74.44%;width: 18.33%;height: 3.08%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+]

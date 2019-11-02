@@ -2,13 +2,16 @@
 	{
 		"text": "タスケテ"
 		,"style": "font-size: 15px;color: black;left: 75%;top: 37.8%;border-bottom: solid 1px black;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "見てよ！<br/>パンドラは<br/>もう綴りを<br/>覚えてる！"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 16.5%;top: 41.0%;border-radius: 20%;"
+		,"style": "font-size: 17px;left: 16.5%;top: 41.0%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "さぁ、<br/>お風呂は<br/>どう…？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 82%;top: 58%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 82%;top: 58%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

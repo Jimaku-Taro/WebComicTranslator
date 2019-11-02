@@ -1,0 +1,37 @@
+[
+	{
+		"text": "酷い場所ね"
+		,"style": "font-size: 12px;color: black;background-color: #D3E2DD;left: 1.25%;top: 7.17%;width: 19.50%;height: 4.86%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "私が見つからなきゃ<br/>良かったの<br/>でしょうけど…"
+		,"style": "font-size: 12px;color: black;background-color: #D4E3DE;left: 66.75%;top: 17.95%;width: 29.83%;height: 7.70%;border-radius: 45%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "私はどうやって<br/>水中を生き延びたの…?<br/>陸は遠いし…何かあった気が…"
+		,"style": "font-size: 12px;color: black;background-color: #D4E3DE;left: 38.42%;top: 26.01%;width: 44.00%;height: 9.12%;border-radius: 45%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ねぇ?　誰かいるの?"
+		,"style": "font-size: 12px;color: black;background-color: #D4FAE5;left: 7.08%;top: 41.17%;width: 32.17%;height: 3.08%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お礼を<br/>言いたいの"
+		,"style": "font-size: 12px;color: black;background-color: #D4FAE5;left: 74.58%;top: 39.51%;width: 24.83%;height: 5.57%;border-radius: 45%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "いるなら…"
+		,"style": "font-size: 12px;color: black;background-color: #D4FAE5;left: 77.08%;top: 64.63%;width: 22.67%;height: 2.61%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "何してるんだろ?<br/>バカみたい"
+		,"style": "font-size: 12px;color: black;background-color: #D4FAE5;left: 7.25%;top: 89.63%;width: 26.33%;height: 4.98%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+]

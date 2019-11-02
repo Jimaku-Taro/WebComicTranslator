@@ -1,14 +1,17 @@
 [
 	{
 		"text": "ねぇ<br/>ゴハン一緒に<br/>どう?"
-		,"style": "font-size: 14px;color: #7D4301;background-color: #FCFC9B;left: 438px;top: 10px;width: 116px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #7D4301;background-color: #FCFC9B;left: 438px;top: 10px;width: 116px;height: 80px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "行く!"
-		,"style": "font-size: 14px;color: #06858C;background-color: #9CFDFC;left: 480px;top: 113px;width: 37px;height: 18px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #06858C;background-color: #9CFDFC;left: 480px;top: 113px;width: 37px;height: 18px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "いや、ごめん<br/>僕は用事が<br/>ある…"
-		,"style": "font-size: 14px;color: #9F0010;background-color: #FD9CA8;left: 600px;top: 134px;width: 103px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #9F0010;background-color: #FD9CA8;left: 600px;top: 134px;width: 103px;height: 76px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

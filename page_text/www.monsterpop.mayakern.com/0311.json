@@ -1,38 +1,47 @@
 [
 	{
 		"text": "ジョージ、どこ?<br/>君が行った後<br/>皆解散の流れに<br/>なっちゃって…"
-		,"style": "font-size: 14px;color: #127A00;background-color: #9FFD75;left: 29.38%;top: 2.38%;width: 21.50%;height: 20.44%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 14px;color: #127A00;background-color: #9FFD75;left: 29.38%;top: 2.38%;width: 21.50%;height: 20.44%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "何か食べたくない?<br/>グラムドールなら<br/>3時まで開いてる"
-		,"style": "font-size: 13px;color: #5A0183;background-color: #D089FF;left: 76.88%;top: 1.39%;width: 17.38%;height: 13.89%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 13px;color: #5A0183;background-color: #D089FF;left: 76.88%;top: 1.39%;width: 17.38%;height: 13.89%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "いや…僕は帰るよ…<br/>他にやることもないし"
-		,"style": "font-size: 13px;color: #127A00;background-color: #9FFD75;left: 68.50%;top: 17.26%;width: 22.63%;height: 15.08%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 13px;color: #127A00;background-color: #9FFD75;left: 68.50%;top: 17.26%;width: 22.63%;height: 15.08%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ジョージ?"
-		,"style": "font-size: 13px;color: #5A0183;background-color: #D089FF;left: 4.63%;top: 56.35%;width: 8.25%;height: 4.96%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 13px;color: #5A0183;background-color: #D089FF;left: 4.63%;top: 56.35%;width: 8.25%;height: 4.96%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それじゃ<br/>月曜に学校で"
-		,"style": "font-size: 13px;color: #127A00;background-color: #9FFD75;left: 15.88%;top: 73.41%;width: 14.50%;height: 8.93%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 13px;color: #127A00;background-color: #9FFD75;left: 15.88%;top: 73.41%;width: 14.50%;height: 8.93%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "どこに<br/>いるの?"
-		,"style": "font-size: 13px;color: #5A0183;background-color: #D089FF;left: 44.38%;top: 56.35%;width: 8.88%;height: 7.74%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 13px;color: #5A0183;background-color: #D089FF;left: 44.38%;top: 56.35%;width: 8.88%;height: 7.74%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "とにかく<br/>楽しめることを<br/>願ってるよ"
-		,"style": "font-size: 13px;color: #127A00;background-color: #9FFD75;left: 31.75%;top: 82.34%;width: 17.38%;height: 11.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 13px;color: #127A00;background-color: #9FFD75;left: 31.75%;top: 82.34%;width: 17.38%;height: 11.90%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "バッテリー<br/>また切したの?<br/>充電しろって<br/>言ったのに!!"
-		,"style": "font-size: 13px;color: #5A0183;background-color: #D089FF;left: 76.38%;top: 57.34%;width: 14.75%;height: 15.08%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 13px;color: #5A0183;background-color: #D089FF;left: 76.38%;top: 57.34%;width: 14.75%;height: 15.08%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "…大丈夫?"
-		,"style": "font-size: 13px;color: #5A0183;background-color: #D089FF;left: 87.13%;top: 83.93%;width: 9.63%;height: 8.13%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 13px;color: #5A0183;background-color: #D089FF;left: 87.13%;top: 83.93%;width: 9.63%;height: 8.13%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 ]

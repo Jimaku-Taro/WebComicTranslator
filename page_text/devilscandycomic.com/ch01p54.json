@@ -1,6 +1,7 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">うわっ、<br/>キモい!!</span>"
-		,"style": "font-size: 21px;color: black;background-color: white;left: 24%;top: 50%;border-radius: 20%;"
+		,"style": "font-size: 21px;left: 24%;top: 50%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

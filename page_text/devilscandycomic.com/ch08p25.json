@@ -1,38 +1,47 @@
 [
 	{
 		"text": "忍者が来るぞ<br/>泣いて逃げろ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 25.72%;top: 9.41%;width: 16.71%;height: 2.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 25.72%;top: 9.41%;width: 16.71%;height: 2.80%;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "パンツに漏らせ!<br/>死を覚悟しろ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 37.77%;top: 12.54%;width: 15.63%;height: 2.77%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 37.77%;top: 12.54%;width: 15.63%;height: 2.77%;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "奴らにゃ秘密の歴史がある"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 67.24%;top: 16.23%;width: 25.18%;height: 1.94%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 67.24%;top: 16.23%;width: 25.18%;height: 1.94%;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "オレはよく知らん<br/>だから聞くな"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 70.58%;top: 18.09%;width: 17.90%;height: 3.02%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 70.58%;top: 18.09%;width: 17.90%;height: 3.02%;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "手裏剣 手裏剣"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 9.49%;top: 63.76%;width: 18.85%;height: 1.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 9.49%;top: 63.76%;width: 18.85%;height: 1.68%;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "勝ち目は<br/>ないぞ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 11.28%;top: 65.43%;width: 14.80%;height: 3.44%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 11.28%;top: 65.43%;width: 14.80%;height: 3.44%;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "スゲェ技に"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 75.72%;top: 61.41%;width: 20.17%;height: 1.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 75.72%;top: 61.41%;width: 20.17%;height: 1.76%;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "震えあがれ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 75.95%;top: 63.00%;width: 19.09%;height: 1.93%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 75.95%;top: 63.00%;width: 19.09%;height: 1.93%;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "奴らは蛇を恐れない!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 57.46%;top: 75.16%;width: 30.07%;height: 1.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 57.46%;top: 75.16%;width: 30.07%;height: 1.68%;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

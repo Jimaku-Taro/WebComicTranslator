@@ -2,5 +2,6 @@
 	{
 		"text": "パーティの<br/>準備は万全よ!!!!"
 		,"style": "font-size: 14px;color: #3E3D22;background-color: #FCF276;left: 24px;top: 23px;width: 128px;height: 42px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": ""
 	}
 ]

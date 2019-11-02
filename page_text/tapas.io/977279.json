@@ -1,74 +1,92 @@
 [
 	{
 		"text": "待って…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 20.90%;top: 2.37%;width: 9.68%;height: 1.89%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 20.90%;top: 2.37%;width: 9.68%;height: 1.89%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "叔母って<br/>言った?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 20.27%;top: 4.17%;width: 10.64%;height: 2.46%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 20.27%;top: 4.17%;width: 10.64%;height: 2.46%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "つまり…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 3.56%;top: 11.31%;width: 12.66%;height: 3.14%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 3.56%;top: 11.31%;width: 12.66%;height: 3.14%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "いとこ?!"
-		,"style": "font-size: 60px;color: black;background-color: white;left: 51.22%;top: 1.27%;width: 33.19%;height: 3.67%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;font-weight: bold;"
+		,"style": "font-size: 60px;left: 51.22%;top: 1.27%;width: 33.19%;height: 3.67%;border-radius: 40%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "対処できたのね<br/>私のグレムリン達に。<br/>闘志はお母さん譲りね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 10.90%;top: 26.37%;width: 17.66%;height: 1.95%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 35%;"
+		,"style": "font-size: 14px;left: 10.90%;top: 26.37%;width: 17.66%;height: 1.95%;border-radius: 35%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "おいで<br/>２人とも<br/>いとこに…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 37.82%;top: 19.80%;width: 12.23%;height: 1.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 37.82%;top: 19.80%;width: 12.23%;height: 1.81%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "アーマ!"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 69.63%;top: 20.07%;width: 12.13%;height: 1.57%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;font-weight: bold;"
+		,"style": "font-size: 30px;left: 69.63%;top: 20.07%;width: 12.13%;height: 1.57%;border-radius: 40%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ありがとう!<br/>探してる間<br/>心臓発作しそう<br/>だったわ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 32.82%;top: 36.43%;width: 11.28%;height: 2.72%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 32.82%;top: 36.43%;width: 11.28%;height: 2.72%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "君が心臓発作なんて<br/>絶対ありえないだろ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 42.29%;top: 38.62%;width: 16.17%;height: 2.25%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 42.29%;top: 38.62%;width: 16.17%;height: 2.25%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "私はただ<br/>落ち着…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 40.27%;top: 41.28%;width: 14.36%;height: 1.21%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 40.27%;top: 41.28%;width: 14.36%;height: 1.21%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "誰かと思えば<br/>エミコちゃん!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 21.12%;top: 43.71%;width: 12.13%;height: 1.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 21.12%;top: 43.71%;width: 12.13%;height: 1.78%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "この小さな<br/>モンスターは<br/>君の子よね!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 22.93%;top: 45.31%;width: 8.94%;height: 2.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 22.93%;top: 45.31%;width: 8.94%;height: 2.55%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "遅れてゴメン!<br/>探す必要があって…<br/>エミコ? どうしたの?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 74.20%;top: 43.42%;width: 17.98%;height: 2.75%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 74.20%;top: 43.42%;width: 17.98%;height: 2.75%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ごめんね…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 2.71%;top: 75.85%;width: 11.28%;height: 1.83%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 2.71%;top: 75.85%;width: 11.28%;height: 1.83%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "…私はただ…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 5.80%;top: 77.36%;width: 12.98%;height: 1.39%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 5.80%;top: 77.36%;width: 12.98%;height: 1.39%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "…その…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 9.52%;top: 78.63%;width: 12.34%;height: 1.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 9.52%;top: 78.63%;width: 12.34%;height: 1.36%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "えぇ<br/>久しぶりね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 80.80%;top: 81.18%;width: 14.89%;height: 2.93%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 80.80%;top: 81.18%;width: 14.89%;height: 2.93%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "やっと<br/>また会えて<br/>嬉しいわ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 21.54%;top: 86.09%;width: 12.45%;height: 1.95%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 21.54%;top: 86.09%;width: 12.45%;height: 1.95%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 ]

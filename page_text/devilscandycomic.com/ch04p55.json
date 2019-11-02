@@ -1,46 +1,57 @@
 [
 	{
 		"text": "試合を<br/>知って、<br/>すぐに来たの"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 8%;top: 5.3%;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 8%;top: 5.3%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "上手く<br/>いってない<br/>みたいね"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 9.5%;top: 12%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 9.5%;top: 12%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ヒトミ<br/>…？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 41%;top: 18.5%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 41%;top: 18.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "綺麗な<br/>歯ね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 12%;top: 27%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 12%;top: 27%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "それでカズは<br/>また誰かの騒動に<br/>夢中になってるん<br/>でしょ？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 77.5%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 77.5%;top: 6%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "あたし自身本当に<br/>理解できないわ。<br/>あたしはあんな風に<br/>してあげられること<br/>なんてないもの"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 77%;top: 14%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 77%;top: 14%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "でも時に、<br/>自分にしか<br/>できないことが<br/>あるなら…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 6.5%;top: 45.5%;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 6.5%;top: 45.5%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "私は<br/>やるべき<br/>だと思う"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 44%;top: 43%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 44%;top: 43%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "それが<br/>“普通”？"
-		,"style": "font-size: 19px;color: black;background-color: white;left: 79.5%;top: 57%;border-radius: 20%;"
+		,"style": "font-size: 19px;left: 79.5%;top: 57%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "“普通”？"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 11%;top: 66%;border-radius: 20%;"
+		,"style": "font-size: 18px;left: 11%;top: 66%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "違うわ。<br/>超カッコいい<br/>のよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 21%;top: 68%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 21%;top: 68%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

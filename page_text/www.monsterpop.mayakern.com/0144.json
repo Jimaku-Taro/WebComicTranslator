@@ -1,38 +1,47 @@
 [
 	{
 		"text": "あらパーシー!<br/>気付かな<br/>かったわ!"
-		,"style": "font-size: 14px;color: #83420B;background-color: #FFFD79;left: 150px;top: 20px;width: 106px;height: 64px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #83420B;background-color: #FFFD79;left: 150px;top: 20px;width: 106px;height: 64px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "やぁ"
-		,"style": "font-size: 14px;color: #820C1D;background-color: #FF788C;left: 235px;top: 90px;width: 33px;height: 20px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #820C1D;background-color: #FF788C;left: 235px;top: 90px;width: 33px;height: 20px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "歌って<br/>たのかい?"
-		,"style": "font-size: 14px;color: #820C1D;background-color: #FF788C;left: 300px;top: 60px;width: 83px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #820C1D;background-color: #FF788C;left: 300px;top: 60px;width: 83px;height: 79px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うん!"
-		,"style": "font-size: 14px;color: #83420B;background-color: #FFFD79;left: 60px;top: 315px;width: 38px;height: 26px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #83420B;background-color: #FFFD79;left: 60px;top: 315px;width: 38px;height: 26px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "とても<br/>上手いね"
-		,"style": "font-size: 14px;color: #820C1D;background-color: #FF788C;left: 60px;top: 362px;width: 95px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #820C1D;background-color: #FF788C;left: 60px;top: 362px;width: 95px;height: 42px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ユニティ大学の<br/>ラジオ番組に<br/>参加すべきだよ"
-		,"style": "font-size: 14px;color: #820C1D;background-color: #FF788C;left: 108px;top: 412px;width: 131px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #820C1D;background-color: #FF788C;left: 108px;top: 412px;width: 131px;height: 58px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "あら<br/>ありがと!"
-		,"style": "font-size: 12px;color: #83420B;background-color: #FFFD79;left: 280px;top: 438px;width: 54px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 12px;color: #83420B;background-color: #FFFD79;left: 280px;top: 438px;width: 54px;height: 37px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "…やぁフラニー"
-		,"style": "font-size: 14px;color: #881022;background-color: #F95D71;left: 670px;top: 160px;width: 105px;height: 25px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #881022;background-color: #F95D71;left: 670px;top: 160px;width: 105px;height: 25px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ハイ…"
-		,"style": "font-size: 14px;color: #670079;background-color: #DA79FF;left: 465px;top: 360px;width: 49px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #670079;background-color: #DA79FF;left: 465px;top: 360px;width: 49px;height: 23px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

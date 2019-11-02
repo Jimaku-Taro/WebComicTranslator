@@ -1,22 +1,27 @@
 [
 	{
 		"text": "だ…誰??"
-		,"style": "font-size: 14px;color: #3F8501;background-color: #CDFF6C;left: 30px;top: 10px;width: 74px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #3F8501;background-color: #CDFF6C;left: 30px;top: 10px;width: 74px;height: 37px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ダメ！<br/>もう真実は<br/>答えた！"
-		,"style": "font-size: 16px;color: #7F6601;background-color: #FFF36D;left: 30px;top: 215px;width: 166px;height: 89px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;color: #7F6601;background-color: #FFF36D;left: 30px;top: 215px;width: 166px;height: 89px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "私が<br/>回す番ね"
-		,"style": "font-size: 14px;color: #7F6601;background-color: #FFF36D;left: 340px;top: 13px;width: 88px;height: 68px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #7F6601;background-color: #FFF36D;left: 340px;top: 13px;width: 88px;height: 68px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "フラニー!"
-		,"style": "font-size: 14px;color: #7F6601;background-color: #FFF36D;left: 640px;top: 175px;width: 67px;height: 34px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #7F6601;background-color: #FFF36D;left: 640px;top: 175px;width: 67px;height: 34px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "真実か<br/>挑戦!"
-		,"style": "font-size: 14px;color: #7F6601;background-color: #FFF36D;left: 690px;top: 440px;width: 73px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #7F6601;background-color: #FFF36D;left: 690px;top: 440px;width: 73px;height: 53px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

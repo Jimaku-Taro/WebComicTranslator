@@ -1,10 +1,12 @@
 [
 	{
 		"text": "エイフェン!"
-		,"style": "font-size: 25px;color: black;background-color: transpermit;left: 24.20%;top: 12.34%;width: 15.21%;height: 3.38%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;transform: rotate(-15deg);"
+		,"style": "font-size: 25px;color: black;background-color: transpermit;left: 24.20%;top: 12.34%;width: 15.21%;height: 3.38%;border-radius: 50%;transform: rotate(-15deg);"
+		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "エイフェン!"
-		,"style": "font-size: 25px;color: black;background-color: transpermit;left: 68.67%;top: 28.22%;width: 16.49%;height: 2.91%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;transform: rotate(-15deg);text-shadow: white 2px 0px,  white -2px 0px, white 0px -2px, white 0px 2px, white 2px 2px , white -2px 2px, white 2px -2px, white -2px -2px, white 1px 2px,  white -1px 2px, white 1px -2px, white -1px -2px, white 2px 1px,  white -2px 1px, white 2px -1px, white -2px -1px;"
+		,"style": "font-size: 25px;color: black;background-color: transpermit;left: 68.67%;top: 28.22%;width: 16.49%;height: 2.91%;border-radius: 50%;transform: rotate(-15deg);text-shadow: white 2px 0px,  white -2px 0px, white 0px -2px, white 0px 2px, white 2px 2px , white -2px 2px, white 2px -2px, white -2px -2px, white 1px 2px,  white -1px 2px, white 1px -2px, white -1px -2px, white 2px 1px,  white -2px 1px, white 2px -1px, white -2px -1px;"
+		,"class": "CENTER BOLD"
 	}
 ]

@@ -1,0 +1,42 @@
+[
+	{
+		"text": "大丈夫"
+		,"style": "font-size: 13px;color: #8F4F5D;background-color: white;left: 2.75%;top: 6.84%;width: 9.83%;height: 2.73%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "すぐ<br/>帰れるわ"
+		,"style": "font-size: 13px;color: #8F4F5D;background-color: white;left: 24.42%;top: 14.12%;width: 10.20%;height: 4.27%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "愛してる"
+		,"style": "font-size: 13px;color: #8F4F5D;background-color: white;left: 47.83%;top: 6.70%;width: 10.00%;height: 2.02%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "愛してる"
+		,"style": "font-size: 13px;color: #8F4F5D;background-color: white;left: 60.42%;top: 8.48%;width: 8.83%;height: 2.25%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "愛してる"
+		,"style": "font-size: 13px;color: #8F4F5D;background-color: white;left: 56.75%;top: 10.85%;width: 10.00%;height: 2.37%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お婆さんに<br/>これを"
+		,"style": "font-size: 13px;color: #8F4F5D;background-color: white;left: 83.75%;top: 6.58%;width: 11.83%;height: 4.15%;border-radius: 30%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "愛してる"
+		,"style": "font-size: 13px;color: #8F4F5D;background-color: white;left: 52.58%;top: 34.41%;width: 10.33%;height: 1.90%;border-radius: 40%;transform: rotate(-20deg);"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "気をつけて"
+		,"style": "font-size: 13px;color: #8F4F5D;background-color: white;left: 48.55%;top: 82.07%;width: 12.33%;height: 2.73%;border-radius: 40%;transform: rotate(40deg);"
+		,"class": "CENTER"
+	}
+]

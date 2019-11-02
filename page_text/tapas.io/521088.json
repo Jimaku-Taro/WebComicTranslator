@@ -1,38 +1,47 @@
 [
 	{
 		"text": "週末は<br/>ずっと一緒に<br/>いられるね!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 3.03%;top: 0.39%;width: 16.49%;height: 15.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 3.03%;top: 0.39%;width: 16.49%;height: 15.80%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "彼はいつも<br/>恋に夢中だな…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 29.52%;top: 24.21%;width: 15.32%;height: 8.57%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 29.52%;top: 24.21%;width: 15.32%;height: 8.57%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "おいジュウ!!<br/>今すぐ<br/>席に戻れ!!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 79.31%;top: 2.59%;width: 14.15%;height: 11.48%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 79.31%;top: 2.59%;width: 14.15%;height: 11.48%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "はい、先生"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 11.12%;top: 35.93%;width: 12.23%;height: 4.48%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 11.12%;top: 35.93%;width: 12.23%;height: 4.48%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "エイフェン<br/>シートベルトしないと"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 72.71%;top: 34.51%;width: 24.04%;height: 5.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 72.71%;top: 34.51%;width: 24.04%;height: 5.90%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ごめん! ママに手を<br/>振ってたから"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 4.10%;top: 65.88%;width: 18.09%;height: 7.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 4.10%;top: 65.88%;width: 18.09%;height: 7.15%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あきれるよ<br/>エイフェン…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 19.73%;top: 72.48%;width: 11.60%;height: 4.32%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 19.73%;top: 72.48%;width: 11.60%;height: 4.32%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "皆<br/>準備はいいな<br/>出発するぞ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 33.78%;top: 68.55%;width: 13.83%;height: 14.86%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 33.78%;top: 68.55%;width: 13.83%;height: 14.86%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "はい 先生"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 82.50%;top: 73.43%;width: 14.57%;height: 5.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 82.50%;top: 73.43%;width: 14.57%;height: 5.90%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 ]

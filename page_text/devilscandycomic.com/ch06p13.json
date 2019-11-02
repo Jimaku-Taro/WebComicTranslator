@@ -1,46 +1,57 @@
 [
 	{
 		"text": "少し<br/>時間を貰うわ。<br/>私用の真っ最中<br/>なの"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 11%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 11%;top: 5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "具体的には、<br/>開心術。"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 12%;top: 13.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 12%;top: 13.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "開心術の<br/><span style=\"font-weight: bold;\">真っ最中</span>って<br/>ことよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 42%;top: 22%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 42%;top: 22%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">私の</span>心臓は<br/>大丈夫よ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 48%;top: 28%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 48%;top: 28%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "とにかく、<br/>あなたのギター<br/>まわりで<br/>致命的な損害が<br/>あったと聞くわ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 61%;top: 4%;width: 125px;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 61%;top: 4%;width: 125px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "あなたが<br/><span style=\"font-weight: bold;\">完全に冷静さを<br/>失ってないか</span><br/>確認したかった<br/>だけ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 14%;top: 51%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 14%;top: 51%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "まぁ、マイロが<br/>関与すれば<br/>どうなるかは<br/>お分かりの…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 48%;top: 36.5%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 48%;top: 36.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "見て、<br/>これは面白い、<br/>だって私が<br/>聞いたのは…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 64%;top: 37.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 64%;top: 37.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "私がグロスガー・<br/>ラスフォームの<br/>賞状を受ける<br/>必要あるって<br/>どういう<span style=\"font-weight: bold;\">意味よ?</span>"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 11%;top: 65%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 11%;top: 65%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "OK、皆<br/>私の代わりに<br/>仕上げて"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 48%;top: 67%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 48%;top: 67%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "も…<br/>もしもし?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 75%;top: 67.2%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 75%;top: 67.2%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

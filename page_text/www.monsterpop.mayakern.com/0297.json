@@ -1,18 +1,22 @@
 [
 	{
 		"text": "そ…<br/>そうね"
-		,"style": "font-size: 14px;color: #007579;background-color: #5FFFFF;left: 3.50%;top: 5.56%;width: 9.63%;height: 12.50%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #007579;background-color: #5FFFFF;left: 3.50%;top: 5.56%;width: 9.63%;height: 12.50%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "正直<br/>「言う、言わない」で<br/>悩み続ける方が辛いわ。<br/>相手が好きじゃなくても<br/>次には進めるわ"
-		,"style": "font-size: 14px;color: #827701;background-color: #FFFE5E;left: 24.75%;top: 3.37%;width: 30.38%;height: 30.75%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #827701;background-color: #FFFE5E;left: 24.75%;top: 3.37%;width: 30.38%;height: 30.75%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うん…<br/>そう思う…"
-		,"style": "font-size: 14px;color: #007579;background-color: #5FFFFF;left: 77.50%;top: 6.35%;width: 14.63%;height: 16.27%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #007579;background-color: #5FFFFF;left: 77.50%;top: 6.35%;width: 14.63%;height: 16.27%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "大丈夫よ。<br/>あなたは素敵よ。<br/>あなたに愛されて<br/>嬉しくない人なんて<br/>いない"
-		,"style": "font-size: 14px;color: #827701;background-color: #FFFE5E;left: 77.00%;top: 66.67%;width: 21.63%;height: 26.98%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #827701;background-color: #FFFE5E;left: 77.00%;top: 66.67%;width: 21.63%;height: 26.98%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

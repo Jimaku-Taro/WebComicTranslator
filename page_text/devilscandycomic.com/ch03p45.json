@@ -1,54 +1,67 @@
 [
 	{
 		"text": "う"
-		,"style": "font-size: 19px;color: black;background-color: white;left: 11.9%;top: 3%;border-radius: 10%;"
+		,"style": "font-size: 19px;left: 11.9%;top: 3%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "お"
-		,"style": "font-size: 23px;color: black;background-color: white;left: 14.5%;top: 5%;border-radius: 40%;"
+		,"style": "font-size: 23px;left: 14.5%;top: 5%;border-radius: 40%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "は…はい?"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 12%;top: 24%;border-radius: 40%;"
+		,"style": "font-size: 12px;left: 12%;top: 24%;border-radius: 40%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "知っての通り、<br/>あたしはカズ<br/>のために来たけど<br/>自分自身の勉強に<br/>なったみたい"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 52.5%;top: 3%;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 52.5%;top: 3%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "あなたと<br/>あたしは<br/>よく似てる"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 73.5%;top: 4.5%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 73.5%;top: 4.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "く…詳しく<br/>頼むよ<br/>怒り狂う<br/>ラフレシア!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 85.5%;top: 8%;border-radius: 30%;"
+		,"style": "font-size: 15px;left: 85.5%;top: 8%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "例えば、<br/>あたし達は両方<br/>自己中心的ね"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 11.7%;top: 43.5%;border-radius: 30%;"
+		,"style": "font-size: 15px;left: 11.7%;top: 43.5%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "あなたは<br/>人を物と見るし<br/>あたしは人を<br/>邪魔に思ってる"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 23.5%;top: 47%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 23.5%;top: 47%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "あなたは人に<br/>褒められたいし<br/>あたしは<br/>一人になりたい"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 76%;top: 44%;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 76%;top: 44%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "明日から、<br/>それを変えて<br/>いきましょ、<br/>OK?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 14%;top: 63.5%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 14%;top: 63.5%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "もちろんさ、<br/>自虐的なダーリン!<br/>明日からオレ達<br/>心機一転生まれ<br/>変わった気で…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 32%;top: 66%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 32%;top: 66%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "でも今日のあたし達<br/>超ヒドいから、<br/>やっぱ憂さ晴らしに<br/>あんたのキ○タマ<br/>蹴り潰すわ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 64%;top: 65%;border-radius: 10%;"
+		,"style": "font-size: 14px;left: 64%;top: 65%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ハァ?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 83.5%;top: 67%;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 83.5%;top: 67%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 ]

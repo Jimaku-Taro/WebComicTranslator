@@ -2,17 +2,21 @@
 	{
 		"text": "でも<br/>もし…"
 		,"style": "font-size: 14px;color: #B49453;background-color: #F2E098;left: 146px;top: 25px;width: 66px; height: 34px;text-align: center;border-radius: 30%;"
+		,"class": ""
 	}
 	,{
 		"text": "でももし<span style=\"font-weight: bold;\">本当に</span><br/>上手くいったら?<br/>試してもないし"
 		,"style": "font-size: 14px;color: #672B87;background-color: #B292C1;left: 159px;top: 87px;width: 119px; height: 71px;text-align: center;border-radius: 30%;"
+		,"class": ""
 	}
 	,{
 		"text": "君が最初に<br/>思いついたん<br/>でしょうが!"
 		,"style": "font-size: 14px;color: #672B87;background-color: #B292C1;left: 397px;top: 8px;width: 121px; height: 75px;text-align: center;border-radius: 30%;"
+		,"class": ""
 	}
 	,{
 		"text": "えっと、<br/>こう<br/>被れば…"
 		,"style": "font-size: 14px;color: #B49453;background-color: #F2E098;left: 230px;top: 393px;width:70px; height: 73px;text-align: center;border-radius: 30%;"
+		,"class": ""
 	}
 ]

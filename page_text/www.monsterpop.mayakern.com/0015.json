@@ -2,13 +2,16 @@
 	{
 		"text": "…私の友達も<br/>一緒に連れて来て<br/>いいかしら？"
 		,"style": "font-size: 14px;color: #5E4825;background-color: #FFEA4D;left: 75px;top: 32px;width: 119px; height: 66px;text-align: center;border-radius: 20%;"
+		,"class": ""
 	}
 	,{
 		"text": "へへ…"
 		,"style": "font-size: 14px;color: #716077;background-color: #D9C8D2;left: 499px;top: 98px;width: 46px; height: 20px;text-align: center;border-radius: 20%;"
+		,"class": ""
 	}
 	,{
 		"text": "もう招待<br/>されてる"
 		,"style": "font-size: 14px;color: #6A267A;background-color: #D5C1DD;left: 518px;top: 32px;width: 96px; height: 33px;text-align: center;border-radius: 20%;"
+		,"class": ""
 	}
 ]

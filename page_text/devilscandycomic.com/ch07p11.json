@@ -1,14 +1,17 @@
 [
 	{
 		"text": "あぐ!"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 11.4%;top: 10%;width: 34px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 12px;left: 11.4%;top: 10%;width: 34px;height: 21px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "陥没<br/>だと?!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 71%;top: 35%;width: 59px;height: 52px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 71%;top: 35%;width: 59px;height: 52px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "メッヘッヘッ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 74.5%;top: 85.2%;width: 125px;height: 31px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 74.5%;top: 85.2%;width: 125px;height: 31px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

@@ -1,6 +1,7 @@
 [
 	{
 		"text": "彼が<br/>構造的に<br/>不安定って<br/>噂は本当じゃ<br/>ないか！"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 75.2%;top: 67%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 18px;left: 75.2%;top: 67%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 ]

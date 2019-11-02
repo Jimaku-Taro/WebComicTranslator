@@ -1,0 +1,77 @@
+[
+	{
+		"text": "3度目の出会い"
+		,"style": "font-size: 14px;color: black;background-color: #FFFCD7;left: 2.25%;top: 6.47%;width: 17.67%;height: 4.27%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "汚れ落ちそう?"
+		,"style": "font-size: 12px;color: black;background-color: #FCD0C7;left: 7.92%;top: 30.31%;width: 16.83%;height: 2.49%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ええ 染み抜き<br/>ありがとう"
+		,"style": "font-size: 12px;color: black;background-color: #FDE9F2;left: 25.08%;top: 30.66%;width: 17.17%;height: 3.56%;height: 3.44%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "偶然さ<br/>ついてるね"
+		,"style": "font-size: 12px;color: black;background-color: #FCD0C7;left: 52.08%;top: 29.72%;width: 15.17%;height: 4.15%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "うん"
+		,"style": "font-size: 12px;color: black;background-color: #FDE9F2;left: 88.08%;top: 34.22%;width: 8.00%;height: 3.44%;height: 3.44%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ありがと"
+		,"style": "font-size: 10px;color: black;background-color: #FDE9F2;left: 17.92%;top: 50.71%;width: 7.83%;height: 4.15%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "どう?"
+		,"style": "font-size: 12px;color: black;background-color: #FDE9F2;left: 46.58%;top: 47.75%;width: 9.33%;height: 3.68%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "嘘をついた"
+		,"style": "font-size: 12px;color: black;background-color: #FFFCD7;left: 59.75%;top: 46.44%;width: 12.33%;height: 2.14%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "分からないよ"
+		,"style": "font-size: 12px;color: black;background-color: #FCD0C7;left: 60.42%;top: 50.47%;width: 13.67%;height: 4.27%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "4度目の出会い"
+		,"style": "font-size: 12px;color: black;background-color: #FFFCD7;left: 2.25%;top: 59.96%;width: 24.17%;height: 2.37%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ごめん<br/>気付かな<br/>かった"
+		,"style": "font-size: 12px;color: black;background-color: #FDE9F2;left: 35.92%;top: 78.47%;width: 11.83%;height: 6.29%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "本に<br/>夢中で…"
+		,"style": "font-size: 12px;color: black;background-color: #FDE9F2;left: 35.58%;top: 86.77%;width: 11.83%;height: 4.63%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "グッドマン<br/>大好きなの"
+		,"style": "font-size: 12px;color: black;background-color: #FDE9F2;left: 50.25%;top: 90.57%;width: 15.17%;height: 3.44%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ビーは正直に言いました"
+		,"style": "font-size: 12px;color: black;background-color: #FFFCD7;left: 73.42%;top: 77.88%;width: 24.00%;height: 2.37%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "大ファン<br/>なの!"
+		,"style": "font-size: 12px;color: black;background-color: #FDE9F2;left: 84.58%;top: 80.72%;width: 11.00%;height: 4.27%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+]

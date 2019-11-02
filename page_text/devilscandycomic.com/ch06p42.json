@@ -1,30 +1,37 @@
 [
 	{
 		"text": "君の傷<br/>看ようか?<br/>君の様子…<br/>その…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 7%;top: 7.5%;width: 75px;height: 86px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 7%;top: 7.5%;width: 75px;height: 86px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ぐ…"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 26.9%;top: 12.2%;width: 36px;height: 17px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 12px;left: 26.9%;top: 12.2%;width: 36px;height: 17px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "パンドラを<br/>心配しろ、<br/>オレはいい"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 41%;top: 8%;width: 69px;height: 71px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 13px;left: 41%;top: 8%;width: 69px;height: 71px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "傷はすぐ治せる。<br/>ただ血が要る。<br/>途中の自販機で<br/>買うよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 76.5%;top: 21%;width: 116px;height: 97px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 76.5%;top: 21%;width: 116px;height: 97px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "無駄口やめて<br/>早く行くぞ。<br/>沢山の敵が<br/>できたぞ、<br/>確実に"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 7%;top: 40%;width: 101px;height: 97px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 7%;top: 40%;width: 101px;height: 97px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "うわぁ、<br/>うわぁ…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 45%;top: 37%;width: 67px;height: 34px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 45%;top: 37%;width: 67px;height: 34px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "第6章：完。"
-		,"style": "font-size: 23px;color: black;background-color: white;left: 67%;top: 95%;width: 198px;height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border:solid 1px;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 23px;left: 67%;top: 95%;width: 198px;height: 33px;border:solid 1px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

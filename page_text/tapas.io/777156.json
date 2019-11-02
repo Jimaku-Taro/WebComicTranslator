@@ -1,26 +1,32 @@
 [
 	{
 		"text": "ユリウス!"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 37.55%;top: 27.07%;width: 9.89%;height: 6.83%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 18px;left: 37.55%;top: 27.07%;width: 9.89%;height: 6.83%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "すみません<br/>ユリウス!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 53.94%;top: 2.44%;width: 7.98%;height: 10.00%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 53.94%;top: 2.44%;width: 7.98%;height: 10.00%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "大丈夫?<br/>ケガは無い?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 66.81%;top: 24.15%;width: 9.04%;height: 10.73%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 66.81%;top: 24.15%;width: 9.04%;height: 10.73%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
         "text": "ザッ…<br/>ザッ…<br/>ザッ…"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 20.43%;top: 48.29%;width: 5.96%;height: 8.05%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;left: 20.43%;top: 48.29%;width: 5.96%;height: 8.05%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "おやおや<br/>ユリウス様<br/>じゃないか"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 24.04%;top: 74.63%;width: 7.98%;height: 12.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 24.04%;top: 74.63%;width: 7.98%;height: 12.68%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "おひさし<br/>ぶり…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 67.55%;top: 72.68%;width: 7.13%;height: 10.00%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 67.55%;top: 72.68%;width: 7.13%;height: 10.00%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

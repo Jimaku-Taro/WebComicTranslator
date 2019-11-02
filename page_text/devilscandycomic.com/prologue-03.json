@@ -2,13 +2,16 @@
 	{
 		"text": "与えし者自身の体から、<br/>これらの宝は与えられた、<br/>全ての悪魔達が<br/>繁栄と成長できるように。"
 		,"style": "font-size: 15px;color: white;background-color: #1C1F20;left: 30%;top: 18%;text-align: left;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "自分のパーツを<br/>分け与え失った時、<br/>世界は道を見失わないと<br/>彼は思った。"
 		,"style": "font-size: 15px;color: white;background-color: #1C1F20;left: 30%;top: 26%;text-align: left;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "この天国のような<br/>地獄を去る前に、<br/>彼は振り向き我ら<br/>全てに別れを告げた。"
 		,"style": "font-size: 15px;color: white;background-color: #1C1F20;left: 30%;top: 33.7%;width: 156px;text-align: left;border-radius: 0%;"
+		,"class": ""
 	}
 ]

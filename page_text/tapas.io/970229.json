@@ -1,98 +1,122 @@
 [
 	{
 		"text": "<二人共また騒ぎ?<br/>全くいつもそんなこと<br/>ばかり…>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 45.05%;top: 0.46%;width: 19.36%;height: 1.94%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 45.05%;top: 0.46%;width: 19.36%;height: 1.94%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<いいえ、<br/>お母さん>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 48.14%;top: 2.94%;width: 14.04%;height: 0.96%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 48.14%;top: 2.94%;width: 14.04%;height: 0.96%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<違うんです>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 48.78%;top: 4.19%;width: 16.81%;height: 0.96%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 48.78%;top: 4.19%;width: 16.81%;height: 0.96%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<彼女が<br/>人形を落として<br/>返そうと<br/>したの!>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 5.37%;top: 6.59%;width: 19.57%;height: 2.57%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 5.37%;top: 6.59%;width: 19.57%;height: 2.57%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<でも彼女は<br/>化物髪で<br/>攻撃してきたの!>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 5.32%;top: 9.76%;width: 22.45%;height: 2.75%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 5.32%;top: 9.76%;width: 22.45%;height: 2.75%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<私達が<br/>盗んだと<br/>思ったのね!>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 76.81%;top: 6.32%;width: 20.74%;height: 3.25%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 76.81%;top: 6.32%;width: 20.74%;height: 3.25%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<誤解<br/>なんです!>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 79.89%;top: 10.28%;width: 12.77%;height: 2.27%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 79.89%;top: 10.28%;width: 12.77%;height: 2.27%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<騒ぎを起こして<br/>ごめんなさい!>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 33.51%;top: 15.35%;width: 25.85%;height: 1.46%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 33.51%;top: 15.35%;width: 25.85%;height: 1.46%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "<なんて<br/>礼儀正しい!>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 82.55%;top: 21.71%;width: 15.53%;height: 1.19%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 82.55%;top: 21.71%;width: 15.53%;height: 1.19%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ん～"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 29.04%;top: 34.93%;width: 12.87%;height: 1.59%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 29.04%;top: 34.93%;width: 12.87%;height: 1.59%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<待って…<br/>化物髪?>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 76.06%;top: 34.95%;width: 19.79%;height: 1.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 76.06%;top: 34.95%;width: 19.79%;height: 1.81%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ねぇ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 24.47%;top: 52.28%;width: 9.04%;height: 1.06%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 24.47%;top: 52.28%;width: 9.04%;height: 1.06%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "君の名前って<br/>もしかして<br/>アーマ?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 72.23%;top: 51.26%;width: 19.89%;height: 2.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 72.23%;top: 51.26%;width: 19.89%;height: 2.36%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "母親の名は<br/>エミコ?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 47.02%;top: 54.39%;width: 17.98%;height: 1.59%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 47.02%;top: 54.39%;width: 17.98%;height: 1.59%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "わぁ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 30.11%;top: 66.69%;width: 8.83%;height: 1.58%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 30.11%;top: 66.69%;width: 8.83%;height: 1.58%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "え、何?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 65.96%;top: 64.34%;width: 11.91%;height: 1.33%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 65.96%;top: 64.34%;width: 11.91%;height: 1.33%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "なんで今<br/>英語で喋るの?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 78.62%;top: 65.11%;width: 18.83%;height: 1.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 78.62%;top: 65.11%;width: 18.83%;height: 1.29%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ごめんなさい…<br/>ただ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 17.45%;top: 70.62%;width: 17.02%;height: 1.50%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 17.45%;top: 70.62%;width: 17.02%;height: 1.50%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "君の母親と<br/>髪も服装も<br/>瓜二つね…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 27.34%;top: 78.77%;width: 15.21%;height: 2.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 27.34%;top: 78.77%;width: 15.21%;height: 2.54%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "怖い位に似てるわ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 67.55%;top: 70.59%;width: 27.45%;height: 1.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 67.55%;top: 70.59%;width: 27.45%;height: 1.31%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あの…<br/>ママ?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 89.57%;top: 72.83%;width: 7.77%;height: 1.52%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 89.57%;top: 72.83%;width: 7.77%;height: 1.52%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何なのか<br/>教えてよ?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 85.11%;top: 74.37%;width: 10.74%;height: 1.83%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 85.11%;top: 74.37%;width: 10.74%;height: 1.83%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "そうね!<br/>変なこと聞いて<br/>ゴメンね!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 8.94%;top: 81.79%;width: 20.43%;height: 1.65%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 8.94%;top: 81.79%;width: 20.43%;height: 1.65%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "私の名前は<span style=\"font-weight: bold;\">ヨリ・ユウレイモト</span>君の叔母よ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 56.91%;top: 88.59%;width: 19.04%;height: 2.23%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 56.91%;top: 88.59%;width: 19.04%;height: 2.23%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

@@ -1,70 +1,87 @@
 [
 	{
 		"text": "行き<br/>ましょ!"
-		,"style": "font-size: 14px;color: #813A01;background-color: #F9F36B;left: 183px;top: 15px;width: 66px;height: 41px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #813A01;background-color: #F9F36B;left: 183px;top: 15px;width: 66px;height: 41px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "お…OK!"
-		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 268px;top: 35px;width: 73px;height: 20px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 268px;top: 35px;width: 73px;height: 20px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "君の<br/>名前は?"
-		,"style": "font-size: 14px;color: #813A01;background-color: #F9F36B;left: 385px;top: 22px;width: 85px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #813A01;background-color: #F9F36B;left: 385px;top: 22px;width: 85px;height: 58px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "サシャ!"
-		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 732px;top: 165px;width: 50px;height: 26px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 732px;top: 165px;width: 50px;height: 26px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それ<br/>女の子の<br/>名前じゃ…"
-		,"style": "font-size: 14px;color: #813A01;background-color: #F9F36B;left: 375px;top: 227px;width: 91px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #813A01;background-color: #F9F36B;left: 375px;top: 227px;width: 91px;height: 53px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "アレクサンダー<br/>の略だよ"
-		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 403px;top: 280px;width: 106px;height: 35px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 403px;top: 280px;width: 106px;height: 35px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "本気でそう<br/>思ってる?"
-		,"style": "font-size: 14px;color: #813A01;background-color: #F9F36B;left: 365px;top: 328px;width: 79px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #813A01;background-color: #F9F36B;left: 365px;top: 328px;width: 79px;height: 53px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うん"
-		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 432px;top: 385px;width: 33px;height: 21px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 432px;top: 385px;width: 33px;height: 21px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ハハッ"
-		,"style": "font-size: 14px;color: #813A01;background-color: #F9F36B;left: 404px;top: 402px;width: 45px;height: 19px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #813A01;background-color: #F9F36B;left: 404px;top: 402px;width: 45px;height: 19px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "そういう<br/>君の名前は?"
-		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 382px;top: 432px;width: 86px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 382px;top: 432px;width: 86px;height: 60px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ジョージ"
-		,"style": "font-size: 14px;color: #813A01;background-color: #F9F36B;left: 565px;top: 273px;width: 59px;height: 24px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #813A01;background-color: #F9F36B;left: 565px;top: 273px;width: 59px;height: 24px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それ男の<br/>名前じゃ…"
-		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 640px;top: 253px;width: 83px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 640px;top: 253px;width: 83px;height: 37px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "君のサンド<br/>イッチに<br/>オナラ<br/>するわよ"
-		,"style": "font-size: 14px;color: #813A01;background-color: #F9F36B;left: 715px;top: 268px;width: 76px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #813A01;background-color: #F9F36B;left: 715px;top: 268px;width: 76px;height: 77px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "背の高い人<br/>君の名前は?"
-		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 672px;top: 345px;width: 86px;height: 75px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 672px;top: 345px;width: 86px;height: 75px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "マリナ!"
-		,"style": "font-size: 14px;color: #28AAA1;background-color: #69F9DF;left: 730px;top: 420px;width: 53px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #28AAA1;background-color: #69F9DF;left: 730px;top: 420px;width: 53px;height: 22px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "はじめ<br/>まして!"
-		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 662px;top: 436px;width: 73px;height: 35px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #2D8307;background-color: #A3FD5A;left: 662px;top: 436px;width: 73px;height: 35px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "君もね"
-		,"style": "font-size: 14px;color: #28AAA1;background-color: #69F9DF;left: 738px;top: 472px;width: 46px;height: 24px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #28AAA1;background-color: #69F9DF;left: 738px;top: 472px;width: 46px;height: 24px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

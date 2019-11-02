@@ -1,46 +1,57 @@
 [
 	{
 		"text": "ダメ<br/>だよ!"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 35.5%;top: 3%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 35.5%;top: 3%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "あー…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 54%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 54%;top: 5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "つまり…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 55.8%;top: 7.8%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 55.8%;top: 7.8%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "なんで<br/>全員で<br/>行けないの?"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 80%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 80%;top: 5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "お前ダサいし<br/>一緒に<br/>行きたくない。<br/>よく考えた<br/>結果だよ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 30.5%;top: 32.5%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 30.5%;top: 32.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "何、お前<br/>パンドラの<br/><span style=\"font-weight: bold;\">オーナー？</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 45.6%;top: 34.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 45.6%;top: 34.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "い…いや…<br/>ただ…"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 68.5%;top: 34.5%;border-radius: 0%;"
+		,"style": "font-size: 13px;left: 68.5%;top: 34.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "クレアンスは<br/><ruby>吸血鬼<rp>(</rp><rt>ノスフェラトゥ</rt><rp>)</rp></ruby>だ…"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 25.5%;top: 58.5%;font-weight: bold;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 25.5%;top: 58.5%;border:solid 1px;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "もし血を飲もう<br/>としたら…"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 40%;top: 60.7%;font-weight: bold;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 40%;top: 60.7%;border:solid 1px;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "彼女は<br/>歯を<br/>叩き折る！"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 68%;top: 59.2%;font-weight: bold;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 68%;top: 59.2%;border:solid 1px;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "そしたら<br/>彼女は<br/>牢屋行きだ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 76%;top: 84.5%;font-weight: bold;border:solid 1px;height: 90px;display: flex;align-items: center;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 76%;top: 84.5%;border:solid 1px;height: 90px;display: flex;align-items: center;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 ]

@@ -1,50 +1,62 @@
 [
 	{
 		"text": "やぁ。<br/>オレだ<br/>ニモだ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 20%;top: 4%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 20%;top: 4%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "オレの肌は<br/>濡れてる時は<br/>透明じゃ<br/>ないんだ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 27%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 27%;top: 6%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ママが<br/>グリンディロー<br/>パパが透明<br/>だからオレは…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 45%;top: 13.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 45%;top: 13.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "あー…<br/>そういう<br/>…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 78.5%;top: 9.5%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 78.5%;top: 9.5%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ことさ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 81.5%;top: 16.5%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 81.5%;top: 16.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "オレの内臓が<br/>本当に外に<br/>出てると思って<br/>ないよな？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 13.5%;top: 40.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 13.5%;top: 40.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "それ<br/>キモい<br/>だろ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 48.1%;top: 39.5%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 48.1%;top: 39.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "…キモい<br/>わね"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 12%;top: 64%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 12%;top: 64%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ここ数日で<br/>唯一喋った…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 23.5%;top: 63%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 23.5%;top: 63%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "とにかく、<br/>パンドラ、<br/>エリオットが<br/>呼んでる、<br/>僕らは<br/>行くけど"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 40.5%;top: 62.1%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 40.5%;top: 62.1%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "一緒に<br/>来ても<br/>いいよ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 54%;top: 64%;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 54%;top: 64%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "フン！"
-		,"style": "font-size: 35px;color: black;background-color: white;left: 71%;top: 62%;font-weight: bold;border-radius: 30%;"
+		,"style": "font-size: 35px;left: 71%;top: 62%;border-radius: 30%;"
+		,"class": "WHITE BOLD"
 	}
 ]

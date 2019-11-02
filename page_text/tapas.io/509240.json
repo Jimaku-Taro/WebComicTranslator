@@ -1,34 +1,42 @@
 [
 	{
 		"text": "ジャ～ン!<br/>スゴイ<br/>だろ?"
-		,"style": "font-size: 19px;color: black;background-color: white;left: 80.27%;top: 32.94%;width: 12.02%;height: 10.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 19px;left: 80.27%;top: 32.94%;width: 12.02%;height: 10.53%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "スゴイ!"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 19.63%;top: 55.90%;width: 14.04%;height: 10.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;font-weight: bold;"
+		,"style": "font-size: 30px;left: 19.63%;top: 55.90%;width: 14.04%;height: 10.53%;border-radius: 40%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "可愛い!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 28.56%;top: 64.78%;width: 10.00%;height: 2.28%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 28.56%;top: 64.78%;width: 10.00%;height: 2.28%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "最初は<br/>人型の変身だけ<br/>だったけど、<br/>今は動物にも<br/>なれる!"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 81.33%;top: 46.15%;width: 14.36%;height: 17.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 18px;left: 81.33%;top: 46.15%;width: 14.36%;height: 17.61%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "それじゃ<br/>テストの時は<br/>人型しか<br/>変身できな<br/>かったの?"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 6.22%;top: 67.14%;width: 13.51%;height: 12.19%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 18px;left: 6.22%;top: 67.14%;width: 13.51%;height: 12.19%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "難しく<br/>ないって<br/>こと?"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 48.46%;top: 66.27%;width: 12.66%;height: 8.73%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 18px;left: 48.46%;top: 66.27%;width: 12.66%;height: 8.73%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "僕に<br/>とってはね<br/>でもそれが<br/>普通って<br/>聞いた"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 64.73%;top: 64.39%;width: 13.51%;height: 12.58%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 18px;left: 64.73%;top: 64.39%;width: 13.51%;height: 12.58%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "結局<br/>テストは<br/>能力で<br/>内容が違う<br/>からね"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 83.46%;top: 67.06%;width: 11.81%;height: 13.92%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 18px;left: 83.46%;top: 67.06%;width: 11.81%;height: 13.92%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 ]

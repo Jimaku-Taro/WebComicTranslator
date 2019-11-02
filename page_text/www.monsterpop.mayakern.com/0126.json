@@ -1,14 +1,17 @@
 [
 	{
 		"text": "…あるわ"
-		,"style": "font-size: 14px;color: #934916;background-color: #FBF68D;left: 115px;top: 20px;width: 61px;height: 26px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #934916;background-color: #FBF68D;left: 115px;top: 20px;width: 61px;height: 26px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ごめんなさい"
-		,"style": "font-size: 14px;color: #934916;background-color: #FBF68D;left: 600px;top: 10px;width: 88px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #934916;background-color: #FBF68D;left: 600px;top: 10px;width: 88px;height: 57px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "これは?<br/>誰かの手?"
-		,"style": "font-size: 14px;color: #0D848F;background-color: #8DF7FB;left: 443px;top: 292px;width: 119px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #0D848F;background-color: #8DF7FB;left: 443px;top: 292px;width: 119px;height: 60px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

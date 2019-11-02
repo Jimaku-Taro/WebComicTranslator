@@ -1,18 +1,22 @@
 [
 	{
 		"text": "着いたわ!"
-		,"style": "font-size: 14px;color: #333018;background-color: #FFF369;left: 95px;top: 20px;width: 73px;height: 26px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #333018;background-color: #FFF369;left: 95px;top: 20px;width: 73px;height: 26px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "OK 下りるわ<br/>少し待って"
-		,"style": "font-size: 14px;color: #122020;background-color: #5FF1F0;left: 273px;top: 23px;width: 96px;height: 43px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #122020;background-color: #5FF1F0;left: 273px;top: 23px;width: 96px;height: 43px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "OK"
-		,"style": "font-size: 14px;color: #333018;background-color: #FFF369;left: 453px;top: 95px;width: 26px;height: 25px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #333018;background-color: #FFF369;left: 453px;top: 95px;width: 26px;height: 25px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "ねぇフラニー<br/>私パーティ抜ける<br/>君が見つからないんじゃ<br/>つまらない"
-		,"style": "font-size: 14px;color: #333018;background-color: #FFF369;left: 590px;top: 215px;width: 166px;height: 88px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #333018;background-color: #FFF369;left: 590px;top: 215px;width: 166px;height: 88px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 ]

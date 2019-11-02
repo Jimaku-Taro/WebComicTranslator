@@ -1,58 +1,72 @@
 [
 	{
 		"text": "追い出す気か!?<br/>俺達は兄弟だと<br/>思ったのに！"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 12%;top: 2.1%;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 12%;top: 2.1%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "君の関係なんて<br/>知らないよ!<br/>君<span style=\"font-weight: bold;\">が</span>何かさえ<br/>知らないのに!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 32%;top: 3.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 32%;top: 3.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "君を<br/>養わないと<br/>いけない？<br/>嫌っちゃ<br/>いけない？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 60%;top: 3%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 60%;top: 3%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "それに、<br/>オレは<span style=\"font-weight: bold;\">クールな</span><br/>ギターが<br/>欲しかった<br/>のに…君は<br/>ダサいよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 69%;top: 6%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 69%;top: 6%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "それでお前は<br/>この悪党に<br/>俺を売るか！？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 75%;top: 22.5%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 75%;top: 22.5%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "それは<br/>クレアンスの<br/>せいだ！"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 12%;top: 30%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 12%;top: 30%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">悪い</span>店に<br/>連れてくって<br/>言わなかった!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 11.5%;top: 37%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 11.5%;top: 37%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "俺の物を盗んで<br/>壁に吹っ飛ばして<br/>おいて、<br/>お前が“悪”を<br/>語るのは<br/>納得いかん"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 47%;top: 43%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 47%;top: 43%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "おいおい!<br/>一体何のデート<br/>してるんだよ<br/>お前は！？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 65%;top: 31%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 65%;top: 31%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "さてはドラマ<br/>だなオメー"
-		,"style": "font-size: 10px;color: black;background-color: white;left: 69%;top: 39%;border-radius: 0%;"
+		,"style": "font-size: 10px;left: 69%;top: 39%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ごめんね。<br/>オレ達帰って<br/>いいだろ？"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 11.5%;top: 58.5%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 11.5%;top: 58.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ギターは返す<br/>これでチャラ<br/>だろ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 23%;top: 59%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 23%;top: 59%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "“チャラ”は<br/>どうかな?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 35.5%;top: 61%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 35.5%;top: 61%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "少なくとも、<br/>俺が<span style=\"font-weight: bold;\">お前を</span><br/>同じ様に壁に<br/>吹っ飛ばさないと"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 81%;top: 61%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 81%;top: 61%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

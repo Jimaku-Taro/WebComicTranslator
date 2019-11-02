@@ -1,6 +1,7 @@
 [
 	{
 		"text": "王だ<br/>…"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 39%;top: 85.5%;border-radius: 20%;"
+		,"style": "font-size: 25px;left: 39%;top: 85.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

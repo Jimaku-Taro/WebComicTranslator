@@ -1,0 +1,22 @@
+[
+	{
+		"text": "フェアリーフェイル"
+		,"style": "font-size: 25px;color: #5A0C00;background-color: #FFDF97;left: 23.75%;top: 12.28%;width: 52.50%;height: 5.69%;border-radius: 0%;border: solid 1px;"
+		,"class": "CENTER BOLD"
+	}
+	,{
+		"text": "ある所にエーという<br/>嘘しか言わない娘がいました"
+		,"style": "font-size: 16px;color: #5A0C00;background-color: #FFDF97;left: 4.75%;top: 72.78%;width: 41.50%;height: 5.81%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "またビーという<br/>正直な娘がいました"
+		,"style": "font-size: 16px;color: #5A0C00;background-color: #FFDF97;left: 53.92%;top: 72.78%;width: 41.50%;height: 5.81%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "これは２人が恋に落ち、必然的に、別れるまでの物語"
+		,"style": "font-size: 16px;color: #5A0C00;background-color: #FFDF97;left: 6.75%;top: 85.82%;width: 85.33%;height: 4.15%;border-radius: 20%;"
+		,"class": "CENTER"
+	}
+]

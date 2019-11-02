@@ -1,10 +1,12 @@
 [
 	{
 		"text": "最後の<br/>仕上げだ<br/>…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 18%;top: 8.5%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 18%;top: 8.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">生命<br/>の<br/>スパーク！</span>"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 74.5%;top: 37.6%;border-radius: 20%;"
+		,"style": "font-size: 20px;left: 74.5%;top: 37.6%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

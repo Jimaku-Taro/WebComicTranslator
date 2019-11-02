@@ -2,29 +2,36 @@
 	{
 		"text": "君を<br/>見たことないと<br/>思うんだけど…"
 		,"style": "font-size: 14px;color: #9C402C;background-color: #F4994D;left: 43px;top: 23px;width: 128px; height: 68px;text-align: center;border-radius: 20%;"
+		,"class": ""
 	}
 	,{
 		"text": "聖ジュード<br/>の生徒？"
 		,"style": "font-size: 14px;color: #9C402C;background-color: #F4994D;left: 150px;top: 83px;width: 75px; height: 53px;text-align: center;border-radius: 20%;"
+		,"class": ""
 	}
 	,{
 		"text": "いえ、<br/>友達と一緒に<br/>忍び込んだの"
 		,"style": "font-size: 12px;color: #916B25;background-color: #FBF16B;left: 26px;top: 142px;width: 94px; height: 49px;text-align: center;border-radius: 30%;"
+		,"class": ""
 	}
 	,{
 		"text": "本当は<br/>アミティ高"
 		,"style": "font-size: 14px;color: #916B25;background-color: #FBF16B;left: 131px;top: 167px;width: 94px; height: 35px;text-align: center;border-radius: 20%;"
+		,"class": ""
 	}
 	,{
 		"text": "…<span style=\"font-weight: bold;\">統合</span>学校<br/>だっけ？"
 		,"style": "font-size: 14px;color: #9C402C;background-color: #F4994D;left: 383px;top: 35px;width: 113px; height: 50px;text-align: center;border-radius: 20%;"
+		,"class": ""
 	}
 	,{
 		"text": "うん"
 		,"style": "font-size: 14px;color: #916B25;background-color: #FBF16B;left: 589px;top: 88px;width: 41px; height: 21px;text-align: center;border-radius: 20%;"
+		,"class": ""
 	}
 	,{
 		"text": "そっか…"
 		,"style": "font-size: 14px;color: #9C402C;background-color: #F4994D;left: 593px;top: 213px;width: 62px; height: 22px;text-align: center;border-radius: 20%;"
+		,"class": ""
 	}
 ]

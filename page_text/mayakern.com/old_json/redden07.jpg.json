@@ -1,0 +1,62 @@
+[
+	{
+		"text": "腹が減った"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 12.25%;top: 6.70%;width: 13.83%;height: 2.49%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "もう少し遅ければ<br/>お前をその場で<br/>食ってたぞ"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 22.25%;top: 8.72%;width: 21.33%;height: 6.41%;border-radius: 30%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "何を<br/>持ってきた?"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 72.75%;top: 24.14%;width: 13.83%;height: 4.51%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "…コート"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 39.25%;top: 36.00%;width: 11.83%;height: 2.14%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "小娘のお前が<br/>狼を殺したのか?"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 58.42%;top: 35.41%;width: 17.50%;height: 8.42%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "いえ<br/>貰い物<br/>です"
+		,"style": "font-size: 11px;color: #C44654;background-color: white;left: 87.58%;top: 35.88%;width: 9.00%;height: 6.64%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "気が<br/>変わった<br/>腹は減って<br/>ない"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 51.25%;top: 56.52%;width: 13.50%;height: 6.88%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ほら"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 78.08%;top: 57.35%;width: 5.50%;height: 1.84%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "食え"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 87.58%;top: 58.07%;width: 9.17%;height: 2.49%;border-radius: 30%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "でも別に<br/>お腹…"
+		,"style": "font-size: 11px;color: #C44654;background-color: white;left: 1.42%;top: 76.33%;width: 10.17%;height: 4.03%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "食え!"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 16.25%;top: 77.76%;width: 6.67%;height: 2.85%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ううむ…"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 58.25%;top: 76.33%;width: 8.50%;height: 2.37%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+]

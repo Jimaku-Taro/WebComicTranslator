@@ -1,14 +1,17 @@
 [
 	{
 		"text": "ううう…"
-		,"style": "font-size: 14px;color: #6B000F;background-color: #FF607E;left: 50px;top: 70px;width: 89px;height: 35px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #6B000F;background-color: #FF607E;left: 50px;top: 70px;width: 89px;height: 35px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "OK、<br/>挑戦の<br/>内容は…"
-		,"style": "font-size: 14px;color: #790011;background-color: #FFC5D1;left: 205px;top: 260px;width: 89px;height: 69px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #790011;background-color: #FFC5D1;left: 205px;top: 260px;width: 89px;height: 69px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "周りの人達に<br/>化粧してもらえ!"
-		,"style": "font-size: 14px;color: #790011;background-color: #FFC5D1;left: 645px;top: 250px;width: 135px;height: 93px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #790011;background-color: #FFC5D1;left: 645px;top: 250px;width: 135px;height: 93px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

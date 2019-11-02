@@ -1,18 +1,22 @@
 [
 	{
 		"text": "OK<br/>オタク<br/>こいつを<br/>ご所望ね!!"
-		,"style": "font-size: 14px;color: #765901;background-color: #F9FC90;left: 18px;top: 25px;width: 88px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #765901;background-color: #F9FC90;left: 18px;top: 25px;width: 88px;height: 77px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ウクレレ<br/>タイムよ!"
-		,"style": "font-size: 14px;color: #765901;background-color: #F9FC90;left: 230px;top: 30px;width: 95px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #765901;background-color: #F9FC90;left: 230px;top: 30px;width: 95px;height: 38px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "songtitle:booty call song<br/><br/>F C7 Dm Bb <br/><br/>what a hottie~~~ <br/>you wanna rock that body <br/>and smooch all over that face <br/>maybe go to his place <br/>whatcha do when you're there <br/>girl youd better beware <br/>cuz he is a cutie <br/>and you're gonna touch that bootie <br/>cuz you can't deny <br/>that you think he's fly <br/>he's a swell guy <br/>[doot doo doot] <br/>cuz he's a hottie <br/>c'mon girl rock that body <br/>and he's a cutie <br/>you wanna touch that bootie <br/><br/>he's a hottie <br/>?????<br/>he's a cutie <br/>you gonna touch that bootie <br/><br/>YEAH"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 0px;top: 600px;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 0px;top: 600px;border:solid 1px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "曲名：誘惑の電話の歌<br/><br/>F C7 Dm Bb <br/><br/>何てセクシ～<br/>君はその体を揺さぶりたい<br/>顔中にキスしたい<br/>きっと彼の所へ行くわ<br/>そこへ行く時は気をつけて<br/>女の子は特に注意して<br/>彼は可愛いから<br/>君はそのお尻を触る気ね<br/>君は拒否できない<br/>彼は格好良いから<br/>彼は素敵な男の子<br/>[ドゥ ドゥルドゥ ドゥー] <br/>彼はセクシー<br/>女の子はその体を揺さぶりたい<br/>彼は可愛い人<br/>君はそのお尻を触りたい<br/><br/>彼はセクシー<br/>?????<br/>彼は可愛い人<br/>君はそのお尻に触る気ね<br/><br/>イェアー"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 400px;top: 600px;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 400px;top: 600px;border:solid 1px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

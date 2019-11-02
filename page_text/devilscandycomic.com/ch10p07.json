@@ -1,78 +1,97 @@
 [
 	{
 		"text": "生首<br/>じゃねぇ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 14.26%;top: 3.42%;width: 12.65%;height: 4.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 16px;left: 14.26%;top: 3.42%;width: 12.65%;height: 4.61%;border-radius:40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "これは…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 27.63%;top: 4.35%;width: 6.80%;height: 3.10%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 27.63%;top: 4.35%;width: 6.80%;height: 3.10%;border-radius:40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "贈り物<br/>の頭だ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 34.55%;top: 3.76%;width: 8.95%;height: 4.86%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: bold;"
+		,"style": "font-size: 14px;left: 34.55%;top: 3.76%;width: 8.95%;height: 4.86%;border-radius:40%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "おいおい<br/>マズい物見られて<br/>言い訳は<br/>分かるけど<br/>それは<br/>ちょっと…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 32.52%;top: 24.71%;width: 14.20%;height: 10.23%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 32.52%;top: 24.71%;width: 14.20%;height: 10.23%;border-radius:40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "良い匂いは<br/>これか。<br/>マンドラゴラ<br/>フルーツ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 52.45%;top: 4.93%;width: 12.41%;height: 7.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 52.45%;top: 4.93%;width: 12.41%;height: 7.63%;border-radius:40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "他人に<br/>あげないはずだ。<br/>お前ら１つの<span><ruby><rb>アイテム</rb><rp>（</rp><rt>カップル</rt><rp>）</rp></ruby>か?</span>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 51.49%;top: 19.60%;width: 15.04%;height: 7.04%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 51.49%;top: 19.60%;width: 15.04%;height: 7.04%;border-radius:40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "アイ<br/>テム?"
-		,"style": "font-size: 11px;color: black;background-color: white;left: 63.42%;top: 29.07%;width: 5.61%;height: 2.35%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: bold;"
+		,"style": "font-size: 11px;left: 63.42%;top: 29.07%;width: 5.61%;height: 2.35%;border-radius:40%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "オレと?<br/>リンゴが?<br/>違う!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 72.85%;top: 20.02%;width: 8.00%;height: 4.95%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 72.85%;top: 20.02%;width: 8.00%;height: 4.95%;border-radius:40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "大嫌いだし<br/>奴は狂ってる!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 80.97%;top: 19.94%;width: 12.17%;height: 5.45%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 80.97%;top: 19.94%;width: 12.17%;height: 5.45%;border-radius:40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "まぁ…<br/>顔は可愛い<br/>かな…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 10.80%;top: 37.71%;width: 12.89%;height: 5.95%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 10.80%;top: 37.71%;width: 12.89%;height: 5.95%;border-radius:40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "待って<br/>それ果物?<br/>持ってきた?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 10.56%;top: 58.41%;width: 12.29%;height: 6.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 10.56%;top: 58.41%;width: 12.29%;height: 6.29%;border-radius:40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "それで…<br/>全部<br/>食べる気?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 10.20%;top: 64.45%;width: 12.89%;height: 7.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 10.20%;top: 64.45%;width: 12.89%;height: 7.63%;border-radius:40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "衆人環視の中<br/>そいつの頭を<br/>一口で食うの?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 26.55%;top: 58.83%;width: 14.56%;height: 9.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 26.55%;top: 58.83%;width: 14.56%;height: 9.56%;border-radius:40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "この会話から<br/>抜け出せるなら<br/>オレは頭を<br/>切り落とし<br/>てぇよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 27.98%;top: 68.97%;width: 13.01%;height: 9.64%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:35%;font-weight: bold;"
+		,"style": "font-size: 14px;left: 27.98%;top: 68.97%;width: 13.01%;height: 9.64%;border-radius:35%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "生は<br/>良くないぜ。<br/>調理法を<br/>知らないと"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 45.29%;top: 59.08%;width: 17.06%;height: 6.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 45.29%;top: 59.08%;width: 17.06%;height: 6.71%;border-radius:40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あぁ調べて…<br/>知っちまったよ。<br/>タタラトゥスの<br/>有名なレストランで<br/>料理してもらう"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 78.10%;top: 58.75%;width: 15.99%;height: 12.74%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 78.10%;top: 58.75%;width: 15.99%;height: 12.74%;border-radius:40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "別に<br/>やらなくても<br/>幸せだけど<br/>腐らせるのも<br/>悪い気が<br/>してよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 43.74%;top: 76.85%;width: 12.77%;height: 11.40%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 43.74%;top: 76.85%;width: 12.77%;height: 11.40%;border-radius:40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ニモ、何で?<br/>特別な物<br/>なのに!"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 67.36%;top: 76.77%;width: 9.79%;height: 4.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:10%;font-weight: bold;"
+		,"style": "font-size: 12px;left: 67.36%;top: 76.77%;width: 9.79%;height: 4.78%;border-radius:10%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "超レア<br/>だから<br/>皆にも分けた<br/>かった"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 79.65%;top: 77.61%;width: 11.81%;height: 9.64%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 79.65%;top: 77.61%;width: 11.81%;height: 9.64%;border-radius:40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 ]

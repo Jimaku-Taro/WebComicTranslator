@@ -1,0 +1,27 @@
+[
+	{
+		"text": "エーは有名なフィクション作家で<br/>“アベリー・グッドマン”という<br/>ペンネームを名乗っていました"
+		,"style": "font-size: 14px;color: #681A0E;background-color: #FFFCD7;left: 23.08%;top: 5.02%;width: 38.33%;height: 6.76%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ビーは彼女の作品の大ファンで<br/>その想像力溢れる幻想的な文章に<br/>とても感動していました"
+		,"style": "font-size: 16px;color: #681A0E;background-color: #FFFCD7;left: 51.08%;top: 31.02%;width: 47.17%;height: 8.30%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "２人の出会いは<br/>平凡でした"
+		,"style": "font-size: 16px;color: #681A0E;background-color: #FFFCD7;left: 2.92%;top: 40.87%;width: 25.50%;height: 5.34%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "２人共<br/>思い出せない位に"
+		,"style": "font-size: 16px;color: #681A0E;background-color: #FFFCD7;left: 69.42%;top: 65.18%;width: 28.33%;height: 5.58%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ありがと"
+		,"style": "font-size: 12px;color: #5B0C00;background-color: #FFE2E0;left: 84.75%;top: 79.77%;width: 8.67%;height: 2.61%;;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+]

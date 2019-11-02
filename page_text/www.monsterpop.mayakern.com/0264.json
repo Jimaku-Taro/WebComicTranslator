@@ -1,6 +1,7 @@
 [
 	{
 		"text": "ハッピーハロウィン、オタクたち!!!!<span style=\"color: #9F9C8D;\">#ジョージ 文章</span>"
-		,"style": "font-size: 13px;color: #222116;background-color: #FFF384;left: 15px;top: 10px;width: 266px;height: 43px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 13px;color: #222116;background-color: #FFF384;left: 15px;top: 10px;width: 266px;height: 43px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": "BOLD"
 	}
 ]

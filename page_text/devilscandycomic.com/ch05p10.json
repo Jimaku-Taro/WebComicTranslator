@@ -1,34 +1,42 @@
 [
 	{
 		"text": "あぁ、君は<br/>凍った野菜<br/>食べてたね…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 30%;top: 5.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 30%;top: 5.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "お昼<br/>休みの<br/>時間に"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 42%;top: 8%;width: 75px;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 42%;top: 8%;width: 75px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "太らない<br/>ようにする<br/>女の子は<br/>好きだぜ…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 69.5%;top: 8%;width: 75px;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 69.5%;top: 8%;width: 75px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "君がカロリー<br/>摂取するの<br/>見てた"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 78.6%;top: 11%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 78.6%;top: 11%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "その後君が<br/>泣いてるのを<br/>見た、確かに…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 40%;top: 35%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 40%;top: 35%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "オレは女の子<br/>の気持ちとか<br/>気にしない<br/>けど"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 54%;top: 36.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 54%;top: 36.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "演劇ギーグ共<br/>と口論してた<br/>時のように…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 53%;top: 61.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 53%;top: 61.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "あれは本当に<br/>クールだ、奴らは<br/>変人だと思うし"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 60%;top: 67.7%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 60%;top: 67.7%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

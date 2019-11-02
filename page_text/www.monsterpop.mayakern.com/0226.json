@@ -1,58 +1,72 @@
 [
 	{
 		"text": "ねぇG<br/>何やってる?"
-		,"style": "font-size: 14px;color: #063836;background-color: #94FEEC;left: 20px;top: 20px;width: 119px;height: 45px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #063836;background-color: #94FEEC;left: 20px;top: 20px;width: 119px;height: 45px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "別に何も"
-		,"style": "font-size: 14px;color: #514E01;background-color: #F3FF49;left: 170px;top: 65px;width: 96px;height: 27px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #514E01;background-color: #F3FF49;left: 170px;top: 65px;width: 96px;height: 27px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "フラニーと<br/>パーティに<br/>来たけど、彼女<br/>見つからないの"
-		,"style": "font-size: 14px;color: #514E01;background-color: #F3FF49;left: 250px;top: 140px;width: 100px;height: 83px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #514E01;background-color: #F3FF49;left: 250px;top: 140px;width: 100px;height: 83px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "メッセージ"
-		,"style": "font-size: 14px;color: #9B7EBE;background-color: #EACEB8;left: 425px;top: 40px;width: 79px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #9B7EBE;background-color: #EACEB8;left: 425px;top: 40px;width: 79px;height: 29px;border-radius: 10px;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "マリナ"
-		,"style": "font-size: 16px;color: #090055;background-color: #E7C9B1;left: 550px;top: 40px;width: 62px;height: 27px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10px;font-weight: bold;"
+		,"style": "font-size: 16px;color: #090055;background-color: #E7C9B1;left: 550px;top: 40px;width: 62px;height: 27px;border-radius: 10px;"
+		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "通話"
-		,"style": "font-size: 14px;color: #9B7EBE;background-color: #EACEB8;left: 680px;top: 40px;width: 65px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #9B7EBE;background-color: #EACEB8;left: 680px;top: 40px;width: 65px;height: 28px;border-radius: 10px;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それは最悪ね 8("
-		,"style": "font-size: 14px;color: #3D5892;background-color: #BCC4B5;left: 415px;top: 90px;width: 184px;height: 23px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #3D5892;background-color: #BCC4B5;left: 415px;top: 90px;width: 184px;height: 23px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "えぇ… O("
-		,"style": "font-size: 14px;color: #31458B;background-color: #F6E58D;left: 660px;top: 110px;width: 88px;height: 20px;text-align: right;display: flex;flex-direction: column;align-items: right;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #31458B;background-color: #F6E58D;left: 660px;top: 110px;width: 88px;height: 20px;text-align: right;display: flex;flex-direction: column;align-items: right;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "ところで君は何してる"
-		,"style": "font-size: 14px;color: #31458B;background-color: #F6E58D;left: 560px;top: 150px;width: 188px;height: 22px;text-align: right;display: flex;flex-direction: column;align-items: right;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #31458B;background-color: #F6E58D;left: 560px;top: 150px;width: 188px;height: 22px;text-align: right;display: flex;flex-direction: column;align-items: right;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "寮で超ヒマしてる、<br/>だからあなたに連絡したの<br/>でも忙しかった? ごめんね"
-		,"style": "font-size: 14px;color: #3D5892;background-color: #BCC4B5;left: 415px;top: 190px;width: 329px;height: 61px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #3D5892;background-color: #BCC4B5;left: 415px;top: 190px;width: 329px;height: 61px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "いいえ退屈よ<br/>帰るところだったの<br/>そっち行っていい"
-		,"style": "font-size: 14px;color: #31458B;background-color: #F6E58D;left: 485px;top: 266px;width: 261px;height: 60px;text-align: right;display: flex;flex-direction: column;align-items: right;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #31458B;background-color: #F6E58D;left: 485px;top: 266px;width: 261px;height: 60px;text-align: right;display: flex;flex-direction: column;align-items: right;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "もちろん! モリソン寮の243号室よ<br/>着いたら連絡してくれれば<br/>中に入れるわ"
-		,"style": "font-size: 14px;color: #3D5892;background-color: #BCC4B5;left: 413px;top: 345px;width: 265px;height: 63px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #3D5892;background-color: #BCC4B5;left: 413px;top: 345px;width: 265px;height: 63px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "OK!"
-		,"style": "font-size: 14px;color: #31458B;background-color: #F6E58D;left: 710px;top: 400px;width: 34px;height: 23px;text-align: right;display: flex;flex-direction: column;align-items: right;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #31458B;background-color: #F6E58D;left: 710px;top: 400px;width: 34px;height: 23px;text-align: right;display: flex;flex-direction: column;align-items: right;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "15分位で着くわ"
-		,"style": "font-size: 14px;color: #31458B;background-color: #F6E58D;left: 600px;top: 440px;width: 145px;height: 24px;text-align: right;display: flex;flex-direction: column;align-items: right;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #31458B;background-color: #F6E58D;left: 600px;top: 440px;width: 145px;height: 24px;text-align: right;display: flex;flex-direction: column;align-items: right;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 ]

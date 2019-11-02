@@ -2,21 +2,26 @@
 	{
 		"text": "何してるの、<br/>アイツは<br/><span style=\"font-weight: bold;font-size: 25px;\">差別主義者<br/>よ!</span>"
 		,"style": "font-size: 14px;color: #302A4A;background-color: #AF91C3;left: 284px;top: 63px;width: 130px; height: 88px;text-align: center;border-radius: 25%;"
+		,"class": ""
 	}
 	,{
 		"text": "でも<br/>そんなに<br/>悪く…"
 		,"style": "font-size: 14px;color: #553E20;background-color: #EEED91;left: 74px;top: 390px;width: 80px; height: 48px;text-align: center;border-radius: 35%;"
+		,"class": ""
 	}
 	,{
 		"text": "“そんなに悪くない??”<br/>モンスターのこと<br/>どう言ったか<span style=\"font-weight: bold;\">聞いた??</span>"
 		,"style": "font-size: 14px;color: #302A4A;background-color: #AF91C3;left: 510px;top: 15px;width: 164px; height: 65px;text-align: center;border-radius: 30%;"
+		,"class": ""
 	}
 	,{
 		"text": "でも私<br/>彼が<span style=\"font-weight: bold;font-size: 25px;\">好き</span>"
 		,"style": "font-size: 14px;color: #553E20;background-color: #EEED91;left: 668px;top: 285px;width: 106px; height: 56px;text-align: center;border-radius: 30%;"
+		,"class": ""
 	}
 	,{
 		"text": "やめな<br/>さい!"
 		,"style": "font-size: 14px;color: #302A4A;background-color: #AF91C3;left: 652px;top: 421px;width: 72px; height: 33px;text-align: center;border-radius: 20%;"
+		,"class": ""
 	}
 ]

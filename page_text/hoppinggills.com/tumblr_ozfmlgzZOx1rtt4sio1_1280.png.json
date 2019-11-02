@@ -1,14 +1,17 @@
 [
 	{
 		"text": "おい"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 40.62%;top: 0.68%;width: 12.58%;height: 4.77%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 30px;left: 40.62%;top: 0.68%;width: 12.58%;height: 4.77%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "僕のだぞ!"
-		,"style": "font-size: 50px;color: black;background-color: white;left: 52.42%;top: 4.95%;width: 29.21%;height: 6.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 50px;left: 52.42%;top: 4.95%;width: 29.21%;height: 6.36%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "うぅ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77.70%;top: 51.70%;width: 6.74%;height: 2.41%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 16px;left: 77.70%;top: 51.70%;width: 6.74%;height: 2.41%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 ]

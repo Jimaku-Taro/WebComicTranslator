@@ -1,98 +1,122 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">“マグノリアシティ”は</span>様々な物語が始まる場所だ。"
-		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 7.98%;top: 2.07%;width: 39.66%;height: 1.13%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 7.98%;top: 2.07%;width: 39.66%;height: 1.13%;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "謳い文句は<br/>“ヒーローが行くべき都市”<br/>この地で一番<br/>賑やかな都市"
-		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 8.76%;top: 4.45%;width: 22.92%;height: 3.02%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 8.76%;top: 4.45%;width: 22.92%;height: 3.02%;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "そう、ここでは旅行者に<br/>必要な物が何でも手に入るんだ!"
-		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 40.34%;top: 20.93%;width: 27.87%;height: 1.13%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 40.34%;top: 20.93%;width: 27.87%;height: 1.13%;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "装備"
-		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 74.16%;top: 2.65%;width: 6.07%;height: 0.82%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 74.16%;top: 2.65%;width: 6.07%;height: 0.82%;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "薬品"
-		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 77.42%;top: 15.84%;width: 9.10%;height: 0.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 77.42%;top: 15.84%;width: 9.10%;height: 0.76%;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "乗物でも!"
-		,"style": "font-size: 20px;color: black;background-color: #FFF0A3;left: 32.92%;top: 30.93%;width: 15.73%;height: 1.43%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 20px;color: black;background-color: #FFF0A3;left: 32.92%;top: 30.93%;width: 15.73%;height: 1.43%;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "英雄志望だらけの街は<br/>犯罪が少ないと思うかもしれない"
-		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 54.44%;top: 30.77%;width: 29.55%;height: 1.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 54.44%;top: 30.77%;width: 29.55%;height: 1.71%;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "でも驚く<br/>だろうけど"
-		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 13.09%;top: 34.16%;width: 14.27%;height: 1.07%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 13.09%;top: 34.16%;width: 14.27%;height: 1.07%;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "大半は無意味なクエストや<br/>交易に夢中な見かけ倒し。<br/>だから僕が壁の周りの怪しい影を見張ってる"
-		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 56.35%;top: 34.67%;width: 33.48%;height: 2.10%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 56.35%;top: 34.67%;width: 33.48%;height: 2.10%;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "僕はこの街の<br/>守護者"
-		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 12.75%;top: 40.68%;width: 14.49%;height: 1.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 12.75%;top: 40.68%;width: 14.49%;height: 1.80%;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "犯罪と戦う"
-		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 45.45%;top: 44.97%;width: 15.39%;height: 0.94%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 45.45%;top: 44.97%;width: 15.39%;height: 0.94%;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "真の…"
-		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 84.33%;top: 41.01%;width: 8.76%;height: 1.16%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 84.33%;top: 41.01%;width: 8.76%;height: 1.16%;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ヒーロー"
-		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 61.07%;top: 55.24%;width: 7.98%;height: 0.98%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: black;background-color: #FFF0A3;left: 61.07%;top: 55.24%;width: 7.98%;height: 0.98%;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "解決<br/>してるし!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 80.84%;top: 54.78%;width: 11.46%;height: 2.16%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 14px;left: 80.84%;top: 54.78%;width: 11.46%;height: 2.16%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "助けて!"
-		,"style": "font-size: 20px;color: black;background-color: transparent;left: 26.35%;top: 73.10%;width: 11.35%;height: 0.98%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;text-shadow:white 1px 1px 0, white -1px -1px 0,white -1px 1px 0, white 1px -1px 0,white 0px 1px 0, white  0 -1px 0,white -1px 0 0, white 1px 0 0;"
+		,"style": "font-size: 20px;color: black;background-color: transparent;left: 26.35%;top: 73.10%;width: 11.35%;height: 0.98%;border-radius: 50%;text-shadow:white 1px 1px 0, white -1px -1px 0,white -1px 1px 0, white 1px -1px 0,white 0px 1px 0, white  0 -1px 0,white -1px 0 0, white 1px 0 0;"
+		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "僕が<br/>行く!!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 42.98%;top: 67.18%;width: 7.87%;height: 1.58%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 42.98%;top: 67.18%;width: 7.87%;height: 1.58%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "大丈夫"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 57.58%;top: 67.70%;width: 8.65%;height: 1.49%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 57.58%;top: 67.70%;width: 8.65%;height: 1.49%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "私が<br/>対処した!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 64.44%;top: 70.35%;width: 11.24%;height: 2.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 64.44%;top: 70.35%;width: 11.24%;height: 2.22%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "僕"
-		,"style": "font-size: 60px;color: black;background-color: white;left: 10.73%;top: 74.19%;width: 11.91%;height: 3.14%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 60px;left: 10.73%;top: 74.19%;width: 11.91%;height: 3.14%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "が"
-		,"style": "font-size: 60px;color: black;background-color: white;left: 43.65%;top: 77.21%;width: 11.80%;height: 2.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 60px;left: 43.65%;top: 77.21%;width: 11.80%;height: 2.80%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "行く<br/>…"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 81.29%;top: 75.11%;width: 12.36%;height: 2.96%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 30px;left: 81.29%;top: 75.11%;width: 12.36%;height: 2.96%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "坊や<br/>助けて<br/>くれる?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 13.65%;top: 89.88%;width: 9.66%;height: 2.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 13.65%;top: 89.88%;width: 9.66%;height: 2.71%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "うん!"
-		,"style": "font-size: 40px;color: black;background-color: white;left: 28.71%;top: 89.31%;width: 12.58%;height: 3.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;font-weight: bold;"
+		,"style": "font-size: 40px;left: 28.71%;top: 89.31%;width: 12.58%;height: 3.63%;border-radius: 40%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "そう"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 41.97%;top: 93.39%;width: 2.92%;height: 0.73%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;left: 41.97%;top: 93.39%;width: 2.92%;height: 0.73%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

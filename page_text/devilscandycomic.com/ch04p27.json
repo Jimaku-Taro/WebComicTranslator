@@ -1,18 +1,22 @@
 [
 	{
 		"text": "み・み・見ろよ、ヨォ！<br/>い・い・家の中で<br/>危ねぇお喋り！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 44%;top: 7.5%;font-weight: bold;width: 230px;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 44%;top: 7.5%;width: 230px;border-radius: 10%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "この最も壮大な試合の<br/>アナウンサーが俺だ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 64.5%;top: 12%;font-weight: bold;width: 190px;height: 80px;display: flex;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 64.5%;top: 12%;width: 190px;height: 80px;display: flex;align-items: center;justify-content: center;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "我らが屈強な<br/>戦士達が出場だ、<br/>新たな<br/>ゾマ・ゴラモスの<br/>誕生を記念して、<br/>比喩的な剣を掲げる!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 69%;top: 27%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 69%;top: 27%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "紳士淑女の皆様、<br/>誕生アリーナへ<br/>スカーレット クラウン<br/>インフェルノズと<br/>ヘムロック ハート<br/>ナイトメアズを<br/>ご歓迎下さい"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 35%;top: 49.5%;font-weight: bold;width: 214px;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 35%;top: 49.5%;width: 214px;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 ]

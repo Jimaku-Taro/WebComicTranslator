@@ -1,18 +1,22 @@
 [
 	{
 		"text": "ユニティ大学<br/>ユニコーンも<br/>いるって!"
-		,"style": "font-size: 14px;color: #763E22;background-color: #FDF161;left: 26px;top: 33px;width: 127px;height: 69px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #763E22;background-color: #FDF161;left: 26px;top: 33px;width: 127px;height: 69px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "本当??<br/>学校のシャツ<br/>着なきゃ!"
-		,"style": "font-size: 14px;color: #211933;background-color: #9D77B2;left: 241px;top: 68px;width: 132px;height: 64px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #211933;background-color: #9D77B2;left: 241px;top: 68px;width: 132px;height: 64px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "完璧ね!<br/>タイニィや<br/>皆にも<br/>話ましょ!"
-		,"style": "font-size: 14px;color: #763E22;background-color: #FDF161;left: 436px;top: 50px;width: 103px;height: 73px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #763E22;background-color: #FDF161;left: 436px;top: 50px;width: 103px;height: 73px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "すっごい<br/>盛り上がるわ!<br/>アハハ"
-		,"style": "font-size: 14px;color: #763E22;background-color: #FDF161;left: 640px;top: 66px;width: 112px;height: 63px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #763E22;background-color: #FDF161;left: 640px;top: 66px;width: 112px;height: 63px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

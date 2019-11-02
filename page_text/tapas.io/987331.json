@@ -1,122 +1,152 @@
 [
 	{
 		"text": "<皆さん<br/>何でもありません<br/>どうかお気に<br/>なさらず>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 8.67%;top: 0.40%;width: 15.64%;height: 2.49%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 8.67%;top: 0.40%;width: 15.64%;height: 2.49%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "興味深いな…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 54.41%;top: 1.41%;width: 12.98%;height: 0.96%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 54.41%;top: 1.41%;width: 12.98%;height: 0.96%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あなたが<br/>彼女の夫<br/>ですね?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 68.67%;top: 1.92%;width: 12.55%;height: 1.57%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 68.67%;top: 1.92%;width: 12.55%;height: 1.57%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "どうして<br/>そう言える?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 40.80%;top: 11.55%;width: 10.21%;height: 1.74%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 40.80%;top: 11.55%;width: 10.21%;height: 1.74%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "姉妹が有名な作家と<br/>結婚したのは知っていますし<br/>あなたは私を見て逃げないから。<br/>多少は人と会ったり表を歩いて<br/>姿を見られることもありますが<br/>他の国ほど大げさな<br/>反応をしないのは故郷の<br/>この国の人位ですよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 34.41%;top: 14.10%;width: 24.47%;height: 3.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 35%;"
+		,"style": "font-size: 14px;left: 34.41%;top: 14.10%;width: 24.47%;height: 3.80%;border-radius: 35%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "じゃ紹介は<br/>必要ない<br/>かな?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 43.24%;top: 23.47%;width: 13.19%;height: 1.60%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 43.24%;top: 23.47%;width: 13.19%;height: 1.60%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "えぇ<br/>お元気そうですね<br/>サム"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 43.14%;top: 25.61%;width: 13.19%;height: 1.48%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 43.14%;top: 25.61%;width: 13.19%;height: 1.48%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "君達が<br/>ヨリの娘ね!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 11.76%;top: 29.08%;width: 12.66%;height: 2.02%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 11.76%;top: 29.08%;width: 12.66%;height: 2.02%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "そうです!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 40.16%;top: 31.55%;width: 8.19%;height: 1.62%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 40.16%;top: 31.55%;width: 8.19%;height: 1.62%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "私はミツ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 61.44%;top: 28.59%;width: 8.83%;height: 1.03%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 61.44%;top: 28.59%;width: 8.83%;height: 1.03%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "私はモモ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 71.97%;top: 29.27%;width: 9.57%;height: 0.94%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 71.97%;top: 29.27%;width: 9.57%;height: 0.94%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "日本へようこそ<br/>エミコ叔母さん!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 61.65%;top: 35.56%;width: 16.91%;height: 1.48%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 61.65%;top: 35.56%;width: 16.91%;height: 1.48%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ご丁寧に<br/>どうも"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 29.52%;top: 38.00%;width: 12.13%;height: 1.03%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 29.52%;top: 38.00%;width: 12.13%;height: 1.03%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "人形を探してる<br/>アーマを見つけて<br/>幸運でしたよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 29.84%;top: 39.15%;width: 17.55%;height: 1.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 29.84%;top: 39.15%;width: 17.55%;height: 1.71%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "私達が<br/>いなければ<br/>迷子ですよ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 65.80%;top: 37.82%;width: 11.91%;height: 1.95%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 65.80%;top: 37.82%;width: 11.91%;height: 1.95%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "その通りよアーマ<br/>いとこと叔母に<br/>会えたのは幸運ね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 22.93%;top: 46.08%;width: 19.04%;height: 1.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 22.93%;top: 46.08%;width: 19.04%;height: 1.53%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "着陸から<br/>1時間も経たずに<br/>約束破って!<br/>見つから<br/>なかったら<br/>どうするのよ!"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 61.44%;top: 46.03%;width: 11.81%;height: 2.98%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+		,"style": "font-size: 13px;left: 61.44%;top: 46.03%;width: 11.81%;height: 2.98%;border-radius: 30%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あの…少し助言ねエミコ。<br/>娘達の言葉は本気にしないで。<br/>彼女達はあなたの思う程<br/>良い子じゃないの"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 26.22%;top: 55.75%;width: 21.17%;height: 2.30%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 26.22%;top: 55.75%;width: 21.17%;height: 2.30%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "そうだとしても<br/>はぐれないように<br/>してもらわないと"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 25.59%;top: 63.56%;width: 16.38%;height: 1.50%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 25.59%;top: 63.56%;width: 16.38%;height: 1.50%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "安全じゃないのは理解して<br/>特に旅行中はね、分かった?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 62.18%;top: 55.89%;width: 26.81%;height: 1.60%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 62.18%;top: 55.89%;width: 26.81%;height: 1.60%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "旅行の話は<br/>行く前にすべきね<br/>目立ち過ぎよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 38.88%;top: 65.52%;width: 19.04%;height: 1.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 38.88%;top: 65.52%;width: 19.04%;height: 1.81%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "車に行くまで<br/>手を繋いでね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 73.14%;top: 65.54%;width: 14.36%;height: 1.62%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 73.14%;top: 65.54%;width: 14.36%;height: 1.62%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<で…あれが<br/>私達のいとこ?>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 25.90%;top: 78.57%;width: 13.72%;height: 2.14%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 25.90%;top: 78.57%;width: 13.72%;height: 2.14%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<あまり<br/>印象無いわね>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 20.59%;top: 87.49%;width: 16.06%;height: 1.50%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 20.59%;top: 87.49%;width: 16.06%;height: 1.50%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<彼女がアンタを<br/>地面に叩きつけたのは<br/>笑える話ね>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 67.39%;top: 78.40%;width: 28.72%;height: 2.09%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 67.39%;top: 78.40%;width: 28.72%;height: 2.09%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<もう<br/>マグレ当たりよ<br/>妙な髪もあったし>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 75.90%;top: 87.11%;width: 22.13%;height: 1.85%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 75.90%;top: 87.11%;width: 22.13%;height: 1.85%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<おじいちゃんを<br/>唸らすには<br/>もっとやらないと>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 4.41%;top: 89.88%;width: 18.51%;height: 2.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 4.41%;top: 89.88%;width: 18.51%;height: 2.56%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<それは<br/>確かね<br/>でも…>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 7.39%;top: 94.30%;width: 12.55%;height: 1.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 7.39%;top: 94.30%;width: 12.55%;height: 1.76%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<おじいちゃんと会う前に<br/>彼女がどんなものか<br/>見ておこうかな>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 55.90%;top: 89.51%;width: 24.36%;height: 2.32%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 55.90%;top: 89.51%;width: 24.36%;height: 2.32%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<楽しみね>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 80.80%;top: 90.52%;width: 15.53%;height: 2.04%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;font-weight: bold;"
+		,"style": "font-size: 14px;left: 80.80%;top: 90.52%;width: 15.53%;height: 2.04%;border-radius: 40%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

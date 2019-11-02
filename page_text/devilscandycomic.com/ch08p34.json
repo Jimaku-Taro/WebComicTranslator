@@ -1,42 +1,52 @@
 [
 	{
 		"text": "こいつの<br/>笛盗って<br/>屁かけて<br/>やろう"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 41.77%;top: 4.78%;width: 9.67%;height: 7.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 41.77%;top: 4.78%;width: 9.67%;height: 7.54%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "いや、<br/>ズボン盗って<br/>ケツで演奏<br/>させようぜ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 54.06%;top: 4.87%;width: 13.84%;height: 7.04%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 54.06%;top: 4.87%;width: 13.84%;height: 7.04%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "お尻じゃ<br/>演奏できないよ。<br/>必要なのは特別な<br/>マウスピースで…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 72.91%;top: 5.00%;width: 16.11%;height: 8.38%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 72.91%;top: 5.00%;width: 16.11%;height: 8.38%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ハックル<br/>ブルック、<br/>楽器はもう<br/>買ってやれん。<br/>自立しなさい"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 30.07%;top: 54.83%;width: 13.25%;height: 11.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 30.07%;top: 54.83%;width: 13.25%;height: 11.15%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "お前はダンプ<br/>スタンパー家の<br/>一員だ"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 47.49%;top: 55.91%;width: 12.65%;height: 3.69%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 12px;left: 47.49%;top: 55.91%;width: 12.65%;height: 3.69%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "こんな目に<br/>あわされる<br/>謂れはない"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 46.66%;top: 59.93%;width: 14.08%;height: 5.03%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;font-weight: normal;"
+		,"style": "font-size: 12px;left: 46.66%;top: 59.93%;width: 14.08%;height: 5.03%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ダンプスタンパー家<br/>になりたくないよ!"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 8.23%;top: 69.40%;width: 15.16%;height: 4.44%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 13px;left: 8.23%;top: 69.40%;width: 15.16%;height: 4.44%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何で他の子に<br/>狙われると思う?<br/>息子の名前を<span style=\"font-weight: bold;\">ハックルブルック・<br/>ダンプスタンパー</span>って何考えてるの!"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 8.23%;top: 73.93%;width: 16.23%;height: 10.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 35%;font-weight: normal;"
+		,"style": "font-size: 13px;left: 8.23%;top: 73.93%;width: 16.23%;height: 10.31%;border-radius: 35%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "大人に<br/>なったら<br/>名前を<br/>変えて…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 42.84%;top: 71.33%;width: 10.74%;height: 7.46%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 35%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 42.84%;top: 71.33%;width: 10.74%;height: 7.46%;border-radius: 35%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ロック<br/>スターに<br/>オレはなる!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 79.12%;top: 71.08%;width: 10.62%;height: 6.12%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 35%;font-weight: bold;"
+		,"style": "font-size: 14px;left: 79.12%;top: 71.08%;width: 10.62%;height: 6.12%;border-radius: 35%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

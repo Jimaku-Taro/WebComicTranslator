@@ -1,38 +1,47 @@
 [
 	{
 		"text": "ロックンロール"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 41%;top: 5%;width: 145px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 41%;top: 5%;width: 145px;height: 28px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "絵:Tetra @tetrablock"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 26%;top: 7%;width: 218px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 26%;top: 7%;width: 218px;height: 28px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "話:BIKKURI"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 52%;top: 7%;width: 166px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 52%;top: 7%;width: 166px;height: 28px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "どんな一日<br/>だった?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 49%;top: 11%;width: 82px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 49%;top: 11%;width: 82px;height: 42px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "最高の<br/>ヘビィメタルに<br/>巻き込まれたよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 27%;top: 33%;width: 138px;height: 71px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 27%;top: 33%;width: 138px;height: 71px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "死にそう<br/>と言うか<br/>マジで<br/>死にかけた"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 31.5%;top: 40%;width: 126px;height: 93px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 31.5%;top: 40%;width: 126px;height: 93px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ロックン<br/>ロールで<br/>死にかけたの?<br/>母さん<br/>誇らしいわ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 56%;top: 56.5%;width: 104px;height: 110px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 56%;top: 56.5%;width: 104px;height: 110px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "悪く<br/>ないぞ<br/>息子よ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 38%;top: 76%;width: 81px;height: 73px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 38%;top: 76%;width: 81px;height: 73px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "オレも愛してるよ<br/>クソども"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 60%;top: 91.5%;width: 125px;height: 55px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 60%;top: 91.5%;width: 125px;height: 55px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

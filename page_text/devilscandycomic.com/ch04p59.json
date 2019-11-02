@@ -1,22 +1,27 @@
 [
 	{
 		"text": "やり方<br/>わかるか?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 15%;top: 3%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 15%;top: 3%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "エリオット<br/>何なの<br/>これは?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 33%;top: 12%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 33%;top: 12%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "挑戦?"
-		,"style": "font-size: 33px;color: black;background-color: white;left: 65.9%;top: 21.5%;border-radius: 20%;"
+		,"style": "font-size: 33px;left: 65.9%;top: 21.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ラアァ!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 82.3%;top: 57%;font-weight: bold;border-radius: 10%;"
+		,"style": "font-size: 20px;left: 82.3%;top: 57%;border-radius: 10%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "クッ！"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 72%;top: 87.1%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 17px;left: 72%;top: 87.1%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 ]

@@ -1,54 +1,67 @@
 [
 	{
 		"text": "人生<br/>最悪の<br/>夜だ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 57.50%;top: 0.47%;width: 12.87%;height: 12.34%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 57.50%;top: 0.47%;width: 12.87%;height: 12.34%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "はぁ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 55.27%;top: 0.63%;width: 5.74%;height: 2.52%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 55.27%;top: 0.63%;width: 5.74%;height: 2.52%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "よく<br/>寝れたよ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 80.05%;top: 0.55%;width: 12.02%;height: 8.65%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 80.05%;top: 0.55%;width: 12.02%;height: 8.65%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "互いに<br/>離れるなよ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 2.71%;top: 39.07%;width: 12.34%;height: 13.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 2.71%;top: 39.07%;width: 12.34%;height: 13.36%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "互いに<br/>離れるな!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 2.71%;top: 39.07%;width: 12.34%;height: 13.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 2.71%;top: 39.07%;width: 12.34%;height: 13.36%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "15人<br/>全員同時に<br/>見きれん!<br/>はぐれたら<br/>自己責任だ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 53.78%;top: 31.53%;width: 14.26%;height: 14.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 53.78%;top: 31.53%;width: 14.26%;height: 14.54%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "りょ…<br/>了解"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 86.22%;top: 32.15%;width: 9.26%;height: 8.18%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 86.22%;top: 32.15%;width: 9.26%;height: 8.18%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ブルル…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 10.16%;top: 57.70%;width: 8.72%;height: 3.30%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 10.16%;top: 57.70%;width: 8.72%;height: 3.30%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "寒すぎて<br/>耳の感覚が<br/>無い…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 21.65%;top: 69.58%;width: 12.55%;height: 7.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 21.65%;top: 69.58%;width: 12.55%;height: 7.78%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "大丈夫<br/>セアラ<br/>狼なんて<br/>いない"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 69.84%;top: 62.03%;width: 12.34%;height: 11.24%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 69.84%;top: 62.03%;width: 12.34%;height: 11.24%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "先生は<br/>いるって…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 83.35%;top: 71.70%;width: 11.13%;height: 7.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 83.35%;top: 71.70%;width: 11.13%;height: 7.31%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "コスタの<br/>お腹の音じゃ<br/>ないの?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 5.59%;top: 82.31%;width: 20.96%;height: 9.20%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 5.59%;top: 82.31%;width: 20.96%;height: 9.20%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ミニ<br/>てめぇ<br/>ブッ殺す!"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 78.46%;top: 86.24%;width: 19.26%;height: 12.03%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 25px;left: 78.46%;top: 86.24%;width: 19.26%;height: 12.03%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

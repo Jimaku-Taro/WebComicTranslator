@@ -1,22 +1,27 @@
 [
 	{
 		"text": "ふんぐうぅぅ…"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 16.5%;top: 6.8%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 20px;left: 16.5%;top: 6.8%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "君が<br/>カズだね"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 74.5%;top: 37%;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 74.5%;top: 37%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "嬉しいよ"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 11.5%;top: 66.5%;border-radius: 0%;"
+		,"style": "font-size: 20px;left: 11.5%;top: 66.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "気をつけて。<br/>俺には<br/>爪がある"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 14%;top: 71.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 14%;top: 71.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "大丈夫だよ<br/>僕にも<br/>あるもん"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 53%;top: 66%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 53%;top: 66%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

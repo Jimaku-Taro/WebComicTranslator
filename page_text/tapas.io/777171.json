@@ -1,34 +1,42 @@
 [
 	{
 		"text": "あ、ロム!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 29.31%;top: 1.59%;width: 8.62%;height: 6.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 29.31%;top: 1.59%;width: 8.62%;height: 6.71%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "元気?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 57.50%;top: 3.41%;width: 9.26%;height: 6.59%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 57.50%;top: 3.41%;width: 9.26%;height: 6.59%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "質問<br/>するのは<br/>俺の方だろ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 61.22%;top: 18.66%;width: 10.53%;height: 10.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 61.22%;top: 18.66%;width: 10.53%;height: 10.61%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あら、ロム?<br/>すみませんが<br/>行かないと"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 23.56%;top: 33.66%;width: 11.17%;height: 13.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 23.56%;top: 33.66%;width: 11.17%;height: 13.54%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "わ…<br/>わかった"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 31.44%;top: 55.00%;width: 8.09%;height: 8.05%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 31.44%;top: 55.00%;width: 8.09%;height: 8.05%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "良い<br/>一日を!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 65.05%;top: 34.39%;width: 8.94%;height: 7.20%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 65.05%;top: 34.39%;width: 8.94%;height: 7.20%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "見つけた!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 55.90%;top: 75.85%;width: 8.09%;height: 6.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 55.90%;top: 75.85%;width: 8.09%;height: 6.22%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "畜生!"
-		,"style": "font-size: 55px;color: black;background-color: white;left: 49.63%;top: 86.71%;width: 16.28%;height: 12.07%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;font-weight:bold;"
+		,"style": "font-size: 55px;left: 49.63%;top: 86.71%;width: 16.28%;height: 12.07%;border-radius: 40%;font-weight:bold;"
+		,"class": "CENTER WHITE"
 	}
 ]

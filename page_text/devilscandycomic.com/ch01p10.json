@@ -1,14 +1,17 @@
 [
 	{
 		"text": "あー…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 27%;top: 6%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 27%;top: 6%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "やぁ<br/>君"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 32%;top: 8%;width: 55px;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 32%;top: 8%;width: 55px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "テレビでも<br/>どうかな"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 58%;top: 5%;width: 98px;height: 47px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 58%;top: 5%;width: 98px;height: 47px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 ]

@@ -1,0 +1,22 @@
+[
+	{
+		"text": "出かけてくる<br/>仕事してろ<br/>荒らすなよ"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 4.42%;top: 14.41%;width: 20.00%;height: 7.95%;border-radius: 35%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ただいま"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 38.42%;top: 67.32%;width: 11.00%;height: 3.32%;border-radius: 30%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "何してる?"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 47.75%;top: 70.05%;width: 19.17%;height: 2.85%;border-radius: 30%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "サボったら<br/>食うぞ"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 52.58%;top: 73.13%;width: 18.00%;height: 4.27%;border-radius: 30%;"
+		,"class": "CENTER"
+	}
+]

@@ -1,14 +1,17 @@
 [
 	{
 		"text": "もしもし?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 39.31%;top: 47.56%;width: 7.45%;height: 6.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 39.31%;top: 47.56%;width: 7.45%;height: 6.71%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "早急に<br/>用意しろ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 41.86%;top: 56.95%;width: 9.89%;height: 8.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 41.86%;top: 56.95%;width: 9.89%;height: 8.29%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ふぅ…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 70.27%;top: 31.83%;width: 6.60%;height: 3.66%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 70.27%;top: 31.83%;width: 6.60%;height: 3.66%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

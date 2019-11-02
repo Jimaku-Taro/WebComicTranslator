@@ -1,22 +1,27 @@
 [
 	{
 		"text": "あれ？<br/>何の音だろ?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 38.5%;top: 8.7%;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 38.5%;top: 8.7%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ね…ね…ねぇ<br/>ヒトミ、<br/>君すごい<br/>汗だけど、<br/>大丈夫？"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 14%;top: 46.5%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 14%;top: 46.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "あらやだ！<br/>確かに<br/>蒸し暑いわ！<br/>窓開けて<br/>くれる？？"
-		,"style": "font-size: 23px;color: black;background-color: white;left: 79.0%;top: 38.2%;font-weight: bold;border-radius: 35%;"
+		,"style": "font-size: 23px;left: 79.0%;top: 38.2%;border-radius: 35%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "あー…<br/>うん…"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 17.9%;top: 63.5%;border-radius: 10%;"
+		,"style": "font-size: 17px;left: 17.9%;top: 63.5%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "さよならカズ明日の<br/>ファッションショーで<br/>会おうね！！！"
-		,"style": "font-size: 23.1px;color: black;background-color: white;left: 69.1%;top: 61.4%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 23.1px;left: 69.1%;top: 61.4%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 ]

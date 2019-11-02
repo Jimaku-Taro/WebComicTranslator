@@ -1,0 +1,37 @@
+[
+	{
+		"text": "う…"
+		,"style": "font-size: 12px;color: #C44654;background-color: white;left: 89.75%;top: 33.45%;width: 6.17%;height: 3.20%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "おめでとう!"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 17.75%;top: 74.26%;width: 15.00%;height: 5.58%;border-radius: 35%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "2つ目の罠が<br/>成功だ"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 49.25%;top: 55.16%;width: 12.67%;height: 6.76%;border-radius: 35%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お前の<br/>初の殺しだ"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 48.08%;top: 63.58%;width: 13.33%;height: 4.98%;border-radius: 35%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "死体だ"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 85.42%;top: 56.58%;width: 11.00%;height: 4.74%;border-radius: 35%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "皮を剥げ"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 63.92%;top: 74.73%;width: 11.50%;height: 2.61%;border-radius: 35%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "斧を使え"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 87.08%;top: 83.99%;width: 10.00%;height: 7.47%;border-radius: 35%;"
+		,"class": "CENTER"
+	}
+]

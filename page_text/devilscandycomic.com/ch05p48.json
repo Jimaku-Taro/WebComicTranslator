@@ -1,38 +1,47 @@
 [
 	{
 		"text": "もしオレが<br/>彼女を血を<br/>飲むことが<br/>心配なら…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 43%;top: 3.5%;width: 96px;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 43%;top: 3.5%;width: 96px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "オレは<br/>ストレート<br/>エッジだ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 79.5%;top: 20.5%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 79.5%;top: 20.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "血液銀行か<br/>レストランの<br/>悪魔の血しか<br/>飲まない"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 20%;top: 34.5%;width: 127px;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 20%;top: 34.5%;width: 127px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "パンドラ..."
-		,"style": "font-size: 16px;color: black;background-color: white;left: 63.5%;top: 36%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 63.5%;top: 36%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "君<br/>行きたい?"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 63%;top: 40%;border-radius: 0%;"
+		,"style": "font-size: 17px;left: 63%;top: 40%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ソレ問題?"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 20%;top: 87.8%;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 20%;top: 87.8%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "むむむぐぐぐ…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 37%;top: 69.3%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 37%;top: 69.3%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "OK"
-		,"style": "font-size: 23px;color: black;background-color: white;left: 62.8%;top: 70%;border-radius: 0%;"
+		,"style": "font-size: 23px;left: 62.8%;top: 70%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "少し<br/>待って"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 67.5%;top: 70.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 67.5%;top: 70.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

@@ -2,17 +2,21 @@
 	{
 		"text": "ハロー"
 		,"style": "font-size: 14px;color: #605173;background-color: #C0B8C7;left: 580px;top: 25px;width: 52px; height: 17px;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"class": ""
 	}
 	,{
 		"text": "２人は見たこと<br/>ない顔だね。<br/>聖ジュード高校の<br/>生徒かい?"
 		,"style": "font-size: 14px;color: #605173;background-color: #C0B8C7;left: 577px;top: 49px;width: 140px; height: 82px;text-align: center;border-radius: 40%;"
+		,"class": ""
 	}
 	,{
 		"text": "私達は<br/>転校生よ"
 		,"style": "font-size: 14px;color: #672B87;background-color: #B292C1;left: 536px;top: 178px;width: 66px; height: 36px;text-align: center;border-radius: 20%;"
+		,"class": ""
 	}
 	,{
 		"text": "へぇ<br/>いいね"
 		,"style": "font-size: 12px;color: #605173;background-color: #C0B8C7;left: 705px;top: 371px;width: 38px; height: 35px;text-align: center;border-radius: 20%;"
+		,"class": ""
 	}
 ]

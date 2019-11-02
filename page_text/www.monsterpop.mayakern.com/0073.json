@@ -2,41 +2,51 @@
 	{
 		"text": "信じれない<br/>最初の授業で寝ちゃった!!!!"
 		,"style": "font-size: 14px;color: #2B2A19;background-color: #FEF14C;left: 41px;top: 28px;width: 186px;height: 40px;tdisplay: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "でも良いニュースね<br/>フラニーが恋に落ちたって<br/>#一つ目でウィンクしてる<br/>#francantations"
 		,"style": "font-size: 14px;color: #2B2A19;background-color: #FEF14C;left: 76px;top: 69px;width: 234px;height: 80px;tdisplay: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "違うってば　黙って!!<br/>#私にウィンクしないで<br/>#目に問題があるみたいよ<br/>#大きな単眼の問題ね　ハハ<br/>#monstertonic"
 		,"style": "font-size: 14px;color: #261E22;background-color: #BF8DBE;left: 482px;top: 28px;width: 290px;height: 98px;tdisplay: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "それで<br/>次は？"
-		,"style": "font-size: 14px;color: #704B26;background-color: #FFF24F;left:41px;top: 166px;width: 69px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #704B26;background-color: #FFF24F;left:41px;top: 166px;width: 69px;height: 50px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "私は文書館で<br/>初シフト、<br/>でも１時に休憩"
-		,"style": "font-size: 14px;color: #441F47;background-color: #BF8DBE;left:49px;top: 232px;width: 138px;height: 83px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #441F47;background-color: #BF8DBE;left:49px;top: 232px;width: 138px;height: 83px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ランチ<br/>デート?"
-		,"style": "font-size: 14px;color: #704B26;background-color: #FFF24F;left: 165px;top: 190px;width: 51px;height: 31px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #704B26;background-color: #FFF24F;left: 165px;top: 190px;width: 51px;height: 31px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "分かってる<br/>でしょ!!"
-		,"style": "font-size: 12px;color: #441F47;background-color: #BF8DBE;left: 229px;top: 218px;width: 66px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 12px;color: #441F47;background-color: #BF8DBE;left: 229px;top: 218px;width: 66px;height: 39px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "OK<br/>後でね!"
-		,"style": "font-size: 14px;color: #704B26;background-color: #FFF24F;left: 467px;top: 145px;width: 77px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #704B26;background-color: #FFF24F;left: 467px;top: 145px;width: 77px;height: 37px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "良い<br/>シフトを!"
-		,"style": "font-size: 14px;color: #704B26;background-color: #FFF24F;left: 563px;top: 138px;width: 77px;height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #704B26;background-color: #FFF24F;left: 563px;top: 138px;width: 77px;height: 36px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ありがと!<br/>また<br/>1時にね"
-		,"style": "font-size: 14px;color: #441F47;background-color: #BF8DBE;left: 676px;top: 283px;width: 85px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #441F47;background-color: #BF8DBE;left: 676px;top: 283px;width: 85px;height: 53px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

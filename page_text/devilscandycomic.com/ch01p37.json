@@ -1,22 +1,27 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">危ねぇ!!</span>"
-		,"style": "font-size: 36px;color: black;background-color: white;left: 11%;top:7%;height: 57px;border-radius: 25%;"
+		,"style": "font-size: 36px;left: 11%;top:7%;height: 57px;border-radius: 25%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "いい<br/>だろう！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 57.5%;top: 7%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 57.5%;top: 7%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "お前が<br/><span style=\"font-weight: bold;\">その気</span>なら、<br/>本当の計画<br/>教えねぇ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 79.5%;top: 20%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 79.5%;top: 20%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "“本当の計画”？<br/>こんなこと<br/>する気は<br/>なかったのか？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 46%;top: 36%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 46%;top: 36%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "いや違うな。<br/>オレは取引した<br/>上質なパーツで…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 35.5%;top: 56.5%;width: 133px;height: 70px;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 35.5%;top: 56.5%;width: 133px;height: 70px;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

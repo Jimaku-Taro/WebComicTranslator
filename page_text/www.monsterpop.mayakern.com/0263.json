@@ -1,18 +1,22 @@
 [
 	{
 		"text": "でも<br/>分かるでしょ<br/>そんなに悪…"
-		,"style": "font-size: 14px;color: #693A09;background-color: #FFF775;left: 215px;top: 15px;width: 105px;height: 69px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #693A09;background-color: #FFF775;left: 215px;top: 15px;width: 105px;height: 69px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "雪!"
-		,"style": "font-size: 14px;color: #693A09;background-color: #FFF775;left: 592px;top: 83px;width: 53px;height: 30px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #693A09;background-color: #FFF775;left: 592px;top: 83px;width: 53px;height: 30px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "わぁ～"
-		,"style": "font-size: 14px;color: #167B69;background-color: #73FFE5;left: 330px;top: 235px;width: 78px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #167B69;background-color: #73FFE5;left: 330px;top: 235px;width: 78px;height: 29px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "初雪!<br/>ちょっと早すぎ、でも超キレイ!<span style=\"color: #7E7F60;\">#ジョージ 文章</span>"
-		,"style": "font-size: 13px;color: #2B2918;background-color: #FFF775;left: 335px;top: 415px;width: 208px;height: 58px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 13px;color: #2B2918;background-color: #FFF775;left: 335px;top: 415px;width: 208px;height: 58px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": "BOLD"
 	}
 ]

@@ -1,26 +1,32 @@
 [
 	{
 		"text": "あれ<br/>高いの…"
-		,"style": "font-size: 14px;color: #813D10;background-color: #FFFDB2;left: 70px;top: 10px;width: 93px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #813D10;background-color: #FFFDB2;left: 70px;top: 10px;width: 93px;height: 60px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "500$位"
-		,"style": "font-size: 14px;color: #007A70;background-color: #B0FEFE;left: 270px;top: 190px;width: 59px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #007A70;background-color: #B0FEFE;left: 270px;top: 190px;width: 59px;height: 39px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "マジで??"
-		,"style": "font-size: 14px;color: #813D10;background-color: #FFFDB2;left: 450px;top: 20px;width: 104px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #813D10;background-color: #FFFDB2;left: 450px;top: 20px;width: 104px;height: 22px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うん"
-		,"style": "font-size: 14px;color: #007A70;background-color: #B0FEFE;left: 700px;top: 200px;width: 36px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #007A70;background-color: #B0FEFE;left: 700px;top: 200px;width: 36px;height: 22px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うわぁ"
-		,"style": "font-size: 14px;color: #813D10;background-color: #FFFDB2;left: 483px;top: 270px;width: 45px;height: 25px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #813D10;background-color: #FFFDB2;left: 483px;top: 270px;width: 45px;height: 25px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ぐすん…"
-		,"style": "font-size: 14px;color: #3A7A01;background-color: #9EF383;left: 685px;top: 453px;width: 61px;height: 35px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #3A7A01;background-color: #9EF383;left: 685px;top: 453px;width: 61px;height: 35px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

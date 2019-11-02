@@ -1,18 +1,22 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">嫌だ!</span>"
-		,"style": "font-size:35px;color: black;background-color: white;left: 11.5%;top: 8.7%;border-radius: 20%;"
+		,"style": "font-size:35px;left: 11.5%;top: 8.7%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "僕はパンドラの<br/>命に責任がある！<br/>生まれた日を<br/>彼女の最期に<br/>してたまるか！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 74%;top: 12%;height: 125px;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 74%;top: 12%;height: 125px;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">僕は…僕は<br/>彼女にこの世界は<br/>美しい場所だって<br/>見せてあげ<br/>たいんだ！！</span>"
-		,"style": "font-size: 24px;color: black;background-color: white;left: 36.5%;top: 43%;border-radius: 50%;"
+		,"style": "font-size: 24px;left: 36.5%;top: 43%;border-radius: 50%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">パンドラ!!<br/>君には輝ける<br/>未来がある!!</span>"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 66%;top: 44%;width: 120px;border-radius: 20%;"
+		,"style": "font-size: 20px;left: 66%;top: 44%;width: 120px;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

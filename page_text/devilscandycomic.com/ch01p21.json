@@ -1,34 +1,42 @@
 [
 	{
 		"text": "女の子相手は<br/>恥ずかしいから<br/>自分用に恋人を<br/>ありあわせで<br/>作ったんだろ？"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 16%;top: 6.5%;width: 112px;height: 107px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 15px;left: 16%;top: 6.5%;width: 112px;height: 107px;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "うん。<br/>少し<br/>キモい"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 23.5%;top: 16.5%;width: 61px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 14px;left: 23.5%;top: 16.5%;width: 61px;height: 53px;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ニモー！<br/>もう止めて<br/>くれる?!"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 34.4%;top: 11.8%;width: 93px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 10%;"
+		,"style": "font-size: 17px;left: 34.4%;top: 11.8%;width: 93px;height: 58px;border-radius: 10%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "新入<br/>生?"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 8.7%;top: 18.5%;width: 33px;height: 25px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "font-size: 12px;left: 8.7%;top: 18.5%;width: 33px;height: 25px;border-radius: 20%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何の<br/>悪魔かな"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 13.2%;top: 19.8%;width: 55px;height: 44px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 13px;left: 13.2%;top: 19.8%;width: 55px;height: 44px;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "生物学への愛の<br/>ロマンスだけさ！<br/>ゼロから作った<br/>のも世界に誇示<br/>するためだし！"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 63%;top: 13%;border-radius: 30%;"
+		,"style": "font-size: 15px;left: 63%;top: 13%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "これは君の<br/>気まぐれな<br/>“ありあわせ”<br/>とは違う"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 57.3%;top: 52.7%;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 57.3%;top: 52.7%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "生きた女の子を<br/>作る以上に<br/>挑戦的なこと<br/>ってある？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 64.6%;top: 60.5%;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 64.6%;top: 60.5%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 ]

@@ -1,62 +1,77 @@
 [
 	{
 		"text": "マイロ、<br/>君に仕事をあげたら<br/>私の首が狙われそうで<br/>最初は怖かったんだ、<br/>でもよく考えれば<br/>もう狙われていた"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 10%;top: 4%;width: 147px;height: 127px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 10%;top: 4%;width: 147px;height: 127px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "カズの善対悪<br/>という考えに<br/>私は賛同できないが<br/>対称的な私でも<br/>スカーレット<br/>クラウン団体は<br/>この学校の敵に近いと<br/>考えざるを得ない"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 47%;top: 2%;width: 148px;height: 184px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 47%;top: 2%;width: 148px;height: 184px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "とにかく、<br/>奴らは君と<br/>雇い主にとって<br/>明白な敵だ。<br/>私は君を<br/>全力で守る"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 47%;top: 27.5%;width: 107px;height: 107px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 47%;top: 27.5%;width: 107px;height: 107px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "結局、<br/>私の平等の<br/>推進には…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 20%;top: 45%;width: 86px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 20%;top: 45%;width: 86px;height: 58px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "不公平と<br/>戦う必要が<br/>ある"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 46%;top: 46%;width: 77px;height: 49px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;left: 46%;top: 46%;width: 77px;height: 49px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "不公平と<br/>戦え!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 53%;top: 48%;width: 81px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 53%;top: 48%;width: 81px;height: 50px;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "平等を勧め<br/>不公平<br/>と戦え"
-		,"style": "font-size: 10px;color: black;background-color: white;left: 63.8%;top: 56%;width: 50px;height: 49px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 10px;left: 63.8%;top: 56%;width: 50px;height: 49px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "はい、<br/>はい…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 73%;top: 46%;width: 46px;height: 46px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 73%;top: 46%;width: 46px;height: 46px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "パンドラ副校長、<br/>飛行要塞に<br/>学校を改造して、<br/>スカーレット<br/>クラウン<br/>アカデミーに<br/>即攻撃開始だ!"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 9.5%;top: 63%;width: 115px;height: 110px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "font-size: 12px;left: 9.5%;top: 63%;width: 115px;height: 110px;border-radius: 20%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "絶対に<br/>ヤメテ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 27%;top: 64%;width: 121px;height: 48px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 27%;top: 64%;width: 121px;height: 48px;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ニモが<br/>いないと<br/>これだ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 45%;top: 62%;width: 123px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 45%;top: 62%;width: 123px;height: 77px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "次に私に<br/>言いに来る時は<br/>彼を連れて<br/>来てください!<br/>非常ブレーキは<br/>必要ですよ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 44%;top: 87%;width: 153px;height: 127px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 44%;top: 87%;width: 153px;height: 127px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ニモ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 86.5%;top: 63.5%;width: 64px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 86.5%;top: 63.5%;width: 64px;height: 38px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ずっと<br/>会ってない<br/>気がする!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 85%;top: 66%;width: 95px;height: 88px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 85%;top: 66%;width: 95px;height: 88px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "教室に<br/>戻らないと!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 85%;top: 79%;width: 85px;height: 64px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 85%;top: 79%;width: 85px;height: 64px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

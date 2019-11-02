@@ -1,0 +1,27 @@
+[
+	{
+		"text": "分かってた!"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 3.75%;top: 5.10%;width: 10.83%;height: 1.90%;border-radius: 35%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お前が<br/>裏切るのは!"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 33.25%;top: 13.52%;width: 12.67%;height: 5.81%;border-radius: 35%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "よくも!"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 78.08%;top: 7.12%;width: 14.33%;height: 2.37%;border-radius: 35%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お前は<br/>魔女だ<br/>狼じゃ<br/>ない!"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 85.08%;top: 22.18%;width: 11.33%;height: 7.00%;border-radius: 35%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お前は汚れた!"
+		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 0.58%;top: 32.79%;width: 21.83%;height: 3.32%;border-radius: 35%;transform:rotate(-15deg);"
+		,"class": "CENTER"
+	}
+]

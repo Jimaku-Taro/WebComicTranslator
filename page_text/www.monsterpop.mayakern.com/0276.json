@@ -1,18 +1,22 @@
 [
 	{
 		"text": "そして…"
-		,"style": "font-size: 14px;color: #FB76C9;background-color: #71335C;left: 190px;top: 100px;width: 91px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #FB76C9;background-color: #71335C;left: 190px;top: 100px;width: 91px;height: 38px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "これが!"
-		,"style": "font-size: 14px;color: #AE47BA;background-color: #F8C2FE;left: 200px;top: 155px;width: 96px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #AE47BA;background-color: #F8C2FE;left: 200px;top: 155px;width: 96px;height: 38px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "全く<br/>新しい…!!!"
-		,"style": "font-size: 14px;color: #9E750C;background-color: #FEFBAE;left: 195px;top: 350px;width: 114px;height: 54px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #9E750C;background-color: #FEFBAE;left: 195px;top: 350px;width: 114px;height: 54px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "サシャ!!!!"
-		,"style": "font-size: 14px;color: #8B7C91;background-color: #FEFFFF;left: 610px;top: 25px;width: 87px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #8B7C91;background-color: #FEFFFF;left: 610px;top: 25px;width: 87px;height: 42px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

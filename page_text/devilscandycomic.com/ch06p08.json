@@ -1,30 +1,37 @@
 [
 	{
 		"text": "何で子供は<br/>こんなに腐ってて<br/>ワガママなのか<br/>理解できないな"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 17.5%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 17.5%;top: 5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "騙し盗み<br/>人を傷つけて<br/>後悔もない…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 49%;top: 6.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 49%;top: 6.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "何のために？<br/>見せびらかす<br/>ためではない<br/>のは確かだ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 76%;top: 21.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 76%;top: 21.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "いや…お前を<br/>突き動かす<br/>ものはわかる"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 13.5%;top: 37%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 13.5%;top: 37%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "不安だ"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 73%;top: 40%;border-radius: 0%;"
+		,"style": "font-size: 25px;left: 73%;top: 40%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "それで、俺に<br/>迷惑をかけた<br/>代償に…"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 39.5%;top: 56.5%;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 39.5%;top: 56.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "釣り合うのは<br/>お前が友達に<br/>ブチ撒けることだ<br/><span style=\"font-weight: bold;\">お前が隠している<br/>思い出せる限りの<br/>恥ずかしい話を<br/>全てな</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 46%;top: 66%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 46%;top: 66%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

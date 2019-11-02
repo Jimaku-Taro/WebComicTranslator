@@ -1,22 +1,27 @@
 [
 	{
 		"text": "消防士"
-		,"style": "font-size: 35px;color: black;background-color: white;left: 27%;top: 5%;font-weight: bold;width: 385px;border-radius: 0%;"
+		,"style": "font-size: 35px;left: 27%;top: 5%;width: 385px;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "まだ<br/>全員<br/>逃げ出せて<br/>ないと<br/>思う!!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 61%;top: 10%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 61%;top: 10%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "恐れ<br/>るな！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 42.7%;top: 33%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 42.7%;top: 33%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "オレが<br/>救って<br/>みせる！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 61%;top: 32%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 61%;top: 32%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "消防"
 		,"style": "font-size: 13px;color: black;background-color: #8EABAB;left: 56.5%;top: 41.7%;transform: rotate(-22deg);height: 29px;display: flex;align-items: center;border-radius: 0%;"
+		,"class": ""
 	}
 ]

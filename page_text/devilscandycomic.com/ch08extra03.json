@@ -1,26 +1,32 @@
 [
 	{
 		"text": "さらに他の大人の悪魔キャラがもし高校生だったらのイラストです！<br/>だって楽しいんだもん！<br/>これも楽しんで頂けると幸いです！<br/>更新は金曜に投稿します、それでは～"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 47.37%;top: 5.45%;width: 36.75%;height: 8.97%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 47.37%;top: 5.45%;width: 36.75%;height: 8.97%;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "＜-- 高校のマイロ!<br/><br/>祖父や妹のためにバイトしており宿題をする時間はあまりありません。<br/>よくイジメられます。<br/>頑張れ、マイロ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 43.20%;top: 18.95%;width: 21.84%;height: 17.77%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 43.20%;top: 18.95%;width: 21.84%;height: 17.77%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "人のロッカーで何してる、お前？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 65.99%;top: 18.61%;width: 26.97%;height: 1.76%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 65.99%;top: 18.61%;width: 26.97%;height: 1.76%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "男子達!<br/><br/>エリオットはお終いですね。(オタクっぽい金持ちの子)"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 19.45%;top: 48.70%;width: 16.47%;height: 9.56%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 19.45%;top: 48.70%;width: 16.47%;height: 9.56%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "高校の<br/>ストラツィオ<br/>＜---<br/><br/>学級委員長。<br/>下らないことに付き合う暇は無い。"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 43.56%;top: 64.55%;width: 15.99%;height: 14.92%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 43.56%;top: 64.55%;width: 15.99%;height: 14.92%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "高校のピア ---><br/><br/>男子を叩きのめすのが好き。いつも居残りさせられている。"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 43.44%;top: 82.99%;width: 14.80%;height: 12.24%;text-align: right;display: flex;flex-direction: column;align-items: right;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 43.44%;top: 82.99%;width: 14.80%;height: 12.24%;text-align: right;display: flex;flex-direction: column;align-items: right;justify-content: center;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 ]

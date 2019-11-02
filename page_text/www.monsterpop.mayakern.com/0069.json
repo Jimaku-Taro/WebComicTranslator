@@ -1,38 +1,47 @@
 [
 	{
 		"text": "カーン<br/>マヤ"
-		,"style": "font-size: 14px;color: #4E1933;background-color: #A02250;left: 187px;top: 171px;width: 49px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #4E1933;background-color: #A02250;left: 187px;top: 171px;width: 49px;height: 45px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ラング…<br/>パーシー"
-		,"style": "font-size: 14px;color: #4A1734;background-color: #E12C7A;left: 361px;top: 131px;width: 69px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #4A1734;background-color: #E12C7A;left: 361px;top: 131px;width: 69px;height: 50px;border-radius: 0%;"
+		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "はい!"
-		,"style": "font-size: 14px;color: #74292F;background-color: #EF92A5;left: 455px;top: 161px;width: 40px;height: 20px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #74292F;background-color: #EF92A5;left: 455px;top: 161px;width: 40px;height: 20px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "レイヌ、<br/>フランシス"
-		,"style": "font-size: 14px;color: #4A1734;background-color: #E12C7A;left: 435px;top: 8px;width: 70px;height: 44px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #4A1734;background-color: #E12C7A;left: 435px;top: 8px;width: 70px;height: 44px;border-radius: 0%;"
+		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "はい!"
-		,"style": "font-size: 14px;color: #482D5F;background-color: #C39CC8;left: 572px;top: 21px;width: 40px;height: 20px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #482D5F;background-color: #C39CC8;left: 572px;top: 21px;width: 40px;height: 20px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "彼って<span style=\"font-weight: bold;\">キュート</span><br/>じゃない？"
 		,"style": "font-size: 14px;color: #6C4626;background-color: #FAF16E;left: 335px;top: 196px;width: 118px;height: 41px;text-align: center;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "し…シッ!<br/>授業中よ!"
 		,"style": "font-size: 13px;color: #482D5F;background-color: #C39CC8;left: 484px;top: 207px;width: 59px;height: 49px;text-align: center;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "テンスリー、<br/>ジェネゼーブ"
-		,"style": "font-size: 14px;color: #4A1734;background-color: #E12C7A;left: 590px;top: 195px;width: 107px;height: 48px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #4A1734;background-color: #E12C7A;left: 590px;top: 195px;width: 107px;height: 48px;border-radius: 0%;"
+		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "はい!"
-		,"style": "font-size: 14px;color: #6C4626;background-color: #FAF16E;left: 736px;top: 240px;width: 40px;height: 20px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #6C4626;background-color: #FAF16E;left: 736px;top: 240px;width: 40px;height: 20px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

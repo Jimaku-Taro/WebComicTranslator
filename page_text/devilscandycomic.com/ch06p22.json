@@ -1,6 +1,7 @@
 [
 	{
 		"text": "お？"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 32%;top: 6%;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 32%;top: 6%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

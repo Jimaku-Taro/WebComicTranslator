@@ -1,0 +1,62 @@
+[
+	{
+		"text": "ありがとう"
+		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 4.08%;top: 5.75%;width: 10.67%;height: 2.61%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お嬢さん、こんな<br/>深夜にどちらに?"
+		,"style": "font-size: 13px;color: #5B3B87;background-color: white;left: 8.75%;top: 7.77%;width: 21.33%;height: 4.51%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お婆さんの所"
+		,"style": "font-size: 13px;color: #C44654;background-color: white;left: 74.75%;top: 7.77%;width: 18.50%;height: 4.15%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "やめた<br/>方がいい"
+		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 15.25%;top: 34.82%;width: 15.50%;height: 4.51%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お婆さんは<br/>君を一飲みに<br/>するだろう"
+		,"style": "font-size: 13px;color: #5B3B87;background-color: white;left: 33.25%;top: 34.58%;width: 15.67%;height: 6.64%;border-radius: 30%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "一瞬でだ"
+		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 57.58%;top: 34.34%;width: 10.00%;height: 4.39%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "でも<br/>行か<br/>ないと"
+		,"style": "font-size: 10px;color: #C44654;background-color: white;left: 69.25%;top: 35.17%;width: 5.83%;height: 6.64%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "本気<br/>かい?"
+		,"style": "font-size: 13px;color: #5B3B87;background-color: white;left: 76.92%;top: 36.71%;width: 5.83%;height: 4.51%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "うん"
+		,"style": "font-size: 10px;color: #C44654;background-color: white;left: 78.08%;top: 43.95%;width: 4.17%;height: 1.78%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "なら君に<br/>贈り物だ"
+		,"style": "font-size: 13px;color: #5B3B87;background-color: white;left: 21.42%;top: 57.35%;width: 12.00%;height: 4.63%;border-radius: 30%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "私の自由を<br/>君に貸そう"
+		,"style": "font-size: 13px;color: #5B3B87;background-color: white;left: 38.25%;top: 57.35%;width: 13.00%;height: 4.51%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "コレは<br/>君の物だ"
+		,"style": "font-size: 13px;color: #5B3B87;background-color: white;left: 69.58%;top: 57.24%;width: 12.33%;height: 4.74%;border-radius: 30%;"
+		,"class": "CENTER"
+	}
+]

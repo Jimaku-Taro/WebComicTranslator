@@ -1,30 +1,37 @@
 [
 	{
 		"text": "<span><ruby>成績値<rp>(</rp><rt>GPA</rt><rp>)</rp></ruby>も知りたい</span>って言ってたから<br/>私が見て教えたわ"
-		,"style": "font-size: 14px;color: #54006A;background-color: #EEB0FF;left: 205px;top: 20px;width: 152px;height: 94px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #54006A;background-color: #EEB0FF;left: 205px;top: 20px;width: 152px;height: 94px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "学生<br/>IDナンバーは?"
-		,"style": "font-size: 14px;color: #F63FB3;background-color: white;left: 230px;top: 145px;width: 103px;height: 43px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #F63FB3;background-color: white;left: 230px;top: 145px;width: 103px;height: 43px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それ<br/>君の仕事?"
-		,"style": "font-size: 14px;color: #715709;background-color: #FEFFB2;left: 415px;top: 15px;width: 87px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #715709;background-color: #FEFFB2;left: 415px;top: 15px;width: 87px;height: 57px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "…本当<br/>は違う"
-		,"style": "font-size: 14px;color: #54006A;background-color: #EEB0FF;left: 525px;top: 60px;width: 47px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #54006A;background-color: #EEB0FF;left: 525px;top: 60px;width: 47px;height: 39px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "フラニー<br/>君はワルね!!"
-		,"style": "font-size: 14px;color: #715709;background-color: #FEFFB2;left: 595px;top: 15px;width: 103px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #715709;background-color: #FEFFB2;left: 595px;top: 15px;width: 103px;height: 58px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "本当に<br/>彼のこと<br/>好きなのね"
-		,"style": "font-size: 14px;color: #715709;background-color: #FEFFB2;left: 675px;top: 78px;width: 80px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #715709;background-color: #FEFFB2;left: 675px;top: 78px;width: 80px;height: 56px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ジョージ<br/>やめて!!"
-		,"style": "font-size: 14px;color: #54006A;background-color: #EEB0FF;left: 710px;top: 153px;width: 77px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #54006A;background-color: #EEB0FF;left: 710px;top: 153px;width: 77px;height: 37px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

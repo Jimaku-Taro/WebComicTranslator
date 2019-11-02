@@ -1,14 +1,17 @@
 [
 	{
 		"text": "フラニーが<br/>正しい!!"
-		,"style": "font-size: 14px;color: #5B4526;background-color: #FCED50;left: 53px;top: 12px;width: 73px;height: 36px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "font-size: 14px;color: #5B4526;background-color: #FCED50;left: 53px;top: 12px;width: 73px;height: 36px;border-radius: 20%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "君は偏見がある<br/>私は君には<br/>勿体無い!"
-		,"style": "font-size: 14px;color: #5B4526;background-color: #FCED50;left: 242px;top: 22px;width: 102px;height: 68px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "font-size: 14px;color: #5B4526;background-color: #FCED50;left: 242px;top: 22px;width: 102px;height: 68px;border-radius: 20%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ふざけんな<br/>クソ野郎!!"
-		,"style": "font-size: 12px;color: #5B4526;background-color: #FCED50;left: 646px;top: 122px;width: 62px;height: 54px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+		,"style": "font-size: 12px;color: #5B4526;background-color: #FCED50;left: 646px;top: 122px;width: 62px;height: 54px;border-radius: 30%;"
+		,"class": "CENTER"
 	}
 ]

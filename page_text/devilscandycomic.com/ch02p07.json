@@ -1,30 +1,37 @@
 [
 	{
 		"text": "じ…<br/>時間がない<br/>カズ！<br/>学校が…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 9%;top: 7%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 9%;top: 7%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "こちらはエリオット<br/>・ヘムロック校長。<br/>“エリオット”でも<br/>気にしないよ、<br/><ruby style=\"font-weight: bold;\">校長<rp>(</rp><rt>princiPAL</rt><rp>)</rp></ruby>に<ruby style=\"font-weight: bold;\">友達<rp>(</rp><rt>PAL</rt><rp>)</rp></ruby>を<br/>含む主義さ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 23.8%;top: 4%;width: 134px;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 23.8%;top: 4%;width: 134px;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">学校が<br/>幽霊<br/>だらけだ!</span>"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 11%;top: 45%;border-radius: 20%;"
+		,"style": "font-size: 25px;left: 11%;top: 45%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "冗談好き<br/>ですね！<br/>幽霊は<br/>実在しないって<br/>皆知ってますよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 21.5%;top: 64.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 21.5%;top: 64.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "た…多分<br/>自分で<br/>見た方がいい"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 46%;top: 65%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 46%;top: 65%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "(おはよう<br/>ニモ)"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 54%;top: 71.5%;width: 93px;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 54%;top: 71.5%;width: 93px;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "(おはよう)"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 46%;top: 76.6%;height: 27px;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 46%;top: 76.6%;height: 27px;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

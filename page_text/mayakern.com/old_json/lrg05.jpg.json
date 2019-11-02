@@ -1,0 +1,32 @@
+[
+	{
+		"text": "ロボットは仕事を終え"
+		,"style": "font-size: 13px;color: black;background-color: #FFF7E0;left: 1.75%;top: 6.64%;width: 29.33%;height: 3.91%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "子供は母を見つけ"
+		,"style": "font-size: 13px;color: black;background-color: #FFF7E0;left: 33.75%;top: 7.12%;width: 26.50%;height: 3.68%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "未亡人は新たな愛を見つけた"
+		,"style": "font-size: 13px;color: black;background-color: #FFF7E0;left: 64.75%;top: 6.64%;width: 32.83%;height: 4.03%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ある日、１人の男が<br/>ロボットの少女だった<br/>ねじれた金属を見つけた"
+		,"style": "font-size: 13px;color: black;background-color: #FFF7E0;left: 36.08%;top: 25.86%;width: 30.17%;height: 5.46%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "彼女のハートを<br/>彼は持ち帰った"
+		,"style": "font-size: 13px;color: black;background-color: #FFF7E0;left: 69.08%;top: 25.98%;width: 23.83%;height: 4.03%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "それを元に彼は<br/>娘へ贈るオルゴールを作った"
+		,"style": "font-size: 13px;color: black;background-color: #FFF7E0;left: 18.92%;top: 58.24%;width: 34.17%;height: 3.56%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+]

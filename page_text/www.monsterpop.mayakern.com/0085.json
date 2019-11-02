@@ -1,66 +1,82 @@
 [
 	{
 		"text": "“エヴァ・アィア<br/>のデーモン：<br/>人間の内面の混乱<br/>及びその効果による<br/>現代社会における<br/>モンスターの記述”<br/>のコピー本を<br/>彼が持ってたの"
-		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 20px;top: 15px;width: 152px;height: 216px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 20px;top: 15px;width: 152px;height: 216px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "本の題名<br/>酷すぎる"
-		,"style": "font-size: 14px;color: #A14D1D;background-color: #FDFED3;left: 289px;top: 44px;width: 113px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A14D1D;background-color: #FDFED3;left: 289px;top: 44px;width: 113px;height: 78px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "シッ<br/>もう!!"
-		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 353px;top: 133px;width: 56px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 353px;top: 133px;width: 56px;height: 38px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "読んだ<br/>こと<br/>あるわ…"
-		,"style": "font-size: 14px;color: #13A88B;background-color: #D3FEFA;left: 474px;top: 163px;width: 60px;height: 59px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #13A88B;background-color: #D3FEFA;left: 474px;top: 163px;width: 60px;height: 59px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "とにかく、<br/>私位しかその本<br/>読まないと<br/>思ってたのよ!"
-		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 549px;top: 11px;width: 125px;height: 111px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 549px;top: 11px;width: 125px;height: 111px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "軽い<br/>読物じゃ<br/>ないから"
-		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 700px;top: 8px;width: 68px;height: 97px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 700px;top: 8px;width: 68px;height: 97px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "フラニー<br/>以外には<br/>そうね"
-		,"style": "font-size: 13px;color: #A14D1D;background-color: #FDFED3;left: 728px;top: 120px;width: 57px;height: 55px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 13px;color: #A14D1D;background-color: #FDFED3;left: 728px;top: 120px;width: 57px;height: 55px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ジョージ!"
-		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 716px;top: 197px;width: 74px;height: 24px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 716px;top: 197px;width: 74px;height: 24px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "でも彼が<br/>チャイコフ<br/>スキーの作品の<br/>大ファンって<br/>分かったの"
-		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 14px;top: 250px;width: 110px;height: 116px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 14px;top: 250px;width: 110px;height: 116px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "普段から<br/>読書はよく<br/>するって"
-		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 128px;top:390px;width: 83px;height: 85px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 128px;top:390px;width: 83px;height: 85px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "へー…"
-		,"style": "font-size: 14px;color: #13A88B;background-color: #D3FEFA;left: 270px;top: 400px;width: 56px;height: 24px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #13A88B;background-color: #D3FEFA;left: 270px;top: 400px;width: 56px;height: 24px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それで<br/>私達<br/>考えて…"
-		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 353px;top: 247px;width: 74px;height: 64px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 353px;top: 247px;width: 74px;height: 64px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "読書部を<br/>作ることに<br/>したの!"
-		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 438px;top: 263px;width: 97px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 438px;top: 263px;width: 97px;height: 79px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "君達も<br/>入りなさい!!"
-		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 427px;top: 446px;width: 106px;height: 44px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A319A0;background-color: #FDCAFE;left: 427px;top: 446px;width: 106px;height: 44px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "オタク<br/>臭いわね"
-		,"style": "font-size: 14px;color: #A14D1D;background-color: #FDFED3;left: 624px;top: 264px;width: 119px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A14D1D;background-color: #FDFED3;left: 624px;top: 264px;width: 119px;height: 60px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "オタク"
-		,"style": "font-size: 14px;color: #A14D1D;background-color: #FDFED3;left: 716px;top: 343px;width: 49px;height: 20px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A14D1D;background-color: #FDFED3;left: 716px;top: 343px;width: 49px;height: 20px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

@@ -1,18 +1,22 @@
 [
 	{
 		"text": "いつも<br/>変なガラクタ<br/>送ってくる"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 55.4%;top: 11.7%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 55.4%;top: 11.7%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ふむ？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 82.5%;top: 57%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 82.5%;top: 57%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ファッション<br/>雑誌？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 9%;top: 79%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 9%;top: 79%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "へぇ。<br/>リザードマン語<br/>だな"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 74%;top: 79%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 74%;top: 79%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

@@ -1,46 +1,57 @@
 [
 	{
 		"text": "ん…?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 32.13%;top: 2.56%;width: 5.43%;height: 6.83%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 32.13%;top: 2.56%;width: 5.43%;height: 6.83%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ルシーヌ!"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 53.40%;top: 1.83%;width: 16.91%;height: 8.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight:bold;"
+		,"style": "font-size: 30px;left: 53.40%;top: 1.83%;width: 16.91%;height: 8.29%;border-radius: 50%;font-weight:bold;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "最悪…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 73.40%;top: 14.27%;width: 6.60%;height: 5.98%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 73.40%;top: 14.27%;width: 6.60%;height: 5.98%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "元気～?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 20.64%;top: 36.22%;width: 7.87%;height: 6.95%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 20.64%;top: 36.22%;width: 7.87%;height: 6.95%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "相変わらず<br/>可愛いね!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 46.38%;top: 33.90%;width: 7.45%;height: 9.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 46.38%;top: 33.90%;width: 7.45%;height: 9.76%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "キスして<br/>くれよ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 58.72%;top: 47.44%;width: 7.23%;height: 8.66%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 58.72%;top: 47.44%;width: 7.23%;height: 8.66%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "挨拶して<br/>くれない<br/>なぁ…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 40.11%;top: 58.90%;width: 8.62%;height: 11.83%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 40.11%;top: 58.90%;width: 8.62%;height: 11.83%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "冷たい<br/>ねぇ…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 51.60%;top: 69.51%;width: 6.60%;height: 8.05%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 51.60%;top: 69.51%;width: 6.60%;height: 8.05%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ネズミ族は<br/>優しくない<br/>のかい?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 73.19%;top: 67.56%;width: 8.19%;height: 11.59%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 73.19%;top: 67.56%;width: 8.19%;height: 11.59%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "全く"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 52.98%;top: 89.39%;width: 4.89%;height: 4.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 52.98%;top: 89.39%;width: 4.89%;height: 4.63%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "もう"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 72.87%;top: 89.27%;width: 6.17%;height: 5.24%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 72.87%;top: 89.27%;width: 6.17%;height: 5.24%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

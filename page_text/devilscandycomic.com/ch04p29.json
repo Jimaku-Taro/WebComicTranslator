@@ -1,42 +1,52 @@
 [
 	{
 		"text": "確か死者は<br/><span style=\"font-weight: bold;\">そんなに</span><br/>いないはず…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 27.7%;top: 25%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 27.7%;top: 25%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "やぁ<br/>見知らぬ人<br/>緊張してるね<br/>親ですか？"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 43.5%;top: 5.5%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 43.5%;top: 5.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "娘は誇りだ<br/>ほら、あの娘"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 54%;top: 11%;width: 95px;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 54%;top: 11%;width: 95px;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "あ…いえ、<br/>私はヘムロック<br/>ハートの<br/>校長です"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 76%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 76%;top: 6%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "言いにくいですが<br/>あなたの子供達に<br/>勝ち目はなさそう<br/>ですな"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 19%;top: 37.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 19%;top: 37.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "本当に<br/>勝てると<br/>思います？"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 41.4%;top: 37.2%;border-radius: 20%;"
+		,"style": "font-size: 17px;left: 41.4%;top: 37.2%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "やってみるまで<br/>わかりません"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 78%;top: 38.7%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 78%;top: 38.7%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ああ、失礼。<br/>つまり…<br/>一般入試校は<br/>前例がありません。<br/>これは全く<br/>未知の領域、<br/>と言えます"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 10.5%;top: 63.8%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 10.5%;top: 63.8%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "躓いたり<br/>落ちることも<br/>あるでしょうが、<br/>新たな世界へ道を<br/>作ると信じてます"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 53.5%;top: 64.5%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 53.5%;top: 64.5%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "今後とも<br/>よろしく<br/>♥"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 84.5%;top: 90.2%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 84.5%;top: 90.2%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

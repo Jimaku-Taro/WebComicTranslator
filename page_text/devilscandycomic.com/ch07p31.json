@@ -1,66 +1,82 @@
 [
 	{
 		"text": "スゲェェェ!!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 54.5%;top: 7.5%;width: 110px;height: 20px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;transform: rotate(-8deg);border-radius: 0%;"
+		,"style": "font-size: 14px;left: 54.5%;top: 7.5%;width: 110px;height: 20px;transform: rotate(-8deg);border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "クレイジー!"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 72%;top: 4%;width: 69px;height: 27px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;transform: rotate(-8deg);border-radius: 0%;"
+		,"style": "font-size: 12px;left: 72%;top: 4%;width: 69px;height: 27px;transform: rotate(-8deg);border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "これは<br/>スゴイことに<br/>なりそう…"
-		,"style": "font-size: 10px;color: black;background-color: white;left: 90%;top: 4%;width: 67px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;transform: rotate(3deg);border-radius: 0%;"
+		,"style": "font-size: 10px;left: 90%;top: 4%;width: 67px;height: 42px;transform: rotate(3deg);border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ハハッ!"
-		,"style": "font-size: 10px;color: black;background-color: white;left: 90%;top: 8.5%;width: 40px;height: 16px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 10px;left: 90%;top: 8.5%;width: 40px;height: 16px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "トレモロがT.B.<br/>サーペントロード?<br/>有名な作曲家の?"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 47.5%;top: 23.5%;width: 126px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;left: 47.5%;top: 23.5%;width: 126px;height: 80px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "公の場に<br/>出てきたこと<br/>無いのに…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 47%;top: 31%;width: 105px;height: 74px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 47%;top: 31%;width: 105px;height: 74px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "マジで?<br/>有名な音楽家が<br/>ヤギーに挑戦<br/>するの?"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 73%;top: 23%;width: 91px;height: 91px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;left: 73%;top: 23%;width: 91px;height: 91px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "そりゃ<br/>超スゲェ!"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 86%;top: 24.5%;width: 63px;height: 63px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;left: 86%;top: 24.5%;width: 63px;height: 63px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "わぁ<br/>君って<br/>有名人<br/>みたいね!"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 8.5%;top: 48.5%;width: 94px;height: 71px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;left: 8.5%;top: 48.5%;width: 94px;height: 71px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "サイン<br/>欲しいな!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 23%;top: 57%;width: 87px;height: 64px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 23%;top: 57%;width: 87px;height: 64px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ヤギー<br/>君って<br/>スゴイ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 79.5%;top: 48%;width: 81px;height: 73px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 79.5%;top: 48%;width: 81px;height: 73px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "君は挑戦<br/>受けるん<br/>だろ?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 77%;top: 56%;width: 82px;height: 68px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 77%;top: 56%;width: 82px;height: 68px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "当然<br/>でしょ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 86%;top: 59%;width: 74px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 86%;top: 59%;width: 74px;height: 56px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "受けて<br/>たつ"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 72%;top: 70%;width: 69px;height: 69px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 18px;left: 72%;top: 70%;width: 69px;height: 69px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "かかって<br/>来な"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 77%;top: 75%;width: 72px;height: 86px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 18px;left: 77%;top: 75%;width: 72px;height: 86px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "7章：完"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 10%;top: 93%;width: 187px;height: 32px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 30px;left: 10%;top: 93%;width: 187px;height: 32px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

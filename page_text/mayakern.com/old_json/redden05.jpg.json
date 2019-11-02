@@ -1,0 +1,27 @@
+[
+	{
+		"text": "コートだ"
+		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 16.75%;top: 33.39%;width: 11.00%;height: 2.49%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "君を守る"
+		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 37.58%;top: 35.77%;width: 10.33%;height: 4.74%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "行け!"
+		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 59.92%;top: 33.27%;width: 8.67%;height: 2.61%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "お婆さんを<br/>待たせるな!"
+		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 66.92%;top: 35.53%;width: 14.33%;height: 5.81%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ありがとう"
+		,"style": "font-size: 11px;color: #C44654;background-color: white;left: 61.08%;top: 59.13%;width: 10.33%;height: 2.49%;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+]

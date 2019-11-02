@@ -1,54 +1,67 @@
 [
 	{
 		"text": "あぁ<br/>よかった<br/>来た！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 62.5%;top: 19%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 62.5%;top: 19%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "結局来た"
 		,"style": "font-size: 20px;color: white;background-color: black;left: 37.5%;top: 37.5%;border-radius: 20%;"
+		,"class": ""
 	}
 	,{
 		"text": "彼女は<br/>来たいのか<br/>来たくない<br/>のか？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 76.5%;top: 35.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 76.5%;top: 35.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "時間が<br/>ないから、<br/>単刀直入に<br/>いくよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 16%;top: 47%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 16%;top: 47%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "我が校は<br/>かってない規模の<br/>危機に直面してる。<br/>私達の名誉が<br/>試され…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 27%;top: 51%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 27%;top: 51%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "エヘン…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 17.5%;top: 57%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 17.5%;top: 57%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "エッヘン!"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 35.5%;top: 59.4%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 18px;left: 35.5%;top: 59.4%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "あー、うん…<br/>彼はドレイク、<br/>ヘムロック<br/>ハート<br/>ナイトメアズ<br/>のリーダー"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 49.5%;top: 47%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 49.5%;top: 47%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "いかにも<br/>オレだ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 83.5%;top: 48%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 83.5%;top: 48%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ドレイク…<br/>カズに説明<br/>したいの<br/>かい？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 50%;top: 74%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 50%;top: 74%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "いえ、<br/>続けて"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 84.2%;top: 74%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 84.2%;top: 74%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "えっと<br/>…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 49.5%;top: 86%;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 49.5%;top: 86%;border-radius: 40%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "何を言おうと<br/>してたん<br/>だっけ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 50%;top: 89.7%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 50%;top: 89.7%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

@@ -1,42 +1,52 @@
 [
 	{
 		"text": "ごめんね<br/>ただ…<br/>僕は…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 40%;top: 6.2%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 40%;top: 6.2%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "話さなくて<br/>いいわ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 61%;top: 29.3%;height: 53px;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 61%;top: 29.3%;height: 53px;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "あたし何<br/>考えてるの、<br/>部屋に<br/>引きずって<br/>来るなんて？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 7.5%;top: 47.3%;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 7.5%;top: 47.3%;border-radius: 40%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "一瞬で全部<br/>切り上げ<br/>ちゃって…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 13%;top: 55.5%;border-radius: 30%;"
+		,"style": "font-size: 15px;left: 13%;top: 55.5%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "忘れて。<br/>全部<br/>やめましょ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 43%;top: 48.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 43%;top: 48.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "えっ？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 49%;top: 58%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 49%;top: 58%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "い…いや！<br/>大丈夫さ!<br/>君の部屋<br/>見てみたいし"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 6.5%;top: 66%;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 6.5%;top: 66%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "…外で待つん<br/>じゃなくてさ…<br/>何か妙だけど"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 8%;top: 74%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 8%;top: 74%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "あ…あなたが<br/><span style=\"font-weight: bold;\">どう</span>思うかしら?<br/>変だし。家族しか<br/>見たことないし"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 42%;top: 65.5%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 42%;top: 65.5%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ち…<br/>ちょっと!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 63%;top: 67%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 63%;top: 67%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 ]

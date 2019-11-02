@@ -1,26 +1,32 @@
 [
 	{
 		"text": "君は恐怖と<br/>向き合う<br/>必要がある"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 22.93%;top: 14.15%;width: 14.57%;height: 13.92%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 22.93%;top: 14.15%;width: 14.57%;height: 13.92%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "それは君の<br/>目の前にある"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 35.80%;top: 1.65%;width: 27.23%;height: 7.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 35.80%;top: 1.65%;width: 27.23%;height: 7.15%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "自らを学び、<br/>その時　準備ができる"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 65.16%;top: 26.57%;width: 31.28%;height: 10.46%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 65.16%;top: 26.57%;width: 31.28%;height: 10.46%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "考えろ、スケア"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 36.97%;top: 52.28%;width: 19.04%;height: 3.93%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 36.97%;top: 52.28%;width: 19.04%;height: 3.93%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "頭が…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 88.46%;top: 43.47%;width: 5.32%;height: 7.08%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 88.46%;top: 43.47%;width: 5.32%;height: 7.08%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "皆が見てる"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 33.03%;top: 67.92%;width: 10.21%;height: 6.60%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 33.03%;top: 67.92%;width: 10.21%;height: 6.60%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 ]

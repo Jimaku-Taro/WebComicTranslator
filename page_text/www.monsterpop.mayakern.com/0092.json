@@ -1,26 +1,32 @@
 [
 	{
 		"text": "ねぇ ねぇ<br/>ここよ!"
-		,"style": "font-size: 14px;color: #6F4510;background-color: #FFF159;left: 54px;top: 33px;width: 67px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #6F4510;background-color: #FFF159;left: 54px;top: 33px;width: 67px;height: 56px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "あぁうんOK<br/>ありがと…"
-		,"style": "font-size: 14px;color: #981223;background-color: #FF798E;left: 168px;top: 112px;width: 77px;height: 64px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #981223;background-color: #FF798E;left: 168px;top: 112px;width: 77px;height: 64px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それで<br/>先生と何を<br/>話してたの?"
-		,"style": "font-size: 14px;color: #6F4510;background-color: #FFF159;left: 484px;top: 7px;width: 100px;height: 94px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #6F4510;background-color: #FFF159;left: 484px;top: 7px;width: 100px;height: 94px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "えっと…<br/>何でもない<br/>授業の事さ"
-		,"style": "font-size: 14px;color: #981223;background-color: #FF798E;left: 586px;top: 291px;width: 74px;height: 81px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #981223;background-color: #FF798E;left: 586px;top: 291px;width: 74px;height: 81px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "授業始まって<br/>ないじゃん!<br/>先読み?"
-		,"style": "font-size: 14px;color: #6F4510;background-color: #FFF159;left: 667px;top: 339px;width: 119px;height: 94px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #6F4510;background-color: #FFF159;left: 667px;top: 339px;width: 119px;height: 94px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "そうじゃ<br/>ないけど…"
-		,"style": "font-size: 14px;color: #981223;background-color: #FF798E;left: 638px;top: 449px;width: 71px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #981223;background-color: #FF798E;left: 638px;top: 449px;width: 71px;height: 38px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

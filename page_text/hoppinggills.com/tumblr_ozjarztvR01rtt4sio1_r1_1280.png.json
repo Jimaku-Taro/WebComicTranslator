@@ -1,38 +1,47 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">世紀の</span>大嵐よ!"
-		,"style": "font-size: 20px;color: black;background-color: #FFF0A3;left: 18.03%;top: 2.26%;width: 20.67%;height: 2.02%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 20px;color: black;background-color: #FFF0A3;left: 18.03%;top: 2.26%;width: 20.67%;height: 2.02%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "風が叫び、波は打つ、<br/>船員達は牛の如く酔い<br/>略奪の成功を祝ってた。<br/>荒れた天気なら<br/>追手は無いと分かり<br/>好都合だった"
-		,"style": "font-size: 20px;color: black;background-color: #FFF0A3;left: 13.20%;top: 5.27%;width: 27.08%;height: 8.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 20px;color: black;background-color: #FFF0A3;left: 13.20%;top: 5.27%;width: 27.08%;height: 8.63%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "<span>奴らが<span style=\"font-weight: bold;\">分からなかった</span>のは<br/></span>別の船から破滅が来たこと。<br/>それが…"
-		,"style": "font-size: 18px;color: black;background-color: #FFF0A3;left: 50.06%;top: 20.78%;width: 31.80%;height: 3.01%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 18px;color: black;background-color: #FFF0A3;left: 50.06%;top: 20.78%;width: 31.80%;height: 3.01%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "私よ"
-		,"style": "font-size: 20px;color: black;background-color: #FFF0A3;left: 29.72%;top: 31.71%;width: 14.49%;height: 1.70%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 20px;color: black;background-color: #FFF0A3;left: 29.72%;top: 31.71%;width: 14.49%;height: 1.70%;border-radius: 0%;"
+		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "接近して<br/>飛び乗れる波を待ったわ"
-		,"style": "font-size: 20px;color: black;background-color: #FFF0A3;left: 18.60%;top: 55.58%;width: 31.01%;height: 2.89%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 20px;color: black;background-color: #FFF0A3;left: 18.60%;top: 55.58%;width: 31.01%;height: 2.89%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "そしてついに"
-		,"style": "font-size: 20px;color: black;background-color: #FFF0A3;left: 8.15%;top: 61.48%;width: 15.51%;height: 1.23%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 20px;color: black;background-color: #FFF0A3;left: 8.15%;top: 61.48%;width: 15.51%;height: 1.23%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "船長だけが最期に<br/>一目姿を見れたわ"
-		,"style": "font-size: 16px;color: black;background-color: #FFF0A3;left: 32.87%;top: 72.60%;width: 40.56%;height: 1.58%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 16px;color: black;background-color: #FFF0A3;left: 32.87%;top: 72.60%;width: 40.56%;height: 1.58%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "奴が音楽を止めた次の瞬間!"
-		,"style": "font-size: 16px;color: black;background-color: #FFF0A3;left: 49.49%;top: 83.65%;width: 32.81%;height: 1.11%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 16px;color: black;background-color: #FFF0A3;left: 49.49%;top: 83.65%;width: 32.81%;height: 1.11%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "全滅よ!!"
-		,"style": "font-size: 30px;color: black;background-color: transparent;left: 24.55%;top: 96.56%;width: 18.65%;height: 1.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;text-shadow: white 2px 0px,  white -2px 0px, white 0px -2px, white 0px 2px, white 2px 2px , white -2px 2px, white 2px -2px, white -2px -2px, white 1px 2px,  white -1px 2px, white 1px -2px, white -1px -2px, white 2px 1px,  white -2px 1px, white 2px -1px, white -2px -1px;"
+		,"style": "font-size: 30px;color: black;background-color: transparent;left: 24.55%;top: 96.56%;width: 18.65%;height: 1.31%;border-radius: 50%;text-shadow: white 2px 0px,  white -2px 0px, white 0px -2px, white 0px 2px, white 2px 2px , white -2px 2px, white 2px -2px, white -2px -2px, white 1px 2px,  white -1px 2px, white 1px -2px, white -1px -2px, white 2px 1px,  white -2px 1px, white 2px -1px, white -2px -1px;"
+		,"class": "CENTER BOLD"
 	}
 ]

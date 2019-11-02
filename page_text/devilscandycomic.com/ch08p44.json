@@ -1,30 +1,37 @@
 [
 	{
 		"text": "可愛げの<br/>あるうちは<br/>許せるわ、<br/>でも今回は<span><span style=\"font-weight: bold;\">違う</span>でしょ</span>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 12.11%;top: 3.38%;width: 13.48%;height: 10.14%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 12.11%;top: 3.38%;width: 13.48%;height: 10.14%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あなたは<br/>完全に<br/>暴走してる"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 50.18%;top: 5.22%;width: 15.63%;height: 6.87%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 50.18%;top: 5.22%;width: 15.63%;height: 6.87%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "しばらく<br/>大人しく<br/>してた方が<br/>良さそうね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 75.12%;top: 30.87%;width: 15.39%;height: 7.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 75.12%;top: 30.87%;width: 15.39%;height: 7.63%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "だから<br/>これは<br/>返して"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 14.26%;top: 47.03%;width: 12.65%;height: 7.02%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 14.26%;top: 47.03%;width: 12.65%;height: 7.02%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "待っ…"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 74.40%;top: 47.80%;width: 9.31%;height: 4.02%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 25px;left: 74.40%;top: 47.80%;width: 9.31%;height: 4.02%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "“アー”って<br/>言って"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 14.62%;top: 63.98%;width: 14.80%;height: 3.94%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 14.62%;top: 63.98%;width: 14.80%;height: 3.94%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "アアアアああぁッ!!"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 30.97%;top: 74.84%;width: 36.52%;height: 3.69%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 25px;left: 30.97%;top: 74.84%;width: 36.52%;height: 3.69%;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

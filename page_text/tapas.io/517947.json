@@ -1,58 +1,72 @@
 [
 	{
 		"text": "おい　お前!"
-		,"style": "font-size: 40px;color: white;background-color: transparent;left: 12.71%;top: 24.76%;width: 25.43%;height: 4.09%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;text-shadow: black 2px 0px,  black -2px 0px, black 0px -2px, black 0px 2px, black 2px 2px , black -2px 2px, black 2px -2px, black -2px -2px, black 1px 2px,  black -1px 2px, black 1px -2px, black -1px -2px, black 2px 1px,  black -2px 1px, black 2px -1px, black -2px -1px;"
+		,"style": "font-size: 40px;color: white;background-color: transparent;left: 12.71%;top: 24.76%;width: 25.43%;height: 4.09%;border-radius: 50%;text-shadow: black 2px 0px,  black -2px 0px, black 0px -2px, black 0px 2px, black 2px 2px , black -2px 2px, black 2px -2px, black -2px -2px, black 1px 2px,  black -1px 2px, black 1px -2px, black -1px -2px, black 2px 1px,  black -2px 1px, black 2px -1px, black -2px -1px;"
+		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "名札は<br/>どうした?"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 61.33%;top: 0.79%;width: 18.09%;height: 6.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "font-size: 25px;left: 61.33%;top: 0.79%;width: 18.09%;height: 6.76%;border-radius: 20%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "全員服に<br/>つけろと<br/>言ったろ!"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 73.78%;top: 24.61%;width: 17.77%;height: 12.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "font-size: 25px;left: 73.78%;top: 24.61%;width: 17.77%;height: 12.81%;border-radius: 20%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "罰として<br/>到着まで<br/>立ってろ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 10.80%;top: 38.13%;width: 13.19%;height: 12.26%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 10.80%;top: 38.13%;width: 13.19%;height: 12.26%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ご免な<br/>さい…!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 16.22%;top: 52.12%;width: 6.49%;height: 4.72%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 16.22%;top: 52.12%;width: 6.49%;height: 4.72%;border-radius: 20%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "久しぶりの<br/>修学旅行だ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 52.50%;top: 37.19%;width: 11.60%;height: 11.79%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 52.50%;top: 37.19%;width: 11.60%;height: 11.79%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "修学旅行<br/>初めて!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 84.63%;top: 36.79%;width: 11.81%;height: 11.87%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 84.63%;top: 36.79%;width: 11.81%;height: 11.87%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "マジで?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 74.84%;top: 49.45%;width: 9.15%;height: 4.17%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 74.84%;top: 49.45%;width: 9.15%;height: 4.17%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "うん<br/>僕のクラスは<br/>去年行って<br/>ない"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 46.44%;top: 61.01%;width: 11.60%;height: 12.74%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 46.44%;top: 61.01%;width: 11.60%;height: 12.74%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "雪の<br/>授業もね!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 18.88%;top: 83.57%;width: 10.74%;height: 10.69%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 18.88%;top: 83.57%;width: 10.74%;height: 10.69%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "雪も<br/>初めて!<br/>ここは<br/>辛うじて<br/>雪だね"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 29.20%;top: 87.34%;width: 11.70%;height: 12.66%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 29.20%;top: 87.34%;width: 11.70%;height: 12.66%;border-radius: 30%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "旅行中に<br/>何人か能力を<br/>使えるように<br/>なるといいね"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 59.52%;top: 62.89%;width: 14.68%;height: 16.82%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 59.52%;top: 62.89%;width: 14.68%;height: 16.82%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "自分の<br/>能力<br/>分かるの<br/>ジュウ?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 64.95%;top: 82.86%;width: 12.34%;height: 12.50%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 64.95%;top: 82.86%;width: 12.34%;height: 12.50%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "まだ<br/>だよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 86.22%;top: 88.92%;width: 7.87%;height: 8.65%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 86.22%;top: 88.92%;width: 7.87%;height: 8.65%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

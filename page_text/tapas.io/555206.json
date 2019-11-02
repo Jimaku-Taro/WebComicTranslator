@@ -1,34 +1,42 @@
 [
 	{
 		"text": "おっと!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 16.22%;top: 7.47%;width: 10.43%;height: 9.20%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 16.22%;top: 7.47%;width: 10.43%;height: 9.20%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "もっと<br/>練習が<br/>いるな!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 9.52%;top: 17.53%;width: 16.70%;height: 15.57%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 9.52%;top: 17.53%;width: 16.70%;height: 15.57%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "また皿<br/>割っちまったら<br/>ゴメンな!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 74.10%;top: 25.00%;width: 16.70%;height: 15.57%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 74.10%;top: 25.00%;width: 16.70%;height: 15.57%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "またコスタだよ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 6.33%;top: 46.46%;width: 22.02%;height: 5.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 6.33%;top: 46.46%;width: 22.02%;height: 5.90%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "コスタ<br/>哀れだよな<br/>そうやって<br/>目立とうと<br/>してさ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 71.22%;top: 46.86%;width: 14.15%;height: 15.09%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 71.22%;top: 46.86%;width: 14.15%;height: 15.09%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "いや～!<br/>ごめんね～<br/>怒らせ<br/>ちゃって<br/>さぁ…!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 1.54%;top: 73.51%;width: 14.89%;height: 16.59%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 1.54%;top: 73.51%;width: 14.89%;height: 16.59%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "そう声を<br/>荒げるなよ<br/>学級委員長君～"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 38.03%;top: 71.54%;width: 15.96%;height: 14.23%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 38.03%;top: 71.54%;width: 15.96%;height: 14.23%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "キャ～<br/>怖いわ～"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 73.46%;top: 71.23%;width: 15.53%;height: 4.40%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 73.46%;top: 71.23%;width: 15.53%;height: 4.40%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 ]

@@ -1,34 +1,42 @@
 [
 	{
 		"text": "それでどうだい<br/>俺とどこか行かない<br/>もっと…<br/>静かなとこ"
-		,"style": "font-size: 13px;color: #0D2A99;background-color: #73BEFF;left: 20px;top: 8px;width: 133px;height: 99px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;color: #0D2A99;background-color: #73BEFF;left: 20px;top: 8px;width: 133px;height: 99px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うう…<br/>遠慮<br/>する…"
-		,"style": "font-size: 13px;color: #958407;background-color: #F2FD79;left: 185px;top: 8px;width: 64px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;color: #958407;background-color: #F2FD79;left: 185px;top: 8px;width: 64px;height: 58px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "来なよ<br/>可愛い娘<br/>楽しいぜ<br/>約束する"
-		,"style": "font-size: 13px;color: #0D2A99;background-color: #73BEFF;left: 235px;top: 54px;width: 105px;height: 89px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;color: #0D2A99;background-color: #73BEFF;left: 235px;top: 54px;width: 105px;height: 89px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "君と俺<br/>なら…"
-		,"style": "font-size: 16px;color: #0D2A99;background-color: #73BEFF;left: 353px;top: 38px;width: 95px;height: 61px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;color: #0D2A99;background-color: #73BEFF;left: 353px;top: 38px;width: 95px;height: 61px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "少し<br/>踊れば…"
-		,"style": "font-size: 16px;color: #0D2A99;background-color: #73BEFF;left: 657px;top: 25px;width: 102px;height: 64px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;color: #0D2A99;background-color: #73BEFF;left: 657px;top: 25px;width: 102px;height: 64px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "来なよ<br/>嬢ちゃん<br/>もったい<br/>ぶらずにさ…"
-		,"style": "font-size: 13px;color: #0D2A99;background-color: #73BEFF;left: 683px;top: 118px;width: 106px;height: 82px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;color: #0D2A99;background-color: #73BEFF;left: 683px;top: 118px;width: 106px;height: 82px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "あ…あら、<br/>見て!<br/>友達よ!"
-		,"style": "font-size: 14px;color: #958407;background-color: #F2FD79;left: 365px;top: 240px;width: 108px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #958407;background-color: #F2FD79;left: 365px;top: 240px;width: 108px;height: 79px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それじゃ<br/>サヨナラ!"
-		,"style": "font-size: 14px;color: #958407;background-color: #F2FD79;left: 710px;top: 400px;width: 75px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #958407;background-color: #F2FD79;left: 710px;top: 400px;width: 75px;height: 53px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

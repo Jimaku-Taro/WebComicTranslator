@@ -1,30 +1,37 @@
 [
 	{
 		"text": "嫌だ!!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 57.71%;top: 8.25%;width: 15.64%;height: 3.46%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 57.71%;top: 8.25%;width: 15.64%;height: 3.46%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "スケア!!<br/>すぐに<br/>また<br/>会える!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 4.63%;top: 29.87%;width: 10.00%;height: 12.74%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 4.63%;top: 29.87%;width: 10.00%;height: 12.74%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "心配<br/>いら<br/>ない!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 43.78%;top: 42.85%;width: 7.34%;height: 8.02%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 43.78%;top: 42.85%;width: 7.34%;height: 8.02%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "先生<br/>この建物は<br/>人間の宇宙<br/>から?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 23.46%;top: 89.23%;width: 10.21%;height: 7.70%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 23.46%;top: 89.23%;width: 10.21%;height: 7.70%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "心配<br/>いら<br/>ない!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 43.78%;top: 42.85%;width: 7.34%;height: 8.02%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 43.78%;top: 42.85%;width: 7.34%;height: 8.02%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ここまで<br/>落ち込むとは<br/>思わなかった!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 63.03%;top: 59.12%;width: 20.43%;height: 9.98%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 63.03%;top: 59.12%;width: 20.43%;height: 9.98%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あの顔見た?<br/>すごく悲しそう<br/>だった…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 76.86%;top: 88.60%;width: 17.55%;height: 11.01%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 76.86%;top: 88.60%;width: 17.55%;height: 11.01%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

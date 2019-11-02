@@ -1,54 +1,67 @@
 [
 	{
 		"text": "オレに<br/>“克服”して<br/>欲しいなら<br/>クレアンスが<br/>まず謝ったら<br/>どうだ?!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 6%;top: 3%;width: 107px;height: 124px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 15px;left: 6%;top: 3%;width: 107px;height: 124px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "全部<br/>お前の<br/>せいだ!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 19%;top: 4.5%;width: 68px;height: 74px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 15px;left: 19%;top: 4.5%;width: 68px;height: 74px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何だと?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 36%;top: 5.5%;width: 53px;height: 34px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 36%;top: 5.5%;width: 53px;height: 34px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">放置して</span>いったから…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 48.5%;top: 7.5%;width: 110px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 48.5%;top: 7.5%;width: 110px;height: 76px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "聴け、<br/>奴は小さな<br/>クレアンス。<br/>小さな<br/>クレアンスは<br/>バカだ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 77%;top: 5%;width: 99px;height: 118px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 77%;top: 5%;width: 99px;height: 118px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "オレはもう小さな<br/>クレアンスじゃない、<br/>だから謝れない。<br/>奴は今死んだ、<br/>小さなヤギーも一緒に<br/>葬り去れよ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 12%;top: 34.5%;width: 191px;height: 104px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 12%;top: 34.5%;width: 191px;height: 104px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "彼が<br/>詩的なのか<br/>歪んでるのか<br/>分からない…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 43.5%;top: 55%;width: 94px;height: 85px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 43.5%;top: 55%;width: 94px;height: 85px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "んぐうぅぅぅ!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 39%;top: 36%;width: 128px;height: 40px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 20px;left: 39%;top: 36%;width: 128px;height: 40px;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "OK,OK,もっと<br/>有意義なこと<br/>しましょ。<br/>何か有益な<br/>情報ない?<br/>トレモロとか?<br/>君の力とか?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 59%;top: 35%;width: 150px;height: 162px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 59%;top: 35%;width: 150px;height: 162px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "奴について<br/>俺は何も<br/>知らねぇよ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 9%;top: 66%;width: 90px;height: 94px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 14px;left: 9%;top: 66%;width: 90px;height: 94px;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "誰も俺に<br/>言うこと<br/>ないのか!<br/>奴ら俺を<br/>金目の物扱い<br/>したんだぞ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 19%;top: 66.5%;width: 103px;height: 127px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 19%;top: 66.5%;width: 103px;height: 127px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ん?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 48%;top: 83%;width: 49px;height: 31px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 48%;top: 83%;width: 49px;height: 31px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "言えるのは<br/>俺がどこから<br/>来たのか…<br/>と言うより<br/>どうやって俺が<span><span style=\"font-weight: bold;\">作られた</span>かだ</span>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 78%;top: 66%;width: 111px;height: 136px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 78%;top: 66%;width: 111px;height: 136px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

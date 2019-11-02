@@ -1,38 +1,47 @@
 [
 	{
 		"text": "ハハハ オタク達!!!<br/>見事合格よ…B評価で!!!"
-		,"style": "font-size: 14px;color: #38371C;background-color: #FFEE61;left: 25px;top: 20px;width: 225px;height: 41px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #38371C;background-color: #FFEE61;left: 25px;top: 20px;width: 225px;height: 41px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "Cでも良かったけど、上手くいったわ<br/>もう何も困らない<span style=\"color: #827F70;\">#期末試験以外は<br/>#期末は考えたくない<br/>#ジョージ 文章</span>"
-		,"style": "font-size: 14px;color: #38371C;background-color: #FFEE61;left: 215px;top: 65px;width: 242px;height: 110px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #38371C;background-color: #FFEE61;left: 215px;top: 65px;width: 242px;height: 110px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "お早う皆!<br/>今日は10月30日<br/>素敵な秋の日!"
-		,"style": "font-size: 14px;color: #B0811C;background-color: #FFF990;left: 15px;top: 70px;width: 118px;height: 85px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #B0811C;background-color: #FFF990;left: 15px;top: 70px;width: 118px;height: 85px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "寒くなって<br/>きたから着込むのを<br/>忘れないで!<br/>急に寒くなると<br/>思うわ!"
-		,"style": "font-size: 14px;color: #B0811C;background-color: #FFF990;left: 35px;top: 155px;width: 144px;height: 108px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #B0811C;background-color: #FFF990;left: 35px;top: 155px;width: 144px;height: 108px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "こちら<br/>ユニティ大学<br/>ラジオ!102号室<br/>から中継よ!"
-		,"style": "font-size: 14px;color: #B0811C;background-color: #FFF990;left: 298px;top: 235px;width: 114px;height: 86px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #B0811C;background-color: #FFF990;left: 298px;top: 235px;width: 114px;height: 86px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "明日は特別な<br/>オバケの日です!<br/>生徒は節度を持って<br/>祝いましょう"
-		,"style": "font-size: 14px;color: #B0811C;background-color: #FFF990;left: 460px;top: 10px;width: 142px;height: 113px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #B0811C;background-color: #FFF990;left: 460px;top: 10px;width: 142px;height: 113px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "楽しく安全な<br/>ハロウィーンのために<br/>カウンセラーに相談して<br/>不気味なパンフレットを<br/>読んでね!"
-		,"style": "font-size: 14px;color: #B0811C;background-color: #FFF990;left: 600px;top: 10px;width: 172px;height: 108px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #B0811C;background-color: #FFF990;left: 600px;top: 10px;width: 172px;height: 108px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "カフェでは<br/>ハロウィン<br/>特別メニュー、<br/>図書館ではお菓子<br/>無料よ!"
-		,"style": "font-size: 14px;color: #B0811C;background-color: #FFF990;left: 630px;top: 110px;width: 136px;height: 122px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #B0811C;background-color: #FFF990;left: 630px;top: 110px;width: 136px;height: 122px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ハッピー<br/>ハロウィン!"
-		,"style": "font-size: 12px;color: #B0811C;background-color: #FFF990;left: 640px;top: 400px;width: 68px;height: 54px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;color: #B0811C;background-color: #FFF990;left: 640px;top: 400px;width: 68px;height: 54px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

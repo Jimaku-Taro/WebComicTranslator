@@ -1,10 +1,12 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">わ!!</span>"
-		,"style": "font-size: 21px;color: black;background-color: white;left: 28.8%;top: 35.3%;border-radius: 20%;"
+		,"style": "font-size: 21px;left: 28.8%;top: 35.3%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">パンドラ?!</span>"
-		,"style": "font-size: 22px;color: black;background-color: white;left: 9.5%;top: 69.1%;border-radius: 20%;"
+		,"style": "font-size: 22px;left: 9.5%;top: 69.1%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

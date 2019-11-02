@@ -1,58 +1,72 @@
 [
 	{
 		"text": "窓は開いてる<br/>だが誰かが<br/>押し入った<br/>形跡は無し"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 11.75%;top: 4.68%;width: 11.69%;height: 8.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 11.75%;top: 4.68%;width: 11.69%;height: 8.47%;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "体も<br/>無い…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 50.66%;top: 4.01%;width: 8.47%;height: 3.94%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 50.66%;top: 4.01%;width: 8.47%;height: 3.94%;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何の臭いだ?<br/>血じゃない<br/>甘い匂いだ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 84.43%;top: 23.80%;width: 10.26%;height: 8.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 84.43%;top: 23.80%;width: 10.26%;height: 8.47%;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "いや忘れろ。<br/>犯行現場だ。<br/>何も触れずに<br/>出るべきだ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 11.75%;top: 39.13%;width: 13.37%;height: 10.14%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 11.75%;top: 39.13%;width: 13.37%;height: 10.14%;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "警察に<br/>通報だ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 13.54%;top: 51.96%;width: 9.90%;height: 6.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 13.54%;top: 51.96%;width: 9.90%;height: 6.54%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "クソ!<br/>急いでたから<br/>携帯忘れた"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 55.55%;top: 38.21%;width: 10.26%;height: 6.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 55.55%;top: 38.21%;width: 10.26%;height: 6.71%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "誰か電話<br/>できるか?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 55.31%;top: 45.17%;width: 11.10%;height: 4.11%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 55.31%;top: 45.17%;width: 11.10%;height: 4.11%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "電話<br/>持って<br/>ない"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 69.15%;top: 38.63%;width: 7.88%;height: 5.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 69.15%;top: 38.63%;width: 7.88%;height: 5.36%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "私達も"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 89.20%;top: 41.38%;width: 6.56%;height: 3.86%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 89.20%;top: 41.38%;width: 6.56%;height: 3.86%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "私も<br/>無い"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 10.92%;top: 63.36%;width: 7.76%;height: 3.52%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 10.92%;top: 63.36%;width: 7.76%;height: 3.52%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "家の<br/>固定電話も<br/>繋がらない<br/>みたい"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 9.13%;top: 67.22%;width: 12.05%;height: 7.04%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 9.13%;top: 67.22%;width: 12.05%;height: 7.04%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "じゃ最寄りの<br/>警察署に行こう<br/>ここを出…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 27.86%;top: 64.37%;width: 15.39%;height: 8.21%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 27.86%;top: 64.37%;width: 15.39%;height: 8.21%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ピンポーン"
-		,"style": "font-size: 35px;color: black;background-color: white;left: 46.36%;top: 65.37%;width: 27.21%;height: 3.35%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: bold;"
+		,"style": "font-size: 35px;left: 46.36%;top: 65.37%;width: 27.21%;height: 3.35%;border-radius: 45%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "きっと<br/>ブランディ<br/>だ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 79.53%;top: 84.23%;width: 9.19%;height: 6.12%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 79.53%;top: 84.23%;width: 9.19%;height: 6.12%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

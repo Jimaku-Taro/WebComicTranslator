@@ -1,26 +1,32 @@
 [
 	{
 		"text": "ふむ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 25.80%;top: 19.97%;width: 9.89%;height: 9.43%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 25.80%;top: 19.97%;width: 9.89%;height: 9.43%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "寒い…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 67.39%;top: 19.26%;width: 7.45%;height: 2.44%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 67.39%;top: 19.26%;width: 7.45%;height: 2.44%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "うむ、ここだな"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 59.41%;top: 32.94%;width: 22.55%;height: 7.00%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 59.41%;top: 32.94%;width: 22.55%;height: 7.00%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "先生<br/>何で降りる前に<br/>温かい服に<br/>着替えないん<br/>ですか…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 3.14%;top: 82.00%;width: 14.68%;height: 17.45%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 3.14%;top: 82.00%;width: 14.68%;height: 17.45%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "お前の<br/>失敗を<br/>私のせいに<br/>するか?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 45.80%;top: 84.04%;width: 13.19%;height: 13.99%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 45.80%;top: 84.04%;width: 13.19%;height: 13.99%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ご<br/>め<br/>ん<br/>な<br/>さ<br/>い<br/>!"
-		,"style": "font-size: 20px;color: white;background-color: transparent;left: 79.41%;top: 67.06%;width: 6.91%;height: 14.70%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;text-shadow: black 2px 0px,  black -2px 0px, black 0px -2px, black 0px 2px, black 2px 2px , black -2px 2px, black 2px -2px, black -2px -2px, black 1px 2px,  black -1px 2px, black 1px -2px, black -1px -2px, black 2px 1px,  black -2px 1px, black 2px -1px, black -2px -1px;"
+		,"style": "font-size: 20px;color: white;background-color: transparent;left: 79.41%;top: 67.06%;width: 6.91%;height: 14.70%;border-radius: 50%;text-shadow: black 2px 0px,  black -2px 0px, black 0px -2px, black 0px 2px, black 2px 2px , black -2px 2px, black 2px -2px, black -2px -2px, black 1px 2px,  black -1px 2px, black 1px -2px, black -1px -2px, black 2px 1px,  black -2px 1px, black 2px -1px, black -2px -1px;"
+		,"class": "CENTER BOLD"
 	}
 ]

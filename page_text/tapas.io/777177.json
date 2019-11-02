@@ -1,6 +1,7 @@
 [
 	{
 		"text": "行きましょ<br/>ユリウス"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 40.27%;top: 74.15%;width: 9.04%;height: 8.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 40.27%;top: 74.15%;width: 9.04%;height: 8.78%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

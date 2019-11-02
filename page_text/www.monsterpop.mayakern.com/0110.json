@@ -1,26 +1,32 @@
 [
 	{
 		"text": "ところで…<br/>聞きたいけど…"
-		,"style": "font-size: 14px;color: #C02C3F;background-color: #FB8E9D;left: 50px;top: 25px;width: 116px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #C02C3F;background-color: #FB8E9D;left: 50px;top: 25px;width: 116px;height: 39px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "君とフラニーは<br/>親密そうだね…"
-		,"style": "font-size: 13px;color: #C02C3F;background-color: #FB8E9D;left: 107px;top: 98px;width: 96px;height: 59px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 13px;color: #C02C3F;background-color: #FB8E9D;left: 107px;top: 98px;width: 96px;height: 59px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "すっごい<br/>仲良しよ!"
-		,"style": "font-size: 14px;color: #A05512;background-color: #FAFFA4;left: 270px;top: 33px;width: 83px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A05512;background-color: #FAFFA4;left: 270px;top: 33px;width: 83px;height: 39px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "幼稚園からの<br/>幼馴染だよ!"
-		,"style": "font-size: 14px;color: #A05512;background-color: #FAFFA4;left: 525px;top: 50px;width: 125px;height: 59px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A05512;background-color: #FAFFA4;left: 525px;top: 50px;width: 125px;height: 59px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "君達<br/>２人って…"
-		,"style": "font-size: 14px;color: #C02C3F;background-color: #FB8E9D;left: 85px;top: 305px;width: 77px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #C02C3F;background-color: #FB8E9D;left: 85px;top: 305px;width: 77px;height: 39px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "…付き合ってる?"
-		,"style": "font-size: 12px;color: #C02C3F;background-color: #FB8E9D;left: 450px;top: 360px;width: 100px;height: 20px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 12px;color: #C02C3F;background-color: #FB8E9D;left: 450px;top: 360px;width: 100px;height: 20px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

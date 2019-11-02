@@ -1,10 +1,12 @@
 [
 	{
 		"text": "それでオタク達は<br/>私抜きで何を<br/>企んでたの?"
-		,"style": "font-size: 14px;color: #684C11;background-color: #FCFB84;left: 330px;top: 30px;width: 124px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #684C11;background-color: #FCFB84;left: 330px;top: 30px;width: 124px;height: 79px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "スリザリング・<br/>ハイツの話を<br/>してたの!"
-		,"style": "font-size: 14px;color: #0A8074;background-color: #7BFFF5;left: 640px;top: 80px;width: 136px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #0A8074;background-color: #7BFFF5;left: 640px;top: 80px;width: 136px;height: 62px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

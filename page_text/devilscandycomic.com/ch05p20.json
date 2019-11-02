@@ -1,42 +1,52 @@
 [
 	{
 		"text": "最悪"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 14%;top: 4%;border-radius: 0%;"
+		,"style": "font-size: 30px;left: 14%;top: 4%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "来週へ<br/>タイムトラベル<br/>できないかな？<br/>それか来年？<br/>それかヤギーが僕に<br/>興味なくして<br/>マイロが転職した時?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 71%;top: 4%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 71%;top: 4%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "できれば<br/>マシュマロ工場か<br/>ビーズクッション店なら<br/>いつも怪我しないで<br/>くれるかな？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 71%;top: 15%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 71%;top: 15%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "“配達”の後も<br/>いつも本当に<br/>変なんだ<br/>よな"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 15%;top: 37%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 15%;top: 37%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "僕が早退したの<br/>気づいたら怒るかな、<br/>でもグレーテルの<br/>役作りに時間要るし。<br/>彼女の動かし方まだ<br/>分からないから<br/>悩むし"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 48.5%;top: 37%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 48.5%;top: 37%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "そういえば、<br/>クレアンスが<br/>言ってた事も<br/>悩むな"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77.5%;top: 39%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 77.5%;top: 39%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "あぁ、１つ<br/>助言だ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 8%;top: 68%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 8%;top: 68%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "もしヤギーが<br/>強引に迫って来たら、<br/>ニンジャルティメット<br/>ニンジャリミネイション<br/>チャレンジって言え。<br/>それで<span style=\"font-weight: bold;\">本当に</span>すぐ<br/>目を覚ます"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 8.5%;top: 73%;border-radius: 0%;"
+		,"style": "font-size: 12px;left: 8.5%;top: 73%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "本気？<br/>かなり<br/>でたらめ<br/>っぽい"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 60.5%;top: 71.5%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 60.5%;top: 71.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "多分僕を<br/>からかって<br/>るな…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 79.5%;top: 89.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 79.5%;top: 89.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

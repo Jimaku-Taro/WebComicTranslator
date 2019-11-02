@@ -1,0 +1,32 @@
+[
+	{
+		"text": "ロボットの少女が通りを歩いていると<br/>少女は母親とはぐれた子供を見つけました"
+		,"style": "font-size: 14px;color: black;background-color: #FAB7A6;left: 1.42%;top: 6.17%;width: 46.83%;height: 6.41%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "愛してくれる?"
+		,"style": "font-size: 14px;color: black;background-color: #F38EAE;left: 67.42%;top: 10.56%;width: 22.00%;height: 3.91%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "彼女は聞いた"
+		,"style": "font-size: 12px;color: black;background-color: #FAB7A6;left: 82.58%;top: 14.12%;width: 13.50%;height: 3.44%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "子供はボールを彼女の空洞の、金属の胸に弾ませた"
+		,"style": "font-size: 14px;color: black;background-color: #FAB7A6;left: 68.42%;top: 49.58%;width: 29.00%;height: 4.39%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "無理、君はロボット、僕は愛せない!"
+		,"style": "font-size: 14px;color: black;background-color: #F2693F;left: 0.25%;top: 68.56%;width: 46.67%;height: 3.80%;height: 3.20%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "そう答えると、子供は歩き去った"
+		,"style": "font-size: 12px;color: black;background-color: #FAB7A6;left: 32.08%;top: 73.19%;width: 38.00%;height: 2.73%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+]

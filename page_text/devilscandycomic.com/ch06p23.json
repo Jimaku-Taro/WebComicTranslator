@@ -1,6 +1,7 @@
 [
 	{
 		"text": "アアッ!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 85.3%;top: 43.5%;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 20px;left: 85.3%;top: 43.5%;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 ]

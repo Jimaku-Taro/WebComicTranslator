@@ -1,42 +1,52 @@
 [
 	{
 		"text": "何で…"
-		,"style": "font-size: 14px;color: white;background-color: black;left: 4.10%;top: 11.48%;width: 6.28%;height: 9.12%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: white;background-color: black;left: 4.10%;top: 11.48%;width: 6.28%;height: 9.12%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "よく<br/>考えて、<br/>スケア"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 35.80%;top: 1.65%;width: 8.62%;height: 8.73%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 35.80%;top: 1.65%;width: 8.62%;height: 8.73%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "君は<br/>考えないように<br/>してる"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 45.27%;top: 4.95%;width: 12.23%;height: 11.01%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 45.27%;top: 4.95%;width: 12.23%;height: 11.01%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "でもそれは<br/>ここにいる"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 73.46%;top: 21.15%;width: 10.32%;height: 6.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 73.46%;top: 21.15%;width: 10.32%;height: 6.53%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "君が隠そうと<br/>しているもの"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 8.56%;top: 37.81%;width: 14.26%;height: 8.18%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 8.56%;top: 37.81%;width: 14.26%;height: 8.18%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "分かん<br/>ないよ…"
-		,"style": "font-size: 14px;color: white;background-color: black;left: 60.05%;top: 35.46%;width: 8.83%;height: 5.58%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: white;background-color: black;left: 60.05%;top: 35.46%;width: 8.83%;height: 5.58%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うぅ…"
-		,"style": "font-size: 14px;color: white;background-color: black;left: 67.29%;top: 42.77%;width: 6.49%;height: 3.46%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: white;background-color: black;left: 67.29%;top: 42.77%;width: 6.49%;height: 3.46%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "君が<br/>最も恐れるもの"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 8.56%;top: 71.86%;width: 15.74%;height: 13.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 8.56%;top: 71.86%;width: 15.74%;height: 13.36%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "家族を<br/>失うよりも"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 35.05%;top: 59.98%;width: 11.49%;height: 6.92%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 35.05%;top: 59.98%;width: 11.49%;height: 6.92%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "友達を<br/>失うよりも…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 73.99%;top: 89.78%;width: 10.64%;height: 7.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 73.99%;top: 89.78%;width: 10.64%;height: 7.31%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 ]

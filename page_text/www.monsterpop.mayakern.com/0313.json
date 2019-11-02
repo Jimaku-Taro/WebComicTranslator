@@ -1,18 +1,22 @@
 [
 	{
 		"text": "ママ、私…"
-		,"style": "font-size: 14px;color: #7B6301;background-color: #FFFB7E;left: 11.56%;top: 4.56%;width: 11.63%;height: 6.94%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #7B6301;background-color: #FFFB7E;left: 11.56%;top: 4.56%;width: 11.63%;height: 6.94%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "私…"
-		,"style": "font-size: 14px;color: #7B6301;background-color: #FFFB7E;left: 46.69%;top: 4.56%;width: 5.25%;height: 7.14%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #7B6301;background-color: #FFFB7E;left: 46.69%;top: 4.56%;width: 5.25%;height: 7.14%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "大丈夫<br/>私が<br/>ついてる"
-		,"style": "font-size: 14px;color: #805103;background-color: #FFD380;left: 71.81%;top: 2.58%;width: 11.38%;height: 13.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #805103;background-color: #FFD380;left: 71.81%;top: 2.58%;width: 11.38%;height: 13.29%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "お茶を<br/>淹れるわ。<br/>話を聞かせて"
-		,"style": "font-size: 14px;color: #805103;background-color: #FFD380;left: 83.31%;top: 7.74%;width: 16.00%;height: 17.66%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #805103;background-color: #FFD380;left: 83.31%;top: 7.74%;width: 16.00%;height: 17.66%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

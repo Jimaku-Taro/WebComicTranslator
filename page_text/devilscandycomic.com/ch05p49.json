@@ -1,46 +1,57 @@
 [
 	{
 		"text": "この<br/>スクリーミィ<br/>バディを一緒に<br/>持っていって"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 39.5%;top: 4%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 39.5%;top: 4%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "僕は<br/>こいつの<br/>兄弟を持つ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 43%;top: 26%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 43%;top: 26%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "こいつの<br/>目を突けば、<br/>両方とも叫ぶ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 63%;top: 7%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 63%;top: 7%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "…それで<br/>叫んだ場所から<br/>君を見つけられる"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 78%;top: 7%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 78%;top: 7%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "僕は１人で<br/>ぶらついてるよ<br/>君抜きで<br/>数ブロック<br/>離れてね"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 17%;top: 40%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 17%;top: 40%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "もし何か…<br/><span style=\"font-weight: bold;\">何かが</span><br/>起きたら、<br/>スクリーミィ<br/>バディを突けば<br/>すぐ行くよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77%;top: 39%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 77%;top: 39%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "OK,これはどう…<br/>もし用事が済んだ後<br/>スクリーミィ バディを<br/>持って帰れば…つまり<br/>僕と分かれてすぐに<br/>投げ捨てなきゃ…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 11.5%;top: 72%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 11.5%;top: 72%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "サイコキラー<br/>・スティーブ<br/>・ショベルを<br/>買ってあげる"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 32%;top: 73.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 32%;top: 73.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "わかった"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 52%;top: 69.3%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 52%;top: 69.3%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "よし。<br/>またな"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 75%;top: 59%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 75%;top: 59%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "またな"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 88%;top: 77.5%;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 88%;top: 77.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

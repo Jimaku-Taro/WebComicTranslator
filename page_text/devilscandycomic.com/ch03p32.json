@@ -1,26 +1,32 @@
 [
 	{
 		"text": "忘れないで<br/>パンドラ…今日は<br/><span style=\"font-weight: bold;\">オシャレ</span>の戦い、<br/>拳じゃない。<br/><span style=\"font-weight: bold;\">暴力なしの対決</span>"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 14.4%;top: 5.2%;border-radius: 30%;"
+		,"style": "font-size: 15px;left: 14.4%;top: 5.2%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "だから<br/>シルキーの顔を<br/>殴ったりしちゃ<br/>ダメだよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 48%;top: 6%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 48%;top: 6%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "彼女はただの<br/>普通の女の子<br/>なんだ！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 76.5%;top: 25.5%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 76.5%;top: 25.5%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "素敵な<br/>服ね"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 39%;top: 41%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 39%;top: 41%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">君に</span>言って<br/>もらう必要<br/>ないね！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 55.2%;top: 40.2%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 55.2%;top: 40.2%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "“普通…”?"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 33%;top: 73%;border-radius: 20%;"
+		,"style": "font-size: 25px;left: 33%;top: 73%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

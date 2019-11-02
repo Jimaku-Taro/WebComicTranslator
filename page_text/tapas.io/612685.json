@@ -1,46 +1,57 @@
 [
 	{
 		"text": "アハハ!<br/>本当に<br/>会いた<br/>かったよ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 38.46%;top: 15.49%;width: 12.55%;height: 10.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 38.46%;top: 15.49%;width: 12.55%;height: 10.61%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "見つけて<br/>くれるとは<br/>思わなかった"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 85.37%;top: 14.70%;width: 12.34%;height: 13.05%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 85.37%;top: 14.70%;width: 12.34%;height: 13.05%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "うぅ…<br/>全くもう<br/>スケア…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 52.39%;top: 27.59%;width: 12.98%;height: 11.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 52.39%;top: 27.59%;width: 12.98%;height: 11.71%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "泣かせすぎ<br/>だっての…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 84.84%;top: 43.32%;width: 12.23%;height: 11.48%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 84.84%;top: 43.32%;width: 12.23%;height: 11.48%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ところで"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 61.76%;top: 60.30%;width: 8.09%;height: 7.94%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 61.76%;top: 60.30%;width: 8.09%;height: 7.94%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "嵐の中を<br/>どうやって<br/>見つけたの?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 70.37%;top: 60.22%;width: 15.64%;height: 15.25%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 70.37%;top: 60.22%;width: 15.64%;height: 15.25%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "「リトル<br/>オクトパス<br/>ボーイ」を<br/>歌って<br/>たろ?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 14.63%;top: 75.79%;width: 10.96%;height: 10.14%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 14.63%;top: 75.79%;width: 10.96%;height: 10.14%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "え?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 30.37%;top: 76.10%;width: 4.89%;height: 5.82%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 30.37%;top: 76.10%;width: 4.89%;height: 5.82%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "歌って<br/>ないけど…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 35.16%;top: 80.03%;width: 10.74%;height: 11.32%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 35.16%;top: 80.03%;width: 10.74%;height: 11.32%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "…え?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 68.03%;top: 80.03%;width: 7.66%;height: 7.23%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 68.03%;top: 80.03%;width: 7.66%;height: 7.23%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "声に出して<br/>歌ってない"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 80.48%;top: 93.16%;width: 11.81%;height: 6.21%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 80.48%;top: 93.16%;width: 11.81%;height: 6.21%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

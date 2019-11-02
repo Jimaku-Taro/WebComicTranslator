@@ -1,42 +1,52 @@
 [
 	{
 		"text": "ヘーゼル!!"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 34.31%;top: 2.59%;width: 17.13%;height: 7.08%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 25px;left: 34.31%;top: 2.59%;width: 17.13%;height: 7.08%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "なんで<br/>泣いてる?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 63.56%;top: 26.02%;width: 13.30%;height: 5.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 63.56%;top: 26.02%;width: 13.30%;height: 5.90%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "気分が<br/>良くない<br/>みたい"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 65.27%;top: 43.47%;width: 11.60%;height: 5.35%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 65.27%;top: 43.47%;width: 11.60%;height: 5.35%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "落ち着けスケア<br/>公園へ行こう"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 5.48%;top: 55.90%;width: 16.06%;height: 6.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 5.48%;top: 55.90%;width: 16.06%;height: 6.68%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "アイス<br/>食べていい?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 4.10%;top: 63.36%;width: 12.77%;height: 5.11%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 4.10%;top: 63.36%;width: 12.77%;height: 5.11%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ダメだ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 5.05%;top: 70.68%;width: 6.70%;height: 2.83%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 5.05%;top: 70.68%;width: 6.70%;height: 2.83%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ちぇっ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 49.31%;top: 64.15%;width: 5.96%;height: 2.99%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 49.31%;top: 64.15%;width: 5.96%;height: 2.99%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ヘーゼル"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 80.05%;top: 50.24%;width: 6.28%;height: 3.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 80.05%;top: 50.24%;width: 6.28%;height: 3.22%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "子供の頃の<br/>招集って<br/>簡単だった?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 77.93%;top: 53.62%;width: 16.91%;height: 7.86%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 77.93%;top: 53.62%;width: 16.91%;height: 7.86%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "いいや。<br/>ママンの声が<br/>聞こえなかった<br/>両親いねぇから"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 2.61%;top: 80.27%;width: 11.60%;height: 16.04%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 2.61%;top: 80.27%;width: 11.60%;height: 16.04%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

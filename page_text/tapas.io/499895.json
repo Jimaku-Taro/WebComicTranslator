@@ -1,42 +1,52 @@
 [
 	{
 		"text": "君達の成長を<br/>テストする。<br/>一年も訓練すれば<br/>心配いらないよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 12.07%;top: 1.49%;width: 16.17%;height: 15.64%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 12.07%;top: 1.49%;width: 16.17%;height: 15.64%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "君達の先生が<br/>細かいことは<br/>面倒みてくれる"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 73.24%;top: 2.28%;width: 15.00%;height: 7.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 73.24%;top: 2.28%;width: 15.00%;height: 7.15%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "招集は<br/>これで終了だ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 73.35%;top: 15.33%;width: 14.26%;height: 4.40%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 73.35%;top: 15.33%;width: 14.26%;height: 4.40%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "大変よくできました<br/>２人共"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 7.07%;top: 28.14%;width: 18.94%;height: 4.87%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 7.07%;top: 28.14%;width: 18.94%;height: 4.87%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "急いで<br/>エイフェン"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 27.93%;top: 39.39%;width: 8.30%;height: 7.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;border: solid;"
+		,"style": "font-size: 14px;left: 27.93%;top: 39.39%;width: 8.30%;height: 7.55%;border-radius: 50%;border: solid;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ありがとう<br/>ミスター<br/>ママン"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 38.67%;top: 27.12%;width: 10.74%;height: 7.23%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 38.67%;top: 27.12%;width: 10.74%;height: 7.23%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "さよなら<br/>ミス<br/>ママン"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 82.29%;top: 40.09%;width: 9.36%;height: 7.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 82.29%;top: 40.09%;width: 9.36%;height: 7.15%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何か<br/>すごい<br/>疲れた"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 7.71%;top: 64.15%;width: 10.21%;height: 9.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 7.71%;top: 64.15%;width: 10.21%;height: 9.36%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "そんな<br/>大変<br/>だった?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 44.52%;top: 61.56%;width: 11.70%;height: 8.57%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 44.52%;top: 61.56%;width: 11.70%;height: 8.57%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "分かんない<br/>覚えてない"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 51.22%;top: 86.16%;width: 9.79%;height: 10.69%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 51.22%;top: 86.16%;width: 9.79%;height: 10.69%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 ]

@@ -1,30 +1,37 @@
 [
 	{
 		"text": "でもね…"
-		,"style": "font-size: 14px;color: #926814;background-color: #FFF183;left: 80px;top: 20px;width: 80px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #926814;background-color: #FFF183;left: 80px;top: 20px;width: 80px;height: 39px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "自分らしく好きで<br/>あり続けるのは<br/>大変なことよ"
-		,"style": "font-size: 14px;color: #926814;background-color: #FFF183;left: 20px;top: 85px;width: 121px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #926814;background-color: #FFF183;left: 20px;top: 85px;width: 121px;height: 58px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それでいいのよ。<br/>だって皆も<br/>君と同じ様に<br/>頑張ってるから"
-		,"style": "font-size: 14px;color: #926814;background-color: #FFF183;left: 25px;top: 360px;width: 159px;height: 120px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #926814;background-color: #FFF183;left: 25px;top: 360px;width: 159px;height: 120px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それって…<br/>驚くほど<br/>深いね"
-		,"style": "font-size: 14px;color: #378002;background-color: #BAFF83;left: 320px;top: 165px;width: 91px;height: 67px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #378002;background-color: #BAFF83;left: 320px;top: 165px;width: 91px;height: 67px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "頑張っ<br/>てみた"
-		,"style": "font-size: 14px;color: #926814;background-color: #FFF183;left: 452px;top: 35px;width: 52px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #926814;background-color: #FFF183;left: 452px;top: 35px;width: 52px;height: 23px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それから<br/>どうした<br/>の?"
-		,"style": "font-size: 14px;color: #780084;background-color: #ECB7FC;left: 420px;top: 280px;width: 75px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #780084;background-color: #ECB7FC;left: 420px;top: 280px;width: 75px;height: 58px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "少し話をして<br/>彼女がセーラーヌーンの<br/>コスプレした時の写真を<br/>見せてもらったわ"
-		,"style": "font-size: 14px;color: #926814;background-color: #FFF183;left: 584px;top: 338px;width: 194px;height: 141px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #926814;background-color: #FFF183;left: 584px;top: 338px;width: 194px;height: 141px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

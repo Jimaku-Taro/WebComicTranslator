@@ -1,34 +1,42 @@
 [
 	{
 		"text": "どうしたの?<br/>皆来るって?"
-		,"style": "font-size: 14px;color: #18968B;background-color: #6AFEFE;left: 10px;top: 10px;width: 105px;height: 71px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #18968B;background-color: #6AFEFE;left: 10px;top: 10px;width: 105px;height: 71px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "サシャは<br/>来ない"
-		,"style": "font-size: 12px;color: #987519;background-color: #F7FF6B;left: 140px;top: 10px;width: 59px;height: 43px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;color: #987519;background-color: #F7FF6B;left: 140px;top: 10px;width: 59px;height: 43px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "兄弟が入院するから<br/>一緒にいるって"
-		,"style": "font-size: 14px;color: #987519;background-color: #F7FF6B;left: 200px;top: 12px;width: 155px;height: 85px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #987519;background-color: #F7FF6B;left: 200px;top: 12px;width: 155px;height: 85px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "大丈夫<br/>なの??"
-		,"style": "font-size: 14px;color: #18968B;background-color: #6AFEFE;left: 160px;top: 97px;width: 67px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #18968B;background-color: #6AFEFE;left: 160px;top: 97px;width: 67px;height: 45px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うん<br/>そんなに悪く<br/>なさそう"
-		,"style": "font-size: 14px;color: #987519;background-color: #F7FF6B;left: 150px;top: 156px;width: 90px;height: 69px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #987519;background-color: #F7FF6B;left: 150px;top: 156px;width: 90px;height: 69px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "フラニーにはまだ<br/>聞いていないけど<br/>彼女たちは多分…"
-		,"style": "font-size: 14px;color: #987519;background-color: #F7FF6B;left: 160px;top: 257px;width: 137px;height: 116px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #987519;background-color: #F7FF6B;left: 160px;top: 257px;width: 137px;height: 116px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ねぇ、G!"
-		,"style": "font-size: 14px;color: #580086;background-color: #D085FD;left: 380px;top: 390px;width: 69px;height: 30px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 14px;color: #580086;background-color: #D085FD;left: 380px;top: 390px;width: 69px;height: 30px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "ねぇ、G!<br/>パーシーと私は今夜行けないわ。<br/>彼の個人的な事情で<br/>私も必要そうなの。<br/>ドタキャンごめんね、愛してるわ!<br/>楽しんでね!"
-		,"style": "font-size: 16px;color: #580086;background-color: #D085FD;left: 492px;top: 24px;width: 265px;height: 161px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 10px;"
+		,"style": "font-size: 16px;color: #580086;background-color: #D085FD;left: 492px;top: 24px;width: 265px;height: 161px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 10px;"
+		,"class": "BOLD"
 	}
 ]

@@ -1,54 +1,67 @@
 [
 	{
 		"text": "あー…<br/>生きてるか<br/>博士?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 31.5%;top: 5.5%;width: 79px;height: 49px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 31.5%;top: 5.5%;width: 79px;height: 49px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "なぁ?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 38%;top: 10%;width: 57px;height: 31px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 38%;top: 10%;width: 57px;height: 31px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ダメ?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 46%;top: 19.5%;width: 43px;height: 32px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 46%;top: 19.5%;width: 43px;height: 32px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "よし<br/>よし"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 64%;top: 7%;width: 69px;height: 43px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 64%;top: 7%;width: 69px;height: 43px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "俺は…<br/>その…<br/>テレビは<br/>観れるな"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 64%;top: 11%;width: 72px;height: 86px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 64%;top: 11%;width: 72px;height: 86px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "忍者風紀委員7を<br/>続けます、<br/>月間忍者<br/>マラソンです!"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 75.5%;top: 7%;width: 113px;height: 70px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 12px;left: 75.5%;top: 7%;width: 113px;height: 70px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "忍者消防車ゴー!"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 11.2%;top: 38.5%;width: 49px;height: 30px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 12px;left: 11.2%;top: 38.5%;width: 49px;height: 30px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ヒャッフー!"
-		,"style": "font-size: 10px;color: black;background-color: white;left: 14%;top: 42.5%;width: 35px;height: 16px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 10px;left: 14%;top: 42.5%;width: 35px;height: 16px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ここだ"
-		,"style": "font-size: 10px;color: black;background-color: white;left: 87%;top: 40%;width: 29px;height: 22px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 10px;left: 87%;top: 40%;width: 29px;height: 22px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "会えて<br/>嬉しいよ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 11%;top: 61%;width: 91px;height: 59px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 11%;top: 61%;width: 91px;height: 59px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "皆は<br/>忍者好き?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 35%;top: 61%;width: 70px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 35%;top: 61%;width: 70px;height: 62px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "最高に格好<br/>良いのは…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 35%;top: 78%;width: 74px;height: 52px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 35%;top: 78%;width: 74px;height: 52px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "その後は、<br/>ずっと闇だった。<br/>2回持ち主が変わって<br/>その後お前らに<br/>出会った"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 64%;top: 61%;width: 184px;height: 98px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 64%;top: 61%;width: 184px;height: 98px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

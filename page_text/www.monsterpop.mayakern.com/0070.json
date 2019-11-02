@@ -1,30 +1,37 @@
 [
 	{
 		"text": "以上。さてMH 101では<br/>先史時代の西暦0年から<br/>幅広い範囲をカバーします"
-		,"style": "font-size: 14px;color: #5B363D;background-color: #D9A6C0;left: 24px;top: 25px;width: 218px;height: 84px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #5B363D;background-color: #D9A6C0;left: 24px;top: 25px;width: 218px;height: 84px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ですが、この場所の、<br/>近代のモンスター史上での<br/>興味深い出来事を<br/>誰か語れますか？"
-		,"style": "font-size: 14px;color: #5B363D;background-color: #D9A6C0;left: 20px;top: 354px;width: 228px;height: 83px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #5B363D;background-color: #D9A6C0;left: 20px;top: 354px;width: 228px;height: 83px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "…誰か？"
-		,"style": "font-size: 14px;color: #5B363D;background-color: #D9A6C0;left: 287px;top: 19px;width: 75px;height: 23px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #5B363D;background-color: #D9A6C0;left: 287px;top: 19px;width: 75px;height: 23px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "新入生といえど、<br/>いつかは話す<br/>必要があります。"
-		,"style": "font-size: 14px;color: #5B363D;background-color: #D9A6C0;left: 352px;top: 37px;width: 152px;height: 70px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #5B363D;background-color: #D9A6C0;left: 352px;top: 37px;width: 152px;height: 70px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ここは大学で<br/>君達は優秀な<br/>頭脳があるはず"
-		,"style": "font-size: 14px;color: #5B363D;background-color: #D9A6C0;left: 388px;top: 118px;width: 103px;height: 67px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #5B363D;background-color: #D9A6C0;left: 388px;top: 118px;width: 103px;height: 67px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "では…モンストラ市は<br/>合衆国史上初の<br/>モンスターと人間の<br/>合併都市ですね?"
-		,"style": "font-size: 14px;color: #6D1B2C;background-color: #EA657C;left: 372px;top: 302px;width: 158px;height: 85px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #6D1B2C;background-color: #EA657C;left: 372px;top: 302px;width: 158px;height: 85px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "キャサリン・モンテンと<br/>マイケル・ストラテンが<br/>1913年に設立しました。"
-		,"style": "font-size: 13px;color: #6D1B2C;background-color: #EA657C;left: 522px;top: 215px;width: 160px;height: 81px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 13px;color: #6D1B2C;background-color: #EA657C;left: 522px;top: 215px;width: 160px;height: 81px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

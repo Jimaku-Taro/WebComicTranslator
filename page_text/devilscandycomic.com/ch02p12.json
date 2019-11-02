@@ -1,26 +1,32 @@
 [
 	{
 		"text": "お…お願い!<br/><span style=\"font-weight: bold;\">助けて!<br/>子供達</span>の事も<br/>考えてあげて!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 14.3%;top: 8%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 14.3%;top: 8%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">軟弱者!</span>"
-		,"style": "font-size: 50px;color: black;background-color: white;left: 60%;top: 4.2%;width: 199px;border-radius: 20%;"
+		,"style": "font-size: 50px;left: 60%;top: 4.2%;width: 199px;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">喋れる<br/>の?!</span>"
-		,"style": "font-size: 16.5px;color: black;background-color: white;left: 87.1%;top: 9.5%;border-radius: 20%;"
+		,"style": "font-size: 16.5px;left: 87.1%;top: 9.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "わ…私は、<br/>教育のプロとして、<br/>肉体を持たず<br/>実在が不確かな<br/>存在相手でも<br/>私の創設した物を<br/>放棄するわけには<br/>いかない！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 9.5%;top: 52%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 9.5%;top: 52%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "でも仮に、幽霊が<br/>実在する仮定で<br/>議論するとしても。<br/>その場合、君は…<br/>つまり<span style=\"font-weight: bold;\">私達は…</span><br/>どうすれば？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 56%;top: 54%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 56%;top: 54%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "スケルトン<br/>忍者先生に<br/>聞いてみましょう。<br/>スケルトン達は<br/>アンデッドでしょ？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 75%;top: 57%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 75%;top: 57%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

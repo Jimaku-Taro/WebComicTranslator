@@ -1,34 +1,42 @@
 [
 	{
 		"text": "誰が<br/>オレの話を<br/>してるの？<br/>全部聞き<br/>たいね!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 32%;top: 3.5%;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 32%;top: 3.5%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "君は超<br/>素敵だ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 44.5%;top: 7%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 44.5%;top: 7%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "君は<br/>ダメ！<br/>君は<br/>ダメ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 55%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 55%;top: 6%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "おっと、<br/>めまいが"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 64.5%;top: 8%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 64.5%;top: 8%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "哀れな<br/>ヒトミを<br/>いじめるなよ<br/>シルキー嬢"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 11%;top: 54.7%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 11%;top: 54.7%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "女の子は<br/>皆お姫様<br/>だろ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 24.6%;top: 56.5%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 24.6%;top: 56.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "彼女は<br/><span style=\"font-weight: bold;\">ゴミの</span><br/>お姫様<br/>その<br/>友達は…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 40.6%;top: 53.4%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 40.6%;top: 53.4%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">オレを<br/>真っ二つに<br/>裂きそう<br/>だけどオレの</span><br/>お姫様"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 84.5%;top: 54%;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 84.5%;top: 54%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 ]

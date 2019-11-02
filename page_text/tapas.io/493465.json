@@ -1,34 +1,42 @@
 [
 	{
 		"text": "次は<br/>君の番<br/>だよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 58.99%;top: 1.89%;width: 11.06%;height: 9.83%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 58.99%;top: 1.89%;width: 11.06%;height: 9.83%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "え?<br/>もうやった<br/>けど…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 73.24%;top: 4.32%;width: 10.85%;height: 9.51%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 73.24%;top: 4.32%;width: 10.85%;height: 9.51%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "え?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 4.63%;top: 51.34%;width: 6.06%;height: 4.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 4.63%;top: 51.34%;width: 6.06%;height: 4.80%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "君たちに同時に<br/>質問したんだ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 47.39%;top: 37.26%;width: 16.81%;height: 4.95%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 47.39%;top: 37.26%;width: 16.81%;height: 4.95%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "２人共もう能力は<br/>得ている"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 8.14%;top: 63.21%;width: 22.98%;height: 4.72%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 8.14%;top: 63.21%;width: 22.98%;height: 4.72%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "すぐには使えない。<br/>能力に気づき<br/>練習が必要だ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 21.86%;top: 73.98%;width: 22.77%;height: 8.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 21.86%;top: 73.98%;width: 22.77%;height: 8.81%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<span>あと別<ruby>形態<rp>(</rp><rt>フォーム</rt><rp>)</rp></ruby><br/>について</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 13.67%;top: 90.49%;width: 19.47%;height: 5.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 13.67%;top: 90.49%;width: 19.47%;height: 5.90%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "特定の条件を満たせば、<br/>君達の種族の<br/>より強大な形態に<br/>瞬時に変身できる"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 61.12%;top: 67.30%;width: 24.79%;height: 11.24%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 61.12%;top: 67.30%;width: 24.79%;height: 11.24%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 ]

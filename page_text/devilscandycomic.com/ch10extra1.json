@@ -1,34 +1,42 @@
 [
 	{
 		"text": "デビルズキャンディ１巻＋アートブック"
-		,"style": "font-size: 35px;color: #EE0088;background-color: white;left: 7.34%;top: 4.18%;width: 85.56%;height: 5.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:0%;font-weight: bold;"
+		,"style": "font-size: 35px;color: #EE0088;background-color: white;left: 7.34%;top: 4.18%;width: 85.56%;height: 5.15%;border-radius:0%;"
+		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "キックスターター!"
-		,"style": "font-size: 35px;color: #EE0088;background-color: white;left: 49.70%;top: 9.13%;width: 39.44%;height: 4.69%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:0%;font-weight: bold;"
+		,"style": "font-size: 35px;color: #EE0088;background-color: white;left: 49.70%;top: 9.13%;width: 39.44%;height: 4.69%;border-radius:0%;"
+		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "１巻：英語で1～３章<br/>プラス製作者ノート<br/>おまけ要素もアリ！"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 52.92%;top: 14.74%;width: 40.58%;height: 5.53%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: left;border-radius:0%;font-weight: normal;"
+		,"style": "font-size: 15px;left: 52.92%;top: 14.74%;width: 40.58%;height: 5.53%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: left;border-radius:0%;font-weight: normal;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "アートブック：100ページ超で<br/>アートワークはフルカラー<br/>解説に加え非公開画像アリ!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 52.57%;top: 20.78%;width: 40.92%;height: 5.53%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: left;border-radius:0%;font-weight: normal;"
+		,"style": "font-size: 15px;left: 52.57%;top: 20.78%;width: 40.92%;height: 5.53%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: left;border-radius:0%;font-weight: normal;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "キャンペーンは現在実施中!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 50.89%;top: 26.98%;width: 39.02%;height: 3.35%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:0%;font-weight: bold;"
+		,"style": "font-size: 20px;left: 50.89%;top: 26.98%;width: 39.02%;height: 3.35%;border-radius:0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "※アートブックのカバーは<br/>最終決定ではありません"
-		,"style": "font-size: 10px;color: black;background-color: white;left: 48.99%;top: 60.51%;width: 15.51%;height: 2.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:0%;font-weight: bold;"
+		,"style": "font-size: 10px;left: 48.99%;top: 60.51%;width: 15.51%;height: 2.68%;border-radius:0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "デビルズキャンディ１巻と<br/>アートブック１冊の<br/>初のキックスターターを<br/>今週開始しました!!(リンク参照)<br/>多忙のためきちんとした<br/>投稿がここでは<br/>できませんでした…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 63.42%;top: 66.04%;width: 28.64%;height: 12.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:0%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 63.42%;top: 66.04%;width: 28.64%;height: 12.15%;border-radius:0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ダラスのA-FESTに今週末行くので、<br/>次のページ投稿は月曜になります。<br/>それとキックスターターでの<br/>支援ありがとう、素晴らしいです!<br/>更新は私のツイッター@TSULALAをチェックして下さい、<br/>月曜にお会いしましょう!"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 61.75%;top: 79.03%;width: 31.50%;height: 14.67%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:0%;font-weight: bold;"
+		,"style": "font-size: 15px;left: 61.75%;top: 79.03%;width: 31.50%;height: 14.67%;border-radius:0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

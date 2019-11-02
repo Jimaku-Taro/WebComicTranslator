@@ -1,30 +1,37 @@
 [
 	{
 		"text": "ドアの前を"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 16.9%;top: 5%;width: 110px;transform: rotate(-5deg);border-radius: 0%;"
+		,"style": "font-size: 14px;left: 16.9%;top: 5%;width: 110px;transform: rotate(-5deg);border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "空けてお立ち下さい…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 23.5%;top: 5.7%;transform: rotate(-5deg);width: 156px;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 23.5%;top: 5.7%;transform: rotate(-5deg);width: 156px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "一人暮らしでも<br/>いつでも<br/>オレを呼べよ<br/><span style=\"font-weight: bold;\">生き物作る</span><br/>代わりにさ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 43.5%;top: 7%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 43.5%;top: 7%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "あと<br/>行ったぞ<br/>…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 66.5%;top: 10%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 66.5%;top: 10%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">アッ！</span>"
-		,"style": "font-size: 21px;color: black;background-color: white;left: 77.5%;top: 12.5%;border-radius: 0%;"
+		,"style": "font-size: 21px;left: 77.5%;top: 12.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ヘムロック・ハート・アカデミー"
 		,"style": "font-size: 14px;color: black;left: 34%;top: 41%;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "正直言って、<br/>ニモ、<br/>君の見識の<br/>無さには<br/>失望した！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 15.8%;top: 72%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 15.8%;top: 72%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

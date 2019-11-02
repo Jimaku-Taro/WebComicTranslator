@@ -1,34 +1,42 @@
 [
 	{
 		"text": "真実…<br/>かな!"
-		,"style": "font-size: 16px;color: #006F6D;background-color: #73FFF4;left: 15.94%;top: 2.48%;width: 9.63%;height: 12.30%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;color: #006F6D;background-color: #73FFF4;left: 15.94%;top: 2.48%;width: 9.63%;height: 12.30%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "あなたの<br/>一番変な<br/>下着は<br/>どんなの?"
-		,"style": "font-size: 14px;color: #430071;background-color: #F2AAFE;left: 23.06%;top: 14.38%;width: 15.38%;height: 17.26%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #430071;background-color: #F2AAFE;left: 23.06%;top: 14.38%;width: 15.38%;height: 17.26%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "セーラー<br/>ヌーンの下着<br/>あるけど…"
-		,"style": "font-size: 14px;color: #006F6D;background-color: #73FFF4;left: 66.69%;top: 0.79%;width: 13.88%;height: 17.46%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #006F6D;background-color: #73FFF4;left: 66.69%;top: 0.79%;width: 13.88%;height: 17.46%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "それで<br/>いいかしら??"
-		,"style": "font-size: 14px;color: #006F6D;background-color: #73FFF4;left: 86.06%;top: 3.37%;width: 12.38%;height: 10.91%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #006F6D;background-color: #73FFF4;left: 86.06%;top: 3.37%;width: 12.38%;height: 10.91%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "セーラー<br/>ヌーンって…<br/>あなたの服装<br/>のヤツ?"
-		,"style": "font-size: 14px;color: #430071;background-color: #F2AAFE;left: 5.81%;top: 49.40%;width: 14.25%;height: 17.66%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #430071;background-color: #F2AAFE;left: 5.81%;top: 49.40%;width: 14.25%;height: 17.66%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "う…うん"
-		,"style": "font-size: 14px;color: #006F6D;background-color: #73FFF4;left: 31.69%;top: 85.91%;width: 9.13%;height: 6.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #006F6D;background-color: #73FFF4;left: 31.69%;top: 85.91%;width: 9.13%;height: 6.55%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "待って、<br/>今履いてるの??"
-		,"style": "font-size: 14px;color: #430071;background-color: #F2AAFE;left: 37.19%;top: 50.00%;width: 14.50%;height: 13.69%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #430071;background-color: #F2AAFE;left: 37.19%;top: 50.00%;width: 14.50%;height: 13.69%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "あなた<br/>変わってる<br/>わね!!!"
-		,"style": "font-size: 14px;color: #430071;background-color: #F2AAFE;left: 87.31%;top: 83.33%;width: 11.38%;height: 13.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #430071;background-color: #F2AAFE;left: 87.31%;top: 83.33%;width: 11.38%;height: 13.29%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

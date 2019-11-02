@@ -1,14 +1,17 @@
 [
 	{
 		"text": "ジョージ<br/>なの?"
-		,"style": "font-size: 14px;color: #703E00;background-color: #E8CE93;left: 74.56%;top: 40.48%;width: 11.50%;height: 12.50%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #703E00;background-color: #E8CE93;left: 74.56%;top: 40.48%;width: 11.50%;height: 12.50%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "家から姿が<br/>見えたから…"
-		,"style": "font-size: 14px;color: #703E00;background-color: #E8CE93;left: 76.19%;top: 71.23%;width: 16.25%;height: 13.69%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #703E00;background-color: #E8CE93;left: 76.19%;top: 71.23%;width: 16.25%;height: 13.69%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "大丈夫?"
-		,"style": "font-size: 14px;color: #703E00;background-color: #E8CE93;left: 87.81%;top: 85.91%;width: 11.38%;height: 9.13%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #703E00;background-color: #E8CE93;left: 87.81%;top: 85.91%;width: 11.38%;height: 9.13%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

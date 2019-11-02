@@ -1,30 +1,37 @@
 [
 	{
 		"text": "お前「この話」<br/>してないよな<br/>小学校でお前は<br/>誰かの夕食に<br/>見えるって<br/>警告された…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 8.59%;top: 4.76%;width: 15.16%;height: 13.50%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 44%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 8.59%;top: 4.76%;width: 15.16%;height: 13.50%;border-radius: 44%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "だから理解は<br/>期待しねぇよ、<br/>自分を餌だと思って<br/>生きるのが<br/>どれ程の屈辱か<br/>なんてよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 8.71%;top: 18.42%;width: 15.39%;height: 11.65%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 8.71%;top: 18.42%;width: 15.39%;height: 11.65%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "オレ達が<br/>生きてるのは<br/>食うか食われるかの<br/>世界じゃないと<br/>信じたい"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 67.66%;top: 3.42%;width: 15.51%;height: 10.65%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 67.66%;top: 3.42%;width: 15.51%;height: 10.65%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "だからこそ<br/>お前を憎む以上に<br/>怖がってる<br/>オレが憎い"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 80.07%;top: 10.21%;width: 14.44%;height: 10.06%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 80.07%;top: 10.21%;width: 14.44%;height: 10.06%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "だから<br/>決めたんだ<br/>もう獣として<br/>見ない…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 14.80%;top: 45.83%;width: 14.44%;height: 9.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 14.80%;top: 45.83%;width: 14.44%;height: 9.22%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "１人の<br/>クラスメート<br/>として見るって"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 28.40%;top: 47.76%;width: 13.48%;height: 7.21%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 28.40%;top: 47.76%;width: 13.48%;height: 7.21%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "オレが見てる<br/>女の子は聡明で<br/>こんな自分を<br/>貶めることは<br/>しないさ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 23.63%;top: 60.08%;width: 14.80%;height: 10.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 23.63%;top: 60.08%;width: 14.80%;height: 10.56%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 ]

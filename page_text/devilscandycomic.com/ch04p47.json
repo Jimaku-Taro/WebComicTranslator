@@ -1,14 +1,17 @@
 [
 	{
 		"text": "彼女を返せ<br/>デカ毛皮の<br/>ろくでなし!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 23%;top: 7%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 23%;top: 7%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ゲップ"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 23.8%;top: 18.2%;font-weight: bold;border-radius: 10%;"
+		,"style": "font-size: 17px;left: 23.8%;top: 18.2%;border-radius: 10%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ゾマは仰る！<br/>試合を<br/>続けよと！<br/>控えを出せ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 65%;top: 76%;font-weight: bold;height: 108px;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 65%;top: 76%;height: 108px;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 ]

@@ -1,54 +1,67 @@
 [
 	{
 		"text": "待った、<br/>ナイトメアズ<br/>って何だ？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 10.5%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 10.5%;top: 6%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "エッグ<br/>スクラム<br/>のチーム？<br/>本当にある?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 21.7%;top: 5.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 21.7%;top: 5.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "実は、それが<br/>問題なんだ。<br/>ドレイク<span style=\"font-weight: bold;\">だけの</span><br/>チームなんだ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 39%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 39%;top: 6%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "スカーレット<br/>クラウンアカデミーが<br/>私達に試合を<br/>申し込んだが<br/>受けても断っても<br/>大きな影響がある"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 37%;top: 14.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 37%;top: 14.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "スカーレット<br/>クラウン？<br/>気取り屋どもの<br/>純血デーモン学校?<br/>何で奴らが…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 4.5%;top: 33.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 4.5%;top: 33.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "やりま<br/>しょう!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 32.5%;top: 35%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 32.5%;top: 35%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "奴らに<br/>勝つん<br/>です!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 50%;top: 34.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 50%;top: 34.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "何だって!?"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 59.5%;top: 35%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 20px;left: 59.5%;top: 35%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "これ<br/>ですよ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 79%;top: 35.5%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 79%;top: 35.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "これこそ<br/>一般入試学校<br/>でもできるって<br/>証明する<br/>チャンスですよ！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 17.6%;top: 59%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 17.6%;top: 59%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "僕らは<br/>最強の純血種<br/>学校でも<br/>倒せますよ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 31%;top: 61%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 31%;top: 61%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "見せましょう<br/>僕らは互角…<br/>いえ…<br/><span style=\"font-weight: bold;\">それ以上<br/>だって！</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 56.5%;top: 59.5%;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 56.5%;top: 59.5%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "カズ…!!!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 76%;top: 86%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 76%;top: 86%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

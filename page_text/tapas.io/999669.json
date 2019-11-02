@@ -1,10 +1,12 @@
 [
 	{
 		"text": "楽しそう?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 4.63%;top: 73.12%;width: 15.21%;height: 1.67%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+		,"style": "font-size: 14px;left: 4.63%;top: 73.12%;width: 15.21%;height: 1.67%;border-radius: 45%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "言いたくないけど<br/>こういう場所には<br/>寄らないからね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 67.18%;top: 77.57%;width: 21.06%;height: 2.09%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+		,"style": "font-size: 14px;left: 67.18%;top: 77.57%;width: 21.06%;height: 2.09%;border-radius: 45%;"
+		,"class": "CENTER WHITE"
 	}
 ]

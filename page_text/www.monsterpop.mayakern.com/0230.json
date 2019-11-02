@@ -1,22 +1,27 @@
 [
 	{
 		"text": "可愛い!!"
-		,"style": "font-size: 14px;color: #836E07;background-color: #F9FF82;left: 150px;top: 110px;width: 63px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #836E07;background-color: #F9FF82;left: 150px;top: 110px;width: 63px;height: 50px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "あはは…<br/>ありがと<br/>…"
-		,"style": "font-size: 14px;color: #158E7C;background-color: #8DFEF2;left: 225px;top: 60px;width: 72px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #158E7C;background-color: #8DFEF2;left: 225px;top: 60px;width: 72px;height: 58px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "でも…"
-		,"style": "font-size: 14px;color: #158E7C;background-color: #8DFEF2;left: 270px;top: 110px;width: 64px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #158E7C;background-color: #8DFEF2;left: 270px;top: 110px;width: 64px;height: 28px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "本当のこと<br/>言って<br/>いいわよ"
-		,"style": "font-size: 14px;color: #158E7C;background-color: #8DFEF2;left: 590px;top: 10px;width: 109px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #158E7C;background-color: #8DFEF2;left: 590px;top: 10px;width: 109px;height: 78px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "私の物って<br/>超オタクなの<br/>分かってるから<br/>本音言って<br/>いいわよ…"
-		,"style": "font-size: 14px;color: #158E7C;background-color: #8DFEF2;left: 645px;top: 95px;width: 139px;height: 117px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #158E7C;background-color: #8DFEF2;left: 645px;top: 95px;width: 139px;height: 117px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

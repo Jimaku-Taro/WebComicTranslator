@@ -1,18 +1,22 @@
 [
 	{
 		"text": "買物行く時<br/>みたいな?"
-		,"style": "font-size: 14px;color: #448215;background-color: #D9FD7F;left: 8px;top: 15px;width: 102px;height: 56px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #448215;background-color: #D9FD7F;left: 8px;top: 15px;width: 102px;height: 56px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "いや、<br/>それじゃつまらない、<br/>周りの人に<br/>任せるんだよ"
-		,"style": "font-size: 14px;color: #871918;background-color: #FD7F80;left: 7px;top: 220px;width: 150px;height: 94px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #871918;background-color: #FD7F80;left: 7px;top: 220px;width: 150px;height: 94px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うん…<br/>OK…"
-		,"style": "font-size: 14px;color: #448215;background-color: #D9FD7F;left: 335px;top: 10px;width: 63px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #448215;background-color: #D9FD7F;left: 335px;top: 10px;width: 63px;height: 45px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "誰か手伝って<br/>くれる…?"
-		,"style": "font-size: 14px;color: #448215;background-color: #D9FD7F;left: 470px;top: 30px;width: 112px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #448215;background-color: #D9FD7F;left: 470px;top: 30px;width: 112px;height: 57px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

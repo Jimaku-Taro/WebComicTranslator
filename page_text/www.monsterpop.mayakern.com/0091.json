@@ -1,34 +1,42 @@
 [
 	{
 		"text": "えと…<br/>やぁ?"
-		,"style": "font-size: 13px;color: #94001C;background-color: #FFAEB5;left: 32px;top: 25px;width: 44px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 13px;color: #94001C;background-color: #FFAEB5;left: 32px;top: 25px;width: 44px;height: 42px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "誰<br/>だっけ?"
-		,"style": "font-size: 13px;color: #94001C;background-color: #FFAEB5;left: 75px;top: 58px;width: 47px;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 13px;color: #94001C;background-color: #FFAEB5;left: 75px;top: 58px;width: 47px;height: 53px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "パーシー<br/>隣に座った<br/>じゃない!"
-		,"style": "font-size: 15px;color: #B85102;background-color: #FCF4A0;left: 33px;top: 260px;width: 78px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 15px;color: #B85102;background-color: #FCF4A0;left: 33px;top: 260px;width: 78px;height: 62px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "あぁ…<br/>OK"
-		,"style": "font-size: 14px;color: #94001C;background-color: #FFAEB5;left: 84px;top: 360px;width: 52px;height: 42px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #94001C;background-color: #FFAEB5;left: 84px;top: 360px;width: 52px;height: 42px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "えぇ!<br/>そうよ!"
-		,"style": "font-size: 15px;color: #B85102;background-color: #FCF4A0;left: 345px;top: 25px;width: 65px;height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 15px;color: #B85102;background-color: #FCF4A0;left: 345px;top: 25px;width: 65px;height: 51px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "席を<br/>取っといて<br/>あげる!"
-		,"style": "font-size: 14px;color: #B85102;background-color: #FCF4A0;left: 553px;top: 148px;width: 81px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #B85102;background-color: #FCF4A0;left: 553px;top: 148px;width: 81px;height: 58px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "と…とにかく<br/>ご理解<br/>感謝します"
-		,"style": "font-size: 14px;color: #A4192E;background-color: #FF6E82;left: 602px;top: 265px;width: 100px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A4192E;background-color: #FF6E82;left: 602px;top: 265px;width: 100px;height: 58px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "問題<br/>ないわ!"
-		,"style": "font-size: 14px;color: #A4192E;background-color: #FF6E82;left: 558px;top: 341px;width: 59px;height: 39px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #A4192E;background-color: #FF6E82;left: 558px;top: 341px;width: 59px;height: 39px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

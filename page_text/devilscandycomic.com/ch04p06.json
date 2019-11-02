@@ -1,34 +1,42 @@
 [
 	{
 		"text": "エッグ<br/>スクラムの<br/>卵"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 64%;top: 4.5%;border-radius: 20%;"
+		,"style": "font-size: 18px;left: 64%;top: 4.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "素晴らしい！<br/>早速チームに<br/>連絡しておく！<br/>どこに挑戦<br/>するんだ？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 14.5%;top: 40%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 14.5%;top: 40%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ストーン<br/>ラビリンス高校の<br/>ミノタウロス？<br/>ハウリング ホロウの<br/>ウェアウルブズ？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 76.5%;top: 41%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 76.5%;top: 41%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "単純<br/>すぎよ！"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 17%;top: 58.5%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 20px;left: 17%;top: 58.5%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "いえ…私達が<br/>挑戦するのは、<br/><span style=\"font-weight: bold;\">ヘムロック<br/>ハートの<br/>ナイトメアズ</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 35%;top: 59%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 35%;top: 59%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "私は"
-		,"style": "font-size: 35px;color: black;background-color: white;left: 60%;top: 61.5%;border-radius: 20%;"
+		,"style": "font-size: 35px;left: 60%;top: 61.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "エリオット<br/>を"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 66%;top: 67%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 66%;top: 67%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "苦しみに<br/>よじらせ<br/>たいの"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 81.5%;top: 81%;font-weight: bold;width: 119px;height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "font-size: 18px;left: 81.5%;top: 81%;width: 119px;height: 50px;border-radius: 20%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

@@ -1,18 +1,22 @@
 [
 	{
 		"text": "ジョージ!!!!!"
-		,"style": "font-size: 14px;color: #50004A;background-color: #FDAFF1;left: 684px;top: 210px;width: 94px;height: 27px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #50004A;background-color: #FDAFF1;left: 684px;top: 210px;width: 94px;height: 27px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "シーッ<br/>ジョージじゃないわ<br/>私は会ったこともない<br/>謎の見知らぬ人よ!!!"
-		,"style": "font-size: 14px;color: #7D4B01;background-color: #FFE66B;left: 238px;top: 277px;width: 185px;height: 141px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #7D4B01;background-color: #FFE66B;left: 238px;top: 277px;width: 185px;height: 141px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ジョージ<br/>バレてる<br/>っての"
-		,"style": "font-size: 14px;color: #50004A;background-color: #FDAFF1;left: 698px;top: 276px;width: 78px;height: 65px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #50004A;background-color: #FDAFF1;left: 698px;top: 276px;width: 78px;height: 65px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "シーッ"
-		,"style": "font-size: 14px;color: #7D4B01;background-color: #FFE66B;left: 701px;top: 423px;width: 74px;height: 24px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #7D4B01;background-color: #FFE66B;left: 701px;top: 423px;width: 74px;height: 24px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

@@ -1,22 +1,27 @@
 [
 	{
 		"text": "皆で行けるし…<br/>ブランケットや食物<br/>持ち込んで、一晩<br/>遊び明かそうよ?"
-		,"style": "font-size: 14px;color: #1C6C01;background-color: #C3FF62;left: 18px;top: 15px;width: 179px;height: 117px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #1C6C01;background-color: #C3FF62;left: 18px;top: 15px;width: 179px;height: 117px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "肌寒い夜の丘で<br/>暖かいブランケット、<br/>友達と一緒に観る<br/>怖い映画は<br/>最高だろ?"
-		,"style": "font-size: 14px;color: #1C6C01;background-color: #C3FF62;left: 274px;top: 27px;width: 141px;height: 160px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #1C6C01;background-color: #C3FF62;left: 274px;top: 27px;width: 141px;height: 160px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "…ねぇ?"
-		,"style": "font-size: 14px;color: #1C6C01;background-color: #C3FF62;left: 474px;top: 95px;width: 66px;height: 28px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #1C6C01;background-color: #C3FF62;left: 474px;top: 95px;width: 66px;height: 28px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ジョージ<br/>聞いてる?"
-		,"style": "font-size: 14px;color: #1C6C01;background-color: #C3FF62;left: 560px;top: 128px;width: 85px;height: 79px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #1C6C01;background-color: #C3FF62;left: 560px;top: 128px;width: 85px;height: 79px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "えっ…<br/>もちろんよ!!!<br/>いいわね<br/>面白そう…"
-		,"style": "font-size: 14px;color: #7F4514;background-color: #FFFD62;left: 660px;top: 158px;width: 128px;height: 101px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #7F4514;background-color: #FFFD62;left: 660px;top: 158px;width: 128px;height: 101px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

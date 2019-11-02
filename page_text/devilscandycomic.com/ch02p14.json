@@ -1,26 +1,32 @@
 [
 	{
 		"text": "あれ？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 83%;top: 7.5%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 83%;top: 7.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "わっ!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 88.5%;top: 24.2%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 20px;left: 88.5%;top: 24.2%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "妙だな"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 73.5%;top: 39.5%;height: 30px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "font-size: 18px;left: 73.5%;top: 39.5%;height: 30px;border-radius: 20%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "この翼棟<br/>には幽霊が<br/>いない"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 79.5%;top: 42%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 79.5%;top: 42%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "幽霊から体育館<br/>を守ってますね?<br/>この人が<br/>スケルトン<br/>忍者先生"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 66.5%;top: 53%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 66.5%;top: 53%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "でもそれなら<br/>外にいた方が<br/>…？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 66%;top: 77.5%;height: 70px;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 66%;top: 77.5%;height: 70px;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

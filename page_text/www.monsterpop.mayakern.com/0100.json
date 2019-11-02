@@ -1,26 +1,32 @@
 [
 	{
 		"text": "ごめんなさい<br/>あぁ 驚かす気<br/>だったのね"
-		,"style": "font-size: 14px;color: #0E7286;background-color: #74FBFE;left: 667px;top: 202px;width: 105px;height: 73px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #0E7286;background-color: #74FBFE;left: 667px;top: 202px;width: 105px;height: 73px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "シーッ<br/>シッ 大丈夫<br/>可愛い子たち<br/>大丈夫よ"
-		,"style": "font-size: 14px;color: #0E7286;background-color: #74FBFE;left: 28px;top: 337px;width: 107px;height: 77px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #0E7286;background-color: #74FBFE;left: 28px;top: 337px;width: 107px;height: 77px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "しまった<br/>予想外よ<br/>ごめんなさい"
-		,"style": "font-size: 14px;color: #834D01;background-color: #E7FA81;left: 77px;top: 436px;width: 97px;height: 54px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #834D01;background-color: #E7FA81;left: 77px;top: 436px;width: 97px;height: 54px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "シーッ"
-		,"style": "font-size: 14px;color: #0E7286;background-color: #74FBFE;left: 310px;top: 364px;width: 49px;height: 17px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #0E7286;background-color: #74FBFE;left: 310px;top: 364px;width: 49px;height: 17px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "シーッ<br/>大丈夫…"
-		,"style": "font-size: 14px;color: #0E7286;background-color: #74FBFE;left: 321px;top: 443px;width: 62px;height: 38px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #0E7286;background-color: #74FBFE;left: 321px;top: 443px;width: 62px;height: 38px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "落ちつ<br/>いて…"
-		,"style": "font-size: 12px;color: #0E7286;background-color: #74FBFE;left: 728px;top: 421px;width: 39px;height: 37px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 12px;color: #0E7286;background-color: #74FBFE;left: 728px;top: 421px;width: 39px;height: 37px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

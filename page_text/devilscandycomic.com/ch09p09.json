@@ -1,22 +1,27 @@
 [
 	{
 		"text": "ここよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 16.53%;top: 5.02%;width: 7.16%;height: 4.27%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 16.53%;top: 5.02%;width: 7.16%;height: 4.27%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "キャアアアア!!!"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 27.03%;top: 48.44%;width: 22.43%;height: 3.19%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;font-weight: bold;"
+		,"style": "font-size: 25px;left: 27.03%;top: 48.44%;width: 22.43%;height: 3.19%;border-radius: 10%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "リンゴ!!"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 55.79%;top: 48.52%;width: 12.77%;height: 6.20%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 25px;left: 55.79%;top: 48.52%;width: 12.77%;height: 6.20%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "何が<br/>あったの<br/>?!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 74.16%;top: 45.17%;width: 11.69%;height: 5.03%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 74.16%;top: 45.17%;width: 11.69%;height: 5.03%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "殺され<br/>てるわ!!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 81.32%;top: 78.70%;width: 11.46%;height: 6.20%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 81.32%;top: 78.70%;width: 11.46%;height: 6.20%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

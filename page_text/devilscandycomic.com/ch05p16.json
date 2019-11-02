@@ -1,14 +1,17 @@
 [
 	{
 		"text": "こ…今日は<br/>紳士諸君"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 44.3%;top: 20%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 44.3%;top: 20%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "アドバイスは<br/>しないけど"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 69%;top: 43%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 69%;top: 43%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "急に動けば<br/>僕は神経質に<br/>なって<br/>それはいつも<br/>悪い結果で<br/>終わる"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 75%;top: 73.5%;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 75%;top: 73.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

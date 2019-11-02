@@ -1,0 +1,192 @@
+[
+	{
+		"text": "ロボットの少女"
+		,"style": "font-size: 40px;color: #F3D0F1;background-color: #CA226F;left: 12.1905%;top: 0.8347%;width: 76.9524%;height: 0.8879%;border-radius: 0%;"
+		,"class": "CENTER BOLD"
+	}
+	,{
+		"text": "昔　ロボットの少女がいた"
+		,"style": "font-size: 14px;color: black;background-color: #B4A9D3;left: 1.1429%;top: 12.9694%;width: 36.7619%;height: 0.4994%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "周りはロボットだらけですが<br/>彼女は他と違っていた"
+		,"style": "font-size: 14px;color: black;background-color: #B4A9D3;left: 58.0952%;top: 16.6690%;width: 40.0000%;height: 0.7769%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "私を愛してる?"
+		,"style": "font-size: 14px;color: black;background-color: #F6A2C3;left: 8.3810%;top: 17.8159%;width: 20.7619%;height: 0.3145%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "彼女は聞いた"
+		,"style": "font-size: 11px;color: black;background-color: #B4A9D3;left: 19.8095%;top: 18.2413%;width: 13.3333%;height: 0.4255%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "エンジンや機械音が<br/>鳴り響く中"
+		,"style": "font-size: 13px;color: black;background-color: #B4A9D3;left: 1.7143%;top: 20.9975%;width: 32.9524%;height: 0.5364%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ロボットは返信した"
+		,"style": "font-size: 11px;color: black;background-color: #B4A9D3;left: 11.6190%;top: 21.5894%;width: 28.9524%;height: 0.3330%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "いいえ、我々はロボット、君を愛さない"
+		,"style": "font-size: 12px;color: #6269AD;background-color: #362F8F;left: 52.3810%;top: 24.4566%;width: 44.9524%;height: 0.3330%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ロボットの少女が通りを歩いていると<br/>少女は母親とはぐれた子供を見つけた"
+		,"style": "font-size: 13px;color: black;background-color: #FAB7A6;left: 2.2857%;top: 25.5110%;width: 45.7143%;height: 0.9064%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "愛してくれる?"
+		,"style": "font-size: 14px;color: black;background-color: #F38EAE;left: 67.4286%;top: 26.0844%;width: 20.9524%;height: 0.5179%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "彼女は聞いた"
+		,"style": "font-size: 10px;color: black;background-color: #FAB7A6;left: 83.0476%;top: 26.6209%;width: 12.5714%;height: 0.4070%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "子供はボールを彼女の空洞の、金属の胸に弾ませた"
+		,"style": "font-size: 12px;color: black;background-color: #FAB7A6;left: 68.3810%;top: 31.4119%;width: 28.9524%;height: 0.6289%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "無理、君はロボット、愛せない!"
+		,"style": "font-size: 13px;color: black;background-color: #F2693F;left: 1.3333%;top: 34.0201%;width: 45.1429%;height: 0.4809%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "そう答えると、子供は去った"
+		,"style": "font-size: 12px;color: black;background-color: #FAB7A6;left: 31.8095%;top: 34.6120%;width: 37.9048%;height: 0.3515%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "道を下っていくと<br/>最近夫を亡くした<br/>女性に出会いました"
+		,"style": "font-size: 13px;color: black;background-color: #D5C2DE;left: 2.8571%;top: 45.3593%;width: 30.8571%;height: 0.8324%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "愛してくれる?"
+		,"style": "font-size: 14px;color: black;background-color: #F9BBC8;left: 51.2381%;top: 38.5891%;width: 21.5238%;height: 0.3700%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "彼女は聞いた"
+		,"style": "font-size: 13px;color: black;background-color: #D5C2DE;left: 60.1905%;top: 39.0145%;width: 16.0000%;height: 0.4255%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "女性の足音が<br/>虚しく響きました"
+		,"style": "font-size: 13px;color: black;background-color: #D5C2DE;left: 56.9524%;top: 40.4204%;width: 24.3810%;height: 0.7954%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "嘆く未亡人は<br/>悲しい目で彼女を見た"
+		,"style": "font-size: 13px;color: black;background-color: #D5C2DE;left: 66.6667%;top: 42.2147%;width: 30.0952%;height: 0.7029%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "私はもう何も愛さない"
+		,"style": "font-size: 14px;color: black;background-color: #8E71B3;left: 11.6190%;top: 46.4507%;width: 52.0000%;height: 0.5179%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "そう言って<br/>女は去った"
+		,"style": "font-size: 11px;color: black;background-color: #D5C2DE;left: 75.0476%;top: 49.2439%;width: 22.4762%;height: 0.4624%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "少女が周りを見ると、愛される人々や<br/>愛の必要な人々がいました"
+		,"style": "font-size: 12px;color: black;background-color: #F9CADE;left: 1.9048%;top: 50.1503%;width: 43.0476%;height: 0.5734%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "少女は愛が数量化できる資源なら<br/>極少数が独占すべきか疑問に思いました"
+		,"style": "font-size: 13px;color: black;background-color: #F9CADE;left: 13.7143%;top: 51.0197%;width: 52.5714%;height: 0.6474%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "愛を持つ僅かな人々は"
+		,"style": "font-size: 13px;color: black;background-color: #F9CADE;left: 20.7619%;top: 54.8858%;width: 30.4762%;height: 0.3700%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "なぜ誰も与えようとしないのでしょうか?"
+		,"style": "font-size: 13px;color: black;background-color: #F9CADE;left: 43.2381%;top: 55.2557%;width: 51.8095%;height: 0.3330%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "そんなことを考えていると<br/>彼女の内部の機械が<br/>混乱してきました"
+		,"style": "font-size: 12px;color: black;background-color: #F9CADE;left: 1.1429%;top: 55.6072%;width: 30.6667%;height: 0.9249%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "オーバーヒートし<br/>彼女の金属の一部が<br/>融合していきました"
+		,"style": "font-size: 12px;color: black;background-color: #F8C7C2;left: 34.2857%;top: 55.6997%;width: 30.4762%;height: 0.7769%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ねじれにねじれ<br/>彼女の命の火花が<br/>飛び散るようでした"
+		,"style": "font-size: 12px;color: black;background-color: #FEFBDC;left: 66.4762%;top: 55.5887%;width: 31.6190%;height: 0.9619%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ロボットは仕事を終え"
+		,"style": "font-size: 13px;color: black;background-color: #FFF7E0;left: 1.5238%;top: 62.5809%;width: 29.3333%;height: 0.5179%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "子供は母を見つけ"
+		,"style": "font-size: 13px;color: black;background-color: #FFF7E0;left: 33.3333%;top: 62.5809%;width: 26.6667%;height: 0.5734%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "未亡人は新たな愛を見つけた"
+		,"style": "font-size: 13px;color: black;background-color: #FFF7E0;left: 64.7619%;top: 62.5994%;width: 32.7619%;height: 0.6474%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ある日、１人の男が<br/>ロボットの少女だった<br/>ねじれた金属を見つけた"
+		,"style": "font-size: 13px;color: black;background-color: #FFF7E0;left: 35.4286%;top: 65.1891%;width: 31.2381%;height: 0.8139%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "彼女のハートを<br/>彼は持ち帰った"
+		,"style": "font-size: 13px;color: black;background-color: #FFF7E0;left: 68.7619%;top: 65.1706%;width: 25.1429%;height: 0.7214%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "それを元に彼は<br/>娘へ贈るオルゴールを作った"
+		,"style": "font-size: 13px;color: black;background-color: #FFF7E0;left: 18.0952%;top: 69.5917%;width: 35.0476%;height: 0.6474%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "時は経ち、娘は成長し<br/>男は死にました"
+		,"style": "font-size: 13px;color: black;background-color: #E6F5F2;left: 1.9048%;top: 74.9376%;width: 34.2857%;height: 0.5364%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "成長した娘は<br/>オルゴールを聞きながら<br/>思い出に浸ります"
+		,"style": "font-size: 13px;color: black;background-color: #E6F5F2;left: 23.8095%;top: 76.5654%;width: 29.7143%;height: 0.7769%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ある日、娘は母となり<br/>オルゴールを子供達に贈りました"
+		,"style": "font-size: 13px;color: black;background-color: #E6F5F2;left: 50.4762%;top: 80.4315%;width: 47.4286%;height: 0.6659%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "この先いつまでも、ロボットの少女は、オルゴールとして愛されました"
+		,"style": "font-size: 13px;color: black;background-color: #FBFBEF;left: 3.8095%;top: 81.3749%;width: 93.1429%;height: 0.6659%;border-radius: 0%;"
+		,"class": "CENTER"
+	}
+]

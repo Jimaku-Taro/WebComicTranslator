@@ -1,38 +1,47 @@
 [
 	{
 		"text": "でも…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 2.50%;top: 1.65%;width: 6.91%;height: 8.25%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 2.50%;top: 1.65%;width: 6.91%;height: 8.25%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "話し始めると<br/>止まらない<br/>だろ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 24.52%;top: 1.02%;width: 13.94%;height: 11.08%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 24.52%;top: 1.02%;width: 13.94%;height: 11.08%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "だからって<br/>あんな風に<br/>飛びかかって<br/>良い訳ないだろ!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 48.46%;top: 1.02%;width: 17.66%;height: 8.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;font-weight: bold;"
+		,"style": "font-size: 16px;left: 48.46%;top: 1.02%;width: 17.66%;height: 8.81%;border-radius: 10%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "モジト…<br/>わざとじゃ<br/>ないからさ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 87.50%;top: 0.39%;width: 10.74%;height: 10.46%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 87.50%;top: 0.39%;width: 10.74%;height: 10.46%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "子守のヘーゼル!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 3.24%;top: 62.97%;width: 18.62%;height: 2.59%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 3.24%;top: 62.97%;width: 18.62%;height: 2.59%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "一緒に<br/>遊ばない<br/>かい?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 3.56%;top: 67.37%;width: 10.74%;height: 10.38%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 3.56%;top: 67.37%;width: 10.74%;height: 10.38%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "今行く…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 29.31%;top: 61.32%;width: 13.94%;height: 4.64%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 29.31%;top: 61.32%;width: 13.94%;height: 4.64%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "背中<br/>痛めた?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 36.22%;top: 80.50%;width: 11.06%;height: 8.49%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 36.22%;top: 80.50%;width: 11.06%;height: 8.49%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あぁ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 38.67%;top: 90.80%;width: 8.83%;height: 3.77%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 38.67%;top: 90.80%;width: 8.83%;height: 3.77%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

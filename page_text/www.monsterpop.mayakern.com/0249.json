@@ -1,14 +1,17 @@
 [
 	{
 		"text": "それ完全に<br/>パジャマの<br/>シャツじゃん"
-		,"style": "font-size: 14px;color: #886301;background-color: #FEF262;left: 10px;top: 10px;width: 124px;height: 65px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #886301;background-color: #FEF262;left: 10px;top: 10px;width: 124px;height: 65px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "…それに<br/>フランネル製の<br/>パジャマ持ってないの<br/>知ってるよ"
-		,"style": "font-size: 14px;color: #886301;background-color: #FEF262;left: 285px;top: 340px;width: 149px;height: 110px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #886301;background-color: #FEF262;left: 285px;top: 340px;width: 149px;height: 110px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "…おまけに化粧も<br/>昨晩のままだし!"
-		,"style": "font-size: 16px;color: #886301;background-color: #FEF262;left: 580px;top: 10px;width: 190px;height: 72px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;color: #886301;background-color: #FEF262;left: 580px;top: 10px;width: 190px;height: 72px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

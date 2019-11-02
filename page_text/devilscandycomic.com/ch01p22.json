@@ -1,22 +1,27 @@
 [
 	{
 		"text": "どうした<br/>んだ？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 9%;top: 7%;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 9%;top: 7%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">アッ<br/>？！</span>"
-		,"style": "font-size: 34px;color: black;background-color: white;left: 38%;top: 23%;width: 80px;border-radius: 10%;"
+		,"style": "font-size: 34px;left: 38%;top: 23%;width: 80px;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">み…皆女の子<br/>作ったの？！</span>"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 14%;top: 70%;width: 125px;border-radius: 10%;"
+		,"style": "font-size: 20px;left: 14%;top: 70%;width: 125px;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "お前あれを<br/>女の子って<br/>呼べるの<span style=\"font-weight: bold;\">かよ</span>"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 32.5%;top: 69%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 32.5%;top: 69%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "す…少なくとも<br/>僕は服を着せる<br/>良識はあるよ！<br/><span style=\"font-size: 12px;\">これが“男性目線”?</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 74.8%;top: 67%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 74.8%;top: 67%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

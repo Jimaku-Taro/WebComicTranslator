@@ -1,14 +1,17 @@
 [
 	{
 		"text": "フラニーは<br/>間違ってる!!!"
-		,"style": "font-size: 12px;color: #5B3221;background-color: #FFF45E;left: 180px;top: 63px;width: 69px; height: 35px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "font-size: 12px;color: #5B3221;background-color: #FFF45E;left: 180px;top: 63px;width: 69px; height: 35px;border-radius: 20%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ただ皆<br/>学びたい<br/>だけよ!!"
-		,"style": "font-size: 14px;color: #5B3221;background-color: #FFF45E;left: 216px;top: 392px;width: 74px; height: 50px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "font-size: 14px;color: #5B3221;background-color: #FFF45E;left: 216px;top: 392px;width: 74px; height: 50px;border-radius: 20%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "バカな人間も<br/>いるけど<br/>全員がそうじゃ<br/>ないわ!!"
-		,"style": "font-size: 14px;color: #5B3221;background-color: #FFF45E;left: 450px;top: 34px;width: 162px; height: 69px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 30%;"
+		,"style": "font-size: 14px;color: #5B3221;background-color: #FFF45E;left: 450px;top: 34px;width: 162px; height: 69px;border-radius: 30%;"
+		,"class": "CENTER"
 	}
 ]

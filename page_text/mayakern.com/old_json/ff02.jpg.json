@@ -1,0 +1,37 @@
+[
+	{
+		"text": "2度目の出会いは、<br/>見覚えがあるか<br/>曖昧な感じでした"
+		,"style": "font-size: 14px;color: #6F2613;background-color: #FFFCD7;left: 2.42%;top: 5.99%;width: 26.33%;height: 6.88%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "あー"
+		,"style": "font-size: 12px;color: #6F2718;background-color: #FEE9D8;left: 74.08%;top: 40.27%;width: 9.00%;height: 3.44%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "すみませんが<br/>前に会いました?"
+		,"style": "font-size: 12px;color: #6D2A19#;background-color: #FEE9F2;left: 10.25%;top: 54.15%;width: 18.83%;height: 5.81%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "エーは初対面と<br/>思いましたが<br/>こう答えました…"
+		,"style": "font-size: 13px;color: #6F2613;background-color: #FFFCD7;left: 52.08%;top: 53.08%;width: 21.17%;height: 5.10%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "あ"
+		,"style": "font-size: 14px;color: black;background-color: #FEE9D8;left: 54.42%;top: 59.85%;width: 6.67%;height: 3.32%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "うん"
+		,"style": "font-size: 10px;color: black;background-color: #FEE9D8;left: 60.08%;top: 63.76%;width: 4.33%;height: 2.85%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "そう思う…"
+		,"style": "font-size: 14px;color: black;background-color: #FEE9D8;left: 78.75%;top: 58.90%;width: 18.17%;height: 4.74%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+]

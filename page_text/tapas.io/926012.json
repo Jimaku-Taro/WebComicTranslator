@@ -1,62 +1,77 @@
 [
 	{
 		"text": "…本当に<br/>何も喋れ<br/>ないの?"
-		,"style": "font-size: 40px;color: black;background-color: white;left: 7.07%;top: 2.06%;width: 27.55%;height: 4.46%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 40px;left: 7.07%;top: 2.06%;width: 27.55%;height: 4.46%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何百年も<br/>喋ってない"
-		,"style": "font-size: 40px;color: black;background-color: white;left: 51.22%;top: 9.57%;width: 41.81%;height: 2.67%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 40px;left: 51.22%;top: 9.57%;width: 41.81%;height: 2.67%;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "風邪?"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 54.57%;top: 13.75%;width: 12.87%;height: 1.89%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 20px;left: 54.57%;top: 13.75%;width: 12.87%;height: 1.89%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "無理<br/>しないで"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 53.09%;top: 15.68%;width: 10.96%;height: 1.58%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 20px;left: 53.09%;top: 15.68%;width: 10.96%;height: 1.58%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "巫女"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 45.80%;top: 26.84%;width: 16.38%;height: 0.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 25px;left: 45.80%;top: 26.84%;width: 16.38%;height: 0.53%;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "アリア"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 48.24%;top: 28.50%;width: 11.60%;height: 0.65%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 25px;left: 48.24%;top: 28.50%;width: 11.60%;height: 0.65%;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "とにかく"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 5.16%;top: 28.11%;width: 13.72%;height: 0.93%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 20px;left: 5.16%;top: 28.11%;width: 13.72%;height: 0.93%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "自己紹介してなくて<br/>ごめんなさい。<br/>私はアリア。<br/>近くの神殿の巫女よ"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 21.44%;top: 32.63%;width: 41.91%;height: 3.93%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 20px;left: 21.44%;top: 32.63%;width: 41.91%;height: 3.93%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "完全に迷子なの。<br/>帰り道を<br/>教えてくれない?<br/>お願いします…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 42.29%;top: 36.56%;width: 21.70%;height: 2.80%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 42.29%;top: 36.56%;width: 21.70%;height: 2.80%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ピタッ"
-		,"style": "font-size: 10px;color: black;background-color: white;left: 29.41%;top: 39.02%;width: 4.57%;height: 0.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 10px;left: 29.41%;top: 39.02%;width: 4.57%;height: 0.36%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "…わかった"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 17.82%;top: 43.05%;width: 20.74%;height: 1.93%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 30px;left: 17.82%;top: 43.05%;width: 20.74%;height: 1.93%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "本当?"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 20.05%;top: 51.80%;width: 13.51%;height: 1.16%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 25px;left: 20.05%;top: 51.80%;width: 13.51%;height: 1.16%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ありがとう!"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 23.67%;top: 53.23%;width: 19.04%;height: 1.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 25px;left: 23.67%;top: 53.23%;width: 19.04%;height: 1.47%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "すみませんが<br/>手を握って<br/>もらえますか?"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 21.22%;top: 57.28%;width: 24.89%;height: 3.60%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 25px;left: 21.22%;top: 57.28%;width: 24.89%;height: 3.60%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "でないと、また<br/>迷子になりそうで…"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 4.73%;top: 64.37%;width: 25.85%;height: 1.66%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 20px;left: 4.73%;top: 64.37%;width: 25.85%;height: 1.66%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 ]

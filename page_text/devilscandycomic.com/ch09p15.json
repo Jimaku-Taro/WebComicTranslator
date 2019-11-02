@@ -1,50 +1,62 @@
 [
 	{
 		"text": "オレを<br/>試してる?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 13.90%;top: 5.50%;width: 12.05%;height: 6.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 13.90%;top: 5.50%;width: 12.05%;height: 6.54%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "少し外出しただけで<br/>容疑から外れた気か?<br/>アンタが一番<br/>怪しいんだよ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 74.88%;top: 6.34%;width: 16.95%;height: 12.41%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 74.88%;top: 6.34%;width: 16.95%;height: 12.41%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "まぁ<br/>他の連中も<br/>大概だがな…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 12.59%;top: 26.81%;width: 12.89%;height: 5.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 12.59%;top: 26.81%;width: 12.89%;height: 5.53%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ニモ<br/>本気で私が<br/>殺したと<br/>思ってない<br/>よね?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 45.05%;top: 26.14%;width: 12.17%;height: 8.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 45.05%;top: 26.14%;width: 12.17%;height: 8.55%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "キスした時<br/>私の愛を<br/>感じた<br/>でしょ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 57.34%;top: 26.81%;width: 11.93%;height: 9.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 57.34%;top: 26.81%;width: 11.93%;height: 9.47%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "信じられ<br/>ないなら…<br/>もう一度<br/>感じてみる?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 71.54%;top: 27.40%;width: 11.22%;height: 8.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 71.54%;top: 27.40%;width: 11.22%;height: 8.47%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "え～っ!?"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 7.70%;top: 57.83%;width: 12.29%;height: 3.60%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 20px;left: 7.70%;top: 57.83%;width: 12.29%;height: 3.60%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ニモと<br/>キスしたの?<br/>初耳よ!<br/>スキャンダルね!"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 19.51%;top: 56.49%;width: 13.25%;height: 6.96%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 13px;left: 19.51%;top: 56.49%;width: 13.25%;height: 6.96%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "私は<br/>色んな人と<br/>キスしてるの<br/>ブレンディ、<br/>あとニモとは<br/>文学部に<br/>入る前ね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 36.81%;top: 56.23%;width: 13.13%;height: 10.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 36.81%;top: 56.23%;width: 13.13%;height: 10.90%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "また<br/>あの匂いだ…<br/>何か甘い。<br/>でも香水<br/>じゃない"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 36.10%;top: 81.80%;width: 12.29%;height: 8.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 36.10%;top: 81.80%;width: 12.29%;height: 8.47%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何にせよだ、<br/>コイツらオレを<br/>からかってるな、<br/>罠に踏み込ん<br/>じまったが、<br/>オレより賢いなんて<br/>優越感もたせて<br/>たまるかよ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 52.92%;top: 58.41%;width: 16.23%;height: 13.83%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 52.92%;top: 58.41%;width: 16.23%;height: 13.83%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "(元)クイズ王に<br/>楯突いたこと<br/>後悔させてやる"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 76.07%;top: 85.49%;width: 11.93%;height: 8.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 76.07%;top: 85.49%;width: 11.93%;height: 8.47%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 ]

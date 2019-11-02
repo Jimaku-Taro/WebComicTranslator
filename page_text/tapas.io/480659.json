@@ -1,18 +1,22 @@
 [
 	{
 		"text": "考えろ、スケア…<br/>君の恐怖の根源を"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 19.63%;top: 51.73%;width: 21.81%;height: 8.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 19.63%;top: 51.73%;width: 21.81%;height: 8.81%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "一度認めれば<br/>君はそれと<br/>戦えるようになる"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 63.56%;top: 53.54%;width: 30.43%;height: 13.44%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 63.56%;top: 53.54%;width: 30.43%;height: 13.44%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "周りを見て"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 17.39%;top: 72.33%;width: 18.51%;height: 3.30%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 17.39%;top: 72.33%;width: 18.51%;height: 3.30%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "無理です<br/>ごめん<br/>なさい…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 60.80%;top: 83.81%;width: 8.09%;height: 9.83%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 60.80%;top: 83.81%;width: 8.09%;height: 9.83%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

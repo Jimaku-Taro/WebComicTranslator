@@ -1,38 +1,47 @@
 [
 	{
 		"text": "招集<br/>来た<br/>!!"
-		,"style": "font-size: 40px;color: black;background-color: white;left: 22.39%;top: 0.94%;width: 21.60%;height: 14.94%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 40px;left: 22.39%;top: 0.94%;width: 21.60%;height: 14.94%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "考えてる"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 62.29%;top: 1.49%;width: 10.74%;height: 4.87%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 62.29%;top: 1.49%;width: 10.74%;height: 4.87%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "大きく<br/>なって"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 67.39%;top: 28.46%;width: 5.11%;height: 5.58%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;left: 67.39%;top: 28.46%;width: 5.11%;height: 5.58%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "いつ?<br/>いつ?<br/>いつ?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 55.48%;top: 49.06%;width: 8.83%;height: 9.67%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 55.48%;top: 49.06%;width: 8.83%;height: 9.67%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "明日の<br/>午後4時"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 70.05%;top: 52.59%;width: 9.04%;height: 11.87%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 70.05%;top: 52.59%;width: 9.04%;height: 11.87%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "えっ?!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 71.65%;top: 69.10%;width: 8.72%;height: 8.18%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 71.65%;top: 69.10%;width: 8.72%;height: 8.18%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "俺も!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 4.20%;top: 87.34%;width: 8.51%;height: 9.75%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 4.20%;top: 87.34%;width: 8.51%;height: 9.75%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "一緒に<br/>行けるね!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 40.05%;top: 82.39%;width: 9.57%;height: 11.01%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 40.05%;top: 82.39%;width: 9.57%;height: 11.01%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "泣か<br/>ないで!!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 87.61%;top: 90.88%;width: 6.91%;height: 7.86%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 87.61%;top: 90.88%;width: 6.91%;height: 7.86%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

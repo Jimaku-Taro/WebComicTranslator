@@ -1,50 +1,62 @@
 [
 	{
 		"text": "ええ<br/>ありがと<br/>ママ"
-		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 1.44%;top: 2.18%;width: 7.63%;height: 12.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 1.44%;top: 2.18%;width: 7.63%;height: 12.90%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うん。<br/>大丈夫。<br/>フラニーの所に<br/>泊まってるの、<br/>思い出した?"
-		,"style": "font-size: 13px;color: #5D5500;background-color: #FEF981;left: 10.56%;top: 4.96%;width: 16.75%;height: 22.22%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;color: #5D5500;background-color: #FEF981;left: 10.56%;top: 4.96%;width: 16.75%;height: 22.22%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ここの<br/>すぐ側よ"
-		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 23.19%;top: 25.60%;width: 11.88%;height: 13.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 23.19%;top: 25.60%;width: 11.88%;height: 13.29%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ええ…"
-		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 31.81%;top: 44.25%;width: 7.00%;height: 6.15%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 31.81%;top: 44.25%;width: 7.00%;height: 6.15%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "私じゃ<br/>ないわ!"
-		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 43.94%;top: 5.36%;width: 8.38%;height: 10.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 43.94%;top: 5.36%;width: 8.38%;height: 10.71%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "…OK<br/>少し<br/>だけ"
-		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 48.19%;top: 13.89%;width: 9.13%;height: 14.09%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 48.19%;top: 13.89%;width: 9.13%;height: 14.09%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うわぁ<br/>反抗的な10代には<br/>ママのからかいは<br/>堪えるわよ!"
-		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 79.44%;top: 2.98%;width: 18.00%;height: 26.59%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 79.44%;top: 2.98%;width: 18.00%;height: 26.59%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "OK<br/>やっとく"
-		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 84.56%;top: 31.75%;width: 11.25%;height: 12.30%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 84.56%;top: 31.75%;width: 11.25%;height: 12.30%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "へぇ"
-		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 80.94%;top: 49.80%;width: 8.00%;height: 5.75%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 80.94%;top: 49.80%;width: 8.00%;height: 5.75%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ええ"
-		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 46.69%;top: 65.87%;width: 6.25%;height: 6.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 46.69%;top: 65.87%;width: 6.25%;height: 6.55%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "私も<br/>愛してる"
-		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 54.31%;top: 81.15%;width: 9.50%;height: 10.12%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 54.31%;top: 81.15%;width: 9.50%;height: 10.12%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "じゃ!"
-		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 92.56%;top: 73.41%;width: 5.38%;height: 4.56%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #5D5500;background-color: #FEF981;left: 92.56%;top: 73.41%;width: 5.38%;height: 4.56%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

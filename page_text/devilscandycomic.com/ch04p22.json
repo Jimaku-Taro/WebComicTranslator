@@ -1,78 +1,97 @@
 [
 	{
 		"text": "元気<br/>出して"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 11.5%;top: 3.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 11.5%;top: 3.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ナイジェルの<br/>半分の大きさ<br/>でもないし<br/>彼の自信見て！"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 17.3%;top: 3%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 17.3%;top: 3%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "お前から<br/>引っこ抜く!<br/>(内臓を)"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 32.3%;top: 4%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 32.3%;top: 4%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ハ、怖がる<br/>とでも？<br/>そもそも<span style=\"font-weight: bold;\">意味</span><br/>わかんない"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 43.4%;top: 2%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 43.4%;top: 2%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "OK、多分<br/>理想的でないが、<br/>選手８人<br/>控え１人だ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 51.5%;top: 9.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 51.5%;top: 9.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "拒否したが、<br/>引き受けてる"
 		,"style": "font-size: 14px;color: white;background-color: black;left: 54.5%;top: 28.3%;border-radius: 10%;"
+		,"class": ""
 	}
 	,{
 		"text": "お前ならかなり<br/>上手くいくさ。<br/>その、あー…<br/>お前の才能に<br/>あってる"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 68.20%;top: 4.95%;width: 13.60%;height: 8.30%;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 68.20%;top: 4.95%;width: 13.60%;height: 8.30%;border-radius: 40%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "やらない"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 82.3%;top: 12%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 82.3%;top: 12%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "はぁ?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 28%;top: 45.7%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 28%;top: 45.7%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "それじゃ<br/>選手7人と<br/>控え1人だ、<br/>入るか<br/>カズ？"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 12.7%;top: 52.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 12.7%;top: 52.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "な…<br/>何だって?!<br/>ダメだ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 57%;top: 45.5%;font-weight: bold;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 57%;top: 45.5%;border-radius: 30%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "その、僕は<br/>チームを手伝い<br/>たいけど、<br/><span style=\"font-weight: bold;\">競技は</span>無理！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 56%;top: 51%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 56%;top: 51%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "きっと<br/><span style=\"font-weight: bold;\">殺され</span>ちゃう!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 85%;top: 56.7%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 85%;top: 56.7%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "文字通り<br/>本当に<br/>殺される!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 88%;top: 61.5%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 88%;top: 61.5%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "パンドラを<br/>控えの１人に<br/>今は入れてよ。<br/>彼女ならやる"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 11%;top: 71.5%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 11%;top: 71.5%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "俺が言うのも<br/>変だけどさぁ、<br/>彼女は<br/><span style=\"font-weight: bold;\">そこにいる</span>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 25%;top: 71%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 25%;top: 71%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "無視<br/>できない<br/>だろ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 37.6%;top: 73.3%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 37.6%;top: 73.3%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "それこそ<br/>彼女が<span style=\"font-weight: bold;\">僕に</span><br/>何日もしてきた<br/>ことだよ！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 50.5%;top: 72.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 50.5%;top: 72.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "今は<br/>深刻な状況だ！<br/>そんな幼稚なこと<br/>する余裕は<br/>今はないよ！"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 82%;top: 83%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 82%;top: 83%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 ]

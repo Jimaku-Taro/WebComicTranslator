@@ -1,22 +1,27 @@
 [
 	{
 		"text": "クッ!"
-		,"style": "font-size: 12px;color: black;background-color: white;left: 6.62%;top: 3.97%;width: 5.01%;height: 2.77%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 12px;left: 6.62%;top: 3.97%;width: 5.01%;height: 2.77%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何だ?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 10.80%;top: 5.14%;width: 6.44%;height: 4.86%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 10.80%;top: 5.14%;width: 6.44%;height: 4.86%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "物語は<br/>終わらせ<br/>なきゃ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 44.69%;top: 52.92%;width: 12.41%;height: 6.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 44.69%;top: 52.92%;width: 12.41%;height: 6.54%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "「ニモは<br/>逃げた」じゃ<br/>あんまりな<br/>結末でしょ?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 53.88%;top: 57.11%;width: 13.01%;height: 7.46%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 53.88%;top: 57.11%;width: 13.01%;height: 7.46%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "「エコーが<br/>殺人犯になる」<br/>もイマイチだろ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 66.41%;top: 78.57%;width: 15.51%;height: 8.38%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 66.41%;top: 78.57%;width: 15.51%;height: 8.38%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 ]

@@ -1,38 +1,47 @@
 [
 	{
 		"text": "あのね<br/>…"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 13%;top: 6.5%;border-radius: 20%;"
+		,"style": "font-size: 18px;left: 13%;top: 6.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "カズに<br/>あなたが<br/>いてあたし<br/>嬉しいの"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 35.6%;top: 13.7%;border-radius: 30%;"
+		,"style": "font-size: 16px;left: 35.6%;top: 13.7%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "彼は元気に<br/>振る舞ってる、<br/>でも時々すごく<br/>寂しがってると<br/>思う…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 52%;top: 3.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 52%;top: 3.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "両目を<br/>見れば<br/>分かるわ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 76.3%;top: 17.7%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 76.3%;top: 17.7%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "(いえ、髪に隠れ<br/>てない方の<br/>目ね、つまり)"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 77.6%;top: 24.3%;border-radius: 10%;"
+		,"style": "font-size: 14px;left: 77.6%;top: 24.3%;border-radius: 10%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "自分を誇示しに<br/>ショーに出る<br/>必要はないけど、<br/>彼が望むなら、<br/>喜んでやるわ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 12%;top: 55.5%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 12%;top: 55.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "彼を心の底から、<br/>たった一度でも、<br/>笑顔にできる<br/>なら…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 27%;top: 56.5%;border-radius: 30%;"
+		,"style": "font-size: 15px;left: 27%;top: 56.5%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "…あたしは<br/>何でもする"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 47%;top: 58%;border-radius: 20%;"
+		,"style": "font-size: 14px;left: 47%;top: 58%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "心配しないで、<br/>パンドラ。<br/>キレイにしてあげる<br/><span style=\"font-weight: bold;\">全世界を<br/>焼き尽くす<br/>位ね</span>"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 75.5%;top: 76.8%;border-radius: 30%;"
+		,"style": "font-size: 14px;left: 75.5%;top: 76.8%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 ]

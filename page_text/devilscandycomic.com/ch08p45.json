@@ -1,50 +1,62 @@
 [
 	{
 		"text": "エピローグ"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 7.22%;top: 3.14%;width: 15.75%;height: 2.26%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 20px;left: 7.22%;top: 3.14%;width: 15.75%;height: 2.26%;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "史上最高の忍者<br/>マーク<br/>スティーブンソン<br/>を追悼して"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 20.86%;top: 21.48%;width: 16.59%;height: 9.72%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 16px;left: 20.86%;top: 21.48%;width: 16.59%;height: 9.72%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "もっと<br/>時間が<br/>あれば…<br/>君を救えた<br/>のに"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 51.01%;top: 22.46%;width: 10.62%;height: 9.99%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 51.01%;top: 22.46%;width: 10.62%;height: 9.99%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "彼は後悔<br/>してない。<br/>カズも後悔<br/>しないで"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 78.10%;top: 28.96%;width: 10.02%;height: 8.47%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 78.10%;top: 28.96%;width: 10.02%;height: 8.47%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "良い<br/>ギター<br/>だった"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 8.65%;top: 43.88%;width: 8.71%;height: 6.37%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 8.65%;top: 43.88%;width: 8.71%;height: 6.37%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ヤギー!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 23.57%;top: 44.72%;width: 6.21%;height: 4.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 23.57%;top: 44.72%;width: 6.21%;height: 4.36%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "…あと<br/>親友だ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 40.63%;top: 44.80%;width: 8.59%;height: 5.28%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 40.63%;top: 44.80%;width: 8.59%;height: 5.28%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "お前に<br/>しちゃ<br/>頑張った<br/>方か"
-		,"style": "font-size: 13px;color: black;background-color: white;left: 74.16%;top: 44.30%;width: 10.02%;height: 5.62%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 13px;left: 74.16%;top: 44.30%;width: 10.02%;height: 5.62%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "待てよ、何で<br/>グレーテルの墓が<br/>無いんだ…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 14.50%;top: 66.68%;width: 14.80%;height: 6.12%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 14.50%;top: 66.68%;width: 14.80%;height: 6.12%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "それに<br/>葬式も??"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 36.58%;top: 68.44%;width: 9.55%;height: 5.11%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 36.58%;top: 68.44%;width: 9.55%;height: 5.11%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "え～っと…"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 71.18%;top: 78.16%;width: 21.12%;height: 3.69%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: bold;"
+		,"style": "font-size: 25px;left: 71.18%;top: 78.16%;width: 21.12%;height: 3.69%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "チャプター8：終"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 67.48%;top: 93.00%;width: 24.34%;height: 2.68%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 20px;left: 67.48%;top: 93.00%;width: 24.34%;height: 2.68%;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

@@ -1,30 +1,37 @@
 [
 	{
 		"text": "ハイ私はマヤ<br/>モンスターポップ!<br/>の作者です"
-		,"style": "font-size: 14px;color: #B40025;background-color: #FEFEFE;left: 75px;top: 20px;width: 131px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #B40025;background-color: #FEFEFE;left: 75px;top: 20px;width: 131px;height: 62px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "２章の間<br/>付いて来てくれて<br/>ありがとう!<br/>とても楽しく<br/>君達のサポートは<br/>非常にありがたいです!"
-		,"style": "font-size: 14px;color: #B40025;background-color: #FEFEFE;left: 20px;top: 115px;width: 180px;height: 122px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #B40025;background-color: #FEFEFE;left: 20px;top: 115px;width: 180px;height: 122px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "数週間以内に<br/>もっとMP!の製品を<br/>お店に追加します。<br/>isthatwhatyoumint.storenvy.com<br/>プリントやボタンなどの<br/>グッズを欲しい人は<br/>もうそんなに待たせません!"
-		,"style": "font-size: 14px;color: #B40025;background-color: #FEFEFE;left: 30px;top: 270px;width: 239px;height: 183px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #B40025;background-color: #FEFEFE;left: 30px;top: 270px;width: 239px;height: 183px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "3章は2月の未明に<br/>開始しますので<br/>注目していて下さい!"
-		,"style": "font-size: 14px;color: #B40025;background-color: #FEFEFE;left: 495px;top: 15px;width: 185px;height: 83px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #B40025;background-color: #FEFEFE;left: 495px;top: 15px;width: 185px;height: 83px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "開始時は、コミックのtumblr、<br/>monsterpopcomicに<br/>投稿しますので、<br/>追うことができます!"
-		,"style": "font-size: 14px;color: #B40025;background-color: #FEFEFE;left: 545px;top: 120px;width: 233px;height: 102px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #B40025;background-color: #FEFEFE;left: 545px;top: 120px;width: 233px;height: 102px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "私のtumblr、<br/>mayakern.tumblr.com<br/>からも追えます。<br/>ここで私はコミックや<br/>お店の更新や<br/>多くのイラストを<br/>投稿しています!"
-		,"style": "font-size: 14px;color: #B40025;background-color: #FEFEFE;left: 560px;top: 240px;width: 202px;height: 144px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #B40025;background-color: #FEFEFE;left: 560px;top: 240px;width: 202px;height: 144px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "読んでくれて<br/>ありがとう、<br/>3章の開始が<br/>待ちきれません!"
-		,"style": "font-size: 14px;color: #B40025;background-color: #FEFEFE;left: 627px;top: 413px;width: 158px;height: 80px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #B40025;background-color: #FEFEFE;left: 627px;top: 413px;width: 158px;height: 80px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

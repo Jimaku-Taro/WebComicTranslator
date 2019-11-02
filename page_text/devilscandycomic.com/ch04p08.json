@@ -1,34 +1,42 @@
 [
 	{
 		"text": "なぜ<br/>エッグ<br/>スクラム？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 22.5%;top: 4.5%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 22.5%;top: 4.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "彼女は<br/>学校を焼き払い<br/>私を吊るし<br/>上げる気だ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 74%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 74%;top: 6%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "メティアは<br/>私を苦しめる<br/>名人ですよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 25.5%;top: 39%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 25.5%;top: 39%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "心配<br/>ご無用!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 52.5%;top: 38%;font-weight: bold;border-radius: 20%;"
+		,"style": "font-size: 20px;left: 52.5%;top: 38%;border-radius: 20%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "例えチームが<br/><span style=\"font-weight: bold;\">オレ一人でも、</span><br/><span style=\"font-weight: bold;\">一騎当千</span>の力で<br/>立ち向かい<br/>ますよ！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 27.8%;top: 80%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 27.8%;top: 80%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "いや、<br/>それじゃ<br/>ダメだ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 48%;top: 60%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 48%;top: 60%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "エッグスクラムの<br/>卵を受けるのは<br/>大変な栄誉だけど…<br/>良い試合ができなきゃ<br/>我が校の信頼は<br/>地に落ちる"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 57%;top: 60.5%;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 57%;top: 60.5%;border-radius: 40%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "こんな時、<br/>とるべき<br/><span style=\"font-weight: bold;\">手段は<br/>一つ…</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 84%;top: 62%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 84%;top: 62%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

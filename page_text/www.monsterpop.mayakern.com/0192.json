@@ -1,18 +1,22 @@
 [
 	{
 		"text": "気づいてる?<br/>あなた授業中<br/>ほとんど<br/>寝てたのよ!"
-		,"style": "font-size: 14px;color: #137774;background-color: #76FEF7;left: 55px;top: 20px;width: 152px;height: 81px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #137774;background-color: #76FEF7;left: 55px;top: 20px;width: 152px;height: 81px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "えっ!!"
-		,"style": "font-size: 14px;color: #5F3F01;background-color: #FFF73F;left: 218px;top: 180px;width: 44px;height: 18px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #5F3F01;background-color: #FFF73F;left: 218px;top: 180px;width: 44px;height: 18px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "魔法心理学科が<br/>いつもやってる<br/>睡眠研究に入る<br/>べきだと思うよ。<br/>君なら稼げるさ"
-		,"style": "font-size: 14px;color: #096A24;background-color: #AFFF76;left: 252px;top: 20px;width: 173px;height: 157px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #096A24;background-color: #AFFF76;left: 252px;top: 20px;width: 173px;height: 157px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "もうっ、<br/>二人共<br/>意地悪ね!!!"
-		,"style": "font-size: 14px;color: #5F3F01;background-color: #FFF73F;left: 593px;top: 30px;width: 96px;height: 57px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #5F3F01;background-color: #FFF73F;left: 593px;top: 30px;width: 96px;height: 57px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

@@ -1,22 +1,27 @@
 [
 	{
 		"text": "眼鏡が!"
-		,"style": "font-size: 14px;color: #157E8C;background-color: #8BF8FB;left: 28px;top: 20px;width: 60px;height: 41px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #157E8C;background-color: #8BF8FB;left: 28px;top: 20px;width: 60px;height: 41px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "眼鏡なしじゃ<br/>見れない!"
-		,"style": "font-size: 14px;color: #157E8C;background-color: #8BF8FB;left: 145px;top: 54px;width: 117px;height: 61px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #157E8C;background-color: #8BF8FB;left: 145px;top: 54px;width: 117px;height: 61px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "誰か石に<br/>しちゃう!"
-		,"style": "font-size: 14px;color: #157E8C;background-color: #8BF8FB;left: 354px;top: 22px;width: 100px;height: 81px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #157E8C;background-color: #8BF8FB;left: 354px;top: 22px;width: 100px;height: 81px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うぅ…"
-		,"style": "font-size: 14px;color: #157E8C;background-color: #8BF8FB;left: 240px;top: 185px;width: 46px;height: 41px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #157E8C;background-color: #8BF8FB;left: 240px;top: 185px;width: 46px;height: 41px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "大丈夫!<br/>ここに…"
-		,"style": "font-size: 14px;color: #733106;background-color: #FFF583;left: 514px;top: 20px;width: 108px;height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #733106;background-color: #FFF583;left: 514px;top: 20px;width: 108px;height: 51px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

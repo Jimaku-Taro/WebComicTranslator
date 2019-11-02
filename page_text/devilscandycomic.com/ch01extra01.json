@@ -1,50 +1,62 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">パンドラ対策</span>"
-		,"style": "font-size: 35px;color: black;background-color: white;left: 7%;top: 9.5;width: 340px;border-radius: 0%;"
+		,"style": "font-size: 35px;left: 7%;top: 9.5;width: 340px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">１．窓を閉める</span>"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 9%;top: 15.0%;width: 182px;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 9%;top: 15.0%;width: 182px;border:solid 1px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">2.ドアを<br/>ロック</span>"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 9%;top: 34.5%;width: 81px;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 9%;top: 34.5%;width: 81px;border:solid 1px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">３．電源を<br/>カバーする</span>"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 9%;top: 54.0%;width: 118px;height: 63px;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 9%;top: 54.0%;width: 118px;height: 63px;border:solid 1px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">４．尖った物を隠す</span>"
-		,"style": "font-size: 18px;color: black;background-color: white;left: 18%;top: 73.3%;width: 224px;height: 26px;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 18px;left: 18%;top: 73.3%;width: 224px;height: 26px;border:solid 1px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-size: xx-large;font-weight: bold;\">ディナー</span>"
-		,"style": "font-size: 35px;color: black;background-color: white;left: 63%;top: 10%;width: 153px;border-radius: 0%;"
+		,"style": "font-size: 35px;left: 63%;top: 10%;width: 153px;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "あっ！<br/>お腹空い<br/>たんだ？"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 83%;top: 15%;height: 73px;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 83%;top: 15%;height: 73px;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ピザを<br/>頼もう！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 55.5%;top: 35%;height: 53px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 55.5%;top: 35%;height: 53px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<span style=\"\">何枚に<br/>しよう<br/>かな…</span>"
 		,"style": "font-size: 13.5px;color: black;background-color: #c7c5db;left: 82.6%;top: 34.3%;border-radius: 20%;"
+		,"class": ""
 	}
 	,{
 		"text": "<span style=\"font-size: small;\">いぇ～い<br/>ピッザー!</span>"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 55.5%;top: 54.5%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 55.5%;top: 54.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "食べててよ、<br/>お皿取って<br/>くる！"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 69%;top: 53.0%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 69%;top: 53.0%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "OK、<br/>僕の分は<br/>無し、<br/>いいね"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 84%;top: 74%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 84%;top: 74%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 ]

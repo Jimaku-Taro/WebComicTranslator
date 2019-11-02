@@ -1,50 +1,62 @@
 [
 	{
 		"text": "わぁ!<br/>公園!"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 11.33%;top: 1.89%;width: 15.96%;height: 6.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 25px;left: 11.33%;top: 1.89%;width: 15.96%;height: 6.53%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "やぁ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 28.88%;top: 12.97%;width: 5.00%;height: 2.67%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 28.88%;top: 12.97%;width: 5.00%;height: 2.67%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "モジトだ!"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 73.03%;top: 3.77%;width: 19.79%;height: 7.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 25px;left: 73.03%;top: 3.77%;width: 19.79%;height: 7.31%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何してるの?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 13.24%;top: 35.46%;width: 13.30%;height: 5.03%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 13.24%;top: 35.46%;width: 13.30%;height: 5.03%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "勉強さ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 21.86%;top: 40.57%;width: 10.43%;height: 4.32%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 21.86%;top: 40.57%;width: 10.43%;height: 4.32%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "やぁ<br/>子守のヘーゼル"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 44.52%;top: 36.87%;width: 14.68%;height: 4.95%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 44.52%;top: 36.87%;width: 14.68%;height: 4.95%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "よぉ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 54.52%;top: 56.76%;width: 8.51%;height: 2.59%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 54.52%;top: 56.76%;width: 8.51%;height: 2.59%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "招集に行った<br/>帰りなんだ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 80.05%;top: 38.21%;width: 13.62%;height: 6.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 80.05%;top: 38.21%;width: 13.62%;height: 6.76%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "疲れた…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 78.46%;top: 45.83%;width: 9.04%;height: 2.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 78.46%;top: 45.83%;width: 9.04%;height: 2.36%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "本当?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 4.95%;top: 63.76%;width: 7.57%;height: 3.39%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 4.95%;top: 63.76%;width: 7.57%;height: 3.39%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "僕の能力<br/>見たくない?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 16.86%;top: 62.42%;width: 16.17%;height: 6.84%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 16.86%;top: 62.42%;width: 16.17%;height: 6.84%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "OK<br/>それじゃ…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 60.80%;top: 69.10%;width: 8.19%;height: 4.48%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 60.80%;top: 69.10%;width: 8.19%;height: 4.48%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 ]

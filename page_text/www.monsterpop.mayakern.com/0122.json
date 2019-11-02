@@ -1,10 +1,12 @@
 [
 	{
 		"text": "それに食後に<br/>フローズン<br/>ヨーグ…"
-		,"style": "font-size: 14px;color: #813C0C;background-color: #FDFC70;left: 128px;top: 16px;width: 115px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #813C0C;background-color: #FDFC70;left: 128px;top: 16px;width: 115px;height: 78px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ゥゥルルトオォォ!!!"
-		,"style": "font-size: 14px;color: #813C0C;background-color: #FDFC70;left: 502px;top: 68px;width: 136px;height: 26px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #813C0C;background-color: #FDFC70;left: 502px;top: 68px;width: 136px;height: 26px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

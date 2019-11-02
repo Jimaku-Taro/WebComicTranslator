@@ -1,34 +1,42 @@
 [
 	{
 		"text": "どうした負け犬?<br/>彼氏がお前を<br/>恋しがってんのか?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 13.35%;top: 28.38%;width: 20.96%;height: 7.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 13.35%;top: 28.38%;width: 20.96%;height: 7.78%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "…何の<br/>用だよ?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 26.22%;top: 42.14%;width: 9.79%;height: 10.77%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 26.22%;top: 42.14%;width: 9.79%;height: 10.77%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "コスタ<br/>イジメは<br/>やめろ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 20.80%;top: 63.52%;width: 14.04%;height: 7.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 20.80%;top: 63.52%;width: 14.04%;height: 7.63%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "前も<br/>注意した<br/>よな"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 53.67%;top: 62.34%;width: 15.53%;height: 6.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 53.67%;top: 62.34%;width: 15.53%;height: 6.29%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "けど<br/>誰よりも早く<br/>能力を得た<br/>優越を鼻にかけ<br/>他人への<br/>嫌がらせを<br/>やめないよな"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 53.78%;top: 77.99%;width: 13.94%;height: 19.34%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 53.78%;top: 77.99%;width: 13.94%;height: 19.34%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ありがとう…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 79.73%;top: 64.47%;width: 18.30%;height: 7.55%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 79.73%;top: 64.47%;width: 18.30%;height: 7.55%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "問題無いさ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 82.82%;top: 75.47%;width: 8.62%;height: 2.04%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 14px;left: 82.82%;top: 75.47%;width: 8.62%;height: 2.04%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "チッ<br/>生意気な奴…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 80.69%;top: 94.97%;width: 10.32%;height: 4.09%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 14px;left: 80.69%;top: 94.97%;width: 10.32%;height: 4.09%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 ]

@@ -1,22 +1,27 @@
 [
 	{
 		"text": "リケットが<br/>いなくて<br/>良かった"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 9.3%;top: 4.5%;width: 94px;height: 54px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 9.3%;top: 4.5%;width: 94px;height: 54px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "兄がギャングで<br/>働いてるなんて<br/>彼女は失望する<br/>でしょうね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 8.8%;top: 11%;width: 101px;height: 91px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 8.8%;top: 11%;width: 101px;height: 91px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あぁ失望するね。<br/>“親友のグレーテル”が<br/>狂って犯罪者共から<br/>盗みを働いた<br/>なんてね"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 74%;top: 30.5%;width: 146px;height: 116px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 74%;top: 30.5%;width: 146px;height: 116px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "幸い僕の<span><span style=\"font-weight: bold;\">賢い</span>妹は</span>そんな危険な<br/>ことはしない…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 41%;top: 53%;width: 127px;height: 82px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 41%;top: 53%;width: 127px;height: 82px;border-radius: 0%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "僕は妹を守るために<br/>一生懸命働いてきたんだ!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 42%;top: 61.5%;width: 165px;height: 65px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 14px;left: 42%;top: 61.5%;width: 165px;height: 65px;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

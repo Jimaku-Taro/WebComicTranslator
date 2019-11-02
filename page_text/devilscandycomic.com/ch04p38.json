@@ -1,30 +1,37 @@
 [
 	{
 		"text": "OK<br/>ウォルトン<br/>輝く時だ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 10%;top: 4%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 10%;top: 4%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "奴らに<br/><span style=\"font-weight: bold;\">本物の</span>星は<br/>何で<br/>できてるか<br/>見せよう"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 32%;top: 3%;border-radius: 30%;"
+		,"style": "font-size: 15px;left: 32%;top: 3%;border-radius: 30%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "中央前面の<br/>配置が<br/>君には<br/>ふさわしい"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 43%;top: 3%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 43%;top: 3%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "いよいよ<br/>か…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 58%;top: 4.5%;border-radius: 20%;"
+		,"style": "font-size: 15px;left: 58%;top: 4.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "卵？!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 65.2%;top: 12%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 65.2%;top: 12%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "準備<br/>して、<br/>ドレイク"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 10%;top: 31.5%;border-radius: 20%;"
+		,"style": "font-size: 16px;left: 10%;top: 31.5%;border-radius: 20%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "わぁ!!"
-		,"style": "font-size: 37.5px;color: black;background-color: white;left: 11%;top: 88%;font-weight: bold;border-radius: 10%;"
+		,"style": "font-size: 37.5px;left: 11%;top: 88%;border-radius: 10%;"
+		,"class": "WHITE BOLD"
 	}
 ]

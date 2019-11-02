@@ -2,17 +2,21 @@
 	{
 		"text": "フラニー<br/>あのピクニック覚えてる?"
 		,"style": "font-size: 14px;color: #00000C;background-color: #FDE55C;left: 281px;top: 15px;width: 175px; height: 40px;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "私達はバカだったわね"
 		,"style": "font-size: 14px;color: #00000C;background-color: #FDE55C;left: 421px;top: 63px;width: 180px; height: 28px;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "#大失敗<br/>#francantations<sup>※</sup>"
 		,"style": "font-size: 14px;color: #9D9162;background-color: #FDE45D;left: 660px;top: 440px;width: 117px; height: 40px;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "※francantations＝フラニーのtumblrブログ名　実在する"
 		,"style": "font-size: 12px;color: #9D9162;left: 450px;top: 500px; height: 40px;border-radius: 0%;"
+		,"class": ""
 	}
 ]

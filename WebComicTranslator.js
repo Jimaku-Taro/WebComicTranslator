@@ -102,8 +102,8 @@ function KeyDownFunc(keyboardEvent){
 			//　クリップボードに吹き出し用サイズ文字列を保存
 			consoleLog("w:" + pageRulerDev.offsetWidth + "px h:" + pageRulerDev.offsetHeight + "px");
 			clipboardSetData(
-				"left: " + parcentX.toFixed(2) + "%;top: " + parcentY.toFixed(2)
-				+ "%;width: " + parcentWidth.toFixed(2) + "%;height: " + parcentHeight.toFixed(2) +"%;");
+				"left: " + parcentX.toFixed(4) + "%;top: " + parcentY.toFixed(4)
+				+ "%;width: " + parcentWidth.toFixed(4) + "%;height: " + parcentHeight.toFixed(4) +"%;");
 
 		}
 	}
@@ -362,19 +362,20 @@ function webComicTranslator() {
 	} else {
 		// 対象がHTMLCollectionだった場合は、複数用処理 
 		imageParentElementList = elementOrElemnts;
-		imageParentElement = elementOrElemnts[0];
-		length = 1; // デバッグ用
+		imageParentElement = elementOrElemnts.item(0);
+		// length = 3; // デバッグ用 最終対象数を固定
 	}
+
+	// 拡張子抜きJSON_URLを用意
+	let json_url_base = json_url.substring(0, json_url.lastIndexOf("."));
 
 	for (let i = 0; i < length; i++){
 		consoleLog('WCT：描画ループNo.' + i +"開始");
 		if (i != 0) {
-			// 対象が2件以上あった場合
-			imageParentElement = imageParentElementList[i];
-			if(json_url.lastIndexOf(".") != -1) {
-				// json_urlを　ループ数付きjson_urlへ変更
-				json_url = json_url.substring(0, json_url.lastIndexOf(".")) + i + ".json";
-			}
+			// 対象の2件目以降
+			imageParentElement = imageParentElementList.item(i);
+			// ループ数付きjson_urlへ変更
+			json_url = json_url_base + i + ".json";
 		}
 
 		let figcaptionHtmlCollection = imageParentElement.getElementsByClassName(TEXT_TAG_CLASS);
@@ -386,6 +387,20 @@ function webComicTranslator() {
 		}
 	
 		// 指定ULRのJSONを取得　非同期なので、関数外の処理は、並行して実行されるので注意
+		// つまり通信中に変数などが書き換わっていることが割と良くある
+		fetchRequest(json_url, imageParentElement);
+		
+		// TODO リサイズ時の動作関数
+		// resizeObserver.observe(imageParentElement);
+		consoleLog('WCT：描画ループNo.' + i +"終了");
+	}
+
+	consoleLog('WCT：メイン処理動作終了');
+};
+
+function fetchRequest(json_url, targetElement) {
+		// 指定ULRのJSONを取得　非同期なので、関数外の処理は、並行して実行されるので注意
+		// つまり通信～返信の間に、変数の内容が変わったりもありえる
 		fetch(json_url)
 		.then(handleErrors) // サーバ系エラーなど　通常発生しない
 		.then((response) => {
@@ -397,16 +412,9 @@ function webComicTranslator() {
 			return Promise.reject(response);
 		}).then((jsonObject) => {
 			// JSONが返ってきたら、画像上に文字列描画
-			writePageTexts(jsonObject, imageParentElement);
+			writePageTexts(jsonObject, targetElement);
 		});
-		
-		// TODO リサイズ時の動作関数
-		// resizeObserver.observe(imageParentElement);
-		consoleLog('WCT：描画ループNo.' + i +"終了");
-	}
-
-	consoleLog('WCT：メイン処理動作終了');
-};
+}
 
 //オブザーバーの作成
 const OBSERVER = new MutationObserver(records => {

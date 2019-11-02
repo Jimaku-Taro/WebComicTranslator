@@ -1,14 +1,17 @@
 [
 	{
 		"text": "そっとして<br/>あげた方が<br/>よさそうね…"
-		,"style": "font-size: 14px;color: #007976;background-color: #93FFEA;left: 44px;top: 43px;width: 121px;height: 58px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #007976;background-color: #93FFEA;left: 44px;top: 43px;width: 121px;height: 58px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ハハ…<br/>そうね…"
-		,"style": "font-size: 14px;color: #836E13;background-color: #FFFF94;left: 245px;top: 35px;width: 57px;height: 45px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #836E13;background-color: #FFFF94;left: 245px;top: 35px;width: 57px;height: 45px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "ねぇオタク達!<br/>私達用事に<br/>行くわ"
-		,"style": "font-size: 14px;color: #836E13;background-color: #FFFF94;left: 648px;top: 30px;width: 117px;height: 60px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #836E13;background-color: #FFFF94;left: 648px;top: 30px;width: 117px;height: 60px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

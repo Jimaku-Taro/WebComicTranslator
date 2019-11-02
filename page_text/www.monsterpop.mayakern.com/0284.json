@@ -1,26 +1,32 @@
 [
 	{
 		"text": "分かった、<br/>早くして!"
-		,"style": "font-size: 16px;color: #490164;background-color: #EBA7FE;left: 10.38%;top: 1.19%;width: 13.25%;height: 13.29%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;color: #490164;background-color: #EBA7FE;left: 10.38%;top: 1.19%;width: 13.25%;height: 13.29%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "テープ<br/>貼って!"
-		,"style": "font-size: 16px;color: #490164;background-color: #EBA7FE;left: 34.50%;top: 27.78%;width: 11.63%;height: 13.10%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;color: #490164;background-color: #EBA7FE;left: 34.50%;top: 27.78%;width: 11.63%;height: 13.10%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "超変な<br/>気分!"
-		,"style": "font-size: 16px;color: #490164;background-color: #EBA7FE;left: 6.19%;top: 57.14%;width: 12.38%;height: 12.30%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;color: #490164;background-color: #EBA7FE;left: 6.19%;top: 57.14%;width: 12.38%;height: 12.30%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "分かった、ジョージ<br/>あなたの勝ちよ!"
-		,"style": "font-size: 14px;color: #490164;background-color: #EBA7FE;left: 9.94%;top: 69.84%;width: 20.00%;height: 11.71%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #490164;background-color: #EBA7FE;left: 9.94%;top: 69.84%;width: 20.00%;height: 11.71%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "あ! 髪<br/>注意ね"
-		,"style": "font-size: 14px;color: #490164;background-color: #EBA7FE;left: 60.44%;top: 11.51%;width: 9.88%;height: 12.30%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #490164;background-color: #EBA7FE;left: 60.44%;top: 11.51%;width: 9.88%;height: 12.30%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "私の番ね!!"
-		,"style": "font-size: 14px;color: #490164;background-color: #EBA7FE;left: 63.31%;top: 84.92%;width: 11.00%;height: 11.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #490164;background-color: #EBA7FE;left: 63.31%;top: 84.92%;width: 11.00%;height: 11.31%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

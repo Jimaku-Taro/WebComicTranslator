@@ -1,22 +1,27 @@
 [
 	{
 		"text": "彼の所へ行くよ。<br/>パンドラ、君も<br/>一緒に来たい?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 12%;top: 4%;width: 120px;height: 111px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 12%;top: 4%;width: 120px;height: 111px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "外出前に、<br/>少し時間<br/>くれるか?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 47%;top: 4%;width: 109px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 47%;top: 4%;width: 109px;height: 76px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "内緒でな?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 67%;top: 7%;width: 66px;height: 52px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 67%;top: 7%;width: 66px;height: 52px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ありがと"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 78.5%;top: 53%;width: 66px;height: 24px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 78.5%;top: 53%;width: 66px;height: 24px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "この前、<br/>君の小さな<br/>対立について<br/>強く忠告した<br/>はずだが"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 9%;top: 72%;width: 125px;height: 138px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 9%;top: 72%;width: 125px;height: 138px;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

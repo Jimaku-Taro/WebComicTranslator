@@ -1,10 +1,12 @@
 [
 	{
 		"text": "失礼、<br/>帰らないと<br/>今すぐ!!"
-		,"style": "font-size: 14px;color: #3F2851;background-color: #D8B9D8;left: 330px;top: 69px;width: 99px; height: 51px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "font-size: 14px;color: #3F2851;background-color: #D8B9D8;left: 330px;top: 69px;width: 99px; height: 51px;border-radius: 20%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "え…"
-		,"style": "font-size: 13px;color: #4C3921;background-color: #F6F273;left: 421px;top: 302px;width: 37px; height: 20px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 20%;"
+		,"style": "font-size: 13px;color: #4C3921;background-color: #F6F273;left: 421px;top: 302px;width: 37px; height: 20px;border-radius: 20%;"
+		,"class": "CENTER"
 	}
 ]

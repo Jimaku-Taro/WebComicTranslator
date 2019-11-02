@@ -1,6 +1,7 @@
 [
 	{
 		"text": "ところで<br/>彼女の電話番号<br/>いる？"
-		,"style": "font-size: 13px;color: #AA5418;background-color: #FAFCA7;left: 82px;top: 23px;width: 105px;height: 76px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 13px;color: #AA5418;background-color: #FAFCA7;left: 82px;top: 23px;width: 105px;height: 76px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

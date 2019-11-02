@@ -1,42 +1,52 @@
 [
 	{
 		"text": "♪シェイク、シェイク、メーキング、ベーコン、<br/>それを食卓に出して俺を狂わせてくれ！"
-		,"style": "font-size: 28px;color: black;background-color: white;left: 7%;top: 3.3%;;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 28px;left: 7%;top: 3.3%;;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "メイメイ!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 31%;top: 12%;;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 20px;left: 31%;top: 12%;;border-radius: 0%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "出たほうが<br/>いいぞ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 38%;top: 16.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 38%;top: 16.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "…今日は、<br/>メティア"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 79.5%;top: 9%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 79.5%;top: 9%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ハイ<br/>マヌケ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 7%;top: 28.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 7%;top: 28.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ピアと<br/>ストラツィオ<br/>もう着いた?"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 10%;top: 32%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 10%;top: 32%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "私の着メロ<br/>“プラチナの<br/>ファンキーなケツ”<br/>にしたのか確認<br/>させないと"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 50%;top: 38%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 50%;top: 38%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "しくじったら<br/>そういう約束<br/>だったわね"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 58%;top: 46.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 58%;top: 46.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ええ、来てます<br/>あなたの着メロは<br/>100%ファンキー<br/>と保証しますよ。<br/>取り込み中でして。<br/>かけ直しても…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 75%;top: 55.5%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 75%;top: 55.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "私を<br/>イラつかせたら<br/>お前の<span style=\"font-weight: bold;\">内臓</span><br/>引きずり出すわ"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 73%;top: 67.5%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 73%;top: 67.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

@@ -1,0 +1,27 @@
+[
+	{
+		"text": "彼女はどこ?"
+		,"style": "font-size: 12px;color: black;background-color: #EBCADF;left: 51.75%;top: 22.36%;width: 16.67%;height: 3.08%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ごめん<br/>遅く…"
+		,"style": "font-size: 12px;color: black;background-color: #EBCADF;left: 44.92%;top: 59.13%;width: 12.17%;height: 4.74%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "なった"
+		,"style": "font-size: 12px;color: black;background-color: #EBCADF;left: 63.58%;top: 59.61%;width: 9.33%;height: 2.61%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "本当に<br/>愛してるの?"
+		,"style": "font-size: 12px;color: black;background-color: #EBCADF;left: 43.75%;top: 78.23%;width: 15.17%;height: 5.22%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "もちろん<br/>愛してるさ"
+		,"style": "font-size: 12px;color: black;background-color: #EBCADF;left: 79.08%;top: 72.89%;width: 15.33%;height: 4.74%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+]

@@ -1,14 +1,17 @@
 [
 	{
 		"text": "エイフェン<br/>急いで!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 84.10%;top: 2.59%;width: 11.70%;height: 9.98%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 84.10%;top: 2.59%;width: 11.70%;height: 9.98%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ぐ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 44.10%;top: 41.51%;width: 5.96%;height: 2.75%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 44.10%;top: 41.51%;width: 5.96%;height: 2.75%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "手を<br/>掴んで!!<br/>早く!!"
-		,"style": "font-size: 30px;color: black;background-color: white;left: 2.50%;top: 82.94%;width: 16.60%;height: 12.03%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;font-weight: bold;"
+		,"style": "font-size: 30px;left: 2.50%;top: 82.94%;width: 16.60%;height: 12.03%;border-radius: 10%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

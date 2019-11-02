@@ -1,30 +1,37 @@
 [
 	{
 		"text": "すっっごく寒くなったわね!<span style=\"color: #827F70;\">#何このありえない気象<br/>#まだ11月ですらないわよ<br/>#ジョージ 文章</span>"
-		,"style": "font-size: 13px;color: #32301C;background-color: #FAEF74;left: 35px;top: 20px;width: 266px;height: 74px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;font-weight: bold;border-radius: 0%;"
+		,"style": "font-size: 13px;color: #32301C;background-color: #FAEF74;left: 35px;top: 20px;width: 266px;height: 74px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"class": "BOLD"
 	}
 	,{
 		"text": "…それで<br/>何事かと思ったわよ!<br/>だってどうしようもないし<br/>全部お終いよ"
-		,"style": "font-size: 14px;color: #5F3706;background-color: #FDFF91;left: 18px;top: 125px;width: 205px;height: 110px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #5F3706;background-color: #FDFF91;left: 18px;top: 125px;width: 205px;height: 110px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "あらら…"
-		,"style": "font-size: 14px;color: #106873;background-color: #89F7FC;left: 195px;top: 270px;width: 72px;height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #106873;background-color: #89F7FC;left: 195px;top: 270px;width: 72px;height: 33px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "アハハ!"
-		,"style": "font-size: 14px;color: #2C7D18;background-color: #AAFB7B;left: 265px;top: 315px;width: 64px;height: 26px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #2C7D18;background-color: #AAFB7B;left: 265px;top: 315px;width: 64px;height: 26px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "いつも<br/>そんなことが<br/>起きてるの?"
-		,"style": "font-size: 14px;color: #106873;background-color: #89F7FC;left: 563px;top: 10px;width: 111px;height: 95px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #106873;background-color: #89F7FC;left: 563px;top: 10px;width: 111px;height: 95px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "わかんない<br/>多分私は<br/>呪われてる!"
-		,"style": "font-size: 14px;color: #5F3706;background-color: #FDFF91;left: 555px;top: 120px;width: 126px;height: 65px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #5F3706;background-color: #FDFF91;left: 555px;top: 120px;width: 126px;height: 65px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "本当にね!"
-		,"style": "font-size: 14px;color: #2C7D18;background-color: #AAFB7B;left: 685px;top: 65px;width: 74px;height: 35px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #2C7D18;background-color: #AAFB7B;left: 685px;top: 65px;width: 74px;height: 35px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

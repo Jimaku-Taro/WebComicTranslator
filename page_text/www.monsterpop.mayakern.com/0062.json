@@ -2,9 +2,11 @@
 	{
 		"text": "今日からユニティ大学が始まるわ!"
 		,"style": "font-size: 14px;color: #2E2B1B;background-color: #F4EC55;left: 28px;top: 21px;width: 274px;height: 25px;border-radius: 0%;"
+		,"class": ""
 	}
 	,{
 		"text": "フラニーと私の最初の授業よ!"
 		,"style": "font-size: 14px;color: #27231C;background-color: #FFE265;left: 551px;top: 454px;width: 226px;height: 24px;border-radius: 0%;"
+		,"class": ""
 	}
 ]

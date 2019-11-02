@@ -1,30 +1,37 @@
 [
 	{
 		"text": "ヤギー…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 24%;top: 6.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 24%;top: 6.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "ごめん<br/>なさい"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 30.5%;top: 9.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 30.5%;top: 9.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "怒らせる<br/>つもりは<br/>なかったの"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 16%;top: 40.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 16%;top: 40.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "素晴らしい<br/>デートを考えたわ。<br/>君が私のために<br/>書いてくれた歌<br/>私もすごく<br/>聴きたいな…"
-		,"style": "font-size: 15px;color: black;background-color: white;left: 75%;top: 19.5%;border-radius: 0%;"
+		,"style": "font-size: 15px;left: 75%;top: 19.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "マークで<br/>演奏すれば<br/>きっと素敵よ"
-		,"style": "font-size: 17px;color: black;background-color: white;left: 77%;top: 32.9%;border-radius: 0%;"
+		,"style": "font-size: 17px;left: 77%;top: 32.9%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "いいね"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 71%;top: 65.8%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 71%;top: 65.8%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 	,{
 		"text": "それじゃ、<br/>明日も<br/>会える？"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 75%;top: 70%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 75%;top: 70%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

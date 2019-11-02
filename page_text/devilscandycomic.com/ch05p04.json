@@ -1,6 +1,7 @@
 [
 	{
 		"text": "ふぁ…"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 72.5%;top: 32.5%;border-radius: 0%;"
+		,"style": "font-size: 16px;left: 72.5%;top: 32.5%;border-radius: 0%;"
+		,"class": "WHITE"
 	}
 ]

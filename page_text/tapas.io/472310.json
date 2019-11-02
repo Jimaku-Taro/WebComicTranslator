@@ -1,22 +1,27 @@
 [
 	{
 		"text": "あそこだと思う"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 27.39%;top: 18.79%;width: 14.47%;height: 13.76%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 27.39%;top: 18.79%;width: 14.47%;height: 13.76%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "入って"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 78.67%;top: 18.95%;width: 10.96%;height: 5.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 78.67%;top: 18.95%;width: 10.96%;height: 5.90%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ママン"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 81.04%;top: 64.70%;width: 9.15%;height: 1.81%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight:bold;"
+		,"style": "font-size: 14px;left: 81.04%;top: 64.70%;width: 9.15%;height: 1.81%;border-radius: 0%;font-weight:bold;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "入って"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 78.67%;top: 18.95%;width: 10.96%;height: 5.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 16px;left: 78.67%;top: 18.95%;width: 10.96%;height: 5.90%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "私の姿は見えないよ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 61.22%;top: 79.56%;width: 20.32%;height: 3.46%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 16px;left: 61.22%;top: 79.56%;width: 20.32%;height: 3.46%;border-radius: 10%;"
+		,"class": "CENTER WHITE"
 	}
 ]

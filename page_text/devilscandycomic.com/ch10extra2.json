@@ -1,34 +1,42 @@
 [
 	{
 		"text": "ヘムロックハート<br/>アカデミーの出来事(1)"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 33.23%;top: 4.77%;width: 32.46%;height: 4.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: bold;"
+		,"style": "font-size: 14px;left: 33.23%;top: 4.77%;width: 32.46%;height: 4.36%;border-radius: 0%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "親愛なる<br/>ミュルミドン<br/>建築会社へ<br/><br/>建築中問題があれば<br/>私の不在代理を務める<br/>ストリクソン兄妹に<br/>相談して下さい"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 28.94%;top: 10.72%;width: 18.85%;height: 16.35%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;border: 1px solid;"
+		,"style": "font-size: 14px;left: 28.94%;top: 10.72%;width: 18.85%;height: 16.35%;border-radius: 0%;font-weight: normal;border: 1px solid;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "彼らの言葉は<br/>私の言葉も同然ですが<br/>１つ例外があります…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 28.58%;top: 33.10%;width: 17.54%;height: 5.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;border: 1px solid;"
+		,"style": "font-size: 14px;left: 28.58%;top: 33.10%;width: 17.54%;height: 5.36%;border-radius: 0%;font-weight: normal;border: 1px solid;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ゴホン…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 48.63%;top: 32.01%;width: 6.92%;height: 3.02%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 48.63%;top: 32.01%;width: 6.92%;height: 3.02%;border-radius:45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "建築の<br/>提案に来た"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 25.60%;top: 52.63%;width: 13.60%;height: 7.54%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 25.60%;top: 52.63%;width: 13.60%;height: 7.54%;border-radius:45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "特に、<br/>全体的に<br/>肝臓が<br/>不足してる"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 26.07%;top: 59.92%;width: 12.53%;height: 9.30%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 26.07%;top: 59.92%;width: 12.53%;height: 9.30%;border-radius:45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "閲覧用の<br/>参考資料を<br/>作ったわ"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 62.47%;top: 53.47%;width: 11.10%;height: 10.23%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius:45%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 62.47%;top: 53.47%;width: 11.10%;height: 10.23%;border-radius:45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "内蔵関係の要求は<br/>無視して下さい。<br/>特に肝臓は"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 28.10%;top: 78.53%;width: 15.51%;height: 10.31%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;border: 1px solid;"
+		,"style": "font-size: 14px;left: 28.10%;top: 78.53%;width: 15.51%;height: 10.31%;border-radius: 0%;font-weight: normal;border: 1px solid;"
+		,"class": "CENTER WHITE"
 	}
 ]

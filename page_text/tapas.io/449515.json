@@ -1,50 +1,62 @@
 [
 	{
 		"text": "バイバイ<br/>!!!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 40.05%;top: 0.55%;width: 13.83%;height: 12.89%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 20px;left: 40.05%;top: 0.55%;width: 13.83%;height: 12.89%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "バイ<br/>バイ"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 62.50%;top: 5.97%;width: 7.77%;height: 8.65%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 20px;left: 62.50%;top: 5.97%;width: 7.77%;height: 8.65%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "お誕生日は<br/>どうだった<br/>エイフェン?"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 5.69%;top: 29.09%;width: 13.30%;height: 10.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 20px;left: 5.69%;top: 29.09%;width: 13.30%;height: 10.61%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "超<br/>楽しい!"
-		,"style": "font-size: 20px;color: black;background-color: white;left: 37.82%;top: 28.93%;width: 8.62%;height: 9.28%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 20px;left: 37.82%;top: 28.93%;width: 8.62%;height: 9.28%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "皆が<br/>来てくれて<br/>嬉しかった!"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 46.86%;top: 32.31%;width: 10.43%;height: 11.08%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 46.86%;top: 32.31%;width: 10.43%;height: 11.08%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "招集が<br/>すぐ来ると<br/>いいな。<br/>ママの時は<br/>いつ来た?"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 65.37%;top: 29.09%;width: 10.96%;height: 17.30%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 65.37%;top: 29.09%;width: 10.96%;height: 17.30%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "１週間後位<br/>かしらね"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 69.63%;top: 55.42%;width: 15.85%;height: 7.94%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 69.63%;top: 55.42%;width: 15.85%;height: 7.94%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "長すぎ!!"
-		,"style": "font-size: 40px;color: black;background-color: white;left: 28.24%;top: 64.15%;width: 23.19%;height: 5.58%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+		,"style": "font-size: 40px;left: 28.24%;top: 64.15%;width: 23.19%;height: 5.58%;border-radius: 45%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "慌てないで"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 22.93%;top: 73.66%;width: 9.26%;height: 2.36%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;transform: rotate(-12deg);"
+		,"style": "font-size: 16px;left: 22.93%;top: 73.66%;width: 9.26%;height: 2.36%;border-radius: 10%;transform: rotate(-12deg);"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "大丈夫<br/>あっと<br/>言う間よ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 52.82%;top: 70.28%;width: 10.64%;height: 13.13%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 52.82%;top: 70.28%;width: 10.64%;height: 13.13%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "おやすみ"
-		,"style": "font-size: 16px;color: black;background-color: white;left: 33.46%;top: 85.30%;width: 11.60%;height: 10.14%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;left: 33.46%;top: 85.30%;width: 11.60%;height: 10.14%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "おやすみ ママ!"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 64.63%;top: 87.03%;width: 18.09%;height: 4.17%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 16px;color: white;background-color: black;left: 64.63%;top: 87.03%;width: 18.09%;height: 4.17%;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

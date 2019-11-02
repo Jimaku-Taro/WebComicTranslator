@@ -1,6 +1,7 @@
 [
 	{
 		"text": "えぇ私も<br/>愛してる～"
-		,"style": "font-size: 14px;color: #6C3501;background-color: #FFF770;left: 35px;top: 55px;width: 69px;height: 62px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 14px;color: #6C3501;background-color: #FFF770;left: 35px;top: 55px;width: 69px;height: 62px;border-radius: 0%;"
+		,"class": "CENTER"
 	}
 ]

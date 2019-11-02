@@ -1,26 +1,32 @@
 [
 	{
 		"text": "こ…こ…<br/>こんにちは<br/>奥さん"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 13.13%;top: 31.00%;width: 10.53%;height: 2.12%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 13.13%;top: 31.00%;width: 10.53%;height: 2.12%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "よ…妖怪地区<br/>から配達です!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 38.78%;top: 20.66%;width: 14.89%;height: 1.95%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 38.78%;top: 20.66%;width: 14.89%;height: 1.95%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あの…<br/>多分<br/>誤配送…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 26.01%;top: 34.22%;width: 8.72%;height: 3.65%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 26.01%;top: 34.22%;width: 8.72%;height: 3.65%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "どうぞ!"
-		,"style": "font-size: 25px;color: black;background-color: white;left: 66.44%;top: 34.01%;width: 15.64%;height: 1.78%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;font-weight: bold;"
+		,"style": "font-size: 25px;left: 66.44%;top: 34.01%;width: 15.64%;height: 1.78%;border-radius: 10%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "モンスター郵便サービス<br/>ご利用ありがとうございます!"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 2.29%;top: 43.88%;width: 20.74%;height: 2.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 2.29%;top: 43.88%;width: 20.74%;height: 2.61%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "２人とも<br/>どうしたんだい?"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 30.48%;top: 60.14%;width: 14.04%;height: 2.61%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 40%;"
+		,"style": "font-size: 14px;left: 30.48%;top: 60.14%;width: 14.04%;height: 2.61%;border-radius: 40%;"
+		,"class": "CENTER WHITE"
 	}
 ]

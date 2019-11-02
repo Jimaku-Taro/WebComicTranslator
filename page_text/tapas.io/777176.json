@@ -1,18 +1,22 @@
 [
 	{
 		"text": "アハハハ<br/>ふぅ…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 19.63%;top: 31.10%;width: 10.00%;height: 10.00%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 19.63%;top: 31.10%;width: 10.00%;height: 10.00%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "そんな<br/>バカなこ…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 42.93%;top: 3.78%;width: 9.15%;height: 8.41%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 42.93%;top: 3.78%;width: 9.15%;height: 8.41%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ヤァ!"
-		,"style": "font-size: 35px;color: black;background-color: white;left: 54.63%;top: 40.58%;width: 13.94%;height: 11.10%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight:bold;"
+		,"style": "font-size: 35px;left: 54.63%;top: 40.58%;width: 13.94%;height: 11.10%;border-radius: 50%;font-weight:bold;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "な…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 21.86%;top: 90.98%;width: 5.43%;height: 4.63%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;left: 21.86%;top: 90.98%;width: 5.43%;height: 4.63%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

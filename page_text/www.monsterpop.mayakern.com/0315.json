@@ -1,22 +1,27 @@
 [
 	{
 		"text": "ごめん<br/>電話聞いて<br/>なかった"
-		,"style": "font-size: 14px;color: #535331;background-color: #FFF9A1;left: 1.44%;top: 3.17%;width: 10.88%;height: 14.48%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 14px;color: #535331;background-color: #FFF9A1;left: 1.44%;top: 3.17%;width: 10.88%;height: 14.48%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "大丈夫<br/>少し調子悪くて<br/>早めに帰ったの"
-		,"style": "font-size: 14px;color: #535331;background-color: #FFF9A1;left: 8.31%;top: 18.65%;width: 16.38%;height: 18.85%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 14px;color: #535331;background-color: #FFF9A1;left: 8.31%;top: 18.65%;width: 16.38%;height: 18.85%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "パーシーと<br/>楽しんでて"
-		,"style": "font-size: 14px;color: #535331;background-color: #FFF9A1;left: 6.69%;top: 50.99%;width: 11.13%;height: 8.53%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 14px;color: #535331;background-color: #FFF9A1;left: 6.69%;top: 50.99%;width: 11.13%;height: 8.53%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "無事でよかった<br/>心配したわよ!"
-		,"style": "font-size: 14px;color: #000000;background-color: #C490FF;left: 82.94%;top: 30.56%;width: 15.50%;height: 10.91%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;"
+		,"style": "font-size: 14px;color: #000000;background-color: #C490FF;left: 82.94%;top: 30.56%;width: 15.50%;height: 10.91%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "体調良ければ<br/>明日話しましょ"
-		,"style": "font-size: 12px;color: #000000;background-color: #C490FF;left: 67.34%;top: 66.96%;width: 12.75%;height: 16.09%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 10%;transform: rotate(22deg);border:solid 2px;border-color: #9359D7;"
+		,"style": "font-size: 12px;color: #000000;background-color: #C490FF;left: 67.34%;top: 66.96%;width: 12.75%;height: 16.09%;border-radius: 10%;transform: rotate(22deg);border:solid 2px;border-color: #9359D7;"
+		,"class": "CENTER"
 	}
 ]

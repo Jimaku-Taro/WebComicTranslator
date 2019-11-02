@@ -1,30 +1,37 @@
 [
 	{
 		"text": "ピーナッツ<br/>バターとジェリー<br/>のサンドを…"
-		,"style": "font-size: 12px;color: #6C4901;background-color: #FEFB85;left: 10px;top: 15px;width: 103px;height: 78px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 12px;color: #6C4901;background-color: #FEFB85;left: 10px;top: 15px;width: 103px;height: 78px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "半分に割って<br/>お尻に付けて!!<br/>お尻に塗った面向けて<br/>服の下に入れてね!!"
-		,"style": "font-size: 14px;color: #6C4901;background-color: #FEFB85;left: 250px;top: 190px;width: 176px;height: 128px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #6C4901;background-color: #FEFB85;left: 250px;top: 190px;width: 176px;height: 128px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "マジで??"
-		,"style": "font-size: 14px;color: #8D2A39;background-color: #FF96AF;left: 0px;top: 305px;width: 95px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #8D2A39;background-color: #FF96AF;left: 0px;top: 305px;width: 95px;height: 29px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "わぁジョージ<br/>それ気持ち<br/>悪そう!!"
-		,"style": "font-size: 13px;color: #3F0D6A;background-color: #E785FF;left: 230px;top: 320px;width: 117px;height: 65px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;color: #3F0D6A;background-color: #E785FF;left: 230px;top: 320px;width: 117px;height: 65px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "挑戦<br/>選んだんでしょ!<br/>挑戦しなさいよ!"
-		,"style": "font-size: 13px;color: #6C4901;background-color: #FEFB85;left: 500px;top: 5px;width: 121px;height: 68px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 13px;color: #6C4901;background-color: #FEFB85;left: 500px;top: 5px;width: 121px;height: 68px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "うぅ…"
-		,"style": "font-size: 14px;color: #8D2A39;background-color: #FF96AF;left: 500px;top: 130px;width: 53px;height: 32px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #8D2A39;background-color: #FF96AF;left: 500px;top: 130px;width: 53px;height: 32px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 	,{
 		"text": "わかった、<br/>とにかくピーナッツ<br/>バターとジェリーの<br/>サンドを渡して"
-		,"style": "font-size: 14px;color: #8D2A39;background-color: #FF96AF;left: 660px;top: 370px;width: 130px;height: 97px;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;"
+		,"style": "font-size: 14px;color: #8D2A39;background-color: #FF96AF;left: 660px;top: 370px;width: 130px;height: 97px;border-radius: 50%;"
+		,"class": "CENTER"
 	}
 ]

@@ -1,26 +1,32 @@
 [
 	{
 		"text": "こんな所で<br/>ゴメンな。<br/>お前も研究所<br/>生まれだろ…<br/>分かって<br/>くれると思う"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 31.92%;top: 9.42%;width: 13.84%;height: 13.41%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 31.92%;top: 9.42%;width: 13.84%;height: 13.41%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "お前は<br/>五体満足だが<br/>俺は狂人に<br/>作られた"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 76.67%;top: 11.09%;width: 12.53%;height: 10.90%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 76.67%;top: 11.09%;width: 12.53%;height: 10.90%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "世界は<br/>俺抜きでも<br/>良くなる<br/>だろう"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 24.40%;top: 30.88%;width: 11.34%;height: 8.97%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 24.40%;top: 30.88%;width: 11.34%;height: 8.97%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "俺は慰めとか<br/>求めてない…<br/>それも<br/>悪くないが<br/>考えたんだ…"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 11.99%;top: 57.45%;width: 10.38%;height: 12.41%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 11.99%;top: 57.45%;width: 10.38%;height: 12.41%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "トレモロには<br/>勝てない。<br/>俺は兵器に<br/>されちまう"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 32.28%;top: 78.07%;width: 12.17%;height: 10.06%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 32.28%;top: 78.07%;width: 12.17%;height: 10.06%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "だから俺は今<br/>人生を<br/>決めるか…<br/>お前に願いを<br/>聞いてもらう<br/>必要がある"
-		,"style": "font-size: 14px;color: black;background-color: white;left: 53.04%;top: 65.07%;width: 12.17%;height: 10.23%;text-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14px;left: 53.04%;top: 65.07%;width: 12.17%;height: 10.23%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
 	}
 ]
