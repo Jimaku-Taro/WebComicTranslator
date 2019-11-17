@@ -38,6 +38,7 @@ const HOST_AVAS_DEMON = "www.avasdemon.com";
 const HOST_MIKL_TOAST = "milktoastandmaple.smackjeeves.com";
 const HOST_MAYA_KERN = "mayakern.com";
 const HOST_HOPPING_GILLS = "hoppinggills.com";
+const HOST_HAZBIN_HOTEL = "www.hazbinhotel.com";
 
 // フォントサイズ属性
 const ATTRIBUTE_FONT_SIZE = "fontSize";
@@ -236,6 +237,10 @@ function getTargetData() {
 				imageFileName = getUrlLast(image.src);
 			}
 			json_path += host_string + "/" + imageFileName + ".json";
+		break;
+		case HOST_HAZBIN_HOTEL:
+			imageParentElement = document.getElementsByClassName("image-block-wrapper");
+			json_path += host_string + "/" + url_last + ".json";
 		break;
 	}
 	// 拡張機能内のファイルパス取得

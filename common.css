@@ -5,6 +5,7 @@ figcaption.WCT {
 	, '游ゴシック'
 	, 'Yu Gothic'
 	, YuGothic !important;
+	line-height: normal !important;
 }
 
 figcaption.CENTER {

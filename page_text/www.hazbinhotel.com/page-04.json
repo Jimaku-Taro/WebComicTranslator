@@ -1,0 +1,12 @@
+[
+	{
+		"text": "君達にも<br/>よく分かるように<br/>言ってやるよ"
+		,"style": "left: 20.5000%;top: 4.4987%;width: 22.5455%;height: 9.3830%;font-size: 20px;color: #F0315A;background-color: #F9F1EC;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "何語で<br/>言うんだ?<br/>小…"
+		,"style": "left: 65.5000%;top: 12.7249%;width: 13.9091%;height: 10.9897%;font-size: 20px;color: #04133B;background-color: #96E6ED;border-radius: 50%;transform:rotate(-15deg);"
+		,"class": "CENTER"
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"text": "それじゃ<br/>確認させてくれ"
+		,"style": "left: 48.9091%;top: 3.7275%;width: 16.9091%;height: 8.0977%;font-size: 24px;color: #004369;background-color: #80F2F9;border-radius: 50%;transform:rotate(-10deg);"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "むむむ"
+		,"style": "left: 57.1818%;top: 25.2571%;width: 11.3636%;height: 4.2416%;font-size: 16px;color: #FFFFFF;background-color: #FBA0AF;border-radius: 50%;transform:rotate(-10deg);"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ヴァルは<br/>痩せた小娘を<br/>取引の使いに<br/>出すのか?"
+		,"style": "left: 21.7273%;top: 39.7172%;width: 10.2727%;height: 10.3470%;font-size: 16px;color: #004369;background-color: #80F2F9;border-radius: 10% 10% 10% 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "小娘なんて<br/>呼ぶのは誰だよ<br/>気取り屋"
+		,"style": "left: 35.0909%;top: 40.1671%;width: 12.7273%;height: 6.1697%;font-size: 16px;color: #C01531;background-color: #EFE6E6;border-radius: 10% 10% 50% 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "僕はアンタの<br/>手におえる<br/>男じゃないぜ"
+		,"style": "left: 50.5455%;top: 56.4267%;width: 14.7273%;height: 7.7763%;font-size: 16px;color: #FFFFFF;background-color: #FBA0AF;border-radius: 50% 10% 10% 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "そうは<br/>聞こえねぇな"
+		,"style": "left: 68.0000%;top: 39.6530%;width: 17.8182%;height: 7.6478%;font-size: 25px;color: #004369;background-color: #80F2F9;border-radius: 10% 10% 50% 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "おい"
+		,"style": "left: 4.0000%;top: 62.4036%;width: 11.9091%;height: 3.9846%;font-size: 25px;color: #FFFFFF;background-color: #FBA0AF;border-radius: 45%;transform:rotate(-10deg);"
+		,"class": "CENTER BOLD"
+	}
+	,{
+		"text": "手短に言え。<br/>ビッグ・ヴィーは<br/>汚いスーツのC級ギャングと<br/>遊んでる暇は無い"
+		,"style": "left: 1.3636%;top: 66.2596%;width: 24.5455%;height: 10.7969%;font-size: 16px;color: #C01531;background-color: #EFE6E6;border-radius: 45%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "小さな取引が<br/>片付くだけで<br/>彼には大助かり<br/>だろうぜ"
+		,"style": "left: 34.8182%;top: 74.8072%;width: 14.7273%;height: 14.0746%;font-size: 16px;color: #C01531;background-color: #EFE6E6;border-radius: 45%;transform:rotate(15deg);"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "理解<br/>したか<br/>クソが?"
+		,"style": "left: 55.8182%;top: 67.8021%;width: 8.5455%;height: 9.3188%;font-size: 20px;color: #FFFFFF;background-color: #FBA0AF;border-radius: 45%"
+		,"class": "CENTER BOLD"
+	}
+	,{
+		"text": "俺の金が<br/>あるか<br/>どうかに<br/>よるな"
+		,"style": "left: 87.0000%;top: 86.9537%;width: 11.3636%;height: 10.0900%;font-size: 16px;color: #004369;background-color: #80F2F9;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+]

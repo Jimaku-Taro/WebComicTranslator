@@ -1,0 +1,12 @@
+[
+	{
+		"text": "教えてよ<br/>エンジェルケーキ"
+		,"style": "left: 17.9545%;top: 86.9537%;width: 25.4545%;height: 10.2185%;font-size: 25px;color: #FFFFFF;background-color: #E40918;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "この<br/>クソは<br/>何事?"
+		,"style": "left: 67.6818%;top: 80.8483%;width: 18.0000%;height: 16.3239%;font-size: 25px;color: #000000;background-color: #E40918;border-radius: 50%;transform:rotate(-20deg);"
+		,"class": "CENTER"
+	}
+]
