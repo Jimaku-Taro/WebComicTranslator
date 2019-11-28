@@ -20,14 +20,14 @@
 		,"class": "CENTER"
 	}
 	,{
-		"text": "何と"
+		"text": "何て"
 		,"style": "left: 18.5909%;top: 30.9769%;width: 20.3636%;height: 3.0206%;font-size: 40px;color: #FFFFFF;background-color: ;border-radius: 50%;transform:rotate(-7deg);"
 		,"class": "CENTER BOLD"
 	}
 	,{
-		"text": "俺は<br/>お前に<br/>言った?"
-		,"style": "left: 30.2273%;top: 75.3856%;width: 18.8182%;height: 17.4165%;font-size: 25px;color: #FFFFFF;background-color: #E40918;border-radius: 50%;transform:rotate(15deg);"
-		,"class": "CENTER"
+		"text": "俺は<br/>言った?"
+		,"style": "left: 30.2273%;top: 75.3856%;width: 18.8182%;height: 17.4165%;font-size: 35px;color: #FFFFFF;background-color: #E40918;border-radius: 50%;transform:rotate(15deg);"
+		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "…<br/>スタジオに<br/>いろ"
@@ -35,7 +35,7 @@
 		,"class": "CENTER"
 	}
 	,{
-		"text": "よし<br/>それで今日<br/>お前は<br/>どこにいた?"
+		"text": "よし<br/>それで今日<br/>どこにいた?"
 		,"style": "left: 48.5909%;top: 51.2211%;width: 21.5455%;height: 18.4306%;font-size: 25px;olor: #FFFFFF;background-color: #E40918;border-radius: 50%;transform:rotate(-15deg);"
 		,"class": "CENTER"
 	}

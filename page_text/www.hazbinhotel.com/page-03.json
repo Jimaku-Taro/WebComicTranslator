@@ -15,12 +15,12 @@
 		,"class": "CENTER"
 	}
 	,{
-		"text": "こんな<br/>風に?"
+		"text": "こんな<br/>風に"
 		,"style": "left: 41.7727%;top: 34.6401%;width: 14.1818%;height: 10.1542%;font-size: 25px;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
-		"text": "理由は?<br/>カッコいいと<br/>思った?<br/>そうは見えない"
+		"text": "なぜだい?<br/>クールだと<br/>思った?<br/>そうは見えない"
 		,"style": "left: 68.0455%;top: 34.1902%;width: 18.0000%;height: 10.8612%;font-size: 20px;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;"
 		,"class": "CENTER"
 	}
@@ -45,7 +45,7 @@
 		,"class": "CENTER"
 	}
 	,{
-		"text": "代わりに<br/>貰ってやるよ。<br/>大人しく<br/>してりゃ<br/><span class=\"BOLD\" />頭は</span>無事だぜ"
+		"text": "代わりに<br/>貰ってやるよ。<br/>大人しく<br/>してりゃ<br/><span class=\"BOLD\" />お前の頭は</span>無事だぜ"
 		,"style": "left: 37.1364%;top: 78.8560%;width: 16.7273%;height: 18.1234%;font-size: 20px;color: #06193F;background-color: #91CEEA;border-radius: 50%;transform:rotate(15deg);"
 		,"class": "CENTER"
 	}
