@@ -21,7 +21,7 @@
 	}
 	,{
 		"text": "無理じゃ。<br/>お前には<br/>理解できん<br/>じゃろうが…"
-		,"style": "left: 30.2506%;top: 54.2225%;width: 11.2172%;height: 5.6161%;font-size: 13px;border-radius:45%;"
+		,"style": "left: 30.2506%;top: 54.2225%;width: 11.2172%;height: 5.6161%;font-size: 12px;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
@@ -35,7 +35,7 @@
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "大雲さん<br/>あなたの歴史は<br/>終わってない。<br/>ご期待に添えるか<br/>分かりませんが<br/>何か手を考えます<br/>約束します!"
+		"text": "大雲さん<br/>あなたの歴史は<br/>終わってません。<br/>ご期待に沿えるか<br/>分かりませんが<br/>何か手を考えます<br/>約束します!"
 		,"style": "left: 57.6969%;top: 62.6048%;width: 14.4391%;height: 11.9866%;font-size: 14px;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
