@@ -1,0 +1,23 @@
+figcaption.WCT {
+	position: absolute !important;
+	font-family: Meiryo
+	, メイリオ
+	, '游ゴシック'
+	, 'Yu Gothic'
+	, YuGothic !important;
+	line-height: normal !important;
+	font-size: 1px;
+}
+
+@media screen and (max-width: 830px) {
+	figcaption.WCT {
+		position: absolute !important;
+		font-family: Meiryo
+		, メイリオ
+		, '游ゴシック'
+		, 'Yu Gothic'
+		, YuGothic !important;
+		line-height: normal !important;
+		font-size: calc(100vw/830);
+	}
+}

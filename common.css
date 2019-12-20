@@ -43,5 +43,5 @@ figcaption.BLACK {
 }
 
 .BOLD {
-	font-weight: bold;
+	font-weight: bold !important;
 }

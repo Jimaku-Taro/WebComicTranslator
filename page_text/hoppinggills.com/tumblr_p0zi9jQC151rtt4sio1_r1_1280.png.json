@@ -1,0 +1,47 @@
+[
+	{
+		"text": "やった?"
+		,"style": "left: 12.8652%;top: 25.5387%;width: 8.2022%;height: 2.7969%;font-size: 14px;border-radius: 43%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "やった!!"
+		,"style": "left: 55.5618%;top: 22.3751%;width: 15.6180%;height: 6.8317%;font-size: 25px;border-radius: 43%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "１人<br/>捕まえた!"
+		,"style": "left: 57.3596%;top: 28.8400%;width: 14.8315%;height: 3.3012%;font-size: 16px;border-radius: 43%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "何だ!<br/>思ったより<br/>簡単"
+		,"style": "left: 18.2584%;top: 35.3508%;width: 18.9888%;height: 6.3274%;font-size: 20px;border-radius: 43%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "皆がやる<br/>わけだ!"
+		,"style": "left: 19.0449%;top: 41.5864%;width: 16.9663%;height: 4.1265%;font-size: 20px;border-radius: 43%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "どうやって<br/>衛兵の所まで<br/>連れて行こう?"
+		,"style": "left: 65.2247%;top: 35.6717%;width: 21.1236%;height: 4.8602%;font-size: 20px;border-radius: 43%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "う～ん"
+		,"style": "left: 72.8652%;top: 43.9707%;width: 7.0787%;height: 2.4759%;font-size: 18px;border-radius: 43%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "台車か何か<br/>必要かな"
+		,"style": "left: 39.3820%;top: 58.7345%;width: 17.5281%;height: 4.4017%;font-size: 18px;border-radius: 43%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ねぇ<br/>君!"
+		,"style": "left: 2.4157%;top: 75.6075%;width: 9.3258%;height: 4.2641%;font-size: 18px;border-radius: 43%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

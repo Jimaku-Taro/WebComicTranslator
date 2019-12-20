@@ -1,14 +1,13 @@
 {
 	"manifest_version": 2
 	,"name": "WebComicTranslator"
-	,"version": "4.3.0"
+	,"version": "4.4.0"
 	,"short_name": "コミトラ"
 	,"description": "一部のWebコミックに日本語訳を人力で追加"
 	,"content_scripts": [
 		{
 			"matches": [
-				"*://devilscandycomic.com/comic/*"
-				,"*://www.monsterpop.mayakern.com/*"
+				"*://www.monsterpop.mayakern.com/*"
 				,"*://tapas.io/episode/*"
 				,"*://www.avasdemon.com/*"
 				,"*://milktoastandmaple.smackjeeves.com/*"
@@ -23,6 +22,18 @@
 		}
 		,{
 			"matches": [
+				"*://devilscandycomic.com/comic/*"
+			]
+			,"js": [
+				"WebComicTranslator.js"
+			]
+			,"css": [
+				"common.css"
+				,"css/devilscandy.css"
+			]
+		 }
+		,{
+			"matches": [
 				"*://mayakern.com/cshort.html*"
 			]
 			,"js": [
@@ -30,7 +41,7 @@
 			]
 			,"css": [
 				"common.css"
-				,"page_text/mayakern.com/css/cshort.css"
+				,"css/cshort.css"
 			]
 		 }
 		,{
@@ -42,7 +53,7 @@
 			]
 			,"css": [
 				"common.css"
-				,"page_text/www.hazbinhotel.com/css/hazbinhotel.css"
+				,"css/hazbinhotel.css"
 			]
 		 }
 	]

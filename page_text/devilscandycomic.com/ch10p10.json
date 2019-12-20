@@ -56,7 +56,7 @@
 	}
 	,{
 		"text": "いいえ<br/>良い悪魔達よ…<br/>でもおじいちゃんが<br/>家業の継承を<br/>あたしに頼んでて<br/>厄介なの"
-		,"style": "font-size: 14px;left: 7.94%;top: 53.44%;width: 18.74%;height: 8.89%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 13px;left: 7.94%;top: 53.44%;width: 18.74%;height: 8.89%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
@@ -65,8 +65,8 @@
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "おじいちゃんは<br/>有名な鍛冶屋よ。<br/>パパが都市から逃げて<br/>何百年も続いた<br/>家族の伝統が<br/>存続の危機なの"
-		,"style": "font-size: 13px;left: 10.32%;top: 76.66%;width: 19.69%;height: 8.89%;border-radius:20%;font-weight: normal;"
+		"text": "おじいちゃんは<br/>有名な鍛冶屋よ。<br/>パパが都市から逃げて<br/>何百年も続いた<br/>一族の伝統が<br/>存続の危機なの"
+		,"style": "font-size: 12px;left: 10.32%;top: 76.66%;width: 19.69%;height: 8.89%;border-radius:20%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
