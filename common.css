@@ -1,3 +1,8 @@
+.WCT_IMAGE_PARENT {
+	position:relative;
+	font-size: 1px;
+}
+
 figcaption.WCT {
 	position: absolute !important;
 	font-family: Meiryo

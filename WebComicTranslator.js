@@ -30,6 +30,7 @@ consoleLog('WebComicTransrator初回動作始動');
 // WCT用のタグ
 const TEXT_TAG_NAME = "figcaption";
 const TEXT_TAG_CLASS = "WCT";
+const IMAGE_PARENT_TAG_CLASS = "WCT_IMAGE_PARENT";
 
 // ホスト名
 const HOST_DEVILS_CANDY = "devilscandycomic.com";
@@ -271,7 +272,9 @@ function writePageTexts(jsonObject, imageParentElement) {
 		return;
 	}
 
-	imageParentElement.style.position = "relative"; // 親タグの位置スタイルを相対へ設定
+	// 画像の親タグクラス名を追加 (位置設定を相対に指定　position: relative;)
+	imageParentElement.classList.add(IMAGE_PARENT_TAG_CLASS);
+	// imageParentElement.style.position = "relative"; // 親タグの位置スタイルを相対へ設定
 
 	// DocumentFragmentに仮入れ
 	let fragment = document.createDocumentFragment();
