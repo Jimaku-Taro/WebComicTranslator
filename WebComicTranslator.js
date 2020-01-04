@@ -36,6 +36,7 @@ const IMAGE_PARENT_TAG_CLASS = "WCT_IMAGE_PARENT";
 const HOST_DEVILS_CANDY = "devilscandycomic.com";
 const HOST_MONSTER_POP = "www.monsterpop.mayakern.com";
 const HOST_TAPAS = "tapas.io";
+const HOST_M_TAPAS = "m.tapas.io";
 const HOST_AVAS_DEMON = "www.avasdemon.com";
 const HOST_MIKL_TOAST = "milktoastandmaple.smackjeeves.com";
 const HOST_MAYA_KERN = "mayakern.com";
@@ -182,9 +183,13 @@ function getTargetData() {
 			json_path += host_string + "/" + url_number + ".json";
 		break;
 		case HOST_TAPAS:
+		case HOST_M_TAPAS:
 			// tapas
 			imageParentElement = document.getElementsByClassName("ep-contents").item(0);
-			json_path += host_string + "/" + url_number + ".json";
+			if (!imageParentElement) {
+				imageParentElement = document.getElementsByClassName("art-image-wrap").item(0);
+			}
+			json_path += HOST_TAPAS + "/" + url_number + ".json";
 		break;
 		case HOST_AVAS_DEMON:
 			// Ava's Demon

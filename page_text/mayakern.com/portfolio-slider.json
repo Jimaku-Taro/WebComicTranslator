@@ -1,507 +1,507 @@
 [
 	{
 		"text": "大丈夫"
-		,"style": "font-size: 13px;color: #8F4F5D;background-color: white;left: 2.68%;top: 4.25%;width: 10.00%;height: 0.16%;border-radius: 50%;"
+		,"style": "font-size: 13em;color: #8F4F5D;background-color: white;left: 2.68%;top: 4.25%;width: 10.00%;height: 0.16%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "すぐに<br/>帰れる"
-		,"style": "font-size: 12px;color: #8F4F5D;background-color: white;left: 25.58%;top: 4.60%;width: 8.55%;height: 0.19%;border-radius: 3%;"
+		,"style": "font-size: 12em;color: #8F4F5D;background-color: white;left: 25.58%;top: 4.60%;width: 8.55%;height: 0.19%;border-radius: 3%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "愛してる"
-		,"style": "font-size: 12px;color: #8F4F5D;background-color: white;left: 47.90%;top: 4.26%;width: 10.29%;height: 0.10%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: #8F4F5D;background-color: white;left: 47.90%;top: 4.26%;width: 10.29%;height: 0.10%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "愛してる"
-		,"style": "font-size: 12px;color: #8F4F5D;background-color: white;left: 59.90%;top: 4.33%;width: 10.29%;height: 0.11%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: #8F4F5D;background-color: white;left: 59.90%;top: 4.33%;width: 10.29%;height: 0.11%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "愛してる"
-		,"style": "font-size: 12px;color: #8F4F5D;background-color: white;left: 57.05%;top: 4.44%;width: 9.52%;height: 0.13%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: #8F4F5D;background-color: white;left: 57.05%;top: 4.44%;width: 9.52%;height: 0.13%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お婆さんに<br/>これを"
-		,"style": "font-size: 12px;color: #8F4F5D;background-color: white;left: 83.90%;top: 4.25%;width: 12.00%;height: 0.21%;border-radius: 30%;"
+		,"style": "font-size: 12em;color: #8F4F5D;background-color: white;left: 83.90%;top: 4.25%;width: 12.00%;height: 0.21%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "愛してる"
-		,"style": "font-size: 12px;color: #8F4F5D;background-color: white;left: 51.33%;top: 5.52%;width: 11.24%;height: 0.13%;border-radius: 40%;transform: rotate(-20deg);"
+		,"style": "font-size: 12em;color: #8F4F5D;background-color: white;left: 51.33%;top: 5.52%;width: 11.24%;height: 0.13%;border-radius: 40%;transform: rotate(-20deg);"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "気をつけて"
-		,"style": "font-size: 13px;color: #8F4F5D;background-color: white;left: 47.90%;top: 7.70%;width: 12.76%;height: 0.14%;border-radius: 40%;transform: rotate(40deg);"
+		,"style": "font-size: 13em;color: #8F4F5D;background-color: white;left: 47.90%;top: 7.70%;width: 12.76%;height: 0.14%;border-radius: 40%;transform: rotate(40deg);"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "ありがとう"
-		,"style": "font-size: 10px;color: #5B3B87;background-color: white;left: 4.48%;top: 16.72%;width: 10.48%;height: 0.12%;border-radius: 50%;"
+		,"style": "font-size: 10em;color: #5B3B87;background-color: white;left: 4.48%;top: 16.72%;width: 10.48%;height: 0.12%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お嬢さん、こんな<br/>深夜にどちらに?"
-		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 9.05%;top: 16.81%;width: 21.33%;height: 0.21%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: #5B3B87;background-color: white;left: 9.05%;top: 16.81%;width: 21.33%;height: 0.21%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お婆さんの所"
-		,"style": "font-size: 12px;color: #C44654;background-color: white;left: 74.76%;top: 16.81%;width: 18.67%;height: 0.16%;border-radius: 50%;"
+		,"style": "font-size: 12em;color: #C44654;background-color: white;left: 74.76%;top: 16.81%;width: 18.67%;height: 0.16%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "やめた<br/>方がいい"
-		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 15.33%;top: 18.04%;width: 15.24%;height: 0.22%;border-radius: 50%;"
+		,"style": "font-size: 12em;color: #5B3B87;background-color: white;left: 15.33%;top: 18.04%;width: 15.24%;height: 0.22%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お婆さんは<br/>君を一飲みに<br/>するだろう"
-		,"style": "font-size: 13px;color: #5B3B87;background-color: white;left: 33.24%;top: 18.03%;width: 16.00%;height: 0.32%;border-radius: 30%;"
+		,"style": "font-size: 13em;color: #5B3B87;background-color: white;left: 33.24%;top: 18.03%;width: 16.00%;height: 0.32%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "瞬きすら<br/>しない"
-		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 57.62%;top: 18.03%;width: 10.10%;height: 0.18%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: #5B3B87;background-color: white;left: 57.62%;top: 18.03%;width: 10.10%;height: 0.18%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "でも<br/>行か<br/>ないと"
-		,"style": "font-size: 10px;color: #C44654;background-color: white;left: 69.05%;top: 18.06%;width: 6.10%;height: 0.31%;border-radius: 40%;"
+		,"style": "font-size: 10em;color: #C44654;background-color: white;left: 69.05%;top: 18.06%;width: 6.10%;height: 0.31%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "本気<br/>かい?"
-		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 77.05%;top: 18.14%;width: 5.90%;height: 0.21%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: #5B3B87;background-color: white;left: 77.05%;top: 18.14%;width: 5.90%;height: 0.21%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "うん"
-		,"style": "font-size: 10px;color: #C44654;background-color: white;left: 78.00%;top: 18.45%;width: 4.19%;height: 0.12%;border-radius: 50%;"
+		,"style": "font-size: 10em;color: #C44654;background-color: white;left: 78.00%;top: 18.45%;width: 4.19%;height: 0.12%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "なら君に<br/>贈り物だ"
-		,"style": "font-size: 13px;color: #5B3B87;background-color: white;left: 21.62%;top: 19.07%;width: 12.19%;height: 0.24%;border-radius: 30%;"
+		,"style": "font-size: 13em;color: #5B3B87;background-color: white;left: 21.62%;top: 19.07%;width: 12.19%;height: 0.24%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "私の自由を<br/>君に貸そう"
-		,"style": "font-size: 13px;color: #5B3B87;background-color: white;left: 38.38%;top: 19.08%;width: 12.95%;height: 0.21%;border-radius: 40%;"
+		,"style": "font-size: 13em;color: #5B3B87;background-color: white;left: 38.38%;top: 19.08%;width: 12.95%;height: 0.21%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "コレは<br/>君の物だ"
-		,"style": "font-size: 13px;color: #5B3B87;background-color: white;left: 69.43%;top: 19.08%;width: 12.95%;height: 0.23%;border-radius: 30%;"
+		,"style": "font-size: 13em;color: #5B3B87;background-color: white;left: 69.43%;top: 19.08%;width: 12.95%;height: 0.23%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "コートだ"
-		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 16.67%;top: 22.16%;width: 11.24%;height: 0.12%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: #5B3B87;background-color: white;left: 16.67%;top: 22.16%;width: 11.24%;height: 0.12%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "君を純粋<br/>に保つ"
-		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 37.43%;top: 22.26%;width: 10.29%;height: 0.21%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: #5B3B87;background-color: white;left: 37.43%;top: 22.26%;width: 10.29%;height: 0.21%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "行け!"
-		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 60.86%;top: 22.14%;width: 8.19%;height: 0.13%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: #5B3B87;background-color: white;left: 60.86%;top: 22.14%;width: 8.19%;height: 0.13%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お婆さんを<br/>待たせるな!"
-		,"style": "font-size: 12px;color: #5B3B87;background-color: white;left: 66.95%;top: 22.24%;width: 13.90%;height: 0.26%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: #5B3B87;background-color: white;left: 66.95%;top: 22.24%;width: 13.90%;height: 0.26%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "ありがとう"
-		,"style": "font-size: 11px;color: #C44654;background-color: white;left: 60.48%;top: 23.34%;width: 12.00%;height: 0.11%;border-radius: 40%;"
+		,"style": "font-size: 11em;color: #C44654;background-color: white;left: 60.48%;top: 23.34%;width: 12.00%;height: 0.11%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "遅い"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 77.81%;top: 25.38%;width: 7.43%;height: 0.12%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 77.81%;top: 25.38%;width: 7.43%;height: 0.12%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "随分<br/>かかったな。<br/>何かあった<br/>かと思った"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 23.71%;top: 26.91%;width: 15.05%;height: 0.56%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 23.71%;top: 26.91%;width: 15.05%;height: 0.56%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "入れ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 38.38%;top: 26.37%;width: 10.29%;height: 0.14%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 38.38%;top: 26.37%;width: 10.29%;height: 0.14%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "何も<br/>触るな"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 64.29%;top: 26.73%;width: 13.52%;height: 0.25%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 64.29%;top: 26.73%;width: 13.52%;height: 0.25%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "腹が減った"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 12.67%;top: 29.24%;width: 13.14%;height: 0.14%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 12.67%;top: 29.24%;width: 13.14%;height: 0.14%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "もう少し遅ければ<br/>お前をその場で<br/>食ってたぞ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 22.00%;top: 29.34%;width: 22.10%;height: 0.34%;border-radius: 30%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 22.00%;top: 29.34%;width: 22.10%;height: 0.34%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "何を<br/>持ってきた?"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 71.90%;top: 30.04%;width: 15.43%;height: 0.24%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 71.90%;top: 30.04%;width: 15.43%;height: 0.24%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "…コート"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 38.57%;top: 30.59%;width: 12.76%;height: 0.12%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 38.57%;top: 30.59%;width: 12.76%;height: 0.12%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "小娘のお前が<br/>狼をどう<br/>殺した?"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 58.19%;top: 30.58%;width: 17.90%;height: 0.38%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 58.19%;top: 30.58%;width: 17.90%;height: 0.38%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "いえ<br/>貰い物<br/>です"
-		,"style": "font-size: 11px;color: #C44654;background-color: white;left: 87.71%;top: 30.59%;width: 8.95%;height: 0.32%;border-radius: 40%;"
+		,"style": "font-size: 11em;color: #C44654;background-color: white;left: 87.71%;top: 30.59%;width: 8.95%;height: 0.32%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "気が<br/>変わった<br/>腹は減って<br/>ない"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 50.76%;top: 31.54%;width: 14.48%;height: 0.34%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 50.76%;top: 31.54%;width: 14.48%;height: 0.34%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "ほら"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 76.86%;top: 31.57%;width: 7.24%;height: 0.11%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 76.86%;top: 31.57%;width: 7.24%;height: 0.11%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "食え"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 86.95%;top: 31.64%;width: 10.10%;height: 0.11%;border-radius: 30%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 86.95%;top: 31.64%;width: 10.10%;height: 0.11%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "でもお腹<br/>空いてな…"
-		,"style": "font-size: 11px;color: #C44654;background-color: white;left: 1.05%;top: 32.45%;width: 10.67%;height: 0.20%;border-radius: 40%;"
+		,"style": "font-size: 11em;color: #C44654;background-color: white;left: 1.05%;top: 32.45%;width: 10.67%;height: 0.20%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "食え!"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 15.33%;top: 32.53%;width: 7.43%;height: 0.14%;border-radius: 40%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 15.33%;top: 32.53%;width: 7.43%;height: 0.14%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "ううむ…"
-		,"style": "font-size: 10px;color: white;background-color: #210E08;left: 58.19%;top: 32.44%;width: 8.95%;height: 0.14%;border-radius: 40%;"
+		,"style": "font-size: 10em;color: white;background-color: #210E08;left: 58.19%;top: 32.44%;width: 8.95%;height: 0.14%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "決めた"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 3.33%;top: 33.34%;width: 19.62%;height: 0.14%;border-radius: 30%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 3.33%;top: 33.34%;width: 19.62%;height: 0.14%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お前は<br/>ここに<br/>いろ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 18.38%;top: 33.45%;width: 17.90%;height: 0.27%;border-radius: 30%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 18.38%;top: 33.45%;width: 17.90%;height: 0.27%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "な…何で!<br/>でも家族が!"
-		,"style": "font-size: 11px;color: #C44654;background-color: white;left: 38.95%;top: 33.50%;width: 14.67%;height: 0.23%;border-radius: 30%;"
+		,"style": "font-size: 11em;color: #C44654;background-color: white;left: 38.95%;top: 33.50%;width: 14.67%;height: 0.23%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "黙れ!<br/>食うぞ!<br/>お前の家族<br/>もだ!"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 87.52%;top: 33.38%;width: 12.19%;height: 0.52%;border-radius: 30%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 87.52%;top: 33.38%;width: 12.19%;height: 0.52%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "わかり<br/>ました"
-		,"style": "font-size: 11px;color: #C44654;background-color: white;left: 87.71%;top: 34.46%;width: 9.14%;height: 0.23%;border-radius: 40%;"
+		,"style": "font-size: 11em;color: #C44654;background-color: white;left: 87.71%;top: 34.46%;width: 9.14%;height: 0.23%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "良し!　見習いが<br/>欲しかったのだ<br/>寝てろ<br/>明日は早いぞ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 4.10%;top: 35.46%;width: 21.90%;height: 0.45%;border-radius: 30%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 4.10%;top: 35.46%;width: 21.90%;height: 0.45%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "起きたな"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 61.24%;top: 37.55%;width: 10.48%;height: 0.19%;border-radius: 30%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 61.24%;top: 37.55%;width: 10.48%;height: 0.19%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "こっちだ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 72.10%;top: 37.67%;width: 11.24%;height: 0.22%;border-radius: 30%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 72.10%;top: 37.67%;width: 11.24%;height: 0.22%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "今日は<br/>庭の手入れを<br/>教える"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 1.05%;top: 38.56%;width: 14.29%;height: 0.32%;border-radius: 20%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 1.05%;top: 38.56%;width: 14.29%;height: 0.32%;border-radius: 20%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "花の魔女には<br/>必須の知識だ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 17.62%;top: 38.56%;width: 13.90%;height: 0.43%;border-radius: 30%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 17.62%;top: 38.56%;width: 13.90%;height: 0.43%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "注意しろ<br/>何か<br/>傷つけ<br/>たら…"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 34.00%;top: 38.51%;width: 10.48%;height: 0.44%;border-radius: 20%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 34.00%;top: 38.51%;width: 10.48%;height: 0.44%;border-radius: 20%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "絞め殺して<br/>骨ごと<br/>食い尽くす"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 80.48%;top: 38.53%;width: 17.90%;height: 0.44%;border-radius: 30%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 80.48%;top: 38.53%;width: 17.90%;height: 0.44%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "ひどい…"
-		,"style": "font-size: 11px;color: #C44654;background-color: white;left: 49.05%;top: 41.04%;width: 13.71%;height: 0.15%;border-radius: 40%;"
+		,"style": "font-size: 11em;color: #C44654;background-color: white;left: 49.05%;top: 41.04%;width: 13.71%;height: 0.15%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "出かけてくる<br/>仕事してろ<br/>荒らすなよ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 2.95%;top: 42.08%;width: 22.48%;height: 0.44%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 2.95%;top: 42.08%;width: 22.48%;height: 0.44%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "ただいま"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 38.76%;top: 44.54%;width: 11.24%;height: 0.16%;border-radius: 30%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 38.76%;top: 44.54%;width: 11.24%;height: 0.16%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "何してる?"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 47.33%;top: 44.67%;width: 19.43%;height: 0.16%;border-radius: 30%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 47.33%;top: 44.67%;width: 19.43%;height: 0.16%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "サボったら<br/>食うぞ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 52.29%;top: 44.82%;width: 19.43%;height: 0.21%;border-radius: 30%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 52.29%;top: 44.82%;width: 19.43%;height: 0.21%;border-radius: 30%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "見ろ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 1.62%;top: 45.86%;width: 6.48%;height: 0.14%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 1.62%;top: 45.86%;width: 6.48%;height: 0.14%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "家に<br/>似合う"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 22.76%;top: 46.03%;width: 11.05%;height: 0.22%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 22.76%;top: 46.03%;width: 11.05%;height: 0.22%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "向こうを<br/>見ろ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 46.57%;top: 45.93%;width: 9.71%;height: 0.22%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 46.57%;top: 45.93%;width: 9.71%;height: 0.22%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "あぁ…完璧"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 4.48%;top: 47.31%;width: 15.62%;height: 0.13%;border-radius: 35%;transform:rotate(-20deg);"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 4.48%;top: 47.31%;width: 15.62%;height: 0.13%;border-radius: 35%;transform:rotate(-20deg);"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "可愛い"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 44.86%;top: 47.20%;width: 13.33%;height: 0.16%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 44.86%;top: 47.20%;width: 13.33%;height: 0.16%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "来い"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 5.81%;top: 50.10%;width: 13.33%;height: 0.13%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 5.81%;top: 50.10%;width: 13.33%;height: 0.13%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "今日教えるのは<br/>あらゆる魔女に<br/>必須の技術"
-		,"style": "font-size: 10px;color: white;background-color: #210E08;left: 58.95%;top: 50.03%;width: 15.24%;height: 0.34%;border-radius: 35%;"
+		,"style": "font-size: 10em;color: white;background-color: #210E08;left: 58.95%;top: 50.03%;width: 15.24%;height: 0.34%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "罠の<br/>仕掛け方だ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 77.05%;top: 50.33%;width: 12.95%;height: 0.24%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 77.05%;top: 50.33%;width: 12.95%;height: 0.24%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "緻密な<br/>工程だ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 6.19%;top: 51.30%;width: 12.76%;height: 0.23%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 6.19%;top: 51.30%;width: 12.76%;height: 0.23%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "正に芸術"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 38.57%;top: 51.33%;width: 14.67%;height: 0.18%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 38.57%;top: 51.33%;width: 14.67%;height: 0.18%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "1つの<br/>間違いで<br/>手が飛ぶぞ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 76.48%;top: 51.26%;width: 15.81%;height: 0.36%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 76.48%;top: 51.26%;width: 15.81%;height: 0.36%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "ほら<br/>持て"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 85.62%;top: 51.55%;width: 11.81%;height: 0.20%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 85.62%;top: 51.55%;width: 11.81%;height: 0.20%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "アハハ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 54.38%;top: 52.31%;width: 9.52%;height: 0.14%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 54.38%;top: 52.31%;width: 9.52%;height: 0.14%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "言ったろ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 62.00%;top: 52.40%;width: 11.24%;height: 0.14%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 62.00%;top: 52.40%;width: 11.24%;height: 0.14%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "もっと注意しろ<br/>トリガーや<br/>ワイヤーに<br/>触るな"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 66.19%;top: 52.49%;width: 24.76%;height: 0.40%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 66.19%;top: 52.49%;width: 24.76%;height: 0.40%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "両手で抱えて<br/>罠を開け"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 29.62%;top: 53.29%;width: 18.67%;height: 0.24%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 29.62%;top: 53.29%;width: 18.67%;height: 0.24%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "飢えた<br/>口のように"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 34.57%;top: 53.59%;width: 16.76%;height: 0.27%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 34.57%;top: 53.59%;width: 16.76%;height: 0.27%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "よし"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 56.10%;top: 53.19%;width: 13.33%;height: 0.14%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 56.10%;top: 53.19%;width: 13.33%;height: 0.14%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "もう2つ設置<br/>して離れるぞ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 82.38%;top: 53.17%;width: 16.38%;height: 0.27%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 82.38%;top: 53.17%;width: 16.38%;height: 0.27%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "覚えが早い"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 17.43%;top: 54.21%;width: 19.81%;height: 0.17%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 17.43%;top: 54.21%;width: 19.81%;height: 0.17%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "運が良ければ<br/>お前の<br/>最初の殺しが<br/>すぐに見れる"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 35.52%;top: 54.41%;width: 14.29%;height: 0.46%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 35.52%;top: 54.41%;width: 14.29%;height: 0.46%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "何を<br/>見てる?"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 16.86%;top: 55.55%;width: 10.86%;height: 0.42%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 16.86%;top: 55.55%;width: 10.86%;height: 0.42%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "何も…"
-		,"style": "font-size: 12px;color: #C44654;background-color: white;left: 85.43%;top: 55.95%;width: 10.86%;height: 0.15%;border-radius: 50%;transform:rotate(20deg);"
+		,"style": "font-size: 12em;color: #C44654;background-color: white;left: 85.43%;top: 55.95%;width: 10.86%;height: 0.15%;border-radius: 50%;transform:rotate(20deg);"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "う…"
-		,"style": "font-size: 12px;color: #C44654;background-color: white;left: 89.43%;top: 59.66%;width: 7.05%;height: 0.15%;border-radius: 50%;"
+		,"style": "font-size: 12em;color: #C44654;background-color: white;left: 89.43%;top: 59.66%;width: 7.05%;height: 0.15%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "おめでとう!"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 17.43%;top: 61.52%;width: 16.00%;height: 0.28%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 17.43%;top: 61.52%;width: 16.00%;height: 0.28%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "2つ目の罠が<br/>成功だ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 48.10%;top: 60.64%;width: 14.48%;height: 0.35%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 48.10%;top: 60.64%;width: 14.48%;height: 0.35%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お前の<br/>初の殺しだ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 46.95%;top: 61.04%;width: 15.81%;height: 0.22%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 46.95%;top: 61.04%;width: 15.81%;height: 0.22%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "死体だ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 84.10%;top: 60.72%;width: 13.14%;height: 0.27%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 84.10%;top: 60.72%;width: 13.14%;height: 0.27%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "皮を剥げ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 62.95%;top: 61.53%;width: 12.19%;height: 0.16%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 62.95%;top: 61.53%;width: 12.19%;height: 0.16%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "斧を使え"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 86.57%;top: 61.94%;width: 10.86%;height: 0.42%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 86.57%;top: 61.94%;width: 10.86%;height: 0.42%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "…ごめんね"
-		,"style": "font-size: 12px;color: #C44654;background-color: white;left: 36.67%;top: 62.91%;width: 13.52%;height: 0.15%;border-radius: 50%;"
+		,"style": "font-size: 12em;color: #C44654;background-color: white;left: 36.67%;top: 62.91%;width: 13.52%;height: 0.15%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "ごめんね"
-		,"style": "font-size: 12px;color: #C44654;background-color: white;left: 76.10%;top: 63.52%;width: 13.71%;height: 0.14%;border-radius: 50%;"
+		,"style": "font-size: 12em;color: #C44654;background-color: white;left: 76.10%;top: 63.52%;width: 13.71%;height: 0.14%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お前の<br/>殺しだ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 21.81%;top: 63.82%;width: 9.71%;height: 0.36%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 21.81%;top: 63.82%;width: 9.71%;height: 0.36%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "さぁ食え"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 33.81%;top: 63.88%;width: 11.43%;height: 0.15%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 33.81%;top: 63.88%;width: 11.43%;height: 0.15%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "始末しろ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 36.67%;top: 63.99%;width: 12.38%;height: 0.11%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 36.67%;top: 63.99%;width: 12.38%;height: 0.11%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "ごめんね"
-		,"style": "font-size: 12px;color: #C44654;background-color: white;left: 53.81%;top: 64.17%;width: 13.33%;height: 0.16%;border-radius: 50%;transform:rotate(20deg);"
+		,"style": "font-size: 12em;color: #C44654;background-color: white;left: 53.81%;top: 64.17%;width: 13.33%;height: 0.16%;border-radius: 50%;transform:rotate(20deg);"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "何を泣く?<br/>たかが狼だ"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 9.62%;top: 64.82%;width: 16.95%;height: 0.35%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 9.62%;top: 64.82%;width: 16.95%;height: 0.35%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "裏切者! 裏切者!"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 81.43%;top: 69.80%;width: 18.48%;height: 0.17%;border-radius: 10%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 81.43%;top: 69.80%;width: 18.48%;height: 0.17%;border-radius: 10%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "分かってた!"
-		,"style": "font-size: 11px;color: white;background-color: #210E08;left: 3.14%;top: 70.85%;width: 12.95%;height: 0.09%;border-radius: 35%;"
+		,"style": "font-size: 11em;color: white;background-color: #210E08;left: 3.14%;top: 70.85%;width: 12.95%;height: 0.09%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お前は<br/>裏切ると!"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 33.43%;top: 71.25%;width: 12.76%;height: 0.28%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 33.43%;top: 71.25%;width: 12.76%;height: 0.28%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "よくも!"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 76.6667%;top: 70.9418%;width: 16.1905%;height: 0.1186%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 76.6667%;top: 70.9418%;width: 16.1905%;height: 0.1186%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お前は<br/>魔女だ<br/>狼じゃ<br/>ない!"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 84.48%;top: 71.63%;width: 12.57%;height: 0.35%;border-radius: 35%;"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 84.48%;top: 71.63%;width: 12.57%;height: 0.35%;border-radius: 35%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お前は汚れた!"
-		,"style": "font-size: 12px;color: white;background-color: #210E08;left: 0.10%;top: 72.14%;width: 24.00%;height: 0.18%;border-radius: 35%;transform:rotate(-15deg);"
+		,"style": "font-size: 12em;color: white;background-color: #210E08;left: 0.10%;top: 72.14%;width: 24.00%;height: 0.18%;border-radius: 35%;transform:rotate(-15deg);"
 		,"class": "CENTER"
 	}
 ]
