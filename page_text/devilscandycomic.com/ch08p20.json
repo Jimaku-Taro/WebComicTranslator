@@ -1,22 +1,22 @@
 [
 	{
 		"text": "生きた虫を<br/>鼻から吸った。<br/>ピエロの格好で<br/>登校した。ママに<br/>ラップで何時間も<br/>ディスられた"
-		,"style": "font-size: 14px;left: 26.97%;top: 58.75%;width: 13.72%;height: 13.16%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 26.97%;top: 58.75%;width: 13.72%;height: 13.16%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "オレを<br/>辱められる?<br/>倒せる<br/>かい?"
-		,"style": "font-size: 14px;left: 27.80%;top: 71.69%;width: 10.86%;height: 7.88%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 27.80%;top: 71.69%;width: 10.86%;height: 7.88%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ここで全部<br/>終わりだ！<br/>失う物は<br/>無い！"
-		,"style": "font-size: 14px;left: 55.97%;top: 59.28%;width: 11.58%;height: 10.65%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 55.97%;top: 59.28%;width: 11.58%;height: 10.65%;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "テメーの<br/>醜態を<br/>晒せ！"
-		,"style": "font-size: 14px;left: 67.42%;top: 61.04%;width: 9.31%;height: 7.12%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 67.42%;top: 61.04%;width: 9.31%;height: 7.12%;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 ]

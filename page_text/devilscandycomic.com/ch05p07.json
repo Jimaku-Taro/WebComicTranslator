@@ -1,37 +1,37 @@
 [
 	{
 		"text": "“トップ<br/>シーク<br/>レット”<br/>じゃない…"
-		,"style": "font-size: 12px;left: 31%;top: 8%;border-radius: 0%;"
+		,"style": "font-size: 12em;left: 31%;top: 8%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "…ただ<br/>“プライベート”"
-		,"style": "font-size: 12px;left: 83%;top: 4.5%;border-radius: 0%;"
+		,"style": "font-size: 12em;left: 83%;top: 4.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "言ったろ。<br/>有名な顧客への<br/>超退屈な<br/>配達だって"
-		,"style": "font-size: 15px;left: 82%;top: 9.5%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 82%;top: 9.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "人生の全ては<br/><ruby>演劇<rp>(</rp><rt>ドラマ</rt><rp>)</rp></ruby>じゃない"
-		,"style": "font-size: 14px;left: 34.5%;top: 35%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 34.5%;top: 35%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "OK、うん<br/>頑張って"
-		,"style": "font-size: 16px;left: 60.5%;top: 34.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 60.5%;top: 34.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "何でぼくに<br/>沢山卵が<br/>必要って<br/>思うんだ？"
-		,"style": "font-size: 16px;left: 73.5%;top: 70.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 73.5%;top: 70.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "それに、これ<br/><span style=\"font-weight: bold;\">ぼくが</span>掃除<br/>するわけ？"
-		,"style": "font-size: 15px;left: 81%;top: 77.5%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 81%;top: 77.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

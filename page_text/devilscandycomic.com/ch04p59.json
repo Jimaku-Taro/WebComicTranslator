@@ -1,27 +1,27 @@
 [
 	{
 		"text": "やり方<br/>わかるか?"
-		,"style": "font-size: 16px;left: 15%;top: 3%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 15%;top: 3%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "エリオット<br/>何なの<br/>これは?"
-		,"style": "font-size: 16px;left: 33%;top: 12%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 33%;top: 12%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "挑戦?"
-		,"style": "font-size: 33px;left: 65.9%;top: 21.5%;border-radius: 20%;"
+		,"style": "font-size: 33em;left: 65.9%;top: 21.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ラアァ!"
-		,"style": "font-size: 20px;left: 82.3%;top: 57%;border-radius: 10%;"
+		,"style": "font-size: 20em;left: 82.3%;top: 57%;border-radius: 10%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "クッ！"
-		,"style": "font-size: 17px;left: 72%;top: 87.1%;border-radius: 20%;"
+		,"style": "font-size: 17em;left: 72%;top: 87.1%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 ]

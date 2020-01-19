@@ -1,22 +1,22 @@
 [
 	{
 		"text": "ダンプスタンパー家<br/>(顔に)泥を塗る<br/>という意味がある"
-		,"style": "font-size: 16px;color: black;background-color: #E5E5E5;left: 68.62%;top: 9.80%;width: 22.67%;height: 5.86%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: black;background-color: #E5E5E5;left: 68.62%;top: 9.80%;width: 22.67%;height: 5.86%;border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">父</span>ジャックスロー・ダンプスタンパー<br/>職業：大手廃品管理業者<br/>好き：ビンテージ車の収集、<br/>リズムゲーム"
-		,"style": "font-size: 14px;left: 17.42%;top: 64.32%;width: 40.33%;height: 7.87%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 17.42%;top: 64.32%;width: 40.33%;height: 7.87%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;font-weight: normal;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">母</span>ウィルヘルミナ・ダンプスタンパー<br/>職業：女相続人<br/>好き：乗馬、<br/>強い昆虫の飼育"
-		,"style": "font-size: 14px;left: 17.18%;top: 73.03%;width: 33.17%;height: 7.37%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 17.18%;top: 73.03%;width: 33.17%;height: 7.37%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;font-weight: normal;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">息子</span>ハックルブルック・ダンプスタンパー<br/>職業：学生（４年生）<br/>好き：アンティーク楽器の収集と演奏、<br/>ロックンロール"
-		,"style": "font-size: 14px;left: 17.06%;top: 81.66%;width: 38.42%;height: 7.71%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 17.06%;top: 81.66%;width: 38.42%;height: 7.71%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;font-weight: normal;"
 		,"class": "WHITE"
 	}
 ]

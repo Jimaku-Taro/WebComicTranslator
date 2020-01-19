@@ -1,12 +1,12 @@
 [
 	{
 		"text": "デビ…"
-		,"style": "font-size: 18px;left: 50%;top: 6%;width: 77px;height: 47px;border-radius: 50%;"
+		,"style": "font-size: 18em;left: 50%;top: 6%;width: 77px;height: 47px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ねぇ…<br/>聞こえた?"
-		,"style": "font-size: 16px;left: 45%;top: 77.5%;width: 86px;height: 61px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 45%;top: 77.5%;width: 86px;height: 61px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 ]

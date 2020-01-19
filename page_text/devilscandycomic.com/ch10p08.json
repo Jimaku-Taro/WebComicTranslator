@@ -1,62 +1,62 @@
 [
 	{
 		"text": "決まりだ。<br/>ドン・チョン<br/>マゲの店に<br/>持ち込もう"
-		,"style": "font-size: 14px;left: 18.14%;top: 6.03%;width: 11.46%;height: 8.63%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 18.14%;top: 6.03%;width: 11.46%;height: 8.63%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "料理<br/>できるぜ<br/>…"
-		,"style": "font-size: 14px;left: 29.24%;top: 9.30%;width: 12.29%;height: 5.45%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 29.24%;top: 9.30%;width: 12.29%;height: 5.45%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "一緒に"
-		,"style": "font-size: 16px;left: 31.15%;top: 14.74%;width: 9.79%;height: 3.02%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 16em;left: 31.15%;top: 14.74%;width: 9.79%;height: 3.02%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ズルいな、<br/>人の贈物使って<br/>ワガママ<br/>通すかい!"
-		,"style": "font-size: 16px;left: 56.68%;top: 8.54%;width: 13.60%;height: 9.97%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 16em;left: 56.68%;top: 8.54%;width: 13.60%;height: 9.97%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "黙れ<br/>欲しい物は<br/>皆こうやって<br/>手に入れるぜ"
-		,"style": "font-size: 13px;left: 75.66%;top: 8.79%;width: 10.74%;height: 7.29%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 75.66%;top: 8.79%;width: 10.74%;height: 7.29%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "頭の料理の話で<br/>腹減ってきたな。<br/>オレは食堂車に<br/>失礼させて<br/>もらうぜ"
-		,"style": "font-size: 14px;left: 32.94%;top: 35.62%;width: 14.92%;height: 11.32%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 32.94%;top: 35.62%;width: 14.92%;height: 11.32%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "僕も!"
-		,"style": "font-size: 16px;left: 54.53%;top: 35.45%;width: 11.10%;height: 4.86%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 16em;left: 54.53%;top: 35.45%;width: 11.10%;height: 4.86%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "食堂車<br/>あるの?"
-		,"style": "font-size: 14px;left: 63.25%;top: 43.16%;width: 8.35%;height: 3.52%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 63.25%;top: 43.16%;width: 8.35%;height: 3.52%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ニモ<br/>待って!<br/>なんで<br/>早足?"
-		,"style": "font-size: 12px;left: 13.37%;top: 63.61%;width: 7.88%;height: 5.20%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 12em;left: 13.37%;top: 63.61%;width: 7.88%;height: 5.20%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "マジかよ?!<br/>全員付いて<br/>来んのか?!"
-		,"style": "font-size: 14px;left: 23.27%;top: 63.61%;width: 12.17%;height: 4.86%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 23.27%;top: 63.61%;width: 12.17%;height: 4.86%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ケーキ<br/>欲しい"
-		,"style": "font-size: 14px;left: 42.48%;top: 73.76%;width: 6.21%;height: 3.86%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 42.48%;top: 73.76%;width: 6.21%;height: 3.86%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "これ…<br/>いいなぁ"
-		,"style": "font-size: 13px;left: 78.64%;top: 64.20%;width: 9.55%;height: 5.11%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 78.64%;top: 64.20%;width: 9.55%;height: 5.11%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 ]

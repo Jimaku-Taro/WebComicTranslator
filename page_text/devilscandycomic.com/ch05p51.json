@@ -1,37 +1,37 @@
 [
 	{
 		"text": "いいとも!"
-		,"style": "font-size: 16px;left: 16.5%;top: 27.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 16.5%;top: 27.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">これ</span>は<br/>好都合！"
-		,"style": "font-size: 20px;left: 75%;top: 26%;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 75%;top: 26%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ええええ…<br/>そんな"
-		,"style": "font-size: 16px;left: 27%;top: 50%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 27%;top: 50%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ヤギー、<br/>こういう予定<br/>だったの？"
-		,"style": "font-size: 16px;left: 55%;top: 51%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 55%;top: 51%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "いや…<br/>オレ…"
-		,"style": "font-size: 16px;left: 76%;top: 53.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 76%;top: 53.5%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "どうした？<br/>何怖がって<br/>んだよ？"
-		,"style": "font-size: 16px;left: 84.5%;top: 52%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 84.5%;top: 52%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "逃げて!!"
-		,"style": "font-size: 25px;left: 52%;top: 85%;border-radius: 0%;"
+		,"style": "font-size: 25em;left: 52%;top: 85%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 ]

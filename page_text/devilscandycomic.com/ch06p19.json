@@ -1,42 +1,42 @@
 [
 	{
 		"text": "ぐ…"
-		,"style": "font-size: 16px;left: 29.5%;top: 11.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 29.5%;top: 11.5%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "うぐっ!<br/>何?"
-		,"style": "font-size: 14px;left: 86.5%;top: 26.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 86.5%;top: 26.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "やめろ!<br/>何でカズを<br/>呼ぶんだ!?"
-		,"style": "font-size: 20px;left: 68%;top: 50%;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 68%;top: 50%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "どうすべきか<br/>きっと知ってる"
-		,"style": "font-size: 15px;left: 25.2%;top: 63.5%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 25.2%;top: 63.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "赤ん坊用の<br/>クッションみたく<br/>叩き潰される<br/>だけだ!<br/>逃げろ!"
-		,"style": "font-size: 13px;left: 28%;top: 69%;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 28%;top: 69%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "何、<span style=\"font-weight: bold;\">君が</span><br/>アタイを<br/>抑えてる<br/>間に？"
-		,"style": "font-size: 14px;left: 45%;top: 63%;width: 88px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 45%;top: 63%;width: 88px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "君が倒せるのは<br/>ストラツィオだけ<br/>彼弱いから"
-		,"style": "font-size: 14px;left: 56%;top: 63.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 56%;top: 63.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ああ、<br/>分かってるよ"
-		,"style": "font-size: 16px;left: 76%;top: 90.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 76%;top: 90.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

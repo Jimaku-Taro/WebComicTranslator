@@ -1,62 +1,62 @@
 [
 	{
 		"text": "よお？"
-		,"style": "font-size: 16px;left: 29%;top: 8%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 29%;top: 8%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "やぁ<br/>クレアンス"
-		,"style": "font-size: 16px;left: 28.5%;top: 19%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 28.5%;top: 19%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "おぅ。<br/>デートは<br/>どうだ？"
-		,"style": "font-size: 15px;left: 75%;top: 4.5%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 75%;top: 4.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "皆!夕食<br/>できた!"
-		,"style": "font-size: 16px;left: 83.5%;top: 7%;transform: rotate(10deg);border-radius: 0%;"
+		,"style": "font-size: 16em;left: 83.5%;top: 7%;transform: rotate(10deg);border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "良かったよ。<br/>オレは魔法の<br/>喋るギターを<br/>手に入れた"
-		,"style": "font-size: 16px;left: 29.5%;top: 39%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 29.5%;top: 39%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "お前が..."
-		,"style": "font-size: 13px;left: 52%;top: 41%;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 52%;top: 41%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "はぁ？"
-		,"style": "font-size: 16px;left: 56%;top: 44%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 56%;top: 44%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ああ、<br/>イカれた力を<br/>持ってる。<br/>でも感じ<br/>悪い"
-		,"style": "font-size: 14px;left: 83%;top: 40.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 83%;top: 40.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "売っ払おう<br/>と思う。<br/>いい場所<br/>知らない？"
-		,"style": "font-size: 15px;left: 13%;top: 70.5%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 13%;top: 70.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ヤギー、<br/>お腹すいた?"
-		,"style": "font-size: 16px;left: 26%;top: 72.5%;transform: rotate(-15deg);border-radius: 0%;"
+		,"style": "font-size: 16em;left: 26%;top: 72.5%;transform: rotate(-15deg);border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "…何?"
-		,"style": "font-size: 25px;left: 59%;top: 72%;border-radius: 0%;"
+		,"style": "font-size: 25em;left: 59%;top: 72%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "今日は<br/>私のチャクラが<br/>全部揃ったって<br/>信じられるか？<br/><span style=\"font-weight: bold;\">全部</span>だぞ！"
-		,"style": "font-size: 14px;left: 58.2%;top: 86%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 58.2%;top: 86%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

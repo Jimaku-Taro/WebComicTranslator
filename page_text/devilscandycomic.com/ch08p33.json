@@ -1,17 +1,17 @@
 [
 	{
 		"text": "この<br/>哀れなアホを<br/>見ろよ。<br/>何様の<br/>つもりだ?"
-		,"style": "font-size: 14px;left: 12.23%;top: 49.72%;width: 10.98%;height: 10.14%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 12.23%;top: 49.72%;width: 10.98%;height: 10.14%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "思い<br/>出すよ"
-		,"style": "font-size: 14px;left: 19.75%;top: 58.60%;width: 8.47%;height: 4.69%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 19.75%;top: 58.60%;width: 8.47%;height: 4.69%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "思い…"
-		,"style": "font-size: 14px;left: 65.45%;top: 53.49%;width: 5.97%;height: 4.11%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 65.45%;top: 53.49%;width: 5.97%;height: 4.11%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 ]

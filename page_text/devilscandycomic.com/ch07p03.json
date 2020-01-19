@@ -1,47 +1,47 @@
 [
 	{
 		"text": "わぁ!"
-		,"style": "font-size: 14px;left: 10%;top: 29%;width: 49px;height: 26px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 10%;top: 29%;width: 49px;height: 26px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "あっ!"
-		,"style": "font-size: 12px;left: 39%;top: 29%;width: 29px;height: 19px;border-radius: 0%;"
+		,"style": "font-size: 12em;left: 39%;top: 29%;width: 29px;height: 19px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "おい!"
-		,"style": "font-size: 10px;left: 37%;top: 33%;width: 24px;height: 19px;border-radius: 0%;"
+		,"style": "font-size: 10em;left: 37%;top: 33%;width: 24px;height: 19px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ストラツィオ<br/>が言ってた<br/>ことは本当ね"
-		,"style": "font-size: 12px;left: 37.5%;top: 48%;width: 76px;height: 63px;border-radius: 0%;"
+		,"style": "font-size: 12em;left: 37.5%;top: 48%;width: 76px;height: 63px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "単なる<br/>不運を<br/>超えてる"
-		,"style": "font-size: 14px;left: 80%;top: 51%;width: 74px;height: 69px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 80%;top: 51%;width: 74px;height: 69px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "そう…"
-		,"style": "font-size: 14px;left: 13.5%;top: 71.5%;width: 55px;height: 28px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 13.5%;top: 71.5%;width: 55px;height: 28px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ミイラの<br/>呪いだ"
-		,"style": "font-size: 14px;left: 12.5%;top: 75.5%;width: 81px;height: 60px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 12.5%;top: 75.5%;width: 81px;height: 60px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何だと?<br/>ミイラは<br/>実在しない!"
-		,"style": "font-size: 14px;left: 61.5%;top: 65%;width: 81px;height: 51px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 61.5%;top: 65%;width: 81px;height: 51px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "マーク、黙れ。<br/>ミイラは<br/>超実在する。<br/>テレビで見た"
-		,"style": "font-size: 14px;left: 74%;top: 64%;width: 101px;height: 73px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 74%;top: 64%;width: 101px;height: 73px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 ]

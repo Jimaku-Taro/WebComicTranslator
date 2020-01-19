@@ -1,12 +1,12 @@
 [
 	{
 		"text": "悪いね男子<br/>諸君、でも<br/>彼女は全部<br/><span style=\"font-weight: bold;\">オレの物ぉ</span>"
-		,"style": "font-size: 16px;left: 33%;top: 7.8%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 33%;top: 7.8%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ヒッ!</span>"
-		,"style": "font-size: 16px;left: 75%;top: 53%;line-height: 33px;border-radius: 1%;"
+		,"style": "font-size: 16em;left: 75%;top: 53%;line-height: 33px;border-radius: 1%;"
 		,"class": "WHITE"
 	}
 ]

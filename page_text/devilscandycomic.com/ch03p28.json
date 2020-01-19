@@ -1,22 +1,22 @@
 [
 	{
 		"text": "絶対<br/>ファッション<br/><ruby>大決戦<rp>(</rp><rt>アルマゲドン</rt><rp>)</rp></ruby>"
-		,"style": "font-size: 18px;left: 56%;top: 8%;width: 111px; height:103px;border-radius: 10%;"
+		,"style": "font-size: 18em;left: 56%;top: 8%;width: 111px; height:103px;border-radius: 10%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "今晩!!"
-		,"style": "font-size: 14px;left: 70%;top: 14.5%;transform: rotate(-20deg);border-radius: 10%;"
+		,"style": "font-size: 14em;left: 70%;top: 14.5%;transform: rotate(-20deg);border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "流血で<br/>美しく"
-		,"style": "font-size: 14px;left: 62%;top: 17.9%;width: 59px;height: 35px;border-radius: 10%;"
+		,"style": "font-size: 14em;left: 62%;top: 17.9%;width: 59px;height: 35px;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "後ろの子<br/>見た？"
-		,"style": "font-size: 16px;left: 43%;top: 72%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 43%;top: 72%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 ]

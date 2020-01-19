@@ -1,52 +1,52 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">彼女が</span><br/>何作ったかの<br/>方が興味ある。<br/>きっと素晴ら<br/>しいさ！"
-		,"style": "font-size: 14px;left: 34.5%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 34.5%;top: 6%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "大したこと<br/>ないわ"
-		,"style": "font-size: 14px;left: 72%;top: 6.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 72%;top: 6.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ただの小さな<br/>テディベア。<br/>体は全部<br/>パッチワーク、<br/>でも内臓は全部<br/>機能するわよ"
-		,"style": "font-size: 14px;left: 78.7%;top: 8.5%;z-index: 1;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 78.7%;top: 8.5%;z-index: 1;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "わぁ！彼の服<br/>好きだな！<br/>君はいい手を<br/>してるね！"
-		,"style": "font-size: 14px;left: 10.5%;top: 35%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 10.5%;top: 35%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あたし<br/>の手…"
-		,"style": "font-size: 16px;left: 57%;top: 43.5%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 57%;top: 43.5%;border-radius: 10%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "子供達、<br/>お喋りは<br/>止めよ！"
-		,"style": "font-size: 16px;left: 17.5%;top: 56.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 17.5%;top: 56.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">生物学教師<br/>ミズ・<br/>トリンクル</span>"
-		,"style": "font-size: 13px;left: 32%;top: 67.2%;width: 103px; height: 55px;border-radius: 10%;"
+		,"style": "font-size: 13em;left: 32%;top: 67.2%;width: 103px; height: 55px;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "皆さん<br/>注目"
-		,"style": "font-size: 16px;left: 64%;top: 55%;width: 73px;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 64%;top: 55%;width: 73px;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "皆さんの<br/>生物学の<br/>課題の発表の<br/>時間です"
-		,"style": "font-size: 15px;left: 74%;top: 57.3%;border-radius: 30%;"
+		,"style": "font-size: 15em;left: 74%;top: 57.3%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "変ね。<br/>こんなに<br/>生徒多かった<br/>かしら…"
-		,"style": "font-size: 14px;left: 77%;top: 67.5%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 77%;top: 67.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 ]

@@ -1,47 +1,47 @@
 [
 	{
 		"text": "誰が中に<br/>行く必要<br/>ある？"
-		,"style": "font-size: 16px;left: 8%;top: 17.4%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 8%;top: 17.4%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ここで<br/>あんた達の<br/>ケツを<br/>蹴っ飛ばす"
-		,"style": "font-size: 16px;left: 31.5%;top: 31.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 31.5%;top: 31.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "他の奴らも<br/>パンドラの<br/>邪魔したらケツ<br/>蹴っ飛ばすよ"
-		,"style": "font-size: 16px;left: 63%;top: 14.5%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 63%;top: 14.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "今日は、<br/>美女で<br/>いて…"
-		,"style": "font-size: 16px;left: 68%;top: 34%;width: 70px;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 68%;top: 34%;width: 70px;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "野獣は<br/>あたしが<br/>なるわ"
-		,"style": "font-size: 16px;left: 79%;top: 35%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 79%;top: 35%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "うー…"
-		,"style": "font-size: 16px;left: 10.5%;top: 82.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 10.5%;top: 82.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "わかった"
-		,"style": "font-size: 13px;left: 13%;top: 85.5%;border-radius: 20%;"
+		,"style": "font-size: 13em;left: 13%;top: 85.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "さて、<br/>どこまで<br/>話した？"
-		,"style": "font-size: 16px;left: 43%;top: 64%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 43%;top: 64%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ラビィィィ、<br/>助けてぇぇ…"
-		,"style": "font-size: 14px;left: 79%;top: 66%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 79%;top: 66%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

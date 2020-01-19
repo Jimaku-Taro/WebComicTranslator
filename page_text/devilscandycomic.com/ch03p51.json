@@ -1,17 +1,17 @@
 [
 	{
 		"text": "見てら<br/>れない！"
-		,"style": "font-size: 16px;left: 74%;top: 57%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 74%;top: 57%;border-radius: 30%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "センチネル<br/>どうして!?<br/>あんなに<br/>オシャレ<br/>なのに！"
-		,"style": "font-size: 14px;left: 84.5%;top: 56.5%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 84.5%;top: 56.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "いえ…<br/>見て"
-		,"style": "font-size: 16px;left: 87.5%;top: 80.5%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 87.5%;top: 80.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 ]

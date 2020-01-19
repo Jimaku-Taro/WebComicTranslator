@@ -1,47 +1,47 @@
 [
 	{
 		"text": "バ…バカ…?"
-		,"style": "font-size: 14px;left: 11.2%;top: 5%;width: 88px;height: 25px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 11.2%;top: 5%;width: 88px;height: 25px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "そうかな?"
-		,"style": "font-size: 14px;left: 13%;top: 8.5%;width: 84px;height: 39px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 13%;top: 8.5%;width: 84px;height: 39px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "自分でも何を<br/>しようとしたか<br/>分からないよ。<br/>僕はただ<span style=\"font-weight: bold;\">何とか</span><br/>君を守りたかった"
-		,"style": "font-size: 13px;left: 33.5%;top: 24.6%;width: 106px;height: 89px;text-align: center;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 33.5%;top: 24.6%;width: 106px;height: 89px;text-align: center;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "緊急手術道具<br/>持ってきたけど<br/><span style=\"font-weight: bold;\">こんな風に</span>使うとは<br/>思わなかった…"
-		,"style": "font-size: 13px;left: 52%;top: 4%;width: 93px;height: 112px;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 52%;top: 4%;width: 93px;height: 112px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "待って…<br/>この女性誰?<br/>何が<br/>あったの?"
-		,"style": "font-size: 13px;left: 79%;top: 23%;width: 84px;height: 70px;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 79%;top: 23%;width: 84px;height: 70px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "クレアンス<br/>は…"
-		,"style": "font-size: 14px;left: 12.5%;top: 39%;width: 97px;height: 39px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 12.5%;top: 39%;width: 97px;height: 39px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ここ<br/>だよ"
-		,"style": "font-size: 20px;left: 26%;top: 43%;width: 74px;height: 41px;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 26%;top: 43%;width: 74px;height: 41px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ヤギーへ<br/>電話した。<br/>リケットの所へ<br/>向かってる"
-		,"style": "font-size: 13px;left: 14%;top: 77%;width: 97px;height: 93px;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 14%;top: 77%;width: 97px;height: 93px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何か悪いことが<br/>起きる前に<br/>行こう"
-		,"style": "font-size: 13px;left: 74%;top: 78%;width: 112px;height: 77px;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 74%;top: 78%;width: 112px;height: 77px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 ]

@@ -1,17 +1,17 @@
 [
 	{
 		"text": "君の苦痛は<br/>私には想像すら<br/>できないよ<br/>マイロ"
-		,"style": "font-size: 16px;left: 7%;top: 39%;width: 118px;height: 118px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 7%;top: 39%;width: 118px;height: 118px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "君の家族とは<br/>近しくないが<br/>父の仕事を通して<br/>知ってるよ"
-		,"style": "font-size: 16px;left: 70%;top: 41.5%;width: 147px;height: 118px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 70%;top: 41.5%;width: 147px;height: 118px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "とにかく<br/>ご覧の通り<br/>本が滅茶苦茶で<br/>部屋を生徒に<br/>解放できてない"
-		,"style": "font-size: 16px;left: 11%;top: 63%;width: 129px;height: 151px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 11%;top: 63%;width: 129px;height: 151px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 ]

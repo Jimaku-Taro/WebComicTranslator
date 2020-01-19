@@ -1,22 +1,22 @@
 [
 	{
 		"text": "い…一体何が<br/>起きたんだ?!"
-		,"style": "font-size: 16px;left: 81%;top: 41.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 81%;top: 41.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "科学<br/>クラブが<br/>…"
-		,"style": "font-size: 16px;left: 17%;top: 59%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 17%;top: 59%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "幽霊を<br/>作った。<br/>"
-		,"style": "font-size: 16px;left: 43.5%;top: 57.8%;z-index: 1;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 43.5%;top: 57.8%;z-index: 1;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "…それに<br/>爆発もだぜ"
-		,"style": "font-size: 13px;left: 43%;top: 61.4%;transform: rotate(10deg);border-radius: 20%;"
+		,"style": "font-size: 13em;left: 43%;top: 61.4%;transform: rotate(10deg);border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

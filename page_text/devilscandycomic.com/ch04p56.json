@@ -1,37 +1,37 @@
 [
 	{
 		"text": "ところで<br/>カズは<br/>どこ？"
-		,"style": "font-size: 16px;left: 14%;top: 5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 14%;top: 5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "救護の<br/>はずよね？<br/>応援？"
-		,"style": "font-size: 16px;left: 24%;top: 6%;width: 96px;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 24%;top: 6%;width: 96px;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "つまり、彼が<br/><span style=\"font-weight: bold;\">出場してる</span><br/>はずは…"
-		,"style": "font-size: 16px;left: 44.3%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 44.3%;top: 6%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "誰が<br/>やったの？"
-		,"style": "font-size: 16px;left: 70%;top: 40.7%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 70%;top: 40.7%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "奴ら<br/>殺す!"
-		,"style": "font-size: 20px;left: 9.5%;top: 56.2%;width: 76px;border-radius: 20%;"
+		,"style": "font-size: 20em;left: 9.5%;top: 56.2%;width: 76px;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "全員<br/>ブッ殺す!"
-		,"style": "font-size: 28px;left: 13%;top: 62%;border-radius: 20%;"
+		,"style": "font-size: 28em;left: 13%;top: 62%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "骨から<br/>肉を喰い<br/>千切って<br/>やる！"
-		,"style": "font-size: 25px;left: 54%;top: 78%;width: 128px;border-radius: 20%;"
+		,"style": "font-size: 25em;left: 54%;top: 78%;width: 128px;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 ]

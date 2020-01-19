@@ -1,32 +1,32 @@
 [
 	{
 		"text": "パンドラ<br/>…"
-		,"style": "font-size: 18px;left: 14%;top: 50%;border-radius: 20%;"
+		,"style": "font-size: 18em;left: 14%;top: 50%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "今日は何を<br/>学んだ？"
-		,"style": "font-size: 18px;left: 73%;top: 51.5%;border-radius: 20%;"
+		,"style": "font-size: 18em;left: 73%;top: 51.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "軟弱者"
-		,"style": "font-size: 22px;left: 50%;top: 66%;border-radius: 20%;"
+		,"style": "font-size: 22em;left: 50%;top: 66%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "幽霊"
-		,"style": "font-size: 27px;left: 60%;top: 66.5%;border-radius: 20%;"
+		,"style": "font-size: 27em;left: 60%;top: 66.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "血"
-		,"style": "font-size: 42px;left: 69.5%;top: 67.5%;width: 45px;border-radius: 50%;"
+		,"style": "font-size: 42em;left: 69.5%;top: 67.5%;width: 45px;border-radius: 50%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "チャプター2：完"
-		,"style": "font-size: 23.5px;left: 69%;top: 95.3%;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 23.5em;left: 69%;top: 95.3%;border:solid 1px;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 ]

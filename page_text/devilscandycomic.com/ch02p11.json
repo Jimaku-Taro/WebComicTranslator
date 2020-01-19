@@ -1,42 +1,42 @@
 [
 	{
 		"text": "ヤギー?"
-		,"style": "font-size: 25px;left: 11%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 25em;left: 11%;top: 6%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "バターが<br/>ヒデェ<br/>多すぎだな"
-		,"style": "font-size: 16px;left: 53.5%;top: 22.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 53.5%;top: 22.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "いる<br/>かい?"
-		,"style": "font-size: 14px;left: 68%;top: 14.2%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 68%;top: 14.2%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "いや。<br/>いい<br/>かな"
-		,"style": "font-size: 14px;left: 83%;top: 13.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 83%;top: 13.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">どういたし<br/>まして、<br/>クレアンス!!</span>"
-		,"style": "font-size: 16px;left: 32%;top: 45%;width: 103px;border-radius: 25%;"
+		,"style": "font-size: 16em;left: 32%;top: 45%;width: 103px;border-radius: 25%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "僕にも<br/>クッキー…"
-		,"style": "font-size: 13px;left: 13%;top: 49.5%;border-radius: 20%;"
+		,"style": "font-size: 13em;left: 13%;top: 49.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "これはマズい、<br/>カズ！<br/>シンプルに<br/>マズい…"
-		,"style": "font-size: 16px;left: 10%;top: 77.8%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 10%;top: 77.8%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "恐ろしい時です！<br/>もしこの<br/>恐ろしい祟りの<br/>真相を解明できねば<br/>学校を閉鎖するしか<br/>ありません！"
-		,"style": "font-size: 16px;left: 56.2%;top: 45.8%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 56.2%;top: 45.8%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

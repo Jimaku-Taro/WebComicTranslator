@@ -1,27 +1,27 @@
 [
 	{
 		"text": "アタイは君の<br/>臭いギター顔の<br/>友達なんて<br/>いらない"
-		,"style": "font-size: 15px;left: 9%;top: 3%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 9%;top: 3%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "トレモロか…<br/>ストラツィオ<br/>の問題だし"
-		,"style": "font-size: 16px;left: 23%;top: 3%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 23%;top: 3%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "奴らは仕事を<br/>失敗したけど、<br/>アタイは違う"
-		,"style": "font-size: 16px;left: 74%;top: 23.2%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 74%;top: 23.2%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "うぐっ!!"
-		,"style": "font-size: 16px;left: 9.5%;top: 58.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 9.5%;top: 58.5%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "だって何であれ<br/>アタイより<br/>優れた奴なんて<br/>いないもん"
-		,"style": "font-size: 16px;left: 77.5%;top: 66.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 77.5%;top: 66.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

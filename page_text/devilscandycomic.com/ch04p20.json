@@ -1,47 +1,47 @@
 [
 	{
 		"text": "これは<br/>私個人の些細な<br/>ワガママに<br/>見えると思う…"
-		,"style": "font-size: 14px;left: 17.5%;top: 9%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 17.5%;top: 9%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "でも真剣に<br/>やらなければ、<br/>本当に学校は<br/>終わりかも<br/>しれない"
-		,"style": "font-size: 14px;left: 72.5%;top: 10%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 72.5%;top: 10%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "私の心臓は<br/>耐えられない<br/>もし私の戦ってきた<br/>全てが…"
-		,"style": "font-size: 16px;left: 15%;top: 33%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 15%;top: 33%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "全てが…"
-		,"style": "font-size: 16px;left: 74.5%;top: 36.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 74.5%;top: 36.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "彼<span style=\"font-weight: bold;\">は</span><br/>ドア<br/>なの？"
-		,"style": "font-size: 16px;left: 74%;top: 58.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 74%;top: 58.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "待って、<br/>いや…<br/><span style=\"font-weight: bold;\">ジャイロ!?</span>"
-		,"style": "font-size: 14px;left: 81%;top: 60%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 81%;top: 60%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "怖がるなよ<br/>親愛なる<br/>教育者"
-		,"style": "font-size: 16px;left: 83%;top: 69%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 83%;top: 69%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "オレには<br/>お前らに必要な<br/>全てのぉぉぉ<br/>答えがあるぜ"
-		,"style": "font-size: 16px;left: 83%;top: 76%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 83%;top: 76%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ジャイロ・リーマンクタス(15)</span><br/>解散した科学クラブを探すために<br/>停学から復帰した"
-		,"style": "font-size: 15px;left: 48%;top: 86%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 48%;top: 86%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

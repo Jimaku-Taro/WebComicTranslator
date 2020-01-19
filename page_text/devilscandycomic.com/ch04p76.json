@@ -1,27 +1,27 @@
 [
 	{
 		"text": "ナイト ライフ"
-		,"style": "font-size: 35px;left: 35%;top: 5%;width: 240px;border-radius: 0%;"
+		,"style": "font-size: 35em;left: 35%;top: 5%;width: 240px;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "1杯目"
-		,"style": "font-size: 21px;left: 56%;top: 11%;border:solid 1px;width: 110px;border-radius: 0%;"
+		,"style": "font-size: 21em;left: 56%;top: 11%;border:solid 1px;width: 110px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "2杯目"
-		,"style": "font-size: 21px;left: 56%;top: 32.5%;border:solid 1px;width: 110px;border-radius: 0%;"
+		,"style": "font-size: 21em;left: 56%;top: 32.5%;border:solid 1px;width: 110px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "3杯目"
-		,"style": "font-size: 21px;left: 56%;top: 54%;border:solid 1px;width: 110px;border-radius: 0%;"
+		,"style": "font-size: 21em;left: 56%;top: 54%;border:solid 1px;width: 110px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "4杯目"
-		,"style": "font-size: 21px;left: 56%;top: 76%;border:solid 1px;width: 110px;border-radius: 0%;"
+		,"style": "font-size: 21em;left: 56%;top: 76%;border:solid 1px;width: 110px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

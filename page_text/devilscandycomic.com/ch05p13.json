@@ -1,57 +1,57 @@
 [
 	{
 		"text": "ヤギー、<br/>ねぇ"
-		,"style": "font-size: 16px;left: 11.6%;top: 3.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 11.6%;top: 3.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "歌うの<br/>やめて"
-		,"style": "font-size: 16px;left: 19.2%;top: 7%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 19.2%;top: 7%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ぼくは<br/>とんがり帽子の<br/>女の子の親友さ。<br/>彼女の名は<br/>グレーテル"
-		,"style": "font-size: 14px;left: 32%;top: 4%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 32%;top: 4%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "彼女が今日の<br/>放課後君に<br/>会いたいって。<br/>5時にガッツ<br/>スクリーマー駅前"
-		,"style": "font-size: 14px;left: 46%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 46%;top: 5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "いいね<br/>？"
-		,"style": "font-size: 16px;left: 60%;top: 10%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 60%;top: 10%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "楽しみだ"
-		,"style": "font-size: 16px;left: 12.5%;top: 46%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 12.5%;top: 46%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "結論を<br/>急ぐべきじゃ<br/>ないよ！<br/>仲良くなるかも<br/>しれないし！"
-		,"style": "font-size: 14px;left: 67%;top: 36.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 67%;top: 36.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ヤギーは<br/>悪い奴じゃない、<br/>でも間が抜けてる。<br/>ギーグな女の子に<br/>惚れるにはまだ<br/>浅はかすぎる"
-		,"style": "font-size: 13px;left: 26%;top: 66.5%;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 26%;top: 66.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ギーグ達の<br/>残りは、<br/>リケットに目を<br/>光らせておくべき<br/>だろう"
-		,"style": "font-size: 14px;left: 49%;top: 66%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 49%;top: 66%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "はぁ……"
-		,"style": "font-size: 16px;left: 74.7%;top: 67.7%;transform: rotate(-20deg);border-radius: 0%;"
+		,"style": "font-size: 16em;left: 74.7%;top: 67.7%;transform: rotate(-20deg);border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "彼女は<br/>心に何か<br/>深い悩みが<br/>あるようだ"
-		,"style": "font-size: 16px;left: 67.5%;top: 85.5%;width: 100px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 67.5%;top: 85.5%;width: 100px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

@@ -1,27 +1,27 @@
 [
 	{
 		"text": "夏の<br/>太陽！"
-		,"style": "font-size: 24px;left: 40.5%;top: 9%;border-radius: 30%;"
+		,"style": "font-size: 24em;left: 40.5%;top: 9%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "灼熱の<br/>パレオ!"
-		,"style": "font-size: 25px;left: 30.6%;top: 42.6%;border-radius: 30%;"
+		,"style": "font-size: 25em;left: 30.6%;top: 42.6%;border-radius: 30%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "スゲェな、<br/>オイ"
-		,"style": "font-size: 17px;left: 59%;top: 77.1%;border-radius: 30%;"
+		,"style": "font-size: 17em;left: 59%;top: 77.1%;border-radius: 30%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "マジか"
-		,"style": "font-size: 16px;left: 70.5%;top: 77%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 70.5%;top: 77%;border-radius: 30%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "クソ、<br/>お前最高だ！<br/>ショーの後<br/>一緒にブギ<br/>踊らね?"
-		,"style": "font-size: 14px;left: 79.5%;top: 76%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 79.5%;top: 76%;border-radius: 30%;"
 		,"class": "WHITE BOLD"
 	}
 ]

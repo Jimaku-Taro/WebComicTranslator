@@ -1,32 +1,32 @@
 [
 	{
 		"text": "サイコ・キラー・スティーブ"
-		,"style": "font-size: 35px;left: 23%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 35em;left: 23%;top: 5%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "コイツは<br/>サイコ<br/>キラー<br/>スティーブ"
-		,"style": "font-size: 16px;left: 28.5%;top: 22%;border: solid 1px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 28.5%;top: 22%;border: solid 1px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "彼は<br/>どこでも<br/>信頼する<br/>シャベル<br/>と一緒だ"
-		,"style": "font-size: 16px;left: 28%;top: 42%;border: solid 1px;width: 85px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 28%;top: 42%;border: solid 1px;width: 85px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "彼は<br/>あらゆる<br/>事件に<br/>関わる"
-		,"style": "font-size: 16px;left: 61.5%;top: 54.5%;border: solid 1px;width: 73px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 61.5%;top: 54.5%;border: solid 1px;width: 73px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ランチ<br/>ターイム!!"
-		,"style": "font-size: 13px;color: red;left: 44%;top: 75%;transform: rotate(20deg);border-radius: 0%;"
+		,"style": "font-size: 13em;color: red;left: 44%;top: 75%;transform: rotate(20deg);border-radius: 0%;"
 		,"class": ""
 	}
 	,{
 		"text": "彼の<br/>キャッチ<br/>フレーズは<br/>子供達に<br/>大ウケだ"
-		,"style": "font-size: 16px;left: 29%;top: 83.5%;border: solid 1px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 29%;top: 83.5%;border: solid 1px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

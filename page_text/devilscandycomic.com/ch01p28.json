@@ -1,17 +1,17 @@
 [
 	{
 		"text": "なんて<br/>淫らな！"
-		,"style": "font-size: 16px;left: 28%;top: 23%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 28%;top: 23%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "授業で<br/>そんな事<br/>ダメよ！"
-		,"style": "font-size: 16px;left: 37%;top: 25%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 37%;top: 25%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "待って…何…<br/>何<span style=\"font-weight: bold;\">を</span>あなたは<br/>してるの？！"
-		,"style": "font-size: 16px;left: 19.5%;top: 53.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 19.5%;top: 53.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

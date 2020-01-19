@@ -1,22 +1,22 @@
 [
 	{
 		"text": "そ…"
-		,"style": "font-size: 20px;left: 74%;top: 22%;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 74%;top: 22%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "その通り<br/>です"
-		,"style": "font-size: 20px;left: 44%;top: 52%;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 44%;top: 52%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "なんて<br/>こと"
-		,"style": "font-size: 18px;left: 11%;top: 72%;border-radius: 0%;"
+		,"style": "font-size: 18em;left: 11%;top: 72%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "一体何が<br/>起きてるの～～？"
-		,"style": "font-size:18px;left: 64%;top: 87%;border-radius: 0%;"
+		,"style": "font-size:18em;left: 64%;top: 87%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

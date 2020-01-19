@@ -1,27 +1,27 @@
 [
 	{
 		"text": "ジャイロ"
-		,"style": "font-size: 16px;color: black;left: 30%;top: 4.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: black;left: 30%;top: 4.5%;border-radius: 0%;"
 		,"class": ""
 	}
 	,{
 		"text": "何だ？！<br/>ヒトミ<br/>？！"
-		,"style": "font-size: 12px;left: 10.5%;top: 57%;border-radius: 20%;"
+		,"style": "font-size: 12em;left: 10.5%;top: 57%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "どう<br/>やって<br/>…？！>"
-		,"style": "font-size: 12px;left: 15.7%;top: 59%;border-radius: 50%;"
+		,"style": "font-size: 12em;left: 15.7%;top: 59%;border-radius: 50%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "何が起き<br/>てる？！"
-		,"style": "font-size: 12px;left: 30.5%;top: 60.3%;border-radius: 10%;"
+		,"style": "font-size: 12em;left: 30.5%;top: 60.3%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あぐっ!"
-		,"style": "font-size: 17px;left: 77%;top: 58%;border-radius: 20%;"
+		,"style": "font-size: 17em;left: 77%;top: 58%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

@@ -1,0 +1,12 @@
+[
+	{
+		"text": "今回は何を<br/>祈ってるの?<br/>♥"
+		,"style": "left: 36.6444%;top: 0.6565%;width: 25.2087%;height: 27.5711%;font-size: 20px;color: #DC0199;background-color: #000D2A;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "あぁ!<br/>幸運だよ!<br/>トレーニングは<br/>終えたし…"
+		,"style": "left: 72.5376%;top: 67.8337%;width: 27.0451%;height: 31.7287%;font-size: 20px;color: #1559BD;background-color: #60AAFF;border-radius: 50% 30% 10% 10%;"
+		,"class": "CENTER"
+	}
+]

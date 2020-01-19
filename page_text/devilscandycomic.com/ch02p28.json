@@ -1,27 +1,27 @@
 [
 	{
 		"text": "この頑丈な<br/>構造！"
-		,"style": "font-size: 22px;left: 13.2%;top: 7%;border-radius: 20%;"
+		,"style": "font-size: 22em;left: 13.2%;top: 7%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "そのうえ<br/>創造主に忠実!"
-		,"style": "font-size: 18px;left: 15%;top: 14%;border-radius: 20%;"
+		,"style": "font-size: 18em;left: 15%;top: 14%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "自己防衛<br/>ユニット<br/>かな、恐らくは?"
-		,"style": "font-size: 16px;left: 76.5%;top: 25.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 76.5%;top: 25.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "いや、<br/>それにしては<br/>あまりにも<br/>感情的<br/>すぎる"
-		,"style": "font-size: 14px;left: 56.5%;top: 60%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 56.5%;top: 60%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<ruby>君<rp>(</rp><rt>カズ</rt><rp>)</rp></ruby>は<ruby>それ<rp>(</rp><rt>パンドラ</rt><rp>)</rp></ruby>が<br/>本物の女の子<br/>だと<span style=\"font-weight: bold;\">ほとんど</span><br/>思っていた<br/>ようだが!"
-		,"style": "font-size: 14px;left: 69.5%;top: 63%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 69.5%;top: 63%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

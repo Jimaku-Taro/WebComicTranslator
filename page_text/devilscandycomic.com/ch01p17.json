@@ -1,32 +1,32 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">生命の奇跡</span>を<br/>目撃してそれ？<br/>パンドラが<br/>赤ん坊頃の君を<br/>笑い者にしたら<br/>どう思う？"
-		,"style": "font-size: 16px;left: 10%;top: 6.7%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 10%;top: 6.7%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "第１に、<br/>その例えは<br/>無意味だ、<br/>仮に彼女が<br/>赤ん坊でも、<br/>デカイし変だろ"
-		,"style": "font-size: 15px;left: 29.5%;top: 9.5%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 29.5%;top: 9.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "第２に、誰も<br/>赤子のオレを<br/>笑わない、<br/>オレは愛らし<br/>かったから"
-		,"style": "font-size: 15px;left: 51.5%;top: 11.4%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 51.5%;top: 11.4%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "赤ん坊の君の<br/>写真見たけど<br/>同意せざるを<br/>得ないかな"
-		,"style": "font-size: 15px;left: 51%;top: 29.8%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 51%;top: 29.8%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "カズ…"
-		,"style": "font-size: 16px;left: 86%;top: 30.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 86%;top: 30.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あたしが<br/>彼みたいに<br/>目が２つなら<br/>きっと愛して<br/>くれる…"
-		,"style": "font-size: 18px;left: 15%;top: 67%;border-radius: 20%;"
+		,"style": "font-size: 18em;left: 15%;top: 67%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

@@ -1,97 +1,97 @@
 [
 	{
 		"text": "選ばれし<br/>者って何?"
-		,"style": "font-size: 15px;left: 6.5%;top: 8.8%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 6.5%;top: 8.8%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "見たこと<br/>無い悪魔ね。<br/>何て<br/>名前?"
-		,"style": "font-size: 16px;left: 17%;top:7%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 17%;top:7%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あー…マ…<br/>マーク…?"
-		,"style": "font-size: 15px;left: 20.3%;top: 28.3%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 20.3%;top: 28.3%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ただの<br/>“マーク?”"
-		,"style": "font-size: 14px;left: 34.5%;top: 7%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 34.5%;top: 7%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "嘘<br/>臭い"
-		,"style": "font-size: 20px;left: 41.2%;top: 7.5%;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 41.2%;top: 7.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "スティ…<br/>スティーブン"
-		,"style": "font-size: 12px;left: 40%;top: 14%;border-radius: 0%;"
+		,"style": "font-size: 12em;left: 40%;top: 14%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "それじゃ<br/>“スティーブン”<br/>か“マーク”？"
-		,"style": "font-size: 13px;left: 46.5%;top: 18.2%;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 46.5%;top: 18.2%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">マーク・<br/>スティーブンソン！</span><br/>俺の名はマーク・<br/>スティーブンソンだ！<br/><span style=\"font-weight: bold;\">クソ！</span>お前の名は<br/>俺が楽しめる位<br/><span style=\"font-weight: bold;\">超</span>スゴイのかよ？"
-		,"style": "font-size: 14px;left: 56%;top: 4.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 56%;top: 4.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "グレーテル<br/>よ"
-		,"style": "font-size: 13px;left: 76.5%;top: 9%;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 76.5%;top: 9%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ただの<br/>“グレーテル”？</span><br/>悪魔の名前に<br/>聞こえないね！<br/>お前こそギターじゃ<br/>ねーのか？！"
-		,"style": "font-size: 14px;left: 73.5%;top: 28.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 73.5%;top: 28.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "OK OK、<br/>今のは忘れろ。<br/>俺の脱出を助けて<br/>くれるのか<br/>どうか？"
-		,"style": "font-size: 15px;left: 8.5%;top: 42.5%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 8.5%;top: 42.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "奴らは<br/>今にもここに<br/>来るぞ"
-		,"style": "font-size: 16px;left: 74%;top: 43.8%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 74%;top: 43.8%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "いいわ、でも<br/>ストラツィオについて<br/>知ってること全部<br/>話してもらうわ"
-		,"style": "font-size: 14px;left: 6%;top: 57.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 6%;top: 57.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ストラツィオ<br/>って誰?<br/>何かあった?"
-		,"style": "font-size: 13px;left: 42%;top: 59%;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 42%;top: 59%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "交渉<br/>成立…"
-		,"style": "font-size: 16px;left: 30%;top: 76%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 30%;top: 76%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "俺はストラツィオの<br/><span style=\"font-weight: bold;\">専門家さ。</span>俺の裏に<br/>ギターの指板が<br/>無いこと位良く<br/>知ってる"
-		,"style": "font-size: 14px;left: 37%;top: 76%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 37%;top: 76%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "アッ<br/>クソ!<br/>隠れろ!"
-		,"style": "font-size: 14px;left: 64.2%;top: 68.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 64.2%;top: 68.5%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ロッカー<br/>!"
-		,"style": "font-size: 13px;left: 78.8%;top: 87%;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 78.8%;top: 87%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ロッカー<br/>よ！"
-		,"style": "font-size: 16px;left: 82%;top: 91.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 82%;top: 91.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

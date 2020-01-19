@@ -1,67 +1,67 @@
 [
 	{
 		"text": "美少女"
-		,"style": "font-size: 45px;color: black;background-color: #F3F3F3;left: 2.68%;top: 3.68%;width: 21.24%;height: 10.03%;border-radius: 0%;"
+		,"style": "font-size: 45em;color: black;background-color: #F3F3F3;left: 2.68%;top: 3.68%;width: 21.24%;height: 10.03%;border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "描いてみよう"
-		,"style": "font-size: 25px;color: black;background-color: #F3F3F3;left: 21.78%;top: 3.36%;width: 37.59%;height: 11.62%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 25em;color: black;background-color: #F3F3F3;left: 21.78%;top: 3.36%;width: 37.59%;height: 11.62%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
 		,"class": ""
 	}
 	,{
 		"text": "描いた人"
-		,"style": "font-size: 16px;color: black;background-color: #F3F3F3;left: 60.08%;top: 9.25%;width: 11.10%;height: 4.16%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 16em;color: black;background-color: #F3F3F3;left: 60.08%;top: 9.25%;width: 11.10%;height: 4.16%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
 		,"class": ""
 	}
 	,{
 		"text": "清純派"
-		,"style": "font-size: 20px;color: black;background-color: #F3F3F3;left: 8.29%;top: 47.79%;width: 8.23%;height: 4.30%;border-radius: 0%;"
+		,"style": "font-size: 20em;color: black;background-color: #F3F3F3;left: 8.29%;top: 47.79%;width: 8.23%;height: 4.30%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "可愛い系"
-		,"style": "font-size: 20px;color: black;background-color: #F3F3F3;left: 21.66%;top: 47.79%;width: 18.62%;height: 3.98%;border-radius: 0%;"
+		,"style": "font-size: 20em;color: black;background-color: #F3F3F3;left: 21.66%;top: 47.79%;width: 18.62%;height: 3.98%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "クール"
-		,"style": "font-size: 20px;color: black;background-color: #F3F3F3;left: 40.75%;top: 47.94%;width: 18.14%;height: 3.66%;border-radius: 0%;"
+		,"style": "font-size: 20em;color: black;background-color: #F3F3F3;left: 40.75%;top: 47.94%;width: 18.14%;height: 3.66%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "活動的"
-		,"style": "font-size: 20px;color: black;background-color: #F3F3F3;left: 59.37%;top: 48.10%;width: 18.26%;height: 3.66%;border-radius: 0%;"
+		,"style": "font-size: 20em;color: black;background-color: #F3F3F3;left: 59.37%;top: 48.10%;width: 18.26%;height: 3.66%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "中性的"
-		,"style": "font-size: 20px;color: black;background-color: #F3F3F3;left: 78.34%;top: 48.26%;width: 17.90%;height: 3.66%;border-radius: 0%;"
+		,"style": "font-size: 20em;color: black;background-color: #F3F3F3;left: 78.34%;top: 48.26%;width: 17.90%;height: 3.66%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "セクシー"
-		,"style": "font-size: 20px;color: black;background-color: #F3F3F3;left: 3.04%;top: 87.28%;width: 18.26%;height: 3.98%;border-radius: 0%;"
+		,"style": "font-size: 20em;color: black;background-color: #F3F3F3;left: 3.04%;top: 87.28%;width: 18.26%;height: 3.98%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "臆病"
-		,"style": "font-size: 20px;color: black;background-color: #F3F3F3;left: 21.78%;top: 87.28%;width: 18.38%;height: 3.98%;border-radius: 0%;"
+		,"style": "font-size: 20em;color: black;background-color: #F3F3F3;left: 21.78%;top: 87.28%;width: 18.38%;height: 3.98%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "アホの子"
-		,"style": "font-size: 20px;color: black;background-color: #F3F3F3;left: 40.51%;top: 87.44%;width: 18.50%;height: 3.66%;border-radius: 0%;"
+		,"style": "font-size: 20em;color: black;background-color: #F3F3F3;left: 40.51%;top: 87.44%;width: 18.50%;height: 3.66%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "美人"
-		,"style": "font-size: 20px;color: black;background-color: #F3F3F3;left: 59.25%;top: 87.43%;width: 18.26%;height: 4.14%;border-radius: 0%;"
+		,"style": "font-size: 20em;color: black;background-color: #F3F3F3;left: 59.25%;top: 87.43%;width: 18.26%;height: 4.14%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お好みの女子を"
-		,"style": "font-size: 20px;color: black;background-color: #F3F3F3;left: 77.98%;top: 87.43%;width: 18.62%;height: 3.82%;border-radius: 0%;"
+		,"style": "font-size: 20em;color: black;background-color: #F3F3F3;left: 77.98%;top: 87.43%;width: 18.62%;height: 3.82%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 ]

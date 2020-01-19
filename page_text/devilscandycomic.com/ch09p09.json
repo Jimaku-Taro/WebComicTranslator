@@ -1,27 +1,27 @@
 [
 	{
 		"text": "ここよ"
-		,"style": "font-size: 14px;left: 16.53%;top: 5.02%;width: 7.16%;height: 4.27%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 16.53%;top: 5.02%;width: 7.16%;height: 4.27%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "キャアアアア!!!"
-		,"style": "font-size: 25px;left: 27.03%;top: 48.44%;width: 22.43%;height: 3.19%;border-radius: 10%;"
+		,"style": "font-size: 25em;left: 27.03%;top: 48.44%;width: 22.43%;height: 3.19%;border-radius: 10%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "リンゴ!!"
-		,"style": "font-size: 25px;left: 55.79%;top: 48.52%;width: 12.77%;height: 6.20%;border-radius: 50%;"
+		,"style": "font-size: 25em;left: 55.79%;top: 48.52%;width: 12.77%;height: 6.20%;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "何が<br/>あったの<br/>?!"
-		,"style": "font-size: 16px;left: 74.16%;top: 45.17%;width: 11.69%;height: 5.03%;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 74.16%;top: 45.17%;width: 11.69%;height: 5.03%;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "殺され<br/>てるわ!!"
-		,"style": "font-size: 16px;left: 81.32%;top: 78.70%;width: 11.46%;height: 6.20%;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 81.32%;top: 78.70%;width: 11.46%;height: 6.20%;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 ]

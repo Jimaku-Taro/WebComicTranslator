@@ -1,22 +1,22 @@
 [
 	{
 		"text": "卵は?!"
-		,"style": "font-size: 20px;left: 14.5%;top: 9.5%;border-radius: 20%;"
+		,"style": "font-size: 20em;left: 14.5%;top: 9.5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ハッ!"
-		,"style": "font-size: 30px;left: 67%;top: 18.5%;border-radius: 20%;"
+		,"style": "font-size: 30em;left: 67%;top: 18.5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "落ち着いて、<br/>チャーリー！"
-		,"style": "font-size: 16px;left: 17%;top: 26.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 17%;top: 26.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "待って、<br/>何言ってんだ?<br/><span style=\"font-weight: bold;\">爆発し<br/>そうだ！</span>"
-		,"style": "font-size: 16px;left: 25%;top: 31%;border-radius: 40%;"
+		,"style": "font-size: 16em;left: 25%;top: 31%;border-radius: 40%;"
 		,"class": "WHITE"
 	}
 ]

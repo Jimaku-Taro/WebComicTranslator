@@ -1,47 +1,47 @@
 [
 	{
 		"text": "暴行2"
-		,"style": "font-size: 20px;left: 43%;top: 5%;width: 115px;height: 28px;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 43%;top: 5%;width: 115px;height: 28px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "絵:MISSY PEÑA<br/>@MISSPENART"
-		,"style": "font-size: 14px;left: 26%;top: 7%;width: 208px;height: 28px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 26%;top: 7%;width: 208px;height: 28px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "話:BIKKURI"
-		,"style": "font-size: 18px;left: 52%;top: 7%;width: 166px;height: 28px;border-radius: 0%;"
+		,"style": "font-size: 18em;left: 52%;top: 7%;width: 166px;height: 28px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "引越して<br/>落ち着き<br/>ましたか<br/>マイロ?"
-		,"style": "font-size: 14px;left: 32.5%;top: 23%;width: 86px;height: 75px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 32.5%;top: 23%;width: 86px;height: 75px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "たまに少し<br/>ビックリ<br/>しますよ"
-		,"style": "font-size: 14px;left: 51%;top: 32%;width: 95px;height: 89px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 51%;top: 32%;width: 95px;height: 89px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "なぜか<br/>大きな虫が<br/>沢山<br/>いたり…"
-		,"style": "font-size: 14px;left: 56%;top: 40%;width: 103px;height: 110px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 56%;top: 40%;width: 103px;height: 110px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "おいおいマイロ<br/><span>なぜ<span style=\"font-weight: bold;\">警察を<br/>呼ばないんです?</span></span>"
-		,"style": "font-size: 14px;left: 28%;top: 56%;width: 142px;height: 81px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 28%;top: 56%;width: 142px;height: 81px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "すみま<br/>せん…"
-		,"style": "font-size: 12px;left: 42%;top: 75%;width: 48px;height: 38px;border-radius: 50%;"
+		,"style": "font-size: 12em;left: 42%;top: 75%;width: 48px;height: 38px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "二度と<br/>文句<br/>言いま<br/>せん"
-		,"style": "font-size: 12px;left: 43.5%;top: 78.5%;width: 55px;height: 55px;border-radius: 50%;"
+		,"style": "font-size: 12em;left: 43.5%;top: 78.5%;width: 55px;height: 55px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 ]

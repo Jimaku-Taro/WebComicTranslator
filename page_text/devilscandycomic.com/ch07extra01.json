@@ -1,22 +1,22 @@
 [
 	{
 		"text": "マズかったですか?<br/>極力短く<br/>切らないように<br/>したんですが!!"
-		,"style": "font-size: 16px;left: 54%;top: 11%;width: 165px;height: 95px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 54%;top: 11%;width: 165px;height: 95px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "いや<br/>大丈夫…"
-		,"style": "font-size: 16px;left: 45%;top: 30.5%;width: 68px;height: 38px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 45%;top: 30.5%;width: 68px;height: 38px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "コーヒー…"
-		,"style": "font-size: 16px;left: 25%;top: 60%;width: 84px;height: 42px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 25%;top: 60%;width: 84px;height: 42px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "床屋行って<br/>ゴメンよ!!<br/>帽子でも借りれば<br/>良かったかな…"
-		,"style": "font-size: 16px;left: 63%;top: 51%;width: 131px;height: 117px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 63%;top: 51%;width: 131px;height: 117px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 ]

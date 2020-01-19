@@ -1,27 +1,27 @@
 [
 	{
 		"text": "バッグの中身は?"
-		,"style": "font-size: 50px;left: 27.03%;top: 2.42%;width: 50.24%;height: 8.05%;border-radius:0%;border:solid 1px;"
+		,"style": "font-size: 50em;left: 27.03%;top: 2.42%;width: 50.24%;height: 8.05%;border-radius:0%;border:solid 1px;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "男らしい男の<br/>ハンサムメイク"
-		,"style": "font-size: 13px;color: white;background-color: #686868;left: 66.17%;top: 12.63%;width: 12.89%;height: 4.95%;border-radius:0%;font-weight: normal;transform: rotate(-10deg);"
+		,"style": "font-size: 13em;color: white;background-color: #686868;left: 66.17%;top: 12.63%;width: 12.89%;height: 4.95%;border-radius:0%;font-weight: normal;transform: rotate(-10deg);"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "嫌だ"
-		,"style": "font-size: 13px;color: black;background-color: #DFDFDF;left: 27.74%;top: 60.09%;width: 5.61%;height: 2.60%;border-radius:40%;"
+		,"style": "font-size: 13em;color: black;background-color: #DFDFDF;left: 27.74%;top: 60.09%;width: 5.61%;height: 2.60%;border-radius:40%;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "わぁ<br/>クレアンス"
-		,"style": "font-size: 13px;left: 64.14%;top: 75.76%;width: 12.29%;height: 6.29%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 64.14%;top: 75.76%;width: 12.29%;height: 6.29%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "多いね…<br/>見慣れない物が"
-		,"style": "font-size: 13px;left: 72.97%;top: 80.62%;width: 13.96%;height: 9.22%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 72.97%;top: 80.62%;width: 13.96%;height: 9.22%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 ]

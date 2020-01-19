@@ -1,17 +1,17 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">ねぇ！</span><br/>それから<br/>離れてよ！"
-		,"style": "font-size: 16px;left: 56%;top: 4%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 56%;top: 4%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "パ…<br/>パンドラ?"
-		,"style": "font-size: 15px;left: 83.7%;top: 8.7%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 83.7%;top: 8.7%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "…チッ"
-		,"style": "font-size: 16px;left: 56%;top: 82.5%;border-radius: 210%;"
+		,"style": "font-size: 16em;left: 56%;top: 82.5%;border-radius: 210%;"
 		,"class": "WHITE"
 	}
 ]

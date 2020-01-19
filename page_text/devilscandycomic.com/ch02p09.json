@@ -1,32 +1,32 @@
 [
 	{
 		"text": "さ…さぁ、<br/>教室へ!<br/>登校日だよ!"
-		,"style": "font-size: 16px;left: 10.5%;top: 15%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 10.5%;top: 15%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "今日の<br/>最初の授業は<br/>料理の文化化、<br/>世界中の悪魔達の<br/>違いを勉強と<br/>料理の準備を<br/>通して学ぶよ"
-		,"style": "font-size: 15px;left: 44%;top: 11%;border-radius: 30%;"
+		,"style": "font-size: 15em;left: 44%;top: 11%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": " ストリクソン<br/>先生は、少し<br/>変だけど、<br/>肝臓の料理を<br/>作れば、<br/>大丈夫さ"
-		,"style": "font-size: 14px;left: 65.5%;top: 23.8%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 65.5%;top: 23.8%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "とにかく、<br/>楽しいよ…<br/>君みたいに<br/>素敵な女子<br/>も沢山いる"
-		,"style": "font-size: 14px;left: 78%;top: 25%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 78%;top: 25%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "お…<br/>おはよう!"
-		,"style": "font-size: 14px;left: 26%;top: 39.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 26%;top: 39.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "今日は静か<br/>みたいだね。<br/>まだ早いよ。<br/>ベルが鳴る<br/>まで待とう"
-		,"style": "font-size: 14px;left: 12%;top: 77%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 12%;top: 77%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

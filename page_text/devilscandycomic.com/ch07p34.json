@@ -1,42 +1,42 @@
 [
 	{
 		"text": "マークのソウルメイト"
-		,"style": "font-size: 25px;left: 33%;top: 5%;width: 280px;height: 45px;border-radius: 0%;"
+		,"style": "font-size: 25em;left: 33%;top: 5%;width: 280px;height: 45px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "数日前"
-		,"style": "font-size: 20px;color: black;background-color: #FEDC75;left: 30%;top: 10%;width: 153px;height: 29px;border-radius: 0%;"
+		,"style": "font-size: 20em;color: black;background-color: #FEDC75;left: 30%;top: 10%;width: 153px;height: 29px;border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "ニンジャルティ<br/>メット ニンジャ<br/>リミネイション<br/>チャレンジか。<br/>番組を見続けて<br/>彼の弱みを<br/>分析だ"
-		,"style": "font-size: 14px;left: 28%;top: 14%;width: 141px;height: 174px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 28%;top: 14%;width: 141px;height: 174px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "1話目"
-		,"style": "font-size: 20px;color: black;background-color: #FEDC75;left: 30%;top: 31%;width: 153px;height: 29px;border-radius: 0%;"
+		,"style": "font-size: 20em;color: black;background-color: #FEDC75;left: 30%;top: 31%;width: 153px;height: 29px;border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "理解<br/>できん"
-		,"style": "font-size: 20px;left: 61%;top: 31%;width: 96px;height: 80px;border-radius: 50%;"
+		,"style": "font-size: 20em;left: 61%;top: 31%;width: 96px;height: 80px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "12話目"
-		,"style": "font-size: 20px;color: black;background-color: #FEDC75;left: 30%;top: 53%;width: 153px;height: 29px;border-radius: 0%;"
+		,"style": "font-size: 20em;color: black;background-color: #FEDC75;left: 30%;top: 53%;width: 153px;height: 29px;border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "イエェェェイ!"
-		,"style": "font-size: 20px;left: 57%;top: 53%;width: 136px;height: 63px;border-radius: 50%;"
+		,"style": "font-size: 20em;left: 57%;top: 53%;width: 136px;height: 63px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "68話目"
-		,"style": "font-size: 20px;color: black;background-color: #FEDC75;left: 30%;top: 74.5%;width: 153px;height: 29px;border-radius: 0%;"
+		,"style": "font-size: 20em;color: black;background-color: #FEDC75;left: 30%;top: 74.5%;width: 153px;height: 29px;border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}
 ]

@@ -1,57 +1,57 @@
 [
 	{
 		"text": "僕はここに<br/>メッセージを<br/>伝えに来た"
-		,"style": "font-size: 15px;left: 28.5%;top: 18%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 28.5%;top: 18%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ただ…<br/>それ位は<br/>いいだろ、<br/>OK？"
-		,"style": "font-size: 16px;left: 59.6%;top: 21%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 59.6%;top: 21%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "よ…よし<br/>俺が聞く"
-		,"style": "font-size: 16px;left: 81%;top: 10%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 81%;top: 10%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "最近<br/>僕の雇い主達が<br/>購入したい商品が<br/>オークションに<br/>あった"
-		,"style": "font-size: 14px;left: 11.5%;top: 48.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 11.5%;top: 48.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "君達が<br/>落札した"
-		,"style": "font-size: 16px;left: 20%;top: 57%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 20%;top: 57%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "雇い主達は<br/>不満だ"
-		,"style": "font-size: 16px;left: 50.5%;top: 53%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 50.5%;top: 53%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "おい、とにかく<br/>取引はできる。<br/>だからもう<br/>車を降りろ"
-		,"style": "font-size: 16px;left: 65.5%;top: 39%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 65.5%;top: 39%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "俺のボスに<br/>お前のボスを<br/>呼ぶよう<br/>頼む…"
-		,"style": "font-size: 14px;left: 78.5%;top: 56.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 78.5%;top: 56.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "雇い主達は<br/>取引には<br/>興味ない"
-		,"style": "font-size: 19px;left: 13%;top: 70%;border-radius: 0%;"
+		,"style": "font-size: 19em;left: 13%;top: 70%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "雇い主達が<br/>興味があるのは<br/>君達を身の程に<br/>あった場所へ<br/>送ることだけだ"
-		,"style": "font-size: 14px;left: 54.5%;top: 81%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 54.5%;top: 81%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "もういい!<br/>コイツを撃て!"
-		,"style": "font-size: 16px;left: 81%;top: 89%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 81%;top: 89%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 ]

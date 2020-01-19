@@ -1,72 +1,72 @@
 [
 	{
 		"text": "うわぁ、<br/>彼女はオレに<br/>ベタ惚れだよ"
-		,"style": "font-size: 14px;left: 37.5%;top: 7%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 37.5%;top: 7%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "全くな"
-		,"style": "font-size: 16px;left: 61%;top: 7.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 61%;top: 7.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ところで、いい<br/>ベッドだな、兄弟。<br/>俺にエアマットか<br/>何かくれないか？"
-		,"style": "font-size: 13px;left: 73%;top: 22.5%;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 73%;top: 22.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "それに、<br/>何か…<br/>侍ソードとか<br/>忍者スター<br/>ないか？"
-		,"style": "font-size: 14px;left: 24%;top: 35%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 24%;top: 35%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ほら。<br/><span style=\"font-weight: bold;\">クールな</span><br/>ヤツ"
-		,"style": "font-size: 16px;left: 35%;top: 38%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 35%;top: 38%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ナイフ<br/>とか？"
-		,"style": "font-size: 16px;left: 47.8%;top: 51.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 47.8%;top: 51.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "魔法の<br/>ギターが<br/>ナイフで<br/>何する気？"
-		,"style": "font-size: 16px;left: 78%;top: 48.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 78%;top: 48.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "俺はギター<br/><span style=\"font-weight: bold;\">じゃない！</span><br/>それに、ガキ、<br/>魔法なんて<br/>存在しない"
-		,"style": "font-size: 14px;left: 3%;top: 61%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 3%;top: 61%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">忍者</span>も<br/>存在<br/>しないよ!"
-		,"style": "font-size: 14px;left: 26%;top: 62.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 26%;top: 62.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "２本の腕と<br/>投げスターが<br/>あれば、本物の<br/>忍者を見せて<br/>やるぜ！"
-		,"style": "font-size: 15px;left: 5%;top: 77.5%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 5%;top: 77.5%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "<ruby>“手裏剣”<rp>(</rp><rt>しゅりけん</rt><rp>)</rp></ruby><br/>だろソレ!"
-		,"style": "font-size: 17.5px;left: 38.5%;top: 80%;border-radius: 0%;"
+		,"style": "font-size: 17.5em;left: 38.5%;top: 80%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "忘れて"
-		,"style": "font-size: 18px;left: 69%;top: 63.7%;border-radius: 0%;"
+		,"style": "font-size: 18em;left: 69%;top: 63.7%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "クローゼット<br/>に君をしまう。<br/>クレアンスに<br/>電話しなきゃ"
-		,"style": "font-size: 14px;left: 75.5%;top: 65%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 75.5%;top: 65%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "おい！"
-		,"style": "font-size: 16px;left: 83.5%;top: 78.5%;transform: rotate(-10deg);border-radius: 0%;"
+		,"style": "font-size: 16em;left: 83.5%;top: 78.5%;transform: rotate(-10deg);border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

@@ -1,22 +1,22 @@
 [
 	{
 		"text": "キャッ!!"
-		,"style": "font-size: 14px;left: 33%;top: 8.7%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 33%;top: 8.7%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "わぁ！"
-		,"style": "font-size: 17px;left: 60.8%;top: 6.8%;border-radius: 10%;"
+		,"style": "font-size: 17em;left: 60.8%;top: 6.8%;border-radius: 10%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "そしてぇぇぇぇ<br/>再び動きが<br/>あるぞ！"
-		,"style": "font-size: 16px;left: 36%;top: 63%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 36%;top: 63%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "うわ、<br/>ええい！<br/>押し返せ！！"
-		,"style": "font-size: 16px;left: 77%;top: 63.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 77%;top: 63.5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 ]

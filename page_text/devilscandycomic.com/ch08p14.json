@@ -1,92 +1,92 @@
 [
 	{
 		"text": "いや、私が<br/>聞いてるのは<br/>ピエロの格好なら<br/><span><span style=\"font-weight: bold;\">ヘビィメタル</span>が</span>分かるの?"
-		,"style": "font-size: 14px;left: 9%;top: 3.5%;width: 131px;height: 95px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 9%;top: 3.5%;width: 131px;height: 95px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "全然!"
-		,"style": "font-size: 20px;left: 21%;top: 11.5%;width: 75px;height: 31px;border-radius: 50%;"
+		,"style": "font-size: 20em;left: 21%;top: 11.5%;width: 75px;height: 31px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ピエロは<br/>ダサい!<br/>メタルとは<br/>世界で最も<br/>程遠い!"
-		,"style": "font-size: 14px;left: 34%;top: 4.5%;width: 86px;height: 94px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 34%;top: 4.5%;width: 86px;height: 94px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "そうね、でも<br/>ヘビィメタル<br/><span>はクール<span style=\"font-weight: bold;\">かつ</span></span>ダサいわ"
-		,"style": "font-size: 12px;left: 45.5%;top: 4%;width: 76px;height: 81px;border-radius: 50%;"
+		,"style": "font-size: 12em;left: 45.5%;top: 4%;width: 76px;height: 81px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "格好良すぎて<br/>ピエロの格好<br/>できないなら…<br/><span>ソイツは<span style=\"font-weight: bold;\">実は</span></span>格好良くない"
-		,"style": "font-size: 14px;left: 59%;top: 2.5%;width: 126px;height: 114px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 59%;top: 2.5%;width: 126px;height: 114px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "真に格好良い奴は<br/>ピエロの格好も<br/>気にしない、<br/><span><span style=\"font-weight: bold;\">ソイツの</span>格好良さは</span>揺るがないから"
-		,"style": "font-size: 13px;left: 74%;top: 2.5%;width: 125px;height: 116px;border-radius: 50%;"
+		,"style": "font-size: 13em;left: 74%;top: 2.5%;width: 125px;height: 116px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ヘビメタ演奏者は<br/>派手なメイクして、<br/>偽の血を吐いて、<br/>魔法使いや魔法とか<br/>クソなこと歌うわ<br/>“笑ってみろ”と<br/>言わんばかりに"
-		,"style": "font-size: 13px;left: 5%;top: 36%;width: 120px;height: 153px;border-radius: 50%;"
+		,"style": "font-size: 13em;left: 5%;top: 36%;width: 120px;height: 153px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "でも最高の<br/>ギターソロに<br/>突入すれば、<br/>それに気づく前に<br/>皆も一緒に<br/>頭振ってる"
-		,"style": "font-size: 13px;left: 6%;top: 50%;width: 113px;height: 112px;border-radius: 50%;"
+		,"style": "font-size: 13em;left: 6%;top: 50%;width: 113px;height: 112px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ダサい?"
-		,"style": "font-size: 13px;left: 45%;top: 36%;width: 50px;height: 40px;border-radius: 50%;"
+		,"style": "font-size: 13em;left: 45%;top: 36%;width: 50px;height: 40px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "多分ね!"
-		,"style": "font-size: 14px;left: 46%;top: 40%;width: 63px;height: 39px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 46%;top: 40%;width: 63px;height: 39px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "最高?"
-		,"style": "font-size: 14px;left: 45%;top: 50%;width: 53px;height: 48px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 45%;top: 50%;width: 53px;height: 48px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "疑う余地<br/>無しよ!"
-		,"style": "font-size: 14px;left: 43.9%;top: 54%;width: 81px;height: 51px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 43.9%;top: 54%;width: 81px;height: 51px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "言い換えれば、<br/>恥を捨てるのはトレモロに<br/>対抗するだけの道じゃない、<span style=\"font-weight: bold;\">今まで以上に過酷な道よ!</span>"
-		,"style": "font-size: 16px;left: 63%;top: 35%;width: 216px;height: 98px;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 63%;top: 35%;width: 216px;height: 98px;border-radius: 30%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ハァ…"
-		,"style": "font-size: 14px;left: 15%;top: 68.5%;width: 62px;height: 25px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 15%;top: 68.5%;width: 62px;height: 25px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">お前は</span>何をニヤ<br/>ついて<br/>るんだ?"
-		,"style": "font-size: 13px;left: 30%;top: 68%;width: 66px;height: 66px;border-radius: 30%;"
+		,"style": "font-size: 13em;left: 30%;top: 68%;width: 66px;height: 66px;border-radius: 30%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "オレはカズが<br/>今回は命の<br/>危険が無い事に<br/>関わってくれて<br/>嬉しいんだ"
-		,"style": "font-size: 14px;left: 46%;top: 68%;width: 108px;height: 102px;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 46%;top: 68%;width: 108px;height: 102px;border-radius: 30%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "すごい変な<br/>状況だけど、<br/>少なくとも誰も<br/>傷つかない"
-		,"style": "font-size: 14px;left: 59%;top: 69%;width: 111px;height: 91px;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 59%;top: 69%;width: 111px;height: 91px;border-radius: 30%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "うん…"
-		,"style": "font-size: 30px;left: 76%;top: 69%;width: 115px;height: 73px;border-radius: 50%;"
+		,"style": "font-size: 30em;left: 76%;top: 69%;width: 115px;height: 73px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 ]

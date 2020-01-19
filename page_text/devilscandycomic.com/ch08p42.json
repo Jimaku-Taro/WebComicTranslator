@@ -1,17 +1,17 @@
 [
 	{
 		"text": "クソ…"
-		,"style": "font-size: 14px;left: 40.69%;top: 46.38%;width: 8.95%;height: 5.11%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 40.69%;top: 46.38%;width: 8.95%;height: 5.11%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ニックの<br/>助けがいる。<br/>いつまでも<br/>頭を押さえ<br/>られん"
-		,"style": "font-size: 14px;left: 73.87%;top: 46.21%;width: 14.80%;height: 8.55%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 73.87%;top: 46.21%;width: 14.80%;height: 8.55%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "大丈夫<br/>相棒"
-		,"style": "font-size: 14px;left: 15.75%;top: 74.30%;width: 12.65%;height: 7.54%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 15.75%;top: 74.30%;width: 12.65%;height: 7.54%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 ]

@@ -1,87 +1,87 @@
 [
 	{
 		"text": "じゃ…"
-		,"style": "font-size: 14px;left: 13.54%;top: 5.61%;width: 6.68%;height: 2.85%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 13.54%;top: 5.61%;width: 6.68%;height: 2.85%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "誰も誰かを<br/>食べてない?"
-		,"style": "font-size: 14px;left: 12.47%;top: 8.04%;width: 9.43%;height: 5.78%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 12.47%;top: 8.04%;width: 9.43%;height: 5.78%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ない!"
-		,"style": "font-size: 14px;left: 27.74%;top: 8.54%;width: 4.18%;height: 2.93%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 27.74%;top: 8.54%;width: 4.18%;height: 2.93%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ない<br/>…"
-		,"style": "font-size: 14px;left: 32.16%;top: 10.13%;width: 5.13%;height: 3.02%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 32.16%;top: 10.13%;width: 5.13%;height: 3.02%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "お望みじゃ<br/>なければね"
-		,"style": "font-size: 12px;left: 39.08%;top: 7.37%;width: 7.28%;height: 5.87%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 12em;left: 39.08%;top: 7.37%;width: 7.28%;height: 5.87%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ない!"
-		,"style": "font-size: 14px;left: 49.70%;top: 8.71%;width: 4.42%;height: 3.44%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 49.70%;top: 8.71%;width: 4.42%;height: 3.44%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "私は果物しか<br/>食べないの!<br/>リンゴの甘い<br/>林檎の匂いに<br/>興奮しちゃう!"
-		,"style": "font-size: 14px;left: 62.71%;top: 2.59%;width: 13.37%;height: 9.89%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 62.71%;top: 2.59%;width: 13.37%;height: 9.89%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "リンゴに<br/>ウィンクされて<br/>羨ましいわ…<br/>でも私達３人<br/>上手く<br/>やれそうね"
-		,"style": "font-size: 14px;left: 8.29%;top: 31.84%;width: 16.59%;height: 11.82%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 8.29%;top: 31.84%;width: 16.59%;height: 11.82%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あなたも<br/>そう思うなら<br/>嬉しいわ"
-		,"style": "font-size: 14px;left: 11.16%;top: 43.58%;width: 11.81%;height: 7.12%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 11.16%;top: 43.58%;width: 11.81%;height: 7.12%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "遠慮させて<br/>もらうよ"
-		,"style": "font-size: 14px;left: 39.32%;top: 33.85%;width: 12.65%;height: 6.04%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 39.32%;top: 33.85%;width: 12.65%;height: 6.04%;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "これを<br/>あげるよ…<br/>僕の愛の証だ"
-		,"style": "font-size: 14px;left: 81.32%;top: 32.60%;width: 13.13%;height: 7.80%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 81.32%;top: 32.60%;width: 13.13%;height: 7.80%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "うえぇ～"
-		,"style": "font-size: 14px;left: 12.83%;top: 61.35%;width: 9.43%;height: 4.69%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 12.83%;top: 61.35%;width: 9.43%;height: 4.69%;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "とても<br/>価値があるんだ<span style=\"font-weight: bold;\">嫌とは<br/>言わせないぞ!</span>"
-		,"style": "font-size: 14px;left: 11.40%;top: 73.59%;width: 13.84%;height: 8.05%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 11.40%;top: 73.59%;width: 13.84%;height: 8.05%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "彼の果物!<br/>羨ましすぎて<br/>叫びそうよ!"
-		,"style": "font-size: 14px;left: 36.93%;top: 73.59%;width: 13.48%;height: 8.21%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 36.93%;top: 73.59%;width: 13.48%;height: 8.21%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "食べた事ない<br/>彼の甘く<br/>瑞々しい…"
-		,"style": "font-size: 14px;left: 51.01%;top: 73.75%;width: 13.01%;height: 6.79%;border-radius: 40%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 51.01%;top: 73.75%;width: 13.01%;height: 6.79%;border-radius: 40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ジュルリ"
-		,"style": "font-size: 25px;color: white;background-color: white;left: 51.01%;top: 80.04%;width: 13.13%;height: 3.19%;border-radius: 25%;text-shadow: black 2px 0px,  black -2px 0px, black 0px -2px, black 0px 2px, black 2px 2px , black -2px 2px, black 2px -2px, black -2px -2px, black 1px 2px,  black -1px 2px, black 1px -2px, black -1px -2px, black 2px 1px,  black -2px 1px, black 2px -1px, black -2px -1px;"
+		,"style": "font-size: 25em;color: white;background-color: white;left: 51.01%;top: 80.04%;width: 13.13%;height: 3.19%;border-radius: 25%;text-shadow: black 2px 0px,  black -2px 0px, black 0px -2px, black 0px 2px, black 2px 2px , black -2px 2px, black 2px -2px, black -2px -2px, black 1px 2px,  black -1px 2px, black 1px -2px, black -1px -2px, black 2px 1px,  black -2px 1px, black 2px -1px, black -2px -1px;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "よく<br/>やった<br/>息子よ"
-		,"style": "font-size: 14px;left: 67.48%;top: 82.89%;width: 9.07%;height: 7.71%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 67.48%;top: 82.89%;width: 9.07%;height: 7.71%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 ]

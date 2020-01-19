@@ -1,12 +1,12 @@
 [
 	{
 		"text": "アッ?!"
-		,"style": "font-size: 21px;left: 46.4%;top: 16.5%;border-radius: 20%;"
+		,"style": "font-size: 21em;left: 46.4%;top: 16.5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "オウ!!"
-		,"style": "font-size: 30px;left: 79%;top: 86.5%;border-radius: 20%;"
+		,"style": "font-size: 30em;left: 79%;top: 86.5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 ]

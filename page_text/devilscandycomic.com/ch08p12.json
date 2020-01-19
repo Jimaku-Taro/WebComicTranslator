@@ -1,47 +1,47 @@
 [
 	{
 		"text": "まぁ、とても<br/>勉強になる<br/>会話だったよ"
-		,"style": "font-size: 14px;left: 14%;top: 3%;width: 112px;height: 80px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 14%;top: 3%;width: 112px;height: 80px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "おぃ…"
-		,"style": "font-size: 14px;left: 49.5%;top: 8%;width: 67px;height: 21px;border-radius: 40%;transform: rotate(-10deg);"
+		,"style": "font-size: 14em;left: 49.5%;top: 8%;width: 67px;height: 21px;border-radius: 40%;transform: rotate(-10deg);"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "お前が何を<br/>するにしても<br/><span style=\"font-weight: bold;\">手早く</span>終わらせろ"
-		,"style": "font-size: 14px;left: 7%;top: 34%;width: 95px;height: 117px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 7%;top: 34%;width: 95px;height: 117px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "メティアは<br/>すぐ戻って来る、<br/>お前の悪ふざけで<br/>彼女に迷惑かける<br/>のは許さん"
-		,"style": "font-size: 13px;left: 64%;top: 33%;width: 114px;height: 119px;border-radius: 50%;"
+		,"style": "font-size: 13em;left: 64%;top: 33%;width: 114px;height: 119px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "メ…メティア様は<br/>この下らん世界の<br/>唯一の光だ"
-		,"style": "font-size: 13px;left: 76.5%;top: 39.5%;width: 107px;height: 68px;border-radius: 50%;"
+		,"style": "font-size: 13em;left: 76.5%;top: 39.5%;width: 107px;height: 68px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "お…お前は…"
-		,"style": "font-size: 13px;left: 82%;top: 45%;width: 84px;height: 28px;border-radius: 50%;"
+		,"style": "font-size: 13em;left: 82%;top: 45%;width: 84px;height: 28px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "で、俺達は<br/><span><ruby>仲良く<rp>(</rp><rt>キス</rt><rp>)</rp></ruby>か何か<br/></span>する気か？"
-		,"style": "font-size: 12px;left: 12%;top: 62%;width: 77px;height: 86px;border-radius: 50%;"
+		,"style": "font-size: 12em;left: 12%;top: 62%;width: 77px;height: 86px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "俺の<br/>言葉を<br/>聞…"
-		,"style": "font-size: 14px;left: 47%;top: 64%;width: 77px;height: 59px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 47%;top: 64%;width: 77px;height: 59px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "俺は<br/>嫌われた方が<br/>良さそうだな"
-		,"style": "font-size: 14px;left: 77%;top: 88%;width: 98px;height: 64px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 77%;top: 88%;width: 98px;height: 64px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 ]

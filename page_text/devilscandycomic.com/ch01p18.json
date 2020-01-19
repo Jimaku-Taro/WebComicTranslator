@@ -1,42 +1,42 @@
 [
 	{
 		"text": "駄目で<br/>元々…"
-		,"style": "font-size: 16px;left: 19%;top: 6.5%;width: 68px;height: 56px;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 19%;top: 6.5%;width: 68px;height: 56px;border-radius: 10%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "おはよう、<br/>カズ！"
-		,"style": "font-size: 16px;left: 33%;top: 6%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 33%;top: 6%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">うわぁあああああ！<br/>顔に何か ヒトミ！？</span>"
-		,"style": "font-size: 32px;left: 55.5%;top: 4.5%;border-radius: 10%;"
+		,"style": "font-size: 32em;left: 55.5%;top: 4.5%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あー…<br/>つまり…<br/>本当に…<br/><span style=\"font-weight: bold;\">面白いね！</span><br/>最近の流行？"
-		,"style": "font-size: 16px;left: 39%;top: 43.5%;width: 105px;height: 118px;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 39%;top: 43.5%;width: 105px;height: 118px;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "彼女<br/>誰？！"
-		,"style": "font-size: 16px;left: 85%;top: 49.5%;width: 54px;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 85%;top: 49.5%;width: 54px;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ああ！</span>"
-		,"style": "font-size: 22px;left: 21%;top: 62%;border-radius: 10%;"
+		,"style": "font-size: 22em;left: 21%;top: 62%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "手を繋いでる!<br/>カズの彼女に<br/>違いないわ!<br/>何てバカな<br/>あたし!"
-		,"style": "font-size: 15px;left: 46.5%;top: 62.2%;width: 127px;height: 96px;border-radius: 10%;"
+		,"style": "font-size: 15em;left: 46.5%;top: 62.2%;width: 127px;height: 96px;border-radius: 10%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "とにかく<br/>生物の授業で！<br/>君の課題見るの<br/>待ちきれない！"
-		,"style": "font-size: 16px;left: 72%;top: 59.5%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 72%;top: 59.5%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 ]

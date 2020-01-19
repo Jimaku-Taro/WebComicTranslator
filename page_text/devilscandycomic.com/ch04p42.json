@@ -1,52 +1,52 @@
 [
 	{
 		"text": "消防士<br/>…"
-		,"style": "font-size: 22px;left: 14%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 22em;left: 14%;top: 6%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "そうか"
-		,"style": "font-size: 30px;left: 21%;top: 12%;border-radius: 20%;"
+		,"style": "font-size: 30em;left: 21%;top: 12%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "エッグ<br/>スクラム<br/>選手じゃ<br/>なかったのか"
-		,"style": "font-size: 16px;left: 73.5%;top: 8%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 73.5%;top: 8%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "なんでエッグ<br/>スクラム<br/>選手じゃ<br/>ないんだ？"
-		,"style": "font-size: 16px;left: 77%;top: 26%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 77%;top: 26%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "すまない<br/>チームの皆<br/>…"
-		,"style": "font-size: 14px;left: 15.5%;top: 41%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 15.5%;top: 41%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "服を掛けてくる。<br/>今まで、オレは<br/>消防士になるべき<br/>だったんだ"
-		,"style": "font-size: 14px;left: 21%;top: 46%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 21%;top: 46%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "なぁ、<br/>おい、<br/>大丈夫?"
-		,"style": "font-size: 16px;left: 63%;top: 42%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 63%;top: 42%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "おい<br/>おい<br/>おい"
-		,"style": "font-size: 18px;left: 62.2%;top: 72.5%;border-radius: 20%;"
+		,"style": "font-size: 18em;left: 62.2%;top: 72.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あいつ<br/><span style=\"font-weight: bold;\">どうした<br/>??</span>"
-		,"style": "font-size: 16px;left: 68%;top: 74.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 68%;top: 74.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "とにかく<br/>あいつ必要<br/>ないぜ！"
-		,"style": "font-size: 14px;left: 79%;top: 73.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 79%;top: 73.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

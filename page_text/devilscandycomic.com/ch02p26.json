@@ -1,22 +1,22 @@
 [
 	{
 		"text": "君の設計哲学を<br/>ぜひ聞いて<br/>みたいよ！"
-		,"style": "font-size: 16px;left: 11%;top: 8.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 11%;top: 8.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "確かに、<br/>君の創造物は<br/>少し簡単に<br/>気が散りすぎだ<br/>…"
-		,"style": "font-size: 16px;left: 82%;top: 27.5%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 82%;top: 27.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "だがこの<br/>反射神経とは<br/>…"
-		,"style": "font-size: 16px;left: 33%;top: 38.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 33%;top: 38.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "実に<br/>不思議だ！"
-		,"style": "font-size: 20px;left: 39.5%;top: 45%;border-radius: 20%;"
+		,"style": "font-size: 20em;left: 39.5%;top: 45%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

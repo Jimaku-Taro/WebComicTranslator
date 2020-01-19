@@ -1,47 +1,47 @@
 [
 	{
 		"text": "まだ<br/>着かねぇの?<br/>苦痛だよ"
-		,"style": "font-size: 14px;left: 44%;top: 4.8%;width: 80px;height: 60px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 44%;top: 4.8%;width: 80px;height: 60px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ご不満なら、<br/>帰ればいいと<br/>私は思いますがね"
-		,"style": "font-size: 14px;left: 66%;top: 6%;width: 121px;height: 82px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 66%;top: 6%;width: 121px;height: 82px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あぁ全くな<br/>俺自然嫌い<br/>みたいだわ"
-		,"style": "font-size: 14px;left: 83%;top: 11.6%;width: 96px;height: 58px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 83%;top: 11.6%;width: 96px;height: 58px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "出てきなさい<br/>少年。害意は<br/>ありません…"
-		,"style": "font-size: 14px;left: 80%;top: 36%;width: 112px;height: 58px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 80%;top: 36%;width: 112px;height: 58px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "まぁ害意が<br/>あっても<br/>君は何も<br/>できませんが"
-		,"style": "font-size: 12px;left: 84%;top: 43%;width: 79px;height: 68px;border-radius: 0%;"
+		,"style": "font-size: 12em;left: 84%;top: 43%;width: 79px;height: 68px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "こいつが<br/>例のガキ?<br/>よし"
-		,"style": "font-size: 12px;left: 64.5%;top: 56%;width: 60px;height: 50px;border-radius: 0%;"
+		,"style": "font-size: 12em;left: 64.5%;top: 56%;width: 60px;height: 50px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "俺達に<br/>喋…"
-		,"style": "font-size: 14px;left: 68.4%;top: 60.5%;width: 52px;height: 34px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 68.4%;top: 60.5%;width: 52px;height: 34px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "シーッ<br/>シーッ"
-		,"style": "font-size: 12px;left: 66.2%;top: 76%;width: 42px;height: 31px;border-radius: 0%;"
+		,"style": "font-size: 12em;left: 66.2%;top: 76%;width: 42px;height: 31px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "それは<br/>必要ない"
-		,"style": "font-size: 14px;left: 72%;top: 77%;width: 60px;height: 38px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 72%;top: 77%;width: 60px;height: 38px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 ]

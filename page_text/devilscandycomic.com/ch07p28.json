@@ -1,32 +1,32 @@
 [
 	{
 		"text": "誰かが<br/>ギター<br/>弾いてる<br/>みたい"
-		,"style": "font-size: 15px;left: 12%;top: 7%;width: 102px;height: 86px;border-radius: 50%;"
+		,"style": "font-size: 15em;left: 12%;top: 7%;width: 102px;height: 86px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "大騒ぎ<br/>してる<br/>ようだな"
-		,"style": "font-size: 15px;left: 36%;top: 7%;width: 79px;height: 78px;border-radius: 50%;"
+		,"style": "font-size: 15em;left: 36%;top: 7%;width: 79px;height: 78px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何?"
-		,"style": "font-size: 15px;left: 77.5%;top: 8.5%;width: 52px;height: 36px;border-radius: 50%;"
+		,"style": "font-size: 15em;left: 77.5%;top: 8.5%;width: 52px;height: 36px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "待て。<br/>この曲は"
-		,"style": "font-size: 15px;left: 6%;top: 37%;width: 74px;height: 72px;border-radius: 50%;"
+		,"style": "font-size: 15em;left: 6%;top: 37%;width: 74px;height: 72px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ニンジャルティ<br/>メット ニンジャ<br/>リミネイション<br/>チャレンジの…<br/>始まりの<br/>超メタルな<br/>ヤツだ"
-		,"style": "font-size: 14px;left: 47%;top: 36%;width: 116px;height: 141px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 47%;top: 36%;width: 116px;height: 141px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "近づい<br/>てる…"
-		,"style": "font-size: 14px;left: 12%;top: 62%;width: 77px;height: 52px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 12%;top: 62%;width: 77px;height: 52px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 ]

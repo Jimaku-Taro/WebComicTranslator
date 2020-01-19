@@ -1,12 +1,12 @@
 [
 	{
 		"text": "チッチッチッ"
-		,"style": "font-size: 15px;left: 59%;top: 56.5%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 59%;top: 56.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "誰かに<br/>医者が必要<br/>そうだな"
-		,"style": "font-size: 16px;left: 57.5%;top: 81%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 57.5%;top: 81%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

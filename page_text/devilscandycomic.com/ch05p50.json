@@ -1,67 +1,67 @@
 [
 	{
 		"text": "ごめん<br/>遅れた"
-		,"style": "font-size: 16px;left: 43.2%;top: 6%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 43.2%;top: 6%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "少し…<br/>交渉が<br/>必要だった"
-		,"style": "font-size: 16px;left: 66%;top: 4%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 66%;top: 4%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あらやだ。<br/>カズを殺した<br/>のね？"
-		,"style": "font-size: 15px;left: 79%;top: 9.5%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 79%;top: 9.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "大したことねぇよ。<br/>ヤギーは俺の意に<br/>反して体からヒデェ音を<br/>強制的に出させて<br/>レディにセレナーデ<br/>聴かせてた"
-		,"style": "font-size: 13px;left: 5.2%;top: 33%;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 5.2%;top: 33%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "よぉ。<br/>俺マーク"
-		,"style": "font-size: 15px;left: 11%;top: 43%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 11%;top: 43%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "それで<br/>やっとどこ行くか<br/>教えてくれるの？"
-		,"style": "font-size: 14px;left: 46.5%;top: 32.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 46.5%;top: 32.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ついて<br/>来て"
-		,"style": "font-size: 16px;left: 80.8%;top: 34.8%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 80.8%;top: 34.8%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "おぉ、何か<br/>デケェ秘密か?<br/>ヒント位<br/>くれよ!"
-		,"style": "font-size: 15px;left: 50%;top:42%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 50%;top:42%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "これ…<br/>これ<span style=\"font-weight: bold;\">忍者<br/>レストランか!?</span>"
-		,"style": "font-size: 15px;left: 7%;top: 55%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 7%;top: 55%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ここだ"
-		,"style": "font-size: 16px;left: 63%;top: 56.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 63%;top: 56.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "何だ<br/>こりゃ"
-		,"style": "font-size: 16px;left: 74%;top: 58%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 74%;top: 58%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "待って、<br/>ヤギー、<br/>あなた…"
-		,"style": "font-size: 17px;left: 80%;top: 70%;border-radius: 0%;"
+		,"style": "font-size: 17em;left: 80%;top: 70%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "すいませ～ん。<br/>魔法の喋るギター<br/>売りたいん<br/>ですけど"
-		,"style": "font-size: 15px;left: 77%;top: 77%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 77%;top: 77%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

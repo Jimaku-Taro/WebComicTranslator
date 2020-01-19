@@ -1,32 +1,32 @@
 [
 	{
 		"text": "悪役達が次に<br/>何をしたのか？"
-		,"style": "font-size: 20px;left: 37.5%;top: 5%;width: 210px;height: 50px;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 37.5%;top: 5%;width: 210px;height: 50px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "トレモロは怒り狂い<br/>自分の店をさらに荒らした"
-		,"style": "font-size: 14px;left: 35%;top: 10%;width: 260px;height: 38px;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 35%;top: 10%;width: 260px;height: 38px;border:solid 1px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ストラツィオは病院行き"
-		,"style": "font-size: 14px;left: 35%;top: 32%;width: 221px;height: 23px;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 35%;top: 32%;width: 221px;height: 23px;border:solid 1px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "メティアは電話を新調した"
-		,"style": "font-size: 14px;left: 38%;top: 53.3%;width: 204px;height: 24px;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 38%;top: 53.3%;width: 204px;height: 24px;border:solid 1px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "2つ<br/>取った!"
-		,"style": "font-size: 14px;color: black;background-color: #F6E8F0;left: 50%;top: 55.5%;width: 57px;height: 35px;border-radius: 0%;"
+		,"style": "font-size: 14em;color: black;background-color: #F6E8F0;left: 50%;top: 55.5%;width: 57px;height: 35px;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "ピアは路上でお昼寝"
-		,"style": "font-size: 14px;left: 36.5%;top: 75%;width: 210px;height: 25px;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 36.5%;top: 75%;width: 210px;height: 25px;border:solid 1px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 ]

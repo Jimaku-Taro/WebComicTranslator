@@ -1,57 +1,57 @@
 [
 	{
 		"text": "俺に<br/>イジメに<br/>屈しろと?"
-		,"style": "font-size: 14px;left: 13%;top: 5%;width: 85px;height: 76px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 13%;top: 5%;width: 85px;height: 76px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "それって<br/>ここで話す<br/>ことかい?"
-		,"style": "font-size: 14px;left: 47%;top: 9%;width: 84px;height: 95px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 47%;top: 9%;width: 84px;height: 95px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "それは<br/>むしろ話の<br/>拡大解釈<br/>だろう"
-		,"style": "font-size: 14px;left: 64%;top: 10%;width: 93px;height: 91px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 64%;top: 10%;width: 93px;height: 91px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "違うのか?"
-		,"style": "font-size: 14px;left: 78.5%;top: 12%;width: 78px;height: 49px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 78.5%;top: 12%;width: 78px;height: 49px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "人気者気取りの<br/>ガキが自分の不安を<br/>解消するために<br/>俺の人生を台無しに<br/>しやがる"
-		,"style": "font-size: 14px;left: 13%;top: 41%;width: 160px;height: 90px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 13%;top: 41%;width: 160px;height: 90px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ヤバくなったら<br/>泣き叫んで、<br/>“オレは子供だよ!<br/>意地悪しないで!”<br/>それで、お前は<br/>騙されると"
-		,"style": "font-size: 13px;left: 78%;top: 44%;width: 138px;height: 117px;border-radius: 50%;"
+		,"style": "font-size: 13em;left: 78%;top: 44%;width: 138px;height: 117px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "銃を突きつけた<br/>方が“イジメ”と<br/>言うのに<br/>俺は反対だ"
-		,"style": "font-size: 13px;left: 10%;top: 63%;width: 126px;height: 71px;border-radius: 30%;"
+		,"style": "font-size: 13em;left: 10%;top: 63%;width: 126px;height: 71px;border-radius: 30%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "これが終わったら、<br/>俺は組織を始める、<br/>遺伝子改造した<br/>超イジメっ子を作り<br/>普通のイジメっ子を<br/>叩きのめし<br/>優しさか…少なくとも<span><span style=\"font-weight: bold;\">恥を</span>教える</span>"
-		,"style": "font-size: 13px;left: 33%;top: 78%;width: 132px;height: 151px;border-radius: 30%;"
+		,"style": "font-size: 13em;left: 33%;top: 78%;width: 132px;height: 151px;border-radius: 30%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "それが君の<br/>慈善団体の<br/>アイデアか?"
-		,"style": "font-size: 13px;left: 52%;top: 62%;width: 100px;height: 68px;border-radius: 20%;"
+		,"style": "font-size: 13em;left: 52%;top: 62%;width: 100px;height: 68px;border-radius: 20%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "超イジメっ子<br/>達が反乱したら<br/>どうする?"
-		,"style": "font-size: 13px;left: 52%;top: 69%;width: 98px;height: 95px;border-radius: 20%;"
+		,"style": "font-size: 13em;left: 52%;top: 69%;width: 98px;height: 95px;border-radius: 20%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "超イジメっ子達の<br/>寿命は6ヶ月だけだ、<br/>バカ。奴らの死体は<br/>栄養満点でイジメ<br/>被害者達のご馳走に<br/>なるのさ"
-		,"style": "font-size: 13px;left: 67%;top: 62.5%;width: 137px;height: 122px;border-radius: 30%;"
+		,"style": "font-size: 13em;left: 67%;top: 62.5%;width: 137px;height: 122px;border-radius: 30%;"
 		,"class": "CENTER WHITE"
 	}
 ]

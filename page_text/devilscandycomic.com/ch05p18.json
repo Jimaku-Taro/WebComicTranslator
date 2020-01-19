@@ -1,12 +1,12 @@
 [
 	{
 		"text": "OK…"
-		,"style": "font-size: 22px;left: 11%;top: 23%;border-radius: 0%;"
+		,"style": "font-size: 22em;left: 11%;top: 23%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">本当に</span><br/>神経質に<br/>なるよ<br/>今すぐ"
-		,"style": "font-size: 22px;left: 20%;top: 22%;border-radius: 0%;"
+		,"style": "font-size: 22em;left: 20%;top: 22%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

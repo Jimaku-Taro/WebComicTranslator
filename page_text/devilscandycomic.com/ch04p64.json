@@ -1,47 +1,47 @@
 [
 	{
 		"text": "ちょっと<br/>楽しいわね、<br/>奴ら反撃<br/>してきた"
-		,"style": "font-size: 14px;left: 40%;top: 5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 40%;top: 5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "下がれ!<br/>下がれ!"
-		,"style": "font-size: 14px;left: 55.2%;top: 8%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 55.2%;top: 8%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "また<br/>あの塔だ!"
-		,"style": "font-size: 15px;left: 61%;top: 10.5%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 61%;top: 10.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "少なくとも<br/>全力を出す<br/>言い訳が<br/>できたな"
-		,"style": "font-size: 15px;left: 45.9%;top: 18%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 45.9%;top: 18%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
-		"text": "つまり<br/><ruby style=\"font-size: 21px\">叩き潰せ!<rp>(</rp><rt>CRUSH</rt><rp>)</rp></ruby>"
-		,"style": "font-size: 18px;left: 13%;top: 31.9%;border-radius: 20%;"
+		"text": "つまり<br/><ruby style=\"font-size: 21em\">叩き潰せ!<rp>(</rp><rt>CRUSH</rt><rp>)</rp></ruby>"
+		,"style": "font-size: 18em;left: 13%;top: 31.9%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ああ、<br/>ピュティア。<br/>こいつも潰せ、<br/>あいつも潰せ、<br/>全てを潰せ"
-		,"style": "font-size: 14px;left: 32%;top: 35%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 32%;top: 35%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "そういや、<br/>お前<br/><span style=\"font-weight: bold;\">デズモンド</span>に<br/><ruby>惚れてる<rp>(</rp><rt>CRUSH</rt><rp>)</rp></ruby><br/>らしいな"
-		,"style": "font-size: 14px;left: 12%;top: 65.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 12%;top: 65.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ち…<br/>ちげーし"
-		,"style": "font-size: 16px;left: 38%;top: 86%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 38%;top: 86%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "OK、皆、注目。<br/>天国の歌の時よ。<br/>もしこれで卵が<br/>孵らなければ、<br/>絶対孵らない<br/>でしょうね"
-		,"style": "font-size: 14px;left: 78.5%;top: 51%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 78.5%;top: 51%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

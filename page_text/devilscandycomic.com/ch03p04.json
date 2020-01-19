@@ -1,42 +1,42 @@
 [
 	{
 		"text": "誰が<br/>私の話を<br/>してるの？<br/>全部聞き<br/>たいわね"
-		,"style": "font-size: 14px;left: 25%;top: 3.5%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 25%;top: 3.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">誰が<br/>頼んだ？</span><br/>お黙り。<br/>何が<br/>わかる？"
-		,"style": "font-size: 14px;left: 35.4%;top: 5.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 35.4%;top: 5.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">こんにちは～</span><br/>ヒトミ"
-		,"style": "font-size: 16px;left: 48.5%;top: 8%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 48.5%;top: 8%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "お友達と<br/>浮浪児部<br/>始める気？"
-		,"style": "font-size: 16px;left: 76.6%;top: 9%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 76.6%;top: 9%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ごめんね、<br/>失礼ね。<br/><span style=\"font-weight: bold;\"><ruby>下水道<rp>(</rp><rt>SEWER</rt><rp>)</rp></ruby>部</span><br/>よね"
-		,"style": "font-size: 16px;left: 21.9%;top: 35.5%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 21.9%;top: 35.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あんたは<br/><ruby style=\"font-weight: bold;\">裁縫師<rp>(</rp><rt>SEWER</rt><rp>)</rp></ruby><br/>だものねぇ"
-		,"style": "font-size: 16px;left: 43.5%;top: 36%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 43.5%;top: 36%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "そうよね<br/><span style=\"font-weight: bold;\">皆？</span>"
-		,"style": "font-size: 16px;left: 57.5%;top: 36.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 57.5%;top: 36.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ところで、<br/>私のモデルの<br/>ラビ知らない?<br/>彼は今週末の<br/>ショーの<br/>スターよ"
-		,"style": "font-size: 14px;left: 26.5%;top: 58%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 26.5%;top: 58%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 ]

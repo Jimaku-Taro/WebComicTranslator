@@ -1,22 +1,22 @@
 [
 	{
 		"text": "うん、<br/>そうね…"
-		,"style": "font-size: 14px;left: 73.5%;top: 13%;border-radius: 40%;"
+		,"style": "font-size: 14em;left: 73.5%;top: 13%;border-radius: 40%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "バスソルト<br/>きっと<br/>気にいるわ。<br/>早速<br/>入れましょ"
-		,"style": "font-size: 14px;left: 78.5%;top: 16%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 78.5%;top: 16%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あら、<br/>パンドラ、<br/>かなり緊張<br/>してるね"
-		,"style": "font-size: 16px;left: 35.0%;top: 57.7%;border-radius: 40%;"
+		,"style": "font-size: 16em;left: 35.0%;top: 57.7%;border-radius: 40%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "なんで<br/>座らないの<br/>背中マッサージ<br/>するのに？"
-		,"style": "font-size: 14px;left: 61%;top: 59.5%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 61%;top: 59.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 ]

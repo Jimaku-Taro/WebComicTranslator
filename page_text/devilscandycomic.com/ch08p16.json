@@ -1,7 +1,7 @@
 [
 	{
 		"text": "勝負直前"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 11%;top: 5.4%;width: 167px;height: 26px;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 11%;top: 5.4%;width: 167px;height: 26px;border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}
 ]

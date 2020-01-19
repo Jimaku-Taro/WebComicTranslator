@@ -1,47 +1,47 @@
 [
 	{
 		"text": "わ～い<br/>スポーツ…"
-		,"style": "font-size: 14px;left: 10%;top: 21.5%;transform: rotate(-10deg);border-radius: 20%;"
+		,"style": "font-size: 14em;left: 10%;top: 21.5%;transform: rotate(-10deg);border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">リケット・パンターノ(14)</span><br/>演劇クラブの演劇から<br/>逃げて来た"
-		,"style": "font-size: 16px;left: 11%;top: 43%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 11%;top: 43%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "卵？"
-		,"style": "font-size: 25px;left: 56%;top: 10%;border-radius: 20%;"
+		,"style": "font-size: 25em;left: 56%;top: 10%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ジェラルド・<br/>ガルシア(17)</span><br/>?????"
-		,"style": "font-size: 16px;left: 47%;top: 47.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 47%;top: 47.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ニモ<br/>・マスターマン(14)</span><br/>クイズクラブ脱退"
-		,"style": "font-size: 16px;left: 74.5%;top: 35.5%;text-decoration: line-through;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 74.5%;top: 35.5%;text-decoration: line-through;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "オレは<br/>やらないって<br/><span style=\"font-weight: bold;\">言ったろ！</span>"
-		,"style": "font-size: 16px;left: 83.5%;top: 45%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 83.5%;top: 45%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "残念だけど<br/>やらなきゃ、<br/>不参加なら<br/>君は退学です"
-		,"style": "font-size: 16px;left: 31.5%;top: 61.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 31.5%;top: 61.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ところで、<br/>参加者が私の<br/>予想よりもかなり<br/>少ないですね。<br/>何故でしょう?"
-		,"style": "font-size: 14px;left: 55%;top: 81%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 55%;top: 81%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あんたは<br/><span style=\"font-weight: bold;\"><ruby>虚仮威<rp>(</rp><rt>こけおど</rt><rp>)</rp></ruby>し</span><br/>ばっかりで<br/>大げさすぎるって<br/>皆知ってるからだよ!"
-		,"style": "font-size: 14px;left: 78.2%;top: 83.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 78.2%;top: 83.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

@@ -1,107 +1,107 @@
 [
 	{
 		"text": "本の整理に<br/>数ヶ月かかる<br/>かもしれないが<br/>君が独りを<br/>気にしないなら"
-		,"style": "font-size: 14px;left: 9%;top: 4%;width: 124px;height: 120px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 9%;top: 4%;width: 124px;height: 120px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "…司書を<br/>頼みたい"
-		,"style": "font-size: 16px;left: 10%;top: 13.5%;width: 111px;height: 64px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 10%;top: 13.5%;width: 111px;height: 64px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何ヶ月も…<br/>独り…"
-		,"style": "font-size: 14px;left: 46%;top: 5%;width: 74px;height: 37px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 46%;top: 5%;width: 74px;height: 37px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "静かで…"
-		,"style": "font-size: 14px;left: 47%;top: 8%;width: 67px;height: 48px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 47%;top: 8%;width: 67px;height: 48px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "本に<br/>囲まれ…"
-		,"style": "font-size: 14px;left: 57.5%;top: 23%;width: 75px;height: 57px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 57.5%;top: 23%;width: 75px;height: 57px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "分かるよ。<br/>楽しくは<br/>なさそう、<br/>だけど…"
-		,"style": "font-size: 14px;left: 79%;top: 3%;width: 100px;height: 93px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 79%;top: 3%;width: 100px;height: 93px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "わぁ!!"
-		,"style": "font-size: 25px;left: 10%;top: 33%;width: 76px;height: 41px;border-radius: 50%;"
+		,"style": "font-size: 25em;left: 10%;top: 33%;width: 76px;height: 41px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ありがとう!<br/>ありがとう!"
-		,"style": "font-size: 16px;left: 23%;top: 32%;width: 107px;height: 48px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 23%;top: 32%;width: 107px;height: 48px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "よし<br/>よし…"
-		,"style": "font-size: 12px;left: 39.5%;top: 37%;width: 46px;height: 31px;border-radius: 50%;"
+		,"style": "font-size: 12em;left: 39.5%;top: 37%;width: 46px;height: 31px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "う…うん<br/>それじゃ…"
-		,"style": "font-size: 12px;left: 53%;top: 33%;width: 79px;height: 33px;border-radius: 50%;"
+		,"style": "font-size: 12em;left: 53%;top: 33%;width: 79px;height: 33px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ゴッホン"
-		,"style": "font-size: 20px;left: 70%;top: 32%;width: 89px;height: 59px;border-radius: 50%;"
+		,"style": "font-size: 20em;left: 70%;top: 32%;width: 89px;height: 59px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "あぁ<br/>…"
-		,"style": "font-size: 12px;left: 89.5%;top: 48%;width: 35px;height: 31px;border-radius: 50%;"
+		,"style": "font-size: 12em;left: 89.5%;top: 48%;width: 35px;height: 31px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "うん…<br/>それと…"
-		,"style": "font-size: 12px;left: 90%;top: 51%;width: 51px;height: 36px;border-radius: 50%;"
+		,"style": "font-size: 12em;left: 90%;top: 51%;width: 51px;height: 36px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "未使用の<br/>寄宿舎が<br/>図書館に<br/>繋がってる"
-		,"style": "font-size: 16px;left: 9.5%;top: 61.6%;width: 102px;height: 108px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 9.5%;top: 61.6%;width: 102px;height: 108px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "君は当分は<br/>隠れ住む方が<br/>都合がいいと<br/>聞いてる、<br/>それで…"
-		,"style": "font-size: 15px;left: 21%;top: 61.5%;width: 123px;height: 108px;border-radius: 50%;"
+		,"style": "font-size: 15em;left: 21%;top: 61.5%;width: 123px;height: 108px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "その宿泊施設を<br/>使ってくれると<br/>嬉しい、<br/>無料でね"
-		,"style": "font-size: 14px;left: 34.5%;top: 61%;width: 103px;height: 121px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 34.5%;top: 61%;width: 103px;height: 121px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "聞いた<br/>マイロ?<br/>ぼくらの<br/>学校だ!"
-		,"style": "font-size: 14px;left: 49%;top: 61.5%;width: 95px;height: 63px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 49%;top: 61.5%;width: 95px;height: 63px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ぼくが<br/>校長だ!"
-		,"style": "font-size: 14px;left: 60%;top: 61.5%;width: 73px;height: 60px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 60%;top: 61.5%;width: 73px;height: 60px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "パンドラ<br/>副校長、<br/>この男は<br/>ぼくの家の<br/>侵入者だ!"
-		,"style": "font-size: 14px;left: 70%;top: 61%;width: 95px;height: 95px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 70%;top: 61%;width: 95px;height: 95px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ただちに<br/>追い出せ!"
-		,"style": "font-size: 16px;left: 81%;top: 62%;width: 89px;height: 77px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 81%;top: 62%;width: 89px;height: 77px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "な…<br/>ヤメテ!"
-		,"style": "font-size: 18px;left: 84.5%;top: 90%;width: 69px;height: 49px;border-radius: 50%;"
+		,"style": "font-size: 18em;left: 84.5%;top: 90%;width: 69px;height: 49px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 ]

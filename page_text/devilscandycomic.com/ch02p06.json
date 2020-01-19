@@ -1,27 +1,27 @@
 [
 	{
 		"text": "よし、<br/>パンドラ、<br/>これが学校、<br/>以前と<br/>同じだね！"
-		,"style": "font-size: 16px;left: 55.5%;top: 32.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 55.5%;top: 32.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "僕らは<br/>ここに<br/>週５日来て<br/>１日中…"
-		,"style": "font-size: 16px;left: 57%;top: 45.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 57%;top: 45.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">カズ！</span><br/>君がいて<br/>良かった！<br/>私は…"
-		,"style": "font-size: 16px;left: 36%;top: 58%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 36%;top: 58%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あっ、<br/>エリオット!"
-		,"style": "font-size: 16px;left: 80%;top: 58%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 80%;top: 58%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "か…完璧な<br/>タイミングだ!<br/>新入生の<br/>転入のお話が。<br/>こちらは<br/>パンドラ…"
-		,"style": "font-size: 16px;left: 49%;top: 77%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 49%;top: 77%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

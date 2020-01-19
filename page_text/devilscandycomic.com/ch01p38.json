@@ -1,47 +1,47 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">ガハッ!</span>"
-		,"style": "font-size: 30px;left: 80%;top: 3%;width: 107px;height: 62px;border-radius: 30%;"
+		,"style": "font-size: 30em;left: 80%;top: 3%;width: 107px;height: 62px;border-radius: 30%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "うぐっ<br/>…"
-		,"style": "font-size: 16px;left: 48%;top: 57.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 48%;top: 57.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "痛て<br/>て"
-		,"style": "font-size: 16px;left: 53%;top: 62.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 53%;top: 62.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ハァ"
-		,"style": "font-size: 16px;left: 44.5%;top: 66.9%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 44.5%;top: 66.9%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ハァッ"
-		,"style": "font-size: 14px;left: 43.5%;top: 69.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 43.5%;top: 69.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ニモ?!"
-		,"style": "font-size: 20px;left: 50%;top: 87%;border-radius: 20%;"
+		,"style": "font-size: 20em;left: 50%;top: 87%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "大丈夫<br/>かい？！"
-		,"style": "font-size: 16px;left: 53.5%;top: 91.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 53.5%;top: 91.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "心配すんな、<br/>俺が何とか<br/>する！"
-		,"style": "font-size: 18px;left: 66%;top: 51.5%;border-radius: 20%;"
+		,"style": "font-size: 18em;left: 66%;top: 51.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "でも…！"
-		,"style": "font-size: 13px;left: 81%;top: 56.6%;border-radius: 20%;"
+		,"style": "font-size: 13em;left: 81%;top: 56.6%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

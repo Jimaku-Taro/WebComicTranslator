@@ -1,42 +1,42 @@
 [
 	{
 		"text": "手遅れだよ<br/>ヤギー。<br/>グレーテルは<br/>ダメだった"
-		,"style": "font-size: 14px;left: 13.13%;top: 2.71%;width: 13.60%;height: 7.21%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 13.13%;top: 2.71%;width: 13.60%;height: 7.21%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "彼女は<br/>地面に激突、<br/>粉微塵に<br/>爆発四散さ"
-		,"style": "font-size: 14px;left: 42.24%;top: 3.30%;width: 13.13%;height: 7.88%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 42.24%;top: 3.30%;width: 13.13%;height: 7.88%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "彼女は<br/>言ってないけど<br/>魔女は爆発<br/>しやすいんだ"
-		,"style": "font-size: 14px;left: 41.89%;top: 11.26%;width: 13.60%;height: 8.72%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 41.89%;top: 11.26%;width: 13.60%;height: 8.72%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "グレーテルが<br/>大切なのは<br/>オレじゃない。<br/>君のために、<br/>彼女は最後まで<br/>頑張ったんだ"
-		,"style": "font-size: 13px;left: 12.77%;top: 32.05%;width: 15.99%;height: 12.74%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 12.77%;top: 32.05%;width: 15.99%;height: 12.74%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "こんな事で<br/>君の親友を<br/>亡くして<br/>ゴメンよ"
-		,"style": "font-size: 13px;left: 78.64%;top: 33.47%;width: 13.25%;height: 8.63%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 78.64%;top: 33.47%;width: 13.25%;height: 8.63%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "心配した!"
-		,"style": "font-size: 25px;left: 25.06%;top: 71.56%;width: 15.87%;height: 5.58%;border-radius: 50%;"
+		,"style": "font-size: 25em;left: 25.06%;top: 71.56%;width: 15.87%;height: 5.58%;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "羽があるから<br/>どっちにしろ<br/>平気だよ"
-		,"style": "font-size: 13px;left: 54.06%;top: 70.02%;width: 11.10%;height: 6.96%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 54.06%;top: 70.02%;width: 11.10%;height: 6.96%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "オレの<br/>携帯どこ？<br/>警察<br/>呼ばないと"
-		,"style": "font-size: 12px;left: 79.47%;top: 74.30%;width: 8.59%;height: 7.04%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 12em;left: 79.47%;top: 74.30%;width: 8.59%;height: 7.04%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 ]

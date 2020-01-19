@@ -1,12 +1,12 @@
 [
 	{
 		"text": "むむむOK<br/>彼は入った"
-		,"style": "font-size: 16px;left: 52.5%;top: 38.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 52.5%;top: 38.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "彼の陽気な<br/>仲間達は<br/>君の仕事に<br/>十分な長さ<br/>留まるようだ"
-		,"style": "font-size: 17px;left: 17%;top: 68.5%;border-radius: 0%;"
+		,"style": "font-size: 17em;left: 17%;top: 68.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

@@ -1,42 +1,42 @@
 [
 	{
 		"text": "オレ達は<br/>クライムタウンの<br/>マーダーボーイズ<br/>他のギャング共に<br/>オレ達は強く無敵だと<br/>見せに来た"
-		,"style": "font-size: 14px;left: 7%;top: 3%;width: 143px;height: 160px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 7%;top: 3%;width: 143px;height: 160px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "オレ達は<br/>恐ろしく<br/>危険で<br/>スゴいんだ"
-		,"style": "font-size: 14px;left: 46%;top: 4.5%;width: 132px;height: 101px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 46%;top: 4.5%;width: 132px;height: 101px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "今日、オレが一番<br/>カッコよくて…<br/>ニンジャルティメイト<br/>だと証明する!"
-		,"style": "font-size: 14px;left: 67%;top: 6%;width: 185px;height: 102px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 67%;top: 6%;width: 185px;height: 102px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "助けて!<br/>助けて!"
-		,"style": "font-size: 14px;left: 13%;top: 64.5%;width: 75px;height: 51px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 13%;top: 64.5%;width: 75px;height: 51px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "コワイ<br/>よぉ!"
-		,"style": "font-size: 16px;left: 12%;top: 78.5%;width: 89px;height: 51px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 12%;top: 78.5%;width: 89px;height: 51px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "お家<br/>帰る!"
-		,"style": "font-size: 16px;left: 16%;top: 82%;width: 93px;height: 53px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 16%;top: 82%;width: 93px;height: 53px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "クレアンス!"
-		,"style": "font-size: 16px;left: 45%;top: 67%;width: 102px;height: 44px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 45%;top: 67%;width: 102px;height: 44px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ママ!!"
-		,"style": "font-size: 16px;left: 55%;top: 69.5%;width: 73px;height: 45px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 55%;top: 69.5%;width: 73px;height: 45px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 ]

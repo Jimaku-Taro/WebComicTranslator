@@ -1,22 +1,22 @@
 [
 	{
 		"text": "サイクロプスの鍛冶師の<br/>古の伝説があります、<br/>彼は星の全ての命を<br/>地下深い世界の鍛冶場の<br/>偉大な炎で創り上げた"
-		,"style": "font-size: 14px;left: 13.90%;top: 6.80%;width: 20.05%;height: 10.65%;border-radius:0%;font-weight: normal;border: solid 1px;"
+		,"style": "font-size: 14em;left: 13.90%;top: 6.80%;width: 20.05%;height: 10.65%;border-radius:0%;font-weight: normal;border: solid 1px;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "彼は毎日仕事に精を出し<br/>その仕事は誰にも<br/>感謝されませんが、<br/>すぐに新たな傑作を<br/>完成させては<br/>地上に送りました"
-		,"style": "font-size: 14px;left: 39.92%;top: 21.39%;width: 20.05%;height: 10.65%;border-radius:0%;font-weight: normal;border: solid 1px;"
+		,"style": "font-size: 14em;left: 39.92%;top: 21.39%;width: 20.05%;height: 10.65%;border-radius:0%;font-weight: normal;border: solid 1px;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "彼の孤独な存在を<br/>哀れんだ月と星々が<br/>彼のいる地底を<br/>見守るために<br/>やって来ました"
-		,"style": "font-size: 14px;left: 66.05%;top: 31.70%;width: 18.74%;height: 9.30%;border-radius:0%;font-weight: normal;border: solid 1px;"
+		,"style": "font-size: 14em;left: 66.05%;top: 31.70%;width: 18.74%;height: 9.30%;border-radius:0%;font-weight: normal;border: solid 1px;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "炎で偉大な目を失明し<br/>たたらで足を潰すまで<br/>彼は働き続け、<br/>自身の創造した世界を<br/>彼が見ることは<br/>決してなかった"
-		,"style": "font-size: 14px;left: 65.93%;top: 64.39%;width: 17.66%;height: 11.32%;border-radius:0%;font-weight: normal;border: solid 1px;"
+		,"style": "font-size: 14em;left: 65.93%;top: 64.39%;width: 17.66%;height: 11.32%;border-radius:0%;font-weight: normal;border: solid 1px;"
 		,"class": "CENTER WHITE"
 	}
 ]

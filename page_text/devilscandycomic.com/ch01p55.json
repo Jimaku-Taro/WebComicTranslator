@@ -1,42 +1,42 @@
 [
 	{
 		"text": "<span style=\"font-size: x-large;font-weight: bold;\">す…<br/>すごいや、<br/>みんな！！</span>"
-		,"style": "font-size: 16px;left: 17%;top: 7.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 17%;top: 7.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-size: x-large;font-weight: bold;\">バイオ<br/>モンスターを<br/>たおした!!</span>"
-		,"style": "font-size: 16px;left: 50%;top: 8%;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 50%;top: 8%;border-radius: 50%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ああ、<br/>オレはただ<br/>明日には別のと<br/>戦うハメに<br/>ならないことを<br/>望むよ"
-		,"style": "font-size: 15px;left: 76%;top: 9%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 76%;top: 9%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "OK、<span style=\"font-weight: bold;\">今</span><br/>警察呼ぶよ。<br/>それと消防も。<br/>あと救急"
-		,"style": "font-size: 16px;left: 25.5%;top: 55%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 25.5%;top: 55%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "生物学の課題<br/>ダメにして<br/>ごめんね、<br/>ジャイロ"
-		,"style": "font-size: 15px;left: 42%;top: 60%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 42%;top: 60%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あたしは<br/>ハグされて<br/>ない…"
-		,"style": "font-size: 14px;left: 81.5%;top: 67%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 81.5%;top: 67%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あー<br/>…！"
-		,"style": "font-size: 18px;left: 24%;top: 70.7%;border-radius: 30%;"
+		,"style": "font-size: 18em;left: 24%;top: 70.7%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-size: large;font-weight: bold;\">チャプター１：完</span>"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 79.5%;top: 95.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 79.5%;top: 95.5%;border-radius: 0%;"
 		,"class": ""
 	}
 ]

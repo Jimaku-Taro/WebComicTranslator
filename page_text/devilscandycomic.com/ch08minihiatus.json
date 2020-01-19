@@ -1,37 +1,37 @@
 [
 	{
 		"text": "野<br/>菜<br/>!"
-		,"style": "font-size: 20px;left: 8%;top: 8%;width: 30px;height: 145px;text-align: center;display: flex;flex-direction: column;align-items: center;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 8%;top: 8%;width: 30px;height: 145px;text-align: center;display: flex;flex-direction: column;align-items: center;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "フラン!"
-		,"style": "font-size: 20px;left: 52%;top: 5%;width: 81px;height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 52%;top: 5%;width: 81px;height: 33px;text-align: center;display: flex;flex-direction: column;align-items: center;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ラ<br/>｜<br/>メ<br/>ン<br/>!"
-		,"style": "font-size: 20px;left: 8%;top: 34%;width: 27px;height: 110px;text-align: center;display: flex;flex-direction: column;align-items: center;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 8%;top: 34%;width: 27px;height: 110px;text-align: center;display: flex;flex-direction: column;align-items: center;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "コ<br/>｜<br/>ヒ<br/>｜"
-		,"style": "font-size: 20px;left: 89%;top: 34%;width: 28px;height: 133px;text-align: center;display: flex;flex-direction: column;align-items: center;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 89%;top: 34%;width: 28px;height: 133px;text-align: center;display: flex;flex-direction: column;align-items: center;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "アップルパイ"
-		,"style": "font-size: 20px;left: 12%;top: 85.6%;width: 138px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 12%;top: 85.6%;width: 138px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ぶどう!"
-		,"style": "font-size: 20px;left: 72%;top: 85.8%;width: 139px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 72%;top: 85.8%;width: 139px;height: 29px;text-align: center;display: flex;flex-direction: column;align-items: center;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "やぁ皆さん！<br/>小更新です：デビルズキャンディは小休止中で10/19に戻ります。<br/>その間、子供達とその好きな食物を載せます、<br/>月曜にも何か投稿します！<br/>待ってくれてありがとう！"
-		,"style": "font-size: 16px;color:white;background-color:  black;left: 14%;top: 90%;width: 615px;height: 115px;border-radius: 0%;"
+		,"style": "font-size: 16em;color:white;background-color:  black;left: 14%;top: 90%;width: 615px;height: 115px;border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}
 ]

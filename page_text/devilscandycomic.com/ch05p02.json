@@ -1,12 +1,12 @@
 [
 	{
 		"text": "ニンジャルティメットニンジャリミネイション<br/>チャレンジで勝って！"
-		,"style": "font-size: 22px;left: 21%;top: 37.1%;border-radius: 0%;"
+		,"style": "font-size: 22em;left: 21%;top: 37.1%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "嫌だあああああああ!!!"
-		,"style": "font-size: 45px;left: 33%;top: 71.5%;transform: rotate(6.5deg);border-radius: 0%;"
+		,"style": "font-size: 45em;left: 33%;top: 71.5%;transform: rotate(6.5deg);border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 ]

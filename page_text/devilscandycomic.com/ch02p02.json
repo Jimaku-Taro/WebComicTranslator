@@ -1,22 +1,22 @@
 [
 	{
 		"text": "嫌だ<br/>…"
-		,"style": "font-size: 14px;left: 19.2%;top: 61%;width: 41px;height: 29px;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 19.2%;top: 61%;width: 41px;height: 29px;border-radius: 20%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "離れろ<br/>…"
-		,"style": "font-size: 16px;left: 21.5%;top: 66%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 21.5%;top: 66%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">乱暴は<br/>やめて<br/>くれ！</span>"
-		,"style": "font-size: 18px;left: 81%;top: 57%;border-radius: 20%;"
+		,"style": "font-size: 18em;left: 81%;top: 57%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">子供達の<br/>事も考えて<br/>あげて<br/>くれ！</span>"
-		,"style": "font-size: 18px;left: 78%;top: 77%;border-radius: 40%;"
+		,"style": "font-size: 18em;left: 78%;top: 77%;border-radius: 40%;"
 		,"class": "WHITE"
 	}
 ]

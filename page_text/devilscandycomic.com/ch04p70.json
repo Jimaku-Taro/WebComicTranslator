@@ -1,27 +1,27 @@
 [
 	{
 		"text": "王が<br/>産まれた!!"
-		,"style": "font-size: 20px;left: 17%;top: 6.5%;border-radius: 20%;"
+		,"style": "font-size: 20em;left: 17%;top: 6.5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "歴史的瞬間です!<br/>この尋常でない試合は<br/>最も希少な奇跡を<br/>産み出しました！"
-		,"style": "font-size: 14px;left: 14%;top: 32%;height: 134px;display: flex;align-items: center;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 14%;top: 32%;height: 134px;display: flex;align-items: center;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "王<br/>万歳！"
-		,"style": "font-size: 16px;left: 75%;top: 36.8%;width: 68px;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 75%;top: 36.8%;width: 68px;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "<ruby>選手達<rp>(</rp><rt>センチュリオン</rt><rp>)</rp></ruby><br/>万歳！"
-		,"style": "font-size: 16px;left: 80%;top: 42%;width: 99px;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 80%;top: 42%;width: 99px;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "万歳！"
-		,"style": "font-size: 40px;left: 29%;top: 59%;border-radius: 20%;"
+		,"style": "font-size: 40em;left: 29%;top: 59%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 ]

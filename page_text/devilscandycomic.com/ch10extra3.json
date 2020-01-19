@@ -1,17 +1,17 @@
 [
 	{
 		"text": "ヘムロックハート<br/>アカデミーの出来事(2)"
-		,"style": "font-size: 14px;left: 33.23%;top: 4.52%;width: 32.10%;height: 4.02%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 33.23%;top: 4.52%;width: 32.10%;height: 4.02%;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "リケットも<br/>いない…<br/>ヘムロックも<br/>いない…<br/>外へ出たらニックに<br/>見つかるかも。<br/><span>工事の音で<span style=\"font-weight: bold;\">気が<br/>狂いそうだ!</span></span>"
-		,"style": "font-size: 14px;left: 26.55%;top: 8.96%;width: 15.39%;height: 14.59%;border-radius:45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 26.55%;top: 8.96%;width: 15.39%;height: 14.59%;border-radius:45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "やがて、共通の恐怖から<br/>友情が芽生えたという…"
-		,"style": "font-size: 14px;color: black;background-color: #FFD267;left: 33.11%;top: 89.93%;width: 32.94%;height: 3.35%;border-radius: 0%;"
+		,"style": "font-size: 14em;color: black;background-color: #FFD267;left: 33.11%;top: 89.93%;width: 32.94%;height: 3.35%;border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}
 ]

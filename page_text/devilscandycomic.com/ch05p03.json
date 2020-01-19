@@ -1,17 +1,17 @@
 [
 	{
 		"text": "ハッ!"
-		,"style": "font-size: 36px;left: 19%;top: 7.2%;border-radius: 0%;"
+		,"style": "font-size: 36em;left: 19%;top: 7.2%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "毎回…"
-		,"style": "font-size: 20px;left: 32%;top: 63.5%;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 32%;top: 63.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "毎回…!"
-		,"style": "font-size: 20px;left: 68.5%;top: 63.5%;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 68.5%;top: 63.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

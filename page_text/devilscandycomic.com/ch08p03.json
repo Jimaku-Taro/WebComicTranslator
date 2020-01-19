@@ -1,57 +1,57 @@
 [
 	{
 		"text": "オレは二度と<br/>やりたくない!<br/>オレは逃げて<br/>穴の中で<br/>残りの人生を<br/>過ごすんだ!"
-		,"style": "font-size: 16px;left: 35%;top: 5%;width: 132px;height: 179px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 35%;top: 5%;width: 132px;height: 179px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "セクシーな<br/>女の子も、お前の髪を<br/>褒める奴もいない。<br/>一週間も<br/>持たないだろ"
-		,"style": "font-size: 14px;left: 10.5%;top: 31%;width: 143px;height: 123px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 10.5%;top: 31%;width: 143px;height: 123px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あぁ<br/>口だけさ"
-		,"style": "font-size: 14px;left: 30%;top: 31.5%;width: 58px;height: 59px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 30%;top: 31.5%;width: 58px;height: 59px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "でも何で<br/>オレにこんな<br/>拷問するんだ!"
-		,"style": "font-size: 14px;left: 37%;top: 32%;width: 109px;height: 92px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 37%;top: 32%;width: 109px;height: 92px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">トレーニングよ!</span>君はギターは上手いけど<br/>ポンコツだもん!<br/>これは人格矯正よ!"
-		,"style": "font-size: 14px;left: 57%;top: 32%;width: 169px;height: 108px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 57%;top: 32%;width: 169px;height: 108px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "つまりグレーテルは<br/>トレモロがお前の弱点を<br/>狙うと言ってる、<br/>この前みたいに"
-		,"style": "font-size: 12px;left: 14%;top: 63%;width: 170px;height: 81px;border-radius: 50%;"
+		,"style": "font-size: 12em;left: 14%;top: 63%;width: 170px;height: 81px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "スーパー<br/>ヒーローには<br/>弱点がある。彼には<span><span style=\"font-weight: bold;\">不安が</span>あるわ</span>"
-		,"style": "font-size: 14px;left: 12%;top: 70.5%;width: 140px;height: 79px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 12%;top: 70.5%;width: 140px;height: 79px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "黙れ!オレは<br/>お終いだ!"
-		,"style": "font-size: 14px;left: 38%;top: 66%;width: 117px;height: 64px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 38%;top: 66%;width: 117px;height: 64px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "オレの家から<br/>出てけ!"
-		,"style": "font-size: 14px;left: 42%;top: 71.5%;width: 110px;height: 57px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 42%;top: 71.5%;width: 110px;height: 57px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "分かる?<br/>君は辛うじて<br/>魔法の舌の力の無い<br/>私の相手はできる。<br/>でもトレモロは君を<br/>叩きのめす気よ"
-		,"style": "font-size: 12px;left: 61%;top: 64%;width: 125px;height: 120px;border-radius: 50%;"
+		,"style": "font-size: 12em;left: 61%;top: 64%;width: 125px;height: 120px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "君が克服<br/>するまで<br/>ニンジャを<br/>見続けるわ!"
-		,"style": "font-size: 14px;left: 77%;top: 65%;width: 104px;height: 105px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 77%;top: 65%;width: 104px;height: 105px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 ]

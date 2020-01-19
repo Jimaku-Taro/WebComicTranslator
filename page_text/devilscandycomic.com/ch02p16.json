@@ -1,37 +1,37 @@
 [
 	{
 		"text": "お前本当に<br/>そう呼ぶの？<br/><span style=\"font-weight: bold;\">“スケルトン<br/>忍者先生”って?</span>"
-		,"style": "font-size: 14px;left: 8%;top: 5.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 8%;top: 5.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "何人かの子は<br/>彼は以前忍者だった<br/>かもって言ってる<br/>その…生きてた頃ね。<br/>彼は<span style=\"font-weight: bold;\">否定しない</span>し、<br/>だから…"
-		,"style": "font-size: 14px;left: 55.5%;top: 5%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 55.5%;top: 5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "エリオット<br/>は正しい！<br/>完全に<br/>マズい！"
-		,"style": "font-size: 15px;left: 12.5%;top: 32%;z-index: 1;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 12.5%;top: 32%;z-index: 1;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "幽霊だらけ、<br/>授業は非行、<br/>体育は皆座るし、<br/>教師は喫煙<br/>するし…"
-		,"style": "font-size: 16px;left: 21.5%;top: 36%;border-radius: 40%;"
+		,"style": "font-size: 16em;left: 21.5%;top: 36%;border-radius: 40%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">…宇宙の<br/>本質が疑わしく<br/>なって<br/>いる！！</span>"
-		,"style": "font-size: 16px;left: 76.6%;top: 33.5%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 76.6%;top: 33.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">パンドラが<br/>間違いを<br/>学んじゃう<br/>!!!</span>"
-		,"style": "font-size: 31px;left: 78%;top: 49%;border-radius: 20%;"
+		,"style": "font-size: 31em;left: 78%;top: 49%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ここは君を連れて<br/>来たい世界じゃない!<br/>バカげた幽霊共に<br/>科学の力を見せてやる!</span>"
-		,"style": "font-size: 16px;left: 38.2%;top: 66.6%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 38.2%;top: 66.6%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

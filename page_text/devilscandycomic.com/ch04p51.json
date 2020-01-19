@@ -1,62 +1,62 @@
 [
 	{
 		"text": "お前は<br/>巻き添え<br/>避けた方が<br/>いい、相棒"
-		,"style": "font-size: 15px;left: 23%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 23%;top: 6%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "孵化まで<br/>終われない。<br/>寝てたら<br/>またエルボー<br/>ドロップが"
-		,"style": "font-size: 13px;left: 33%;top: 10.5%;border-radius: 20%;"
+		,"style": "font-size: 13em;left: 33%;top: 10.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "そしたら<br/>僕死ぬ…"
-		,"style": "font-size: 14px;color: black;background-color: #f5f5f5;left: 33%;top: 23%;width: 85px;border-radius: 20%;"
+		,"style": "font-size: 14em;color: black;background-color: #f5f5f5;left: 33%;top: 23%;width: 85px;border-radius: 20%;"
 		,"class": ""
 	}
 	,{
 		"text": "言って、<br/>ウォルトン<br/>あの凄い戦術を<br/>もう一度やるって?<br/>超カッコいい。<br/><span style=\"font-weight: bold;\">ハンサム</span>だわ。<br/>ハンサムは<br/>言ったっけ?"
-		,"style": "font-size: 13px;left: 47%;top: 5%;border-radius: 30%;"
+		,"style": "font-size: 13em;left: 47%;top: 5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "多分<br/>コイツ<br/>女に興味<br/>ねーな"
-		,"style": "font-size: 14px;left: 62%;top: 27%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 62%;top: 27%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あなたは<br/>夢のようよ、<br/>ウォルオン!<br/>またブッ倒して<br/>踏ませて?"
-		,"style": "font-size: 14px;left: 82%;top: 8%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 82%;top: 8%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "何だと、<br/>俺じゃ不満か<br/>クソブロック<br/>！？"
-		,"style": "font-size: 14px;left: 26%;top: 38%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 26%;top: 38%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ドレイクじゃ<br/>ないけど、<br/>ぼく<span style=\"font-weight: bold;\">は</span>デーモン<br/>だよ、少なく<br/>とも"
-		,"style": "font-size: 14px;left: 39%;top: 40%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 39%;top: 40%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ぼくに卵を<br/>渡して、ニモと<br/>ジェラルド…<br/>違う…ニモと<br/>ペトラでぼくを<br/>前線に投げて"
-		,"style": "font-size: 14px;left: 51%;top: 39%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 51%;top: 39%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "もし<br/>また奴らを<br/>驚かせれば、<br/>ぼくが得点<br/>できる"
-		,"style": "font-size: 14px;left: 81%;top: 40%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 81%;top: 40%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "叫んで<br/>逃げ回るのは<br/>御免だし。<br/>やってみる"
-		,"style": "font-size: 13px;left: 13%;top: 65%;border-radius: 20%;"
+		,"style": "font-size: 13em;left: 13%;top: 65%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ハアッ!"
-		,"style": "font-size: 16px;left: 87%;top: 86.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 87%;top: 86.5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 ]

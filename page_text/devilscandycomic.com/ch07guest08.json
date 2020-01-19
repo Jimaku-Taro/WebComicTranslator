@@ -1,52 +1,52 @@
 [
 	{
 		"text": "いとこ"
-		,"style": "font-size: 20px;left: 45.1%;top: 5%;width: 91px;height: 28px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 45.1%;top: 5%;width: 91px;height: 28px;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: center;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "絵:"
-		,"style": "font-size: 16px;left: 26%;top: 7%;width: 67px;height: 28px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 26%;top: 7%;width: 67px;height: 28px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "Puré"
-		,"style": "font-size: 20px;color: #C35A5C;background-color: white;left: 32.5%;top: 4.5%;width: 65px;height: 28px;transform: rotate(-30deg);border-radius: 0%;"
+		,"style": "font-size: 20em;color: #C35A5C;background-color: white;left: 32.5%;top: 4.5%;width: 65px;height: 28px;transform: rotate(-30deg);border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "話:BIKKURI"
-		,"style": "font-size: 18px;left: 52%;top: 7%;width: 166px;height: 28px;border-radius: 0%;"
+		,"style": "font-size: 18em;left: 52%;top: 7%;width: 166px;height: 28px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "大勝負の前に<br/>特訓しねぇとな、<br/>でもお前の両親に<br/>俺のことを<br/>説明できるか?"
-		,"style": "font-size: 14px;left: 22%;top: 14.5%;width: 148px;height: 152px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 22%;top: 14.5%;width: 148px;height: 152px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "押し入れに<br/>俺を入れない<br/>みたいだが"
-		,"style": "font-size: 12px;left: 29.5%;top: 25.5%;width: 95px;height: 69px;border-radius: 50%;"
+		,"style": "font-size: 12em;left: 29.5%;top: 25.5%;width: 95px;height: 69px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "安心して<br/>オレにいい<br/>考えがある"
-		,"style": "font-size: 14px;left: 66%;top: 12.5%;width: 95px;height: 65px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 66%;top: 12.5%;width: 95px;height: 65px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "えっと…こちらは<br/>オレのいとこ、マーク<br/>スティーブンソン<br/>しばらくここに<br/>泊まる"
-		,"style": "font-size: 12px;left: 40%;top: 31.5%;width: 138px;height: 105px;border-radius: 50%;"
+		,"style": "font-size: 12em;left: 40%;top: 31.5%;width: 138px;height: 105px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "家族には<br/>その手は<br/>通じないって<br/>分かってる<br/>わよね?"
-		,"style": "font-size: 14px;left: 23%;top: 75%;width: 134px;height: 117px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 23%;top: 75%;width: 134px;height: 117px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "くそ…"
-		,"style": "font-size: 14px;left: 69%;top: 86.5%;width: 61px;height: 36px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 69%;top: 86.5%;width: 61px;height: 36px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 ]

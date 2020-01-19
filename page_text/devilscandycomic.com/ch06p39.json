@@ -1,37 +1,37 @@
 [
 	{
 		"text": "おいチビ!<br/>何す…"
-		,"style": "font-size: 14px;left: 21%;top: 3.5%;width: 64px;height: 71px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 21%;top: 3.5%;width: 64px;height: 71px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "…うぅ…<br/>フラつく…"
-		,"style": "font-size: 12px;left: 30%;top: 8%;width: 64px;height: 37px;border-radius: 0%;"
+		,"style": "font-size: 12em;left: 30%;top: 8%;width: 64px;height: 37px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "まずい、<br/>注射か。<br/>感覚がない"
-		,"style": "font-size: 14px;left: 49.5%;top: 21.5%;width: 78px;height: 74px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 49.5%;top: 21.5%;width: 78px;height: 74px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ねぇ<br/>パンディ<br/>君って<br/>本当…"
-		,"style": "font-size: 14px;left: 64%;top: 7.5%;width: 76px;height: 53px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 64%;top: 7.5%;width: 76px;height: 53px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "…友達<br/>多いね"
-		,"style": "font-size: 14px;left: 86%;top: 26%;width: 65px;height: 36px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 86%;top: 26%;width: 65px;height: 36px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "何とか<br/>する"
-		,"style": "font-size: 14px;left: 87.3%;top: 56.5%;width: 51px;height: 42px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 87.3%;top: 56.5%;width: 51px;height: 42px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何があっても<br/>僕が<br/>何とかする<br/>約束する!"
-		,"style": "font-size: 14px;left: 67%;top: 72%;width: 88px;height: 65px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 67%;top: 72%;width: 88px;height: 65px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 ]

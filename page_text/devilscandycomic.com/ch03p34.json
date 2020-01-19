@@ -1,47 +1,47 @@
 [
 	{
 		"text": "ヘムロック<br/>ハートは<br/>ゴミよ！"
-		,"style": "font-size: 23px;left: 16%;top: 7%;border-radius: 30%;"
+		,"style": "font-size: 23em;left: 16%;top: 7%;border-radius: 30%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "悪魔達に<br/>調和を生まず…<br/>対立に<br/>陥れるわ！"
-		,"style": "font-size: 20px;left: 70.5%;top: 12%;border-radius: 20%;"
+		,"style": "font-size: 20em;left: 70.5%;top: 12%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "スライムに<br/>体育が必要？<br/>ミノタウロスが<br/>代数をして<br/>何になるの！？"
-		,"style": "font-size: 16px;left: 9%;top: 40%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 9%;top: 40%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "最後には関係ない<br/>スポットライトを<br/>盗もうとする<br/>あんたのような<br/>悪魔が現れる始末!"
-		,"style": "font-size: 16px;left: 71%;top: 40%;height: 120px;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 71%;top: 40%;height: 120px;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "だから、あんたは<br/><span style=\"font-weight: bold;\">“礼儀正しい論争”</span>でも<br/><span style=\"font-weight: bold;\">“暴力なしの対決”</span>でも<br/><span style=\"font-weight: bold;\">喰らって黙ってな！</span><br/>今日は<span style=\"font-weight: bold;\">私の</span>日！<br/>私だけのものよ！"
-		,"style": "font-size: 14px;left: 28%;top: 59.5%;height: 120px;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 28%;top: 59.5%;height: 120px;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "いいわよ"
-		,"style": "font-size: 15px;left: 51.5%;top: 62.3%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 51.5%;top: 62.3%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "とにかく<br/>話したく<br/>ないし"
-		,"style": "font-size: 16px;left: 80%;top: 64.2%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 80%;top: 64.2%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "パンドラ、<br/>更衣室へ走って<br/>準備して"
-		,"style": "font-size: 15px;left: 75.5%;top: 76.5%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 75.5%;top: 76.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "カズは<span style=\"font-weight: bold;\">君に</span><br/>戦いを禁じた<br/>けどあたしは<br/>やらなきゃ"
-		,"style": "font-size: 14px;left: 77%;top: 83.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 77%;top: 83.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

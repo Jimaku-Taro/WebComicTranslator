@@ -1,37 +1,37 @@
 [
 	{
 		"text": "ジャイロ!"
-		,"style": "font-size: 15px;left: 22%;top: 10%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 22%;top: 10%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "泣いて<br/>たの？"
-		,"style": "font-size: 21px;left: 57.2%;top: 10%;border-radius: 20%;"
+		,"style": "font-size: 21em;left: 57.2%;top: 10%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "かすり傷が<br/>まだ<br/>痛むの？"
-		,"style": "font-size: 14px;left: 70.5%;top: 12.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 70.5%;top: 12.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "まだ<br/>じっけんは<br/>続けるん<br/>だよね？"
-		,"style": "font-size: 15px;left: 52%;top: 38%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 52%;top: 38%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">そうだぁぁぁ</span><br/>もちろんだ、<br/>愛する妹達よ！<br/>当然、新傑作の<br/>考えが<span style=\"font-weight: bold;\">すでに</span><br/>あるぞ！！"
-		,"style": "font-size: 15px;left: 14%;top: 60%;border-radius: 30%;"
+		,"style": "font-size: 15em;left: 14%;top: 60%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "静かにして<br/>くれないかな？！<br/>頭の傷に<br/>障る！！"
-		,"style": "font-size: 16px;left: 59.5%;top: 61%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 59.5%;top: 61%;border-radius: 30%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "チャプター 2 エクストラ:完"
-		,"style": "font-size: 16px;left: 66%;top: 92.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 66%;top: 92.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

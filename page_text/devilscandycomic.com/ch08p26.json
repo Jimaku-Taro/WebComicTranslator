@@ -1,22 +1,22 @@
 [
 	{
 		"text": "蛇なんて怖くない!"
-		,"style": "font-size: 16px;left: 38.84%;top: 6.80%;width: 20.05%;height: 1.93%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 38.84%;top: 6.80%;width: 20.05%;height: 1.93%;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "危険なんて気にしない!"
-		,"style": "font-size: 16px;left: 35.26%;top: 8.51%;width: 26.37%;height: 1.68%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 35.26%;top: 8.51%;width: 26.37%;height: 1.68%;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ニンジャ!"
-		,"style": "font-size: 25px;left: 39.44%;top: 26.58%;width: 17.18%;height: 3.60%;border-radius: 25%;"
+		,"style": "font-size: 25em;left: 39.44%;top: 26.58%;width: 17.18%;height: 3.60%;border-radius: 25%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ウオオオオオオォォォォォォォ!!"
-		,"style": "font-size: 30px;left: 19.99%;top: 37.40%;width: 56.56%;height: 3.02%;border-radius: 0%;"
+		,"style": "font-size: 30em;left: 19.99%;top: 37.40%;width: 56.56%;height: 3.02%;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 ]

@@ -1,37 +1,37 @@
 [
 	{
 		"text": "暴行"
-		,"style": "font-size: 20px;left: 44%;top: 5%;width: 105px;height: 28px;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 44%;top: 5%;width: 105px;height: 28px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "絵:reetz@alphasasuke"
-		,"style": "font-size: 18px;left: 26%;top: 7%;width: 208px;height: 28px;border-radius: 0%;"
+		,"style": "font-size: 18em;left: 26%;top: 7%;width: 208px;height: 28px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "話:BIKKURI"
-		,"style": "font-size: 18px;left: 52%;top: 7%;width: 166px;height: 28px;border-radius: 0%;"
+		,"style": "font-size: 18em;left: 52%;top: 7%;width: 166px;height: 28px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "パンドラが<br/>襲われた?!<br/>暴行だろ!<br/>警察呼べよ!"
-		,"style": "font-size: 16px;left: 29%;top: 11.5%;width: 93px;height: 140px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 29%;top: 11.5%;width: 93px;height: 140px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "なぜ警察を?<br/>また問題<br/>ですか?"
-		,"style": "font-size: 14px;left: 41.5%;top: 32.5%;width: 115px;height: 91px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 41.5%;top: 32.5%;width: 115px;height: 91px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "いえいえ!言葉の綾です!<br/>“わぁニモ、それ警察呼ばなくて<br/>いいの?”みたいな"
-		,"style": "font-size: 18px;left: 33%;top: 53.5%;width: 283px;height: 95px;border-radius: 0%;"
+		,"style": "font-size: 18em;left: 33%;top: 53.5%;width: 283px;height: 95px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "それは面白い!<br/>子供は創造性<br/>豊かですね!"
-		,"style": "font-size: 16px;left: 51%;top: 75%;width: 138px;height: 81px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 51%;top: 75%;width: 138px;height: 81px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 ]

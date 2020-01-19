@@ -1,67 +1,67 @@
 [
 	{
 		"text": "冗談だよ!<br/>ありがとう、<br/>先生"
-		,"style": "font-size: 14px;left: 14%;top: 26.5%;width: 105px;height: 79px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 14%;top: 26.5%;width: 105px;height: 79px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "幸い、騒ぎの間<br/>変装してたから、<br/>ぼくは安全、<br/>兄さんみたく<br/>隠れる必要ないよ"
-		,"style": "font-size: 14px;left: 33%;top: 5%;width: 125px;height: 122px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 33%;top: 5%;width: 125px;height: 122px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "まぁ、<br/>呪いの無い僕は<br/>用無しだから、<br/>前の雇い主達も<br/>すぐ興味を<br/>無くすさ"
-		,"style": "font-size: 14px;left: 51%;top: 5.5%;width: 122px;height: 123px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 51%;top: 5.5%;width: 122px;height: 123px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "でも、奴ら僕を<br/>小さく無力な<br/>虫みたいに<br/>叩き潰すかも"
-		,"style": "font-size: 14px;left: 78%;top: 6%;width: 126px;height: 92px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 78%;top: 6%;width: 126px;height: 92px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "奴ら<br/>激怒してる<br/>だろうな…"
-		,"style": "font-size: 14px;left: 17.2%;top: 37%;width: 96px;height: 69px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 17.2%;top: 37%;width: 96px;height: 69px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "リケットの<br/>騒ぎのせいも<br/>あるけど"
-		,"style": "font-size: 14px;left: 28.5%;top: 37%;width: 124px;height: 79px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 28.5%;top: 37%;width: 124px;height: 79px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ところで、<br/>マークはどう?<br/>ヤギーとは<br/>一緒じゃないと<br/>思うけど"
-		,"style": "font-size: 14px;left: 46%;top: 37%;width: 113px;height: 117px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 46%;top: 37%;width: 113px;height: 117px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "マークにも<br/>仕事を<br/>あげたよ…"
-		,"style": "font-size: 14px;left: 77%;top: 53%;width: 96px;height: 91px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 77%;top: 53%;width: 96px;height: 91px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "警備員<br/>みたいな<br/>ものかな…"
-		,"style": "font-size: 14px;left: 21%;top: 66%;width: 89px;height: 93px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 21%;top: 66%;width: 89px;height: 93px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "全部<br/>済んだと<br/>思うから<br/>私はこれで<br/>失礼…"
-		,"style": "font-size: 14px;left: 36%;top: 65%;width: 94px;height: 95px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 36%;top: 65%;width: 94px;height: 95px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ゴッホン"
-		,"style": "font-size: 16px;left: 58%;top: 64.5%;width: 68px;height: 49px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 58%;top: 64.5%;width: 68px;height: 49px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "カズ、<br/>頼むよ…"
-		,"style": "font-size: 14px;left: 37%;top: 80%;width: 83px;height: 44px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 37%;top: 80%;width: 83px;height: 44px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ゴッホン"
-		,"style": "font-size: 16px;left: 56%;top: 80%;width: 86px;height: 50px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 56%;top: 80%;width: 86px;height: 50px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 ]

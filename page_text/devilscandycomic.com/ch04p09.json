@@ -1,37 +1,37 @@
 [
 	{
 		"text": "カズ～～～～～～～!<br/>助けて～～～～!!!!!"
-		,"style": "font-size: 30px;left: 12.5%;top: 33%;border-radius: 10%;"
+		,"style": "font-size: 30em;left: 12.5%;top: 33%;border-radius: 10%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "なぜ陸の人々は<br/>間違っているか"
-		,"style": "font-size: 10px;left: 35.2%;top: 41%;border-radius: 10%;"
+		,"style": "font-size: 10em;left: 35.2%;top: 41%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あー、<br/>つまり…"
-		,"style": "font-size: 16px;left: 75%;top: 39%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 75%;top: 39%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "カズ・デッカーは<br/>ただちに校長室に<br/>報告に来て<br/>くれますか？"
-		,"style": "font-size: 16px;left: 12.5%;top: 61.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 12.5%;top: 61.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "頑張<br/>れよ"
-		,"style": "font-size: 18px;left: 47.5%;top: 66.5%;border-radius: 20%;"
+		,"style": "font-size: 18em;left: 47.5%;top: 66.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "それと、ニモも<br/>連れてきてね！"
-		,"style": "font-size: 16px;left: 62%;top: 67.2%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 62%;top: 67.2%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ふざけ<br/>んな！"
-		,"style": "font-size: 25px;left: 79.4%;top: 70.4%;border-radius: 20%;"
+		,"style": "font-size: 25em;left: 79.4%;top: 70.4%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 ]

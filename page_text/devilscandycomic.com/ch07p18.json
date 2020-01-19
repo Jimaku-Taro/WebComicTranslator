@@ -1,37 +1,37 @@
 [
 	{
 		"text": "こんな事を<br/>言うのも<br/>何ですが。<br/>運なんて<br/>ありませんよ"
-		,"style": "font-size: 13px;left: 4%;top: 3%;width: 115px;height: 100px;border-radius: 50%;"
+		,"style": "font-size: 13em;left: 4%;top: 3%;width: 115px;height: 100px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あなたの<br/>行動があなたを<br/>決めるんです"
-		,"style": "font-size: 13px;left: 32%;top: 3%;width: 104px;height: 86px;border-radius: 50%;"
+		,"style": "font-size: 13em;left: 32%;top: 3%;width: 104px;height: 86px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "今この瞬間も、<br/>あなたの行動が<br/>未来を決めます"
-		,"style": "font-size: 13px;left: 32.5%;top: 10%;width: 106px;height: 108px;border-radius: 50%;"
+		,"style": "font-size: 13em;left: 32.5%;top: 10%;width: 106px;height: 108px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "今までの<br/>苦しみは<br/>一体…"
-		,"style": "font-size: 13px;left: 7%;top: 39%;width: 84px;height: 73px;border-radius: 50%;"
+		,"style": "font-size: 13em;left: 7%;top: 39%;width: 84px;height: 73px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "それは<br/>無駄じゃ<br/>ありません!"
-		,"style": "font-size: 16px;left: 27%;top: 54%;width: 100px;height: 92px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 27%;top: 54%;width: 100px;height: 92px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "そのおかげで<br/>あなたは<br/>今ここに<br/>いるんです!"
-		,"style": "font-size: 13px;left: 40%;top: 54%;width: 84px;height: 98px;border-radius: 50%;"
+		,"style": "font-size: 13em;left: 40%;top: 54%;width: 84px;height: 98px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "僕が寄生虫を摘出し<br/>人生を取り戻せます<br/>リケットもね"
-		,"style": "font-size: 12px;left: 64%;top: 66.5%;width: 119px;height: 85px;border-radius: 50%;"
+		,"style": "font-size: 12em;left: 64%;top: 66.5%;width: 119px;height: 85px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 ]

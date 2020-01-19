@@ -1,77 +1,77 @@
 [
 	{
 		"text": "疑惑の蛇"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 7.88%;top: 11.45%;width: 25.54%;height: 2.26%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 7.88%;top: 11.45%;width: 25.54%;height: 2.26%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "恐怖の蛇"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 7.34%;top: 13.40%;width: 27.45%;height: 2.01%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 7.34%;top: 13.40%;width: 27.45%;height: 2.01%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "その猛毒は"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 66.89%;top: 13.15%;width: 25.30%;height: 2.01%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 66.89%;top: 13.15%;width: 25.30%;height: 2.01%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お前の耳に染み込む"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 67.60%;top: 15.08%;width: 23.99%;height: 1.68%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 67.60%;top: 15.08%;width: 23.99%;height: 1.68%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お前の心に"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 41.71%;top: 29.33%;width: 17.54%;height: 2.05%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 41.71%;top: 29.33%;width: 17.54%;height: 2.05%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お前のハートに"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 37.89%;top: 31.06%;width: 24.46%;height: 1.93%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 37.89%;top: 31.06%;width: 24.46%;height: 1.93%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お前の決意は<br/>揺らぎ砕け散る"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 36.81%;top: 33.86%;width: 26.25%;height: 4.19%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 36.81%;top: 33.86%;width: 26.25%;height: 4.19%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "声で人を<br/>操ると聞いた<br/>けど…"
-		,"style": "font-size: 14px;left: 9.01%;top: 67.32%;width: 11.58%;height: 5.53%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 9.01%;top: 67.32%;width: 11.58%;height: 5.53%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "巨大な化物を<br/>召喚するとは<br/>聞いてないよ!"
-		,"style": "font-size: 14px;left: 9.37%;top: 72.75%;width: 11.22%;height: 7.80%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 9.37%;top: 72.75%;width: 11.22%;height: 7.80%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あぁ、<br/>新技だな"
-		,"style": "font-size: 14px;left: 7.34%;top: 82.56%;width: 9.67%;height: 5.20%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 7.34%;top: 82.56%;width: 9.67%;height: 5.20%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "きっと<br/>飛行船が<br/>奴の力を増幅<br/>してるのよ…"
-		,"style": "font-size: 14px;left: 37.29%;top: 82.49%;width: 11.93%;height: 5.78%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 37.29%;top: 82.49%;width: 11.93%;height: 5.78%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "マズイ! ヤギー!<br/>演奏して!<br/>落ちてる!"
-		,"style": "font-size: 14px;left: 50.89%;top: 68.50%;width: 14.44%;height: 5.78%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 50.89%;top: 68.50%;width: 14.44%;height: 5.78%;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ヤバッ<br/>…!"
-		,"style": "font-size: 14px;left: 64.26%;top: 72.68%;width: 6.56%;height: 4.36%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 64.26%;top: 72.68%;width: 6.56%;height: 4.36%;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "マークも<br/>できる?<br/>巨大な化物の<br/>召喚とか?"
-		,"style": "font-size: 14px;left: 73.21%;top: 69.33%;width: 11.10%;height: 7.96%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 73.21%;top: 69.33%;width: 11.10%;height: 7.96%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "おいおい、<br/>足場を浮かせ<br/>られるのすら<br/>俺は知らな<br/>かったぜ"
-		,"style": "font-size: 14px;left: 84.07%;top: 87.35%;width: 11.93%;height: 9.47%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 84.07%;top: 87.35%;width: 11.93%;height: 9.47%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 ]

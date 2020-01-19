@@ -1,22 +1,22 @@
 [
 	{
 		"text": "何度聴いても、<br/>奮い立つ曲だな。<br/>君の<span style=\"font-weight: bold;\">他の</span>作品も<br/>退屈でなければ<br/>良いんだがね、<br/>トレモロ"
-		,"style": "font-size: 16px;left: 15%;top: 22%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 15%;top: 22%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "…で、<br/>ワシは学校を<br/>一つ経営<br/>している"
-		,"style": "font-size: 14px;left: 28.2%;top: 62%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 28.2%;top: 62%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ストラツィオ<br/>君の雇い主が<br/>ワシらを重要な<br/>会議に呼び出して<br/>遅刻してる理由を<br/>説明しても<br/>いいんだぞ"
-		,"style": "font-size: 13px;left: 38%;top: 62%;border-radius: 30%;"
+		,"style": "font-size: 13em;left: 38%;top: 62%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "彼女が<br/>時間通り<br/>来る方が<br/>怖いですよ"
-		,"style": "font-size: 16px;left: 74%;top: 63.5%;width: 103px;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 74%;top: 63.5%;width: 103px;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 ]

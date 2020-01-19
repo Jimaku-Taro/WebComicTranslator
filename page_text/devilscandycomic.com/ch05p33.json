@@ -1,27 +1,27 @@
 [
 	{
 		"text": "貴様らは<br/>唯一無二の<br/>楽器を<br/>失くした"
-		,"style": "font-size: 16px;left: 65.5%;top: 19.5%;width: 95px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 65.5%;top: 19.5%;width: 95px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "貴様らは<br/>約束を最後まで<br/>果たせなかった"
-		,"style": "font-size: 14px;left: 76%;top: 25.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 76%;top: 25.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "貴様らは<br/>義務よりも<br/>ささいな復讐を<br/>優先した"
-		,"style": "font-size: 16px;left: 23.5%;top: 35.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 23.5%;top: 35.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "俺は<br/><span style=\"font-weight: bold;\">自分</span>が…"
-		,"style": "font-size: 22px;color: white;background-color: black;left: 40%;top: 53%;border-radius: 0%;"
+		,"style": "font-size: 22em;color: white;background-color: black;left: 40%;top: 53%;border-radius: 0%;"
 		,"class": ""
 	}
 	,{
 		"text": "銃を<br/>突きつけられる<br/>べきだとは<br/>思わない"
-		,"style": "font-size: 16px;color:white;background-color: black;left: 47.5%;top: 58%;border-radius: 0%;"
+		,"style": "font-size: 16em;color:white;background-color: black;left: 47.5%;top: 58%;border-radius: 0%;"
 		,"class": ""
 	}
 ]

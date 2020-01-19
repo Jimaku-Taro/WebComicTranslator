@@ -6,12 +6,12 @@
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">アッ<br/>？！</span>"
-		,"style": "font-size: 34em;left: 38%;top: 23%;width: 80px;border-radius: 10%;"
+		,"style": "font-size: 34em;left: 38%;top: 23%;width: 80em;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">み…皆女の子<br/>作ったの？！</span>"
-		,"style": "font-size: 20em;left: 14%;top: 70%;width: 125px;border-radius: 10%;"
+		,"style": "font-size: 20em;left: 14%;top: 70%;width: 125em;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{

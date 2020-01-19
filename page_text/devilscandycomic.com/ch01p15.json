@@ -1,32 +1,32 @@
 [
 	{
 		"text": "知らねぇよ。<br/>同棲メイドには<br/>いい名前か？"
-		,"style": "font-size: 15px;left: 25%;top: 7.5%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 25%;top: 7.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "それか<br/>話相手欲しくて<br/>彼女作ったか？"
-		,"style": "font-size: 16px;left: 57%;top: 34.6%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 57%;top: 34.6%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "そうそう！<br/>ところで、<br/>手伝ってくれて<br/>ありがとう<br/>電気生命生成を"
-		,"style": "font-size: 15px;left: 12.3%;top: 49.5%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 12.3%;top: 49.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "僕には本当に<br/>君みたいな<br/>技術の才能<br/>ないからさ"
-		,"style": "font-size: 16px;left: 75%;top: 50.5%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 75%;top: 50.5%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "構わねぇよ。<br/>死肉の山に命を<br/>吹き込む時は、<br/>いつでも頼りな"
-		,"style": "font-size: 16px;left: 46.5%;top: 84.8%;width:120px;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 46.5%;top: 84.8%;width:120px;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "おい、待て、<br/>話題を変えるな"
-		,"style": "font-size: 16px;left: 71%;top: 64%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 71%;top: 64%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 ]

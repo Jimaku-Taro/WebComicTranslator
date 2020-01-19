@@ -1,57 +1,57 @@
 [
 	{
 		"text": "ねぇ あなた。<br/>またヘルメット<br/>ハマったの？"
-		,"style": "font-size: 14px;left: 46.5%;top: 3%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 46.5%;top: 3%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あぁ…"
-		,"style": "font-size: 16px;left: 60%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 60%;top: 5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "喫煙も<br/>したかった<br/>けど"
-		,"style": "font-size: 14px;left: 62%;top: 8%;transform: rotate(10deg);border-radius: 0%;"
+		,"style": "font-size: 14em;left: 62%;top: 8%;transform: rotate(10deg);border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あっ!"
-		,"style": "font-size: 16px;left: 75%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 75%;top: 5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "その…<br/>つまり…"
-		,"style": "font-size: 16px;left: 81%;top: 25.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 81%;top: 25.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ムワハハハ!"
-		,"style": "font-size: 26px;left: 13%;top: 34.8%;transform: rotate(5deg);border-radius: 0%;"
+		,"style": "font-size: 26em;left: 13%;top: 34.8%;transform: rotate(5deg);border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "貴様のヘルメットは<br/>闇の接着剤で封じた！<br/>罪なき少女を火山に<br/>投げ込まねば解けんぞ！"
-		,"style": "font-size: 16px;left: 31%;top: 34%;width: 248px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 31%;top: 34%;width: 248px;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "大丈夫だよ、<br/>役者って<br/>知ってるよ"
-		,"style": "font-size: 15px;left: 11%;top: 62%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 11%;top: 62%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ところでロード<br/>・ダークレディ、<br/>僕のパパが<br/>君はかわいい…<br/>いや…ハンサム<br/>だって"
-		,"style": "font-size: 14px;left: 31%;top: 77.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 31%;top: 77.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ええ、それはパパには<br/>悪いわね、だって<br/>私はもうこの色男と<br/>結婚してるもの"
-		,"style": "font-size: 14px;left: 49%;top: 62%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 49%;top: 62%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ロ…ロード・<br/>ダークレディと<br/>デビライザー<br/>は結婚してる!?"
-		,"style": "font-size: 13px;left: 67%;top: 84.5%;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 67%;top: 84.5%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 ]

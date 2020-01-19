@@ -1,42 +1,42 @@
 [
 	{
 		"text": "ンググググ<br/>ウウウ…"
-		,"style": "font-size: 16px;left: 10.2%;top: 3%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 10.2%;top: 3%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "よし！！"
-		,"style": "font-size: 16px;left: 33%;top: 5%;height: 25px;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 33%;top: 5%;height: 25px;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "オレは<br/>ケルベロスと<br/>屋根へ向かう"
-		,"style": "font-size: 16px;left: 28.5%;top: 20%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 28.5%;top: 20%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "お前は階段だ<br/>上で合流<br/>しよう"
-		,"style": "font-size: 16px;left: 34.5%;top: 27%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 34.5%;top: 27%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "さあ、<br/>行くぞ"
-		,"style": "font-size: 17px;left: 64%;top: 4.7%;border-radius: 20%;"
+		,"style": "font-size: 17em;left: 64%;top: 4.7%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "おっと、<br/>オレのバッグ<br/>投げてくれ"
-		,"style": "font-size: 13px;left: 80.8%;top: 7.5%;border-radius: 20%;"
+		,"style": "font-size: 13em;left: 80.8%;top: 7.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">今行くよ、<br/>パンドラァァ!!</span>"
-		,"style": "font-size: 20px;left: 12.5%;top: 57.5%;border-radius: 20%;"
+		,"style": "font-size: 20em;left: 12.5%;top: 57.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "カズ！"
-		,"style": "font-size: 23px;left: 70%;top: 56.5%;border-radius: 20%;"
+		,"style": "font-size: 23em;left: 70%;top: 56.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

@@ -1,22 +1,22 @@
 [
 	{
 		"text": "ヒトミ?"
-		,"style": "left: 42.7804%;top: 47.9359%;width: 9.1885%;height: 4.3588%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 42.7804%;top: 47.9359%;width: 9.1885%;height: 4.3588%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "うわぁ<br/>驚いたよ"
-		,"style": "left: 57.4582%;top: 50.4505%;width: 9.1885%;height: 5.2808%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 57.4582%;top: 50.4505%;width: 9.1885%;height: 5.2808%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ねぇ<br/>ピノ…"
-		,"style": "left: 62.4702%;top: 69.8135%;width: 6.2053%;height: 3.2691%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 62.4702%;top: 69.8135%;width: 6.2053%;height: 3.2691%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ちょっと<br/>話があるの"
-		,"style": "left: 47.9117%;top: 83.2251%;width: 11.2172%;height: 5.6999%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 47.9117%;top: 83.2251%;width: 11.2172%;height: 5.6999%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 ]

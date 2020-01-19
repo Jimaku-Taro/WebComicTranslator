@@ -1,22 +1,22 @@
 [
 	{
 		"text": "パンドラ、<br/>君は…<br/>なるべく<br/><span style=\"font-weight: bold;\">普通にね？</span>"
-		,"style": "font-size: 17px;left: 8%;top: 43.5%;border-radius: 20%;"
+		,"style": "font-size: 17em;left: 8%;top: 43.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "悪い印象を<br/>与えたく<br/>ない"
-		,"style": "font-size: 16px;left: 18.5%;top: 49.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 18.5%;top: 49.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ヒトミが<br/>君を助けて<br/>くれるから…"
-		,"style": "font-size: 17px;left: 57.2%;top: 55.7%;border-radius: 20%;"
+		,"style": "font-size: 17em;left: 57.2%;top: 55.7%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "そんなに<br/>掻かない<br/>で…"
-		,"style": "font-size: 17px;left: 70%;top: 55.7%;border-radius: 20%;"
+		,"style": "font-size: 17em;left: 70%;top: 55.7%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

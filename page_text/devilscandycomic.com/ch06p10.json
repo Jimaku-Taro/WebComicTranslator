@@ -1,47 +1,47 @@
 [
 	{
 		"text": "あんたが<br/>ストラツィオ<br/>じゃないの？"
-		,"style": "font-size: 15px;left: 12%;top: 6%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 12%;top: 6%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ストラツィオ<br/>は<span style=\"font-weight: bold;\">俺だ。</span><br/>それが?"
-		,"style": "font-size: 15px;left: 26.7%;top: 29%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 26.7%;top: 29%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "マイロ・<br/>パンターノ<br/>…"
-		,"style": "font-size: 15px;left: 57.5%;top: 8%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 57.5%;top: 8%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "彼が<br/>あんたの所で<br/>働いてるわね？"
-		,"style": "font-size: 15px;left: 77%;top: 25%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 77%;top: 25%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "そうだ…"
-		,"style": "font-size: 15px;left: 7%;top: 53.3%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 7%;top: 53.3%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "でも彼の名を<br/>聞いたことがある<br/>とは驚きだ。<br/>大抵は<br/>“黒い殉教者”<br/>としか知らない"
-		,"style": "font-size: 15px;left: 9%;top: 56%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 9%;top: 56%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "彼の犠牲者達の<br/>１人が調べて<br/>いたの<br/>だろうが"
-		,"style": "font-size: 15px;left: 12.5%;top: 84.5%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 12.5%;top: 84.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "“犠牲者達…？”"
-		,"style": "font-size: 16px;left: 76%;top: 61%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 76%;top: 61%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "まぁ、彼が<br/>君の親兄弟を<br/>殺していても<br/>問題ない。<br/>復讐しても無意味だ"
-		,"style": "font-size: 15px;left: 75.6%;top: 85%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 75.6%;top: 85%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

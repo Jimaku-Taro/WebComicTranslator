@@ -1,37 +1,37 @@
 [
 	{
 		"text": "スーパースター"
-		,"style": "font-size: 16px;left: 38%;top: 5%;width: 206px;height: 28px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 38%;top: 5%;width: 206px;height: 28px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "絵:SirPangur"
-		,"style": "font-size: 16px;left: 26%;top: 7%;width: 218px;height: 28px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 26%;top: 7%;width: 218px;height: 28px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "話:BIKKURI"
-		,"style": "font-size: 18px;left: 52%;top: 7%;width: 166px;height: 28px;border-radius: 0%;"
+		,"style": "font-size: 18em;left: 52%;top: 7%;width: 166px;height: 28px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ニュースに<br/>なってると思うが<br/>何か言ってる<br/>かな…"
-		,"style": "font-size: 14px;left: 38%;top: 10%;width: 122px;height: 93px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 38%;top: 10%;width: 122px;height: 93px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "有名な作曲家<br/>T.B.サーペント<br/>ロードが本日<br/>初めて人前に<br/>現れました"
-		,"style": "font-size: 12px;left: 61.5%;top: 31.5%;width: 98px;height: 103px;border-radius: 10%;"
+		,"style": "font-size: 12em;left: 61.5%;top: 31.5%;width: 98px;height: 103px;border-radius: 10%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<span>しかし<span style=\"font-weight: bold;\">予告無し</span>に</span>高校に現れたため<br/>写真を撮れる記者がおらず<br/>上空にいたので<br/>一握りの生徒が遠くから<br/>姿を見ただけでした"
-		,"style": "font-size: 14px;left: 51%;top: 53%;width: 192px;height: 137px;border-radius: 10%;"
+		,"style": "font-size: 14em;left: 51%;top: 53%;width: 192px;height: 137px;border-radius: 10%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "当面、提供できるのは<br/>このアーティストの<br/>絵のみです"
-		,"style": "font-size: 14px;left: 35%;top: 74.3%;width: 152px;height: 64px;border-radius: 10%;"
+		,"style": "font-size: 14em;left: 35%;top: 74.3%;width: 152px;height: 64px;border-radius: 10%;"
 		,"class": "CENTER WHITE"
 	}
 ]

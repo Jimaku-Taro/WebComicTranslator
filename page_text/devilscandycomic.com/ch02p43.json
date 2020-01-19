@@ -1,12 +1,12 @@
 [
 	{
 		"text": "ビビ？！<br/>何やって<br/>…"
-		,"style": "font-size: 17px;left: 51%;top: 14.5%;border-radius: 20%;"
+		,"style": "font-size: 17em;left: 51%;top: 14.5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "隠れろ<br/>！！"
-		,"style": "font-size: 22px;left: 82.8%;top: 23%;border-radius: 20%;"
+		,"style": "font-size: 22em;left: 82.8%;top: 23%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 ]

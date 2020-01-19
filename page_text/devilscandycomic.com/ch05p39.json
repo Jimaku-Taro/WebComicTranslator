@@ -1,47 +1,47 @@
 [
 	{
 		"text": "待って、<br/>私には<br/>マークが<br/>必要よ！"
-		,"style": "font-size: 16px;left: 15%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 15%;top: 5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "まだ<br/>ストラツィオ<br/>のこと何も<br/>聞いてない!"
-		,"style": "font-size: 14px;left: 24%;top: 7%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 24%;top: 7%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "オレには<br/>関係ない！<br/>僕は連れて行く<br/>ギターを…"
-		,"style": "font-size: 14px;left: 81.5%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 81.5%;top: 5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "マークだ"
-		,"style": "font-size: 16px;left: 84%;top: 12%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 84%;top: 12%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "マークは<br/>連れていく、<br/>オレにふさわしい<br/>素晴らしい<br/>ギター…"
-		,"style": "font-size: 15px;left: 41%;top: 22%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 41%;top: 22%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "仲間だよ"
-		,"style": "font-size: 20px;left: 49%;top: 30.5%;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 49%;top: 30.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ギターは<br/>貰って当然だ<br/><span style=\"font-weight: bold;\">オレをあんな目に<br/>あわせたん<br/>だからな！</span>"
-		,"style": "font-size: 16px;left: 17.5%;top: 44%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 17.5%;top: 44%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "何が<br/>起きてるか<br/>知らないけど、<br/>オレもバカ<br/>じゃない！"
-		,"style": "font-size: 16px;left: 32%;top: 60.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 32%;top: 60.5%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "勝手に<br/>しろ…<br/>他の誰かに<br/>聞けよ！"
-		,"style": "font-size: 20px;left: 60%;top: 80%;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 60%;top: 80%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 ]

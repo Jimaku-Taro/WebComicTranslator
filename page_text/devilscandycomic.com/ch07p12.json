@@ -1,12 +1,12 @@
 [
 	{
 		"text": "面白い"
-		,"style": "font-size: 18px;left: 77%;top: 61%;width: 61px;height: 38px;border-radius: 0%;"
+		,"style": "font-size: 18em;left: 77%;top: 61%;width: 61px;height: 38px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "君も<br/>呪われて<br/>いるな"
-		,"style": "font-size: 16px;left: 78%;top: 66%;width: 84px;height: 75px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 78%;top: 66%;width: 84px;height: 75px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 ]

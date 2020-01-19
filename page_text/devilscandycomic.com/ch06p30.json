@@ -1,27 +1,27 @@
 [
 	{
 		"text": "ぐ…!"
-		,"style": "font-size: 18px;left: 8%;top: 8%;border-radius: 0%;"
+		,"style": "font-size: 18em;left: 8%;top: 8%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "アタイが<br/>考えてる<br/>のはね…"
-		,"style": "font-size: 16px;left: 82.5%;top: 11%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 82.5%;top: 11%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "う!"
-		,"style": "font-size: 30px;left: 85.5%;top: 24.1%;border-radius: 0%;"
+		,"style": "font-size: 30em;left: 85.5%;top: 24.1%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "君の綿菓子の<br/>脳ミソケースに<br/>パンチしたら<br/>どうなるかな?"
-		,"style": "font-size: 15px;left: 77%;top: 35.2%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 77%;top: 35.2%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "デビ…ライザー…?"
-		,"style": "font-size: 14px;left: 71%;top: 90.8%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 71%;top: 90.8%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 ]

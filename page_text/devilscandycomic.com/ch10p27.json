@@ -1,22 +1,22 @@
 [
 	{
 		"text": "お祭りで<br/>重い物を<br/>持つなら…"
-		,"style": "left: 11.9928%;top: 9.6265%;width: 13.2458%;height: 8.8852%;font-size: 16px;border-radius:45%;"
+		,"style": "left: 11.9928%;top: 9.6265%;width: 13.2458%;height: 8.8852%;font-size: 16em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あなたには<br/>重量挙げは<br/>格好良い部が<br/>付いてるわ!"
-		,"style": "left: 67.7208%;top: 52.2920%;width: 18.6158%;height: 12.4057%;font-size: 20px;border-radius:45%;"
+		,"style": "left: 67.7208%;top: 52.2920%;width: 18.6158%;height: 12.4057%;font-size: 20em;border-radius:45%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "なんで<br/>あたし?!"
-		,"style": "left: 78.8186%;top: 75.5108%;width: 9.5465%;height: 8.2146%;font-size: 18px;border-radius:45%;"
+		,"style": "left: 78.8186%;top: 75.5108%;width: 9.5465%;height: 8.2146%;font-size: 18em;border-radius:45%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "10章：終"
-		,"style": "left: 67.7208%;top: 92.6944%;width: 23.5084%;height: 2.8500%;font-size: 20px;border-radius:0%;"
+		,"style": "left: 67.7208%;top: 92.6944%;width: 23.5084%;height: 2.8500%;font-size: 20em;border-radius:0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 ]

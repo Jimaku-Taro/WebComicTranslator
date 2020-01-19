@@ -1,72 +1,72 @@
 [
 	{
 		"text": "タタラトゥス設立時<br/>デーモンは内紛状態で、<br/>その存在は恐らく<br/>秘匿されました、<br/>交易する他部族が紛争に<br/>巻き込まれないように"
-		,"style": "font-size: 13px;left: 5.25%;top: 4.45%;width: 19.33%;height: 11.32%;border-radius:30%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 5.25%;top: 4.45%;width: 19.33%;height: 11.32%;border-radius:30%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "この地域は<br/>資源が豊富で<br/>間違いなく<br/>侵略対象に<br/>なりますし"
-		,"style": "font-size: 13px;left: 6.21%;top: 15.68%;width: 16.59%;height: 7.54%;border-radius:30%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 6.21%;top: 15.68%;width: 16.59%;height: 7.54%;border-radius:30%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "幸い、<br/>都市は地下にあり<br/>戦争終結まで隠れ<br/>デーモン達も<br/>新たな戦争より<br/>交易に興味を<br/>持ちました"
-		,"style": "font-size: 13px;left: 26.73%;top: 7.13%;width: 16.71%;height: 12.07%;border-radius:30%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 26.73%;top: 7.13%;width: 16.71%;height: 12.07%;border-radius:30%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "すみませんが<br/>他の生徒も<br/>見に行かないと<br/>この旅行は付添が<br/>少ないので"
-		,"style": "font-size: 13px;left: 73.15%;top: 3.44%;width: 14.80%;height: 10.39%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 73.15%;top: 3.44%;width: 14.80%;height: 10.39%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "なぁナード。<br/>いい匂いするな。<br/>パンドラから<br/>何か食物<br/>隠してるのか?"
-		,"style": "font-size: 13px;left: 9.61%;top: 34.55%;width: 13.25%;height: 10.06%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 9.61%;top: 34.55%;width: 13.25%;height: 10.06%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "いいや"
-		,"style": "font-size: 13px;left: 26.43%;top: 35.31%;width: 5.97%;height: 4.36%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 26.43%;top: 35.31%;width: 5.97%;height: 4.36%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "でも<br/>君の言ってる<br/>匂いって<br/>何だろう?"
-		,"style": "font-size: 13px;left: 32.28%;top: 34.72%;width: 14.08%;height: 7.04%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 32.28%;top: 34.72%;width: 14.08%;height: 7.04%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ところで君達も<br/>修学旅行に<br/>来て嬉しいよ。<br/>僕の知識への<br/>欲求が君達に<br/>感染ったね!"
-		,"style": "font-size: 13px;left: 48.75%;top: 34.72%;width: 16.71%;height: 10.14%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 48.75%;top: 34.72%;width: 16.71%;height: 10.14%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "お前はナードって<br/>ことなんだろうが、<br/><span>その<span style=\"font-weight: bold;\">ポジティブ思考</span><br/></span>やめろバカ"
-		,"style": "font-size: 13px;left: 68.32%;top: 34.55%;width: 21.00%;height: 7.38%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 68.32%;top: 34.55%;width: 21.00%;height: 7.38%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "お前が「欲求」<br/>ってオレはどう<br/>思えばいいんだ?"
-		,"style": "font-size: 12px;left: 76.43%;top: 41.26%;width: 12.89%;height: 5.20%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 12em;left: 76.43%;top: 41.26%;width: 12.89%;height: 5.20%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ニモ、<br/>バッグ<br/>上の棚に<br/>載せれば?<br/>邪魔だろ?"
-		,"style": "font-size: 14px;left: 10.68%;top: 62.47%;width: 13.96%;height: 11.65%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 10.68%;top: 62.47%;width: 13.96%;height: 11.65%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "えっ、<br/>あー…<br/>いいや"
-		,"style": "font-size: 13px;left: 28.22%;top: 64.31%;width: 7.88%;height: 5.36%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 13em;left: 28.22%;top: 64.31%;width: 7.88%;height: 5.36%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "中身を見て<br/>欲しいの?<br/>ぼくの中身も<br/>見せるよ!"
-		,"style": "font-size: 14px;left: 40.51%;top: 72.86%;width: 17.66%;height: 7.38%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 40.51%;top: 72.86%;width: 17.66%;height: 7.38%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "面白そう!<br/>バッグの中<br/>皆で見せっこ<br/>しよう!"
-		,"style": "font-size: 14px;left: 73.33%;top: 86.27%;width: 14.20%;height: 8.97%;border-radius:40%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 73.33%;top: 86.27%;width: 14.20%;height: 8.97%;border-radius:40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 ]

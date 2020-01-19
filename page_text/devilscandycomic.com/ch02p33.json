@@ -1,57 +1,57 @@
 [
 	{
 		"text": "彼女に<br/>これ以上<br/>手を出すな!"
-		,"style": "font-size: 16px;left: 29.5%;top: 5.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 29.5%;top: 5.5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "もし<br/>僕の脳が<br/>欲しい<br/>なら…"
-		,"style": "font-size: 16px;left: 42%;top: 8%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 42%;top: 8%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "“持って<br/>行け”？"
-		,"style": "font-size: 16px;left: 58.5%;top: 4.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 58.5%;top: 4.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ええ。<br/>計画通り"
-		,"style": "font-size: 16px;left: 60.5%;top: 10%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 60.5%;top: 10%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "少し<span style=\"font-weight: bold;\">遅い</span>わね<br/>でも頭が完全に<br/>正しく機能<br/>してるわ"
-		,"style": "font-size: 16px;left: 72%;top: 3.6%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 72%;top: 3.6%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "いやぁ。<br/>私は今日は<br/>暴力的なのは<br/>もう十分です"
-		,"style": "font-size: 14px;left: 81%;top: 17%;border-radius: 10%;"
+		,"style": "font-size: 14em;left: 81%;top: 17%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "手早く<br/>やるよ"
-		,"style": "font-size: 16px;left: 7%;top: 45%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 7%;top: 45%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "い…<br/>いや<br/>僕は…"
-		,"style": "font-size: 14px;left: 26.5%;top: 45.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 26.5%;top: 45.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "僕は<br/>…"
-		,"style": "font-size: 14px;left: 30%;top: 50.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 30%;top: 50.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "準備を<br/>しろ…"
-		,"style": "font-size: 16px;left: 71%;top: 43.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 71%;top: 43.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "何て言えば<br/>いいんだ？"
-		,"style": "font-size: 22px;left: 4.5%;top: 61.5%;border-radius: 20%;"
+		,"style": "font-size: 22em;left: 4.5%;top: 61.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
@@ -61,12 +61,12 @@
 	}
 	,{
 		"text": "もちろん<br/>僕は脳を<br/>失いたくない<br/>でも僕は<br/>パンドラの命に<br/>責任がある"
-		,"style": "font-size: 15px;left: 37.5%;top: 63.5%;border-radius: 30%;"
+		,"style": "font-size: 15em;left: 37.5%;top: 63.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "これ以上彼女を<br/>傷つけさせる<br/>わけにはいかない！！"
-		,"style": "font-size: 16px;left: 62.2%;top: 60.5%;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 62.2%;top: 60.5%;border:solid 1px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

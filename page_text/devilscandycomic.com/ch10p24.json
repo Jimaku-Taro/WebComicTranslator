@@ -1,57 +1,57 @@
 [
 	{
 		"text": "大雲さんが<br/>僕らに結婚して<br/>欲しいって?"
-		,"style": "left: 13.5442%;top: 4.9324%;width: 15.2745%;height: 9.3043%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 13.5442%;top: 4.9324%;width: 15.2745%;height: 9.3043%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "うわぁ"
-		,"style": "left: 28.3413%;top: 11.2191%;width: 8.7112%;height: 5.7837%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 28.3413%;top: 11.2191%;width: 8.7112%;height: 5.7837%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<span class=\"BOLD\">ピノ・カドモス(15)</span>種族：サイクロプス(角なし)"
-		,"style": "left: 14.4988%;top: 23.7086%;width: 24.2243%;height: 4.0235%;font-size: 14px;border-radius:0%;"
+		,"style": "left: 14.4988%;top: 23.7086%;width: 24.2243%;height: 4.0235%;font-size: 14em;border-radius:0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "えぇ全く<br/>そんなの<br/>ありえな…"
-		,"style": "left: 10.5609%;top: 32.0070%;width: 10.7399%;height: 6.1190%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 10.5609%;top: 32.0070%;width: 10.7399%;height: 6.1190%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "いいよ。<br/>結婚しよう"
-		,"style": "left: 25.2387%;top: 43.0716%;width: 9.0692%;height: 5.8676%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 25.2387%;top: 43.0716%;width: 9.0692%;height: 5.8676%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "は?"
-		,"style": "left: 40.3938%;top: 30.3306%;width: 7.0406%;height: 4.6102%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 40.3938%;top: 30.3306%;width: 7.0406%;height: 4.6102%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "皆に<br/>今すぐ<br/>伝える?"
-		,"style": "left: 52.6850%;top: 29.9115%;width: 12.6492%;height: 6.2867%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 52.6850%;top: 29.9115%;width: 12.6492%;height: 6.2867%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "待って<br/>話を聞いた<br/>だけでしょ<br/>あなたはそれで<br/>いいの?!"
-		,"style": "left: 72.7327%;top: 31.1714%;width: 15.7518%;height: 8.9690%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 72.7327%;top: 31.1714%;width: 15.7518%;height: 8.9690%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "うん、<br/>いいよ。<br/>両家にとって<br/>良い話だろ?"
-		,"style": "left: 4.8329%;top: 62.3533%;width: 11.6945%;height: 10.0587%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 4.8329%;top: 62.3533%;width: 11.6945%;height: 10.0587%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "人生、<br/>配られた<br/>手札から<br/>選ばなきゃ<br/>ならない時も<br/>あるよ"
-		,"style": "left: 38.1265%;top: 63.7783%;width: 13.3652%;height: 9.9749%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 38.1265%;top: 63.7783%;width: 13.3652%;height: 9.9749%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "うわぁ…<br/>何か<br/>違った?"
-		,"style": "left: 77.7446%;top: 62.4371%;width: 13.4845%;height: 6.4543%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 77.7446%;top: 62.4371%;width: 13.4845%;height: 6.4543%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 ]

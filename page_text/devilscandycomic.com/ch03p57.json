@@ -1,37 +1,37 @@
 [
 	{
 		"text": "次の<br/>登校日<br/>…"
-		,"style": "font-size: 18px;color: white;background-color: black;left: 17.5%;top: 4%;border-radius: 10%;"
+		,"style": "font-size: 18em;color: white;background-color: black;left: 17.5%;top: 4%;border-radius: 10%;"
 		,"class": ""
 	}
 	,{
 		"text": "カズ、<br/>助けて!"
-		,"style": "font-size: 16px;left: 81%;top: 5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 81%;top: 5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "人気になり<br/>たくない!<br/>恐い!"
-		,"style": "font-size: 17px;left: 71%;top: 27%;border-radius: 20%;"
+		,"style": "font-size: 17em;left: 71%;top: 27%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ぼ…僕に<br/>どうにか<br/>できるって<br/>思う？"
-		,"style": "font-size: 18px;left: 77%;top: 52%;border-radius: 30%;"
+		,"style": "font-size: 18em;left: 77%;top: 52%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "来なさい、ラビ!<br/>重量挙げ部の<br/>初日よ！力こそ<br/>スタイリッシュ!<br/>野生こそ美!"
-		,"style": "font-size: 14.5px;left: 18%;top: 72%;border-radius: 30%;"
+		,"style": "font-size: 14.5em;left: 18%;top: 72%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "すぐに<br/>トレンドを<br/>見直して<br/>外見を再構成<br/>しないと!"
-		,"style": "font-size: 15px;left: 52.7%;top: 85%;border-radius: 30%;"
+		,"style": "font-size: 15em;left: 52.7%;top: 85%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ラビ、あなたを<br/><span style=\"font-weight: bold;\">引きずって</span>でも<br/>ファッションの<br/>新時代に<br/>行くわよ"
-		,"style": "font-size: 14px;left: 77%;top: 70%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 77%;top: 70%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 ]

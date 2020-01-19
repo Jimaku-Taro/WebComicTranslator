@@ -1,57 +1,57 @@
 [
 	{
 		"text": "地下鉄…<br/>使えば…<br/>いいじゃん…"
-		,"style": "font-size: 14px;left: 64%;top: 8%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 64%;top: 8%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "それは…<br/>全然…<br/>メタルじゃ…<br/>ない…"
-		,"style": "font-size: 14px;left: 77.5%;top: 8%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 77.5%;top: 8%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "実際はただ<br/>貧乏なだけ"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 86%;top: 16%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 86%;top: 16%;border-radius: 0%;"
 		,"class": ""
 	}
 	,{
 		"text": "待った…<br/>このナイトクラブに<br/>来たんじゃないよね?<br/>高校生は入れて<br/>くれないよ"
-		,"style": "font-size: 13px;left: 23%;top: 30.8%;border-radius: 0%;"
+		,"style": "font-size: 13em;left: 23%;top: 30.8%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">忍び込むのよ。</span><br/>私達は<span style=\"font-weight: bold;\">ワイルド</span>で<br/><span style=\"font-weight: bold;\">ある男を騙したり</span><br/>するのよ"
-		,"style": "font-size: 16px;left: 43%;top: 31.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 43%;top: 31.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "裏へ回って。<br/>搬入口か<br/>開いた窓か<br/>何か探すの<br/>手伝って"
-		,"style": "font-size: 16px;left: 81.5%;top: 41%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 81.5%;top: 41%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ぼく<span style=\"font-weight: bold;\">何してんだろ</span><br/>でも最悪でもない?<br/>クールなクラブの中を<br/>見たい２人のアホの子!<br/>これ以上は良く<br/>わからない!"
-		,"style": "font-size: 14px;left: 11.5%;top: 57.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 11.5%;top: 57.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "悪い魔法使い<br/>でさえこんな<br/>物語買う?"
-		,"style": "font-size: 15px;left: 30.5%;top: 59.5%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 30.5%;top: 59.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ねぇ。<br/>窓がある。<br/>僕が上げて<br/>あげるよ"
-		,"style": "font-size: 14px;left: 49%;top: 60%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 49%;top: 60%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "よっ!"
-		,"style": "font-size: 12px;left: 54.5%;top: 72.5%;border-radius: 0%;"
+		,"style": "font-size: 12em;left: 54.5%;top: 72.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "どうぞ<br/>ご自由に、<br/>変態。ブルマ<br/>履いてるもん"
-		,"style": "font-size: 14px;left: 77%;top: 87.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 77%;top: 87.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

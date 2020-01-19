@@ -1,32 +1,32 @@
 [
 	{
 		"text": "人影なし"
-		,"style": "font-size: 20px;left: 38%;top: 6%;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 38%;top: 6%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "倉庫部屋<br/>みたいね"
-		,"style": "font-size: 20px;left: 47%;top: 8%;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 47%;top: 8%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ギター<br/>ケース<br/>かな？"
-		,"style": "font-size: 16px;left: 18%;top: 52%;width: 71px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 18%;top: 52%;width: 71px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "何よ、<br/>急に歌う気？<br/>目立っちゃ<br/>ダメよ！"
-		,"style": "font-size: 16px;left: 45%;top: 53%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 45%;top: 53%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "わあ。<br/>かなり<br/>メタルね、<br/>実際"
-		,"style": "font-size: 15px;left: 82.5%;top: 56%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 82.5%;top: 56%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "…助けて<br/>…"
-		,"style": "font-size: 12px;left: 81%;top: 71.5%;border-radius: 0%;"
+		,"style": "font-size: 12em;left: 81%;top: 71.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

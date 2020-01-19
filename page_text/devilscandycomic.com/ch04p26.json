@@ -1,52 +1,52 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">ヘイ！</span><br/>１つ<br/>質問だ！"
-		,"style": "font-size: 16px;left: 28%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 28%;top: 6%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "何じゃ<br/>あれ!?"
-		,"style": "font-size: 25px;left: 45%;top: 5%;border-radius: 20%;"
+		,"style": "font-size: 25em;left: 45%;top: 5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "もちろん、<br/><span style=\"font-weight: bold;\">最ぃぃぃ愛の</span><br/>クラスメート、<br/><span style=\"font-weight: bold;\">チャーリー・<br/>ヤマモトだ！</span>"
-		,"style": "font-size: 16px;left: 61%;top: 27%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 61%;top: 27%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "お前らの幼馴染で<br/>彼はラボで<br/>超短期間で<br/>作成されては<br/><span style=\"font-weight: bold;\">絶対にない</span>"
-		,"style": "font-size: 16px;left: 76%;top: 32%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 76%;top: 32%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "彼が<br/>構造的に不安定で<br/>放射線が漏れてる<br/>という噂は<br/>無論嘘だぜ"
-		,"style": "font-size: 16px;left: 14%;top: 52%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 14%;top: 52%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ここに来た<br/>お前らの優しい<br/>同胞はとても<br/>頼りになるぞ"
-		,"style": "font-size: 16px;left: 79%;top: 54%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 79%;top: 54%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "生誕の<br/><ruby>組み鐘<rp>(</rp><rt>カリヨン</rt><rp>)</rp></ruby>が<br/>鳴り響いてる!"
-		,"style": "font-size: 16px;left: 21%;top: 73%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 21%;top: 73%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "聞け！"
-		,"style": "font-size: 25px;left: 15%;top: 71.5%;border-radius: 20%;"
+		,"style": "font-size: 25em;left: 15%;top: 71.5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "戦いだ!"
-		,"style": "font-size: 25px;left: 56%;top: 75%;border-radius: 20%;"
+		,"style": "font-size: 25em;left: 56%;top: 75%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "うわあああぁ<br/>これ本当に<br/>マズくない?"
-		,"style": "font-size: 16px;left: 74%;top: 68.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 74%;top: 68.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

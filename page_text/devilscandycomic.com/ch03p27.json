@@ -1,37 +1,37 @@
 [
 	{
 		"text": "ふむむむ…<br/>少し鈍ったな、<br/>でもまだ少しは<br/>読めるかな"
-		,"style": "font-size: 16px;left: 16%;top: 5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 16%;top: 5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">SKS HSSS<br/>SSSS</span>は<br/>“何がクールか?”"
-		,"style": "font-size: 16px;left: 30%;top: 7%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 30%;top: 7%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "いいね、<br/>雑誌のオススメ、<br/>今夜のショーに<br/>こんなの着てけば<br/>いいだろう！"
-		,"style": "font-size: 16px;left: 56%;top: 5%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 56%;top: 5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ヒトミに<br/>格好悪く<br/>見られないか<br/>心配だったし"
-		,"style": "font-size: 16px;left: 74%;top: 6.5%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 74%;top: 6.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ありがと、<br/>リザード達!<br/>最高だよ!"
-		,"style": "font-size: 16px;left: 59%;top: 33.5%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 59%;top: 33.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "“何がクールか？”"
-		,"style": "font-size: 20px;left: 26%;top: 63%;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 26%;top: 63%;border:solid 1px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "“…これは違う！”"
-		,"style": "font-size: 32px;left: 51%;top: 72%;border:solid 1px;border-radius: 0%;"
+		,"style": "font-size: 32em;left: 51%;top: 72%;border:solid 1px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

@@ -1,32 +1,32 @@
 [
 	{
 		"text": "アンブラシティの出来事…(1)"
-		,"style": "font-size: 14px;left: 27.86%;top: 4.86%;width: 43.79%;height: 2.73%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 27.86%;top: 4.86%;width: 43.79%;height: 2.73%;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ジャイロは修学旅行に行けなかった、<br/>両親の船旅の間、妹達を世話する必要があった"
-		,"style": "font-size: 14px;left: 29.18%;top: 9.13%;width: 41.41%;height: 3.61%;border-radius: 0%;font-weight: normal;border: 1px solid;"
+		,"style": "font-size: 14em;left: 29.18%;top: 9.13%;width: 41.41%;height: 3.61%;border-radius: 0%;font-weight: normal;border: 1px solid;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "問題なし"
-		,"style": "font-size: 14px;left: 54.36%;top: 28.45%;width: 10.02%;height: 1.62%;border-radius:10%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 54.36%;top: 28.45%;width: 10.02%;height: 1.62%;border-radius:10%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "特に<br/>問題なし"
-		,"style": "font-size: 14px;left: 31.21%;top: 47.41%;width: 9.67%;height: 2.58%;border-radius:10%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 31.21%;top: 47.41%;width: 9.67%;height: 2.58%;border-radius:10%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "全く問題なし"
-		,"style": "font-size: 14px;left: 30.01%;top: 66.80%;width: 15.16%;height: 1.47%;border-radius:10%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 30.01%;top: 66.80%;width: 15.16%;height: 1.47%;border-radius:10%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ちょっとしたお知らせです：この更新を20日まで続けると言いましたが、<br/>コンピュータが壊れた上に、私は病気です(╥_╥)<br/>だから次の更新はしばらく待って欲しいです、<br/>27日の復帰に全力を尽くします。<br/>その間、おまけ漫画を掲載する予定です！　またね！"
-		,"style": "font-size: 14px;color: white;background-color: black;left: 6.26%;top: 88.56%;width: 86.63%;height: 7.52%;border-radius: 0%;"
+		,"style": "font-size: 14em;color: white;background-color: black;left: 6.26%;top: 88.56%;width: 86.63%;height: 7.52%;border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}
 ]

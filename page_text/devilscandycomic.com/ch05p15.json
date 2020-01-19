@@ -1,47 +1,47 @@
 [
 	{
 		"text": "奴らが一緒に<br/>アレを持ってると<br/>考えないん<br/>ですか？"
-		,"style": "font-size: 14px;left: 16%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 16%;top: 5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あり<br/>得んね"
-		,"style": "font-size: 16px;left: 45.1%;top: 24%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 45.1%;top: 24%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "いずれにせよ<br/>ここでは回収<br/>しない…"
-		,"style": "font-size: 16px;left: 65%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 65%;top: 5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ここでは<br/><span style=\"font-weight: bold;\">メッセージを</span><br/>送る"
-		,"style": "font-size: 16px;left: 82%;top: 24%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 82%;top: 24%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "それに、<br/>もし誰もが<br/>善人なら<br/>君はどうやって<br/>負債を返す？"
-		,"style": "font-size: 16px;left: 12%;top: 33%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 12%;top: 33%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "君は<br/>感謝する<br/>べきだよ"
-		,"style": "font-size: 18px;left: 10.5%;top: 64%;border-radius: 0%;"
+		,"style": "font-size: 18em;left: 10.5%;top: 64%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "奇跡を待って<br/>一生を過ごす<br/>人もいるのに"
-		,"style": "font-size: 16px;left: 32%;top: 66.2%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 32%;top: 66.2%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "君は65回目の<br/>奇跡を体験する"
-		,"style": "font-size: 16px;left: 31%;top: 75%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 31%;top: 75%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "さぁ<br/>行け"
-		,"style": "font-size: 25px;left: 68%;top: 66.5%;width: 78px;border-radius: 0%;"
+		,"style": "font-size: 25em;left: 68%;top: 66.5%;width: 78px;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 ]

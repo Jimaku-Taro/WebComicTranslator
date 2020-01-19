@@ -1,72 +1,72 @@
 [
 	{
 		"text": "誰が<br/>やったの!?"
-		,"style": "font-size: 16px;left: 8.47%;top: 2.84%;width: 11.58%;height: 6.29%;border-radius: 45%;"
+		,"style": "font-size: 16em;left: 8.47%;top: 2.84%;width: 11.58%;height: 6.29%;border-radius: 45%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "それが<br/>謎なの"
-		,"style": "font-size: 16px;left: 27.45%;top: 2.84%;width: 8.95%;height: 7.29%;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 16em;left: 27.45%;top: 2.84%;width: 8.95%;height: 7.29%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "私達は数ヶ月<br/>会ってないけど<br/>彼の人柄は<br/>知ってたから"
-		,"style": "font-size: 14px;left: 39.14%;top: 21.19%;width: 12.65%;height: 8.55%;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 39.14%;top: 21.19%;width: 12.65%;height: 8.55%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "別に寂しく<br/>なかったわ…"
-		,"style": "font-size: 14px;left: 40.69%;top: 29.49%;width: 10.26%;height: 5.11%;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 40.69%;top: 29.49%;width: 10.26%;height: 5.11%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "あぁ<br/>ニモ"
-		,"style": "font-size: 14px;left: 72.43%;top: 6.11%;width: 6.44%;height: 3.52%;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 72.43%;top: 6.11%;width: 6.44%;height: 3.52%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "君も<br/>悲しい<br/>のね"
-		,"style": "font-size: 14px;left: 72.20%;top: 9.54%;width: 7.40%;height: 5.62%;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 72.20%;top: 9.54%;width: 7.40%;height: 5.62%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "え…いや<br/>リンゴ全然<br/>知らねぇ。<br/>会ったこと<br/>ある？"
-		,"style": "font-size: 14px;left: 81.98%;top: 6.53%;width: 10.62%;height: 9.47%;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 81.98%;top: 6.53%;width: 10.62%;height: 9.47%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何も<br/><span><span style=\"font-weight: bold;\">思わ</span>ないの!?</span>"
-		,"style": "font-size: 14px;left: 17.42%;top: 37.87%;width: 10.86%;height: 5.78%;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 17.42%;top: 37.87%;width: 10.86%;height: 5.78%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "彼は大切に<br/>思ってたのよ<span style=\"font-weight: bold;\">君のこと!</span>"
-		,"style": "font-size: 14px;left: 37.83%;top: 37.54%;width: 12.77%;height: 6.20%;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 37.83%;top: 37.54%;width: 12.77%;height: 6.20%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "コイツらが<br/>犯人だ"
-		,"style": "font-size: 14px;left: 53.58%;top: 41.90%;width: 8.47%;height: 7.46%;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 53.58%;top: 41.90%;width: 8.47%;height: 7.46%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "オレ的には<br/>疑問の余地は<br/>無ぇ"
-		,"style": "font-size: 14px;left: 85.08%;top: 47.18%;width: 10.14%;height: 7.29%;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 85.08%;top: 47.18%;width: 10.14%;height: 7.29%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "彼はエコーの<br/>誕生会の<br/>晩餐だろう"
-		,"style": "font-size: 14px;left: 13.25%;top: 60.09%;width: 10.98%;height: 6.79%;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 13.25%;top: 60.09%;width: 10.98%;height: 6.79%;border-radius: 0%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ベティがオレに<br/>妙な顔をした。<br/>吸血者なら、<br/>次の標的は<br/>オレもありえた"
-		,"style": "font-size: 14px;left: 12.41%;top: 69.06%;width: 13.25%;height: 8.97%;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 12.41%;top: 69.06%;width: 13.25%;height: 8.97%;border-radius: 0%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ビビとベベの<br/>考えは分から<br/>ねぇ…<br/><br/>それと…"
-		,"style": "font-size: 14px;left: 39.50%;top: 60.59%;width: 10.38%;height: 9.05%;border-radius: 0%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 39.50%;top: 60.59%;width: 10.38%;height: 9.05%;border-radius: 0%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 ]

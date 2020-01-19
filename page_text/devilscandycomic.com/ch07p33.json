@@ -1,32 +1,32 @@
 [
 	{
 		"text": "厳しいボス2"
-		,"style": "font-size: 30px;left: 36%;top: 5%;width: 230px;height: 45px;border-radius: 0%;"
+		,"style": "font-size: 30em;left: 36%;top: 5%;width: 230px;height: 45px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "はぁ…<br/>あんな事が<br/>あった後に<br/>こんな幸せで<br/>いいのかな?"
-		,"style": "font-size: 14px;left: 27%;top: 9%;width: 109px;height: 111px;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 27%;top: 9%;width: 109px;height: 111px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "わぁ!クモだ!"
-		,"style": "font-size: 25px;left: 28%;top: 32.5%;width: 175px;height: 24px;border-radius: 0%;"
+		,"style": "font-size: 25em;left: 28%;top: 32.5%;width: 175px;height: 24px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "何で<br/>ドアが<br/>開かない!?"
-		,"style": "font-size: 16px;left: 27%;top: 52.3%;width: 111px;height: 74px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 27%;top: 52.3%;width: 111px;height: 74px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "助けて!<br/>クモだ!"
-		,"style": "font-size: 20px;left: 58%;top: 52.5%;width: 116px;height: 72px;border-radius: 50%;"
+		,"style": "font-size: 20em;left: 58%;top: 52.5%;width: 116px;height: 72px;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "すまないマイロ…<span style=\"font-weight: bold;\">でもクモを出すわけ<br/>には行かない!!</span>"
-		,"style": "font-size: 16px;left: 27%;top: 74.5%;width: 150px;height: 87px;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 27%;top: 74.5%;width: 150px;height: 87px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 ]

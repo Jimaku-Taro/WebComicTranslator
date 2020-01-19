@@ -1,27 +1,27 @@
 [
 	{
 		"text": "カズが<br/><span style=\"font-weight: bold;\">あたしの</span><br/>家に！？"
-		,"style": "font-size: 25px;left: 73%;top: 11%;border-radius: 20%;"
+		,"style": "font-size: 25em;left: 73%;top: 11%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "おめかし<br/>して来て?"
-		,"style": "font-size: 16px;left: 36.6%;top: 28.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 36.6%;top: 28.5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "了解！"
-		,"style": "font-size: 17px;left: 66.5%;top: 28.7%;border-radius: 0%;"
+		,"style": "font-size: 17em;left: 66.5%;top: 28.7%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "僕のセンス<br/>悪いと<br/>思ってるな…"
-		,"style": "font-size: 16px;left: 11.7%;top: 60.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 11.7%;top: 60.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "暴走列車は<br/>止まらねぇ。<br/>オレは退散<br/>するぜ"
-		,"style": "font-size: 14px;left: 32.5%;top: 61%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 32.5%;top: 61%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

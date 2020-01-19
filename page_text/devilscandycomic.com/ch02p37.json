@@ -1,37 +1,37 @@
 [
 	{
 		"text": "お前があんなに<br/><span style=\"font-weight: bold;\">早く</span>行かなけりゃ<br/>オレももっと早く<br/>着けたんだよ"
-		,"style": "font-size: 16px;left: 19.5%;top: 3%;width: 136px;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 19.5%;top: 3%;width: 136px;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "つまり、<br/>隠し通路の発見に<br/>数分かかった、<br/>だがオレみたいな<br/>天才には…"
-		,"style": "font-size: 16px;left: 50%;top: 6%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 50%;top: 6%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "それは後に<br/>してくれる、<br/><span style=\"font-weight: bold;\">お願い？</span>"
-		,"style": "font-size: 16px;left: 77%;top: 8%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 77%;top: 8%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "そう<br/>だな"
-		,"style": "font-size: 20px;left: 27%;top: 38%;border-radius: 20%;"
+		,"style": "font-size: 20em;left: 27%;top: 38%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "やる<br/>べきを<br/>やるか"
-		,"style": "font-size: 16px;left: 34.5%;top: 37.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 34.5%;top: 37.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "誰が<br/>叩きのめ<br/>されたい？"
-		,"style": "font-size: 20px;left: 10%;top: 64%;border-radius: 20%;"
+		,"style": "font-size: 20em;left: 10%;top: 64%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
-		"text": "<span style=\"font-size: 14px;\">はい</span><br/><span style=\"font-size: 18px;\">私</span><br/><span style=\"font-size: 20px;\">私<br/>！！</span>"
-		,"style": "font-size: 16px;left: 84%;top: 54.2%;border-radius: 40%;"
+		"text": "<span style=\"font-size: 14em;\">はい</span><br/><span style=\"font-size: 18em;\">私</span><br/><span style=\"font-size: 20em;\">私<br/>！！</span>"
+		,"style": "font-size: 16em;left: 84%;top: 54.2%;border-radius: 40%;"
 		,"class": "WHITE BOLD"
 	}
 ]

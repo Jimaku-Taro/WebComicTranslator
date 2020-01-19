@@ -1,17 +1,17 @@
 [
 	{
 		"text": "ロックスターにオレはなる!"
-		,"style": "font-size: 20px;left: 11.22%;top: 11.04%;width: 31.50%;height: 3.02%;border-radius: 0%;border:solid 1px;"
+		,"style": "font-size: 20em;left: 11.22%;top: 11.04%;width: 31.50%;height: 3.02%;border-radius: 0%;border:solid 1px;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ロックスターに俺はなる!"
-		,"style": "font-size: 25px;left: 45.47%;top: 32.33%;width: 35.20%;height: 3.02%;border-radius: 0%;border:solid 1px;"
+		,"style": "font-size: 25em;left: 45.47%;top: 32.33%;width: 35.20%;height: 3.02%;border-radius: 0%;border:solid 1px;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ロックスターに俺はなる!"
-		,"style": "font-size: 27px;left: 30.91%;top: 66.95%;width: 39.38%;height: 2.93%;border-radius: 0%;border:solid 1px;"
+		,"style": "font-size: 27em;left: 30.91%;top: 66.95%;width: 39.38%;height: 2.93%;border-radius: 0%;border:solid 1px;"
 		,"class": "CENTER WHITE BOLD"
 	}
 ]

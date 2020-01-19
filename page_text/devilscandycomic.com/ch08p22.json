@@ -1,72 +1,72 @@
 [
 	{
 		"text": "俺が見るのは"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 11.73%;top: 4.92%;width: 18.60%;height: 1.84%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 11.73%;top: 4.92%;width: 18.60%;height: 1.84%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お前の秘密の恥"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 11.93%;top: 6.44%;width: 16.59%;height: 1.93%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 11.93%;top: 6.44%;width: 16.59%;height: 1.93%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "叫べ、自らの"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 13.37%;top: 8.74%;width: 20.05%;height: 1.84%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 13.37%;top: 8.74%;width: 20.05%;height: 1.84%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "名を求めるが如く"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 13.48%;top: 10.37%;width: 19.53%;height: 1.84%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 13.48%;top: 10.37%;width: 19.53%;height: 1.84%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "それから"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 44.75%;top: 24.33%;width: 25.16%;height: 2.18%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 44.75%;top: 24.33%;width: 25.16%;height: 2.18%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "幾月過ぎても"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 45.23%;top: 26.17%;width: 25.54%;height: 1.51%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 45.23%;top: 26.17%;width: 25.54%;height: 1.51%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "お前は同じ悲しみを"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 47.97%;top: 28.10%;width: 27.09%;height: 1.69%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 47.97%;top: 28.10%;width: 27.09%;height: 1.69%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "味わい続ける"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 51.31%;top: 29.78%;width: 21.00%;height: 1.84%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 51.31%;top: 29.78%;width: 21.00%;height: 1.84%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "雷光のように<br/>蛇が敵を撃つ"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 10.62%;top: 44.43%;width: 20.63%;height: 2.73%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 10.62%;top: 44.43%;width: 20.63%;height: 2.73%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "嵐の空から"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 29.95%;top: 51.74%;width: 20.29%;height: 1.84%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 29.95%;top: 51.74%;width: 20.29%;height: 1.84%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "降り注げ"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 30.55%;top: 53.42%;width: 19.45%;height: 1.84%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 30.55%;top: 53.42%;width: 19.45%;height: 1.84%;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "アンプを"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 55.73%;top: 46.79%;width: 22.32%;height: 1.76%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 55.73%;top: 46.79%;width: 22.32%;height: 1.76%;border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "11に上げ"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 57.64%;top: 48.55%;width: 18.50%;height: 1.84%;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 57.64%;top: 48.55%;width: 18.50%;height: 1.84%;border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "お前を焼きたての<br/>ヤギ肉にしてやる"
-		,"style": "font-size: 20px;color: white;background-color: black;left: 60.86%;top: 80.83%;width: 32.22%;height: 4.53%;border-radius: 0%;"
+		,"style": "font-size: 20em;color: white;background-color: black;left: 60.86%;top: 80.83%;width: 32.22%;height: 4.53%;border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}
 ]

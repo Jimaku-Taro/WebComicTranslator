@@ -1,62 +1,62 @@
 [
 	{
 		"text": "気づいていると<br/>思うが私達は<br/>リーダーを<br/>失っている"
-		,"style": "font-size: 14px;left: 17%;top: 6%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 17%;top: 6%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ジャイロ<br/>…?"
-		,"style": "font-size: 13px;left: 43.5%;top: 15%;border-radius: 20%;"
+		,"style": "font-size: 13em;left: 43.5%;top: 15%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "エリオット<br/>が停学に！<br/><span style=\"font-weight: bold;\">あの<br/>大バカ！</span>"
-		,"style": "font-size: 15px;left: 55.5%;top: 8%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 55.5%;top: 8%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "つまり、<br/>つるんでた<br/>わけでも<br/>ないけど…"
-		,"style": "font-size: 14px;left: 66.5%;top: 10%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 66.5%;top: 10%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">いや、<br/>まいりました。</span><br/>ですが彼の化学へ<br/>の際限ない積極性<br/>と熱意はかけがえ<br/>ないものでして"
-		,"style": "font-size: 13px;left: 77.5%;top: 7%;border-radius: 20%;"
+		,"style": "font-size: 13em;left: 77.5%;top: 7%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "かくかく<br/>しかじか"
-		,"style": "font-size: 12px;left: 83.7%;top: 18.3%;border-radius: 0%;"
+		,"style": "font-size: 12em;left: 83.7%;top: 18.3%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "だから、<br/>部は危機に<br/>直面した"
-		,"style": "font-size: 16px;left: 6.5%;top: 40%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 6.5%;top: 40%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "認めたくないが<br/>誰もジャイロの<br/>代わりは<br/>務まら<br/>なかった"
-		,"style": "font-size: 15px;left: 12%;top: 45.5%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 12%;top: 45.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "だがその後、<br/>彼の傑作が<br/>我らの手に<br/>残されたと<br/>気づいた…"
-		,"style": "font-size: 15px;left: 74%;top: 42.5%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 74%;top: 42.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">…彼が集めた<br/>上質なパーツ</span><br/>から入念に<br/>構成した<br/>実験成果！"
-		,"style": "font-size: 16px;left: 7.5%;top: 64.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 7.5%;top: 64.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "私達が<br/>やるべきは<br/>彼の最高傑作の<br/>完成だった…"
-		,"style": "font-size: 16px;left: 20%;top: 65%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 20%;top: 65%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "…そして<br/>部の新たなる<br/>リーダーを<br/><span style=\"font-weight: bold;\">創った！</span>"
-		,"style": "font-size: 16px;left: 75.3%;top: 62.5%;width: 104px;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 75.3%;top: 62.5%;width: 104px;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 ]

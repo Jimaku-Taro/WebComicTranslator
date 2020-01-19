@@ -1,37 +1,37 @@
 [
 	{
 		"text": "今晩は ようこそ<br/>ヘムロック<br/>ハートの<br/>絶対ファッション<br/>アルマゲドンへ"
-		,"style": "font-size: 16px;left: 10%;top: 7%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 10%;top: 7%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "私エリオット・<br/>ヘムロックが、<br/>今宵の司会を<br/>務めさせて<br/>頂きます"
-		,"style": "font-size: 14px;left: 63%;top: 4%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 63%;top: 4%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "チャーミング<br/>スタイリッシュな<br/>チーム<br/><ruby>ご夫妻の<rp>(</rp><rt>ミスター＆ミセス</rt><rp>)</rp></ruby><br/>ストリクソン<br/>もご一緒です"
-		,"style": "font-size: 14px;left: 75%;top: 5%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 75%;top: 5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "そこは<span style=\"font-weight: bold;\">“ミス<br/></span>ストリクソン”<br/>私は独身でしょ"
-		,"style": "font-size: 16px;left: 7.5%;top:58.5%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 7.5%;top:58.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ハッキリ<br/>言っておくが<br/>私も独身だ"
-		,"style": "font-size: 16px;left: 73.5%;top: 60.5%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 73.5%;top: 60.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ゴホン…"
-		,"style": "font-size: 24px;left: 65%;top: 74%;border-radius: 10%;"
+		,"style": "font-size: 24em;left: 65%;top: 74%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "い…一般的な<br/>ファッション<br/>アルマゲドン<br/>ルールに従います、<br/>つまり<span style=\"font-weight: bold;\">ジラスの<br/>センチネル</span>を<br/>用います"
-		,"style": "font-size: 16px;left: 69%;top: 78%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 69%;top: 78%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 ]

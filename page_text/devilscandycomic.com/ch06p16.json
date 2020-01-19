@@ -1,12 +1,12 @@
 [
 	{
 		"text": "くそっ、<br/>パンドラは<br/>どこだ？"
-		,"style": "font-size: 16px;left: 58.5%;top: 4%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 58.5%;top: 4%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ううっ!"
-		,"style": "font-size: 16px;left: 26.2%;top: 59.8%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 26.2%;top: 59.8%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 ]

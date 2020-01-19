@@ -1,17 +1,17 @@
 [
 	{
-		"text": "鏡を見る時、<br/>我らは見る<br/>喜びと共に受け入れた<br/>残忍な姿を持つ生き物達を"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 38%;top: 33%;border-radius: 0%;"
-		,"class": ""
+		"text": "鏡を見る時、<br/>我らが見るのは<br/>喜びと共に受け入れた<br/>残忍な姿を持つ生き物達"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 37.5895%;top: 32.9188%;width: 23.2697%;height: 7.9765%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
-		"text": "引き裂くための爪、飛び立つための翼<br/>噛むための牙、突き刺すための角"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 35%;top: 41.5%;border-radius: 0%;"
-		,"class": ""
+		"text": "引き裂く爪、飛び立つ翼<br/>噛む砕く牙、突き刺す角"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 33.8902%;top: 41.3151%;width: 33.7709%;height: 4.4500%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 	,{
-		"text": "夜を見通すための<br/>明るく輝く目、<br/>全てに恐怖を与えるための<br/>長く、鞭打つ尻尾"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 35%;top: 47%;border-radius: 0%;"
-		,"class": ""
+		"text": "夜を見通す<br/>明るく輝く目、<br/>全てに恐怖を与える<br/>長く、鞭打つ尻尾"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 34.3675%;top: 47.0246%;width: 24.7017%;height: 8.3123%;border-radius: 10%;"
+		,"class": "CENTER"
 	}
 ]

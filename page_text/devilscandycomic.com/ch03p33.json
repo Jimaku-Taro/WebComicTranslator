@@ -1,47 +1,47 @@
 [
 	{
 		"text": "結局<br/>私に勝つため<br/>来たのね？"
-		,"style": "font-size: 16px;left: 12.5%;top: 27%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 12.5%;top: 27%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ダサい優しい<br/>ヒロインが<br/>高慢な人気者に<br/>打ち勝つ、<br/>いわゆる学園<br/>ファンタジーでも<br/>やる気？"
-		,"style": "font-size: 14.5px;left: 79.5%;top: 8%;border-radius: 40%;"
+		,"style": "font-size: 14.5em;left: 79.5%;top: 8%;border-radius: 40%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "意外と<br/>自覚あるんだ"
-		,"style": "font-size: 16.5px;left: 9.5%;top: 41%;border-radius: 20%;"
+		,"style": "font-size: 16.5em;left: 9.5%;top: 41%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "でも違うわ、<br/>カズのために<br/>来たの"
-		,"style": "font-size: 16px;left: 18%;top: 46%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 18%;top: 46%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "いくわよ、<br/>パンドラ"
-		,"style": "font-size: 14px;left: 22%;top: 53.5%;transform: rotate(-10deg);border-radius: 10%;"
+		,"style": "font-size: 14em;left: 22%;top: 53.5%;transform: rotate(-10deg);border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "よろしい"
-		,"style": "font-size: 18px;left: 62%;top: 41%;border-radius: 20%;"
+		,"style": "font-size: 18em;left: 62%;top: 41%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">私の人生を<br/>滅茶苦茶にする</span>より<br/>あんたが愚かな<br/>挫折を痛感する方が<br/>一番だもの！"
-		,"style": "font-size: 14px;left: 80%;top: 43.5%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 80%;top: 43.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "被害者気取りに<br/>うんざりよ。<br/>車を真っ二つに<br/>裂ける程強いのに…<br/>なぜファッション<br/>でも私に勝つ必要が<br/>あるの！？"
-		,"style": "font-size: 14px;left: 11%;top: 64%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 11%;top: 64%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "私はあんたを<br/>相手にする必要は<br/>全くないの！<br/>サイクロプスの<br/>職業学校にでも行って、<br/>砕石労働者か何かに<br/>でもなればいいの!"
-		,"style": "font-size: 14px;left: 10%;top: 78%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 10%;top: 78%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 ]

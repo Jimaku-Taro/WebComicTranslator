@@ -1,72 +1,72 @@
 [
 	{
 		"text": "<ruby>パパ!?<rp>(</rp><rt>DAD</rt><rp>)</rp></ruby>"
-		,"style": "font-size: 14px;left: 25.18%;top: 2.69%;width: 6.21%;height: 4.53%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 25.18%;top: 2.69%;width: 6.21%;height: 4.53%;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "いつか<br/>いい探偵に<br/>なれる…<br/>私のように"
-		,"style": "font-size: 14px;left: 22.49%;top: 12.40%;width: 10.38%;height: 9.39%;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 22.49%;top: 12.40%;width: 10.38%;height: 9.39%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "さっき<br/>コケたのは<br/>アンタの<br/>足か…"
-		,"style": "font-size: 14px;left: 40.63%;top: 4.26%;width: 10.50%;height: 9.56%;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 40.63%;top: 4.26%;width: 10.50%;height: 9.56%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ずっと<br/>いたのか!?<br/>アンタの<br/>仕業か?"
-		,"style": "font-size: 14px;left: 56.86%;top: 3.09%;width: 11.10%;height: 8.80%;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 56.86%;top: 3.09%;width: 11.10%;height: 8.80%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "彼女がミステリーを<br/>誕生会に希望してね<br/>彼女の父親に<br/>仕事もあったし<br/>善意の対応だよ"
-		,"style": "font-size: 14px;left: 73.45%;top: 2.25%;width: 18.26%;height: 9.05%;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 73.45%;top: 2.25%;width: 18.26%;height: 9.05%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "皆で結構な<br/>額をお支払い<br/>したけどね"
-		,"style": "font-size: 14px;left: 79.42%;top: 11.72%;width: 12.41%;height: 6.71%;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 79.42%;top: 11.72%;width: 12.41%;height: 6.71%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "お前は<br/>もっと外に出て<br/>女の子と会うべき<br/>だと思ってた"
-		,"style": "font-size: 14px;left: 14.14%;top: 40.39%;width: 14.80%;height: 8.47%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 14.14%;top: 40.39%;width: 14.80%;height: 8.47%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "もちろん<br/>リンゴみたいな<br/>彼氏が良いなら<br/>それもよし"
-		,"style": "font-size: 14px;left: 73.33%;top: 44.92%;width: 13.72%;height: 8.55%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 73.33%;top: 44.92%;width: 13.72%;height: 8.55%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "正直言うと<br/>大学時代<br/>幾人かの男と<br/>付き合ってたよ<br/>お前のママと<br/>結婚する前ね"
-		,"style": "font-size: 14px;left: 8.53%;top: 56.57%;width: 14.80%;height: 10.98%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 8.53%;top: 56.57%;width: 14.80%;height: 10.98%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "アンタと<br/>そんな話を<br/>する気はねぇ!"
-		,"style": "font-size: 14px;left: 26.55%;top: 57.49%;width: 15.99%;height: 7.88%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 26.55%;top: 57.49%;width: 15.99%;height: 7.88%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ちょっと<br/>待て…"
-		,"style": "font-size: 14px;left: 34.79%;top: 77.44%;width: 8.11%;height: 6.45%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 34.79%;top: 77.44%;width: 8.11%;height: 6.45%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "完全に<br/>透明って<br/>ことは…"
-		,"style": "font-size: 14px;left: 48.75%;top: 58.50%;width: 10.62%;height: 5.11%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 48.75%;top: 58.50%;width: 10.62%;height: 5.11%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;font-weight: normal;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "全裸じゃ<br/>ねーか!?"
-		,"style": "font-size: 20px;left: 47.20%;top: 82.14%;width: 12.41%;height: 6.12%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
+		,"style": "font-size: 20em;left: 47.20%;top: 82.14%;width: 12.41%;height: 6.12%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 45%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "９章　完"
-		,"style": "font-size: 20px;left: 61.75%;top: 95.46%;width: 21.60%;height: 2.51%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;border:solid 1px;"
+		,"style": "font-size: 20em;left: 61.75%;top: 95.46%;width: 21.60%;height: 2.51%;ext-align: center;display: flex;flex-direction: column;align-items: center;justify-content: center;border-radius: 0%;border:solid 1px;"
 		,"class": "WHITE BOLD"
 	}
 ]

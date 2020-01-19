@@ -1,22 +1,22 @@
 [
 	{
 		"text": "もう<br/>死んでる<br/>クセに!"
-		,"style": "font-size: 15px;left: 25%;top: 4%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 25%;top: 4%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "アタイの<br/>邪魔を<br/>するな!"
-		,"style": "font-size: 16px;left: 76%;top: 13.5%;width: 70px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 76%;top: 13.5%;width: 70px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "君の攻撃は<br/>大したことない<br/>反撃はできない<br/>でしょ"
-		,"style": "font-size: 15px;left: 42%;top: 24%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 42%;top: 24%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "何か見せるなら<br/>早くした方が<br/>いいわよ"
-		,"style": "font-size: 15px;left: 49%;top: 42.7%;height: 67px;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 49%;top: 42.7%;height: 67px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

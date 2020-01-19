@@ -1,27 +1,27 @@
 [
 	{
 		"text": "ハッ"
-		,"style": "font-size: 16px;left: 34.3%;top: 7%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 34.3%;top: 7%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ワ!"
-		,"style": "font-size: 19px;left: 18.5%;top: 27%;border-radius: 0%;"
+		,"style": "font-size: 19em;left: 18.5%;top: 27%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "大丈夫<br/>ですか?!"
-		,"style": "font-size: 16px;left: 43%;top: 28.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 43%;top: 28.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "この割れた<br/>ガラスを<br/>見ろ<br/>…"
-		,"style": "font-size: 14px;left: 45%;top: 72%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 45%;top: 72%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ここの<br/>店員達は<br/>明らかに<br/>不注意だ"
-		,"style": "font-size: 16px;left: 53%;top: 78%;width: 86px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 53%;top: 78%;width: 86px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

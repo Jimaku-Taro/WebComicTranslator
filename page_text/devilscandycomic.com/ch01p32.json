@@ -1,42 +1,42 @@
 [
 	{
 		"text": "やれやれ"
-		,"style": "font-size: 16px;left: 67.3%;top: 9.5%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 67.3%;top: 9.5%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "屋根に<br/>上がったか。<br/>警察呼ぶ<br/>べきだ…"
-		,"style": "font-size: 16px;left: 73.5%;top: 11.5%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 73.5%;top: 11.5%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ニモ！<br/>なんとかして！<br/>彼女を<br/>食べる気だ！"
-		,"style": "font-size: 15px;left: 14%;top: 62%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 14%;top: 62%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "おい、<span style=\"font-weight: bold;\">オレに</span><br/>なんとかしろ？<br/><span style=\"font-weight: bold;\">オレの</span>責任って<br/>言うのかよ？"
-		,"style": "font-size: 16px;left: 29.5%;top: 62%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 29.5%;top: 62%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">お願い！</span>"
-		,"style": "font-size: 16px;left: 46%;top: 63%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 46%;top: 63%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "君がいなきゃ<br/>何も<br/>できないんだ！"
-		,"style": "font-size: 16px;left: 54%;top: 64%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 54%;top: 64%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "まぁ、<br/>そこまで<br/>言うなら…"
-		,"style": "font-size: 16px;left: 70%;top: 61.1%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 70%;top: 61.1%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "へっ。<br/>魔法の<br/>言葉さ"
-		,"style": "font-size: 16px;left: 70%;top: 80.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 70%;top: 80.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

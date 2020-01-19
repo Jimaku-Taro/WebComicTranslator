@@ -1,37 +1,37 @@
 [
 	{
 		"text": "縫合糸<br/>…"
-		,"style": "font-size: 16px;left: 25.1%;top: 13%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 25.1%;top: 13%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "縫合糸<br/>…"
-		,"style": "font-size: 16px;left: 71.6%;top: 30%;width: 56px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 71.6%;top: 30%;width: 56px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<ruby>剪刀<rp>(</rp><rt>せんとう</rt><rp>)</rp></ruby><br/>…"
-		,"style": "font-size: 16px;left: 19.2%;top: 45.5%;width: 60px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 19.2%;top: 45.5%;width: 60px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<ruby>剪刀<rp>(</rp><rt>せんとう</rt><rp>)</rp></ruby><br/>…"
-		,"style": "font-size: 16px;left: 65%;top: 53%;width: 64px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 65%;top: 53%;width: 64px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "チェーン<br/>ソー…"
-		,"style": "font-size: 16px;left: 42%;top: 63%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 42%;top: 63%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "チェーン<br/>…"
-		,"style": "font-size: 16px;left: 29.2%;top: 68.8%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 29.2%;top: 68.8%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "は…？"
-		,"style": "font-size: 14px;left: 34.2%;top: 72.8%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 34.2%;top: 72.8%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

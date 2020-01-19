@@ -1,12 +1,12 @@
 [
 	{
 		"text": "パンドラ<br/>今しかない。<br/>やるぞ"
-		,"style": "font-size: 14px;left: 45.64%;top: 67.84%;width: 12.05%;height: 7.29%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 45.64%;top: 67.84%;width: 12.05%;height: 7.29%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "くっ!"
-		,"style": "font-size: 14px;left: 62.77%;top: 85.44%;width: 4.06%;height: 2.77%;border-radius: 50%;font-weight: normal;"
+		,"style": "font-size: 14em;left: 62.77%;top: 85.44%;width: 4.06%;height: 2.77%;border-radius: 50%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 ]

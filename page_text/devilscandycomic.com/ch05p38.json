@@ -1,17 +1,17 @@
 [
 	{
 		"text": "ねえ!<br/>どこに<br/>行くの?"
-		,"style": "font-size: 15px;left: 30%;top: 60.5%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 30%;top: 60.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "家だ!"
-		,"style": "font-size: 25px;left: 47%;top: 65%;border-radius: 0%;"
+		,"style": "font-size: 25em;left: 47%;top: 65%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ついて来るな！<br/>君おかしいよ！<br/>君のせいで<br/><span style=\"font-weight: bold;\">殺され</span>そう<br/>だったんだぞ！"
-		,"style": "font-size: 14px;left: 72%;top: 60%;width: 134px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 72%;top: 60%;width: 134px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

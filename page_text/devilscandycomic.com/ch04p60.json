@@ -1,22 +1,22 @@
 [
 	{
 		"text": "アッ!"
-		,"style": "font-size: 15px;left: 54%;top: 14%;border-radius: 10%;"
+		,"style": "font-size: 15em;left: 54%;top: 14%;border-radius: 10%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "インター<br/>セプション！"
-		,"style": "font-size: 16px;left: 63%;top: 21.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 63%;top: 21.5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "待望の<br/>ナイトメアズの<br/>ゴールだ！<br/>そして彼女の<br/>大はしゃぎ、<br/>彼女は…"
-		,"style": "font-size: 14px;left: 19.5%;top: 30.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 19.5%;top: 30.5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "あー、はい。<br/>非常に良いです<br/>インフェルノズ<br/>へ卵は移ります"
-		,"style": "font-size: 14px;left: 79%;top: 87%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 79%;top: 87%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 ]

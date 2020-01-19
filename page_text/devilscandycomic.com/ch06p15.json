@@ -1,17 +1,17 @@
 [
 	{
 		"text": "メイメイが<br/>試合で君を見た後<br/><span>君の<span style=\"font-weight: bold;\">本当の</span>強さを</span>知りたいって"
-		,"style": "font-size: 16px;left: 23%;top: 44.5%;height: 110px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 23%;top: 44.5%;height: 110px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ちょ～～～<br/>強いといいなぁ、<br/>だって<br/>君に会ったら<br/>我慢しなくて<br/>いいってさ"
-		,"style": "font-size: 14px;left: 47%;top: 63%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 47%;top: 63%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "“あなたが<br/>倒せるようなら<br/>彼女には全く<br/>価値がないわ”<br/>って言ってた"
-		,"style": "font-size: 15px;left: 78%;top: 83%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 78%;top: 83%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

@@ -1,22 +1,22 @@
 [
 	{
 		"text": "ワオ！！"
-		,"style": "font-size: 16px;left: 22.5%;top: 5.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 22.5%;top: 5.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ついでに、<br/>お前の一番の<br/>相手がお前を<br/>困らせてる<br/>ようだが"
-		,"style": "font-size: 16px;left: 8%;top: 41.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 8%;top: 41.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "まぁまぁ、ニモ、<br/><span style=\"font-weight: bold;\">ジェラシィィィィ</span><br/>はよせ。<br/>オレは一緒にいるの<br/>大好きなんだ"
-		,"style": "font-size: 14px;left: 15.5%;top: 68.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 15.5%;top: 68.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">やめ<br/>うぐぁ<br/>やめて</span>"
-		,"style": "font-size: 20px;left: 35.5%;top: 68%;width: 100px;border-radius: 17%;"
+		,"style": "font-size: 20em;left: 35.5%;top: 68%;width: 100px;border-radius: 17%;"
 		,"class": "WHITE"
 	}
 ]

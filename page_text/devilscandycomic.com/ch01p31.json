@@ -1,12 +1,12 @@
 [
 	{
 		"text": "<span style=\"font-weight: bold;\">パンドラ!!</span>"
-		,"style": "font-size: 23px;left: 11.5%;top: 66%;border-radius: 10%;"
+		,"style": "font-size: 23em;left: 11.5%;top: 66%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "もちろん<br/>食べたくないでしょ<br/><span style=\"font-weight: bold;\">あたし</span>なんて…"
-		,"style": "font-size: 13px;left: 83%;top: 36%;border-radius: 25%;"
+		,"style": "font-size: 13em;left: 83%;top: 36%;border-radius: 25%;"
 		,"class": "WHITE"
 	}
 ]

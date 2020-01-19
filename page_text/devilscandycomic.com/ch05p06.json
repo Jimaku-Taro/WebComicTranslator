@@ -1,37 +1,37 @@
 [
 	{
 		"text": "妹に<br/>朝食作る事の<br/>どこに<span style=\"font-weight: bold;\">そんな</span><br/>驚く事が<br/>ある？？"
-		,"style": "font-size: 16px;left: 26%;top: 3.5%;width: 115px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 26%;top: 3.5%;width: 115px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "うぐぅ"
-		,"style": "font-size: 16px;left: 69%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 69%;top: 5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ぼくの運は<br/>兄さんと同じ位<br/>悪くなった<br/>みたい"
-		,"style": "font-size: 14px;left: 75.5%;top: 5.5%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 75.5%;top: 5.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "そんな。<br/>ことを。<br/>言うんじゃ。<br/>ない"
-		,"style": "font-size: 16px;left: 40.5%;top: 35.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 40.5%;top: 35.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "くそ、時間<br/>忘れてた！"
-		,"style": "font-size: 16px;left: 9%;top: 69%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 9%;top: 69%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "今朝は早くに<br/>仕事がある"
-		,"style": "font-size: 16px;left: 30%;top: 71.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 30%;top: 71.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "またトップ<br/>シーク<br/>レット？"
-		,"style": "font-size: 16px;left: 54%;top: 70%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 54%;top: 70%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

@@ -1,22 +1,22 @@
 [
 	{
 		"text": "アスモディア?!"
-		,"style": "font-size: 16px;left: 28%;top: 5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 28%;top: 5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "く…"
-		,"style": "font-size: 16px;left: 31.5%;top: 12.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 31.5%;top: 12.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "生きてる<br/>！！"
-		,"style": "font-size: 16px;left: 68%;top: 4%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 68%;top: 4%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "チャーリー<br/>ヤマモト…<br/>お前は立派な<br/>敵だった"
-		,"style": "font-size: 12px;left: 80.5%;top: 25%;border-radius: 20%;"
+		,"style": "font-size: 12em;left: 80.5%;top: 25%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

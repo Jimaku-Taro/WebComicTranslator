@@ -1,37 +1,37 @@
 [
 	{
 		"text": "じ…冗談<br/>だろ?"
-		,"style": "font-size: 14px;left: 17.96%;top: 4.94%;width: 10.86%;height: 6.04%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 17.96%;top: 4.94%;width: 10.86%;height: 6.04%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "OK、違った<br/>間違いなく<br/>切断された<br/>頭だ"
-		,"style": "font-size: 14px;left: 7.82%;top: 41.06%;width: 14.20%;height: 7.29%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 7.82%;top: 41.06%;width: 14.20%;height: 7.29%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "動いてる!"
-		,"style": "font-size: 14px;left: 64.98%;top: 41.73%;width: 8.23%;height: 4.27%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 64.98%;top: 41.73%;width: 8.23%;height: 4.27%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ダイイング<br/>メッセージよ!<br/>犯人を伝えようと<br/>してるわ!"
-		,"style": "font-size: 14px;left: 77.86%;top: 41.15%;width: 13.72%;height: 9.05%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 77.86%;top: 41.15%;width: 13.72%;height: 9.05%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "な…何も<br/>分かんねぇ"
-		,"style": "font-size: 14px;left: 26.19%;top: 65.04%;width: 8.83%;height: 7.04%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 26.19%;top: 65.04%;width: 8.83%;height: 7.04%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "何だ<br/>あの表情?"
-		,"style": "font-size: 14px;left: 62.71%;top: 67.05%;width: 7.76%;height: 7.04%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 62.71%;top: 67.05%;width: 7.76%;height: 7.04%;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ここに何か<br/>あるのか?"
-		,"style": "font-size: 14px;left: 77.86%;top: 68.05%;width: 9.31%;height: 7.38%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 77.86%;top: 68.05%;width: 9.31%;height: 7.38%;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 ]

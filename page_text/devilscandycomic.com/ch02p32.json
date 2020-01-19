@@ -1,17 +1,17 @@
 [
 	{
 		"text": "まって、<br/>やめて!!"
-		,"style": "font-size: 16px;left: 48.5%;top: 37.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 48.5%;top: 37.5%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "ぼ…僕は<br/>まだ君を<br/>元通り縫える<br/>でももう一度<br/>当たれば…"
-		,"style": "font-size: 15px;left: 12.2%;top: 67.5%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 12.2%;top: 67.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "君は<br/>指数本失う<br/>だけじゃ<br/>済まない<br/>かも"
-		,"style": "font-size: 16px;left: 24.5%;top: 72.6%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 24.5%;top: 72.6%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 ]

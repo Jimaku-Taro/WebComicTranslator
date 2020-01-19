@@ -1,52 +1,52 @@
 [
 	{
 		"text": "待って<br/>…"
-		,"style": "font-size: 14px;left: 7%;top: 6%;width: 53px;height: 30px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 7%;top: 6%;width: 53px;height: 30px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "それじゃ<br/>あなたが<br/>殺したの!"
-		,"style": "font-size: 14px;left: 23.2%;top: 4.6%;width: 99px;height: 57px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 23.2%;top: 4.6%;width: 99px;height: 57px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "リケット<br/>の…"
-		,"style": "font-size: 14px;left: 59.6%;top: 5%;width: 76px;height: 43px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 59.6%;top: 5%;width: 76px;height: 43px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ママと<br/>パパを…"
-		,"style": "font-size: 14px;left: 79.8%;top: 24%;width: 81px;height: 41px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 79.8%;top: 24%;width: 81px;height: 41px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "それ本当に<br/>今話すべき?<br/>皆の前で?"
-		,"style": "font-size: 17px;left: 10.2%;top: 58%;width: 117px;height: 76px;border-radius: 0%;"
+		,"style": "font-size: 17em;left: 10.2%;top: 58%;width: 117px;height: 76px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "そうよ!"
-		,"style": "font-size: 16px;left: 27.8%;top: 59%;width: 56px;height: 36px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 27.8%;top: 59%;width: 56px;height: 36px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "皆もうあなたの<br/>ギャング仲間と<br/>戦ったのよ。<br/>皆を守るためにも<br/>秘密はダメよ!"
-		,"style": "font-size: 14px;left: 35%;top: 60%;width: 133px;height: 96px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 35%;top: 60%;width: 133px;height: 96px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "さぁ話して!<br/>洗いざらい!"
-		,"style": "font-size: 18px;left: 57.7%;top: 60%;width: 101px;height: 66px;border-radius: 0%;"
+		,"style": "font-size: 18em;left: 57.7%;top: 60%;width: 101px;height: 66px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ハァ…"
-		,"style": "font-size: 16px;color: white;background-color: #C8C8C8;left: 80%;top: 60%;width: 77px;height: 28px;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: #C8C8C8;left: 80%;top: 60%;width: 77px;height: 28px;border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "それは数年前、<br/>考古学の発掘物から<br/>始まった"
-		,"style": "font-size: 16px;color: white;background-color: black;left: 39.2%;top: 87.6%;width: 180px;height: 75px;border-radius: 0%;"
+		,"style": "font-size: 16em;color: white;background-color: black;left: 39.2%;top: 87.6%;width: 180px;height: 75px;border-radius: 0%;"
 		,"class": "CENTER"
 	}
 ]

@@ -1,12 +1,12 @@
 [
 	{
 		"text": "アスモディア!!"
-		,"style": "font-size: 21px;left: 68.5%;top: 63.5%;border-radius: 10%;"
+		,"style": "font-size: 21em;left: 68.5%;top: 63.5%;border-radius: 10%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "あらら…"
-		,"style": "font-size: 16px;color: white;background-color: #2f2f2f;left: 67.5%;top: 83.6%;transform: rotate(-15deg);border-radius: 20%;"
+		,"style": "font-size: 16em;color: white;background-color: #2f2f2f;left: 67.5%;top: 83.6%;transform: rotate(-15deg);border-radius: 20%;"
 		,"class": ""
 	}
 ]

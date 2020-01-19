@@ -1,27 +1,27 @@
 [
 	{
 		"text": "ハッピーエンドを<br/>僕らは迎えたよう<br/>に聞こえるけど、<br/>何故僕が今ここに<br/>いるかと思うよね"
-		,"style": "font-size: 14px;left: 35.4%;top: 8%;width: 117px;height: 112px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 35.4%;top: 8%;width: 117px;height: 112px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "全てが下り坂に<br/>突然なったのは<br/>保証できるよ"
-		,"style": "font-size: 14px;left: 44%;top: 17.5%;width: 112px;height: 76px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 44%;top: 17.5%;width: 112px;height: 76px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "計画は数年は<br/>上手くいった…<br/>ある日、２人の<br/>来訪者が来た"
-		,"style": "font-size: 14px;left: 13.5%;top: 37.4%;width: 122px;height: 94px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 13.5%;top: 37.4%;width: 122px;height: 94px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "只事じゃない、<br/>だって僕らの小屋は<br/>文明から徒歩２時間で<br/>僕らが住んでるのは<br/>誰も知らない"
-		,"style": "font-size: 14px;left: 9.8%;top: 51%;width: 161px;height: 109px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 9.8%;top: 51%;width: 161px;height: 109px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "その上、２人は<br/>別に自然に<br/>興味も無い様<br/>だった"
-		,"style": "font-size: 14px;left: 48%;top: 55%;width: 108px;height: 105px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 48%;top: 55%;width: 108px;height: 105px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 ]

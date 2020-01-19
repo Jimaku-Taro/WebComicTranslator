@@ -1,12 +1,12 @@
 [
 	{
 		"text": "ナイトメアズの<br/>２連続ゴールだ！<br/>現時点では<br/>復活には程遠いが、<br/>まだ死んでは<br/>いない！"
-		,"style": "font-size: 16px;left: 43%;top: 49.8%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 43%;top: 49.8%;border-radius: 30%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "だが、<br/>インフェルノズが<br/>これを受け入れた<br/>ままとは思えない"
-		,"style": "font-size: 16px;left: 57%;top: 58.8%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 57%;top: 58.8%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 ]

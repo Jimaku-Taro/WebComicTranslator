@@ -1,82 +1,82 @@
 [
 	{
 		"text": "マジで!"
-		,"style": "font-size: 14px;left: 10.4%;top: 4.7%;width: 66px;height: 34px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 10.4%;top: 4.7%;width: 66px;height: 34px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "危険な<br/>場所じゃ<br/>ないのか?"
-		,"style": "font-size: 14px;left: 9%;top: 9%;width: 95px;height: 70px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 9%;top: 9%;width: 95px;height: 70px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "カズも<br/>連れてく<br/>気か?"
-		,"style": "font-size: 14px;left: 28.5%;top: 26.5%;width: 83px;height: 52px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 28.5%;top: 26.5%;width: 83px;height: 52px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "もちろん!<br/>小さな王者は<br/>連れてくよ"
-		,"style": "font-size: 14px;left: 51.8%;top: 5%;width: 84px;height: 67px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 51.8%;top: 5%;width: 84px;height: 67px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "大半は未知の<br/>地域だけど、<br/>古代遺跡が<br/>あるのは<br/><span style=\"font-weight: bold;\">分かってるわ</span>"
-		,"style": "font-size: 14px;left: 84%;top: 8.5%;width: 97px;height: 108px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 84%;top: 8.5%;width: 97px;height: 108px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ミイラが関係<br/>してるかも!"
-		,"style": "font-size: 14px;left: 44%;top: 22%;width: 103px;height: 39px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 44%;top: 22%;width: 103px;height: 39px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "待った、<br/>君達は医者で、<br/>考古学者じゃ…"
-		,"style": "font-size: 12px;left: 73%;top: 21%;width: 87px;height: 44px;border-radius: 0%;"
+		,"style": "font-size: 12em;left: 73%;top: 21%;width: 87px;height: 44px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ミイラで<br/>一杯だと<br/>いいな!"
-		,"style": "font-size: 20px;left: 10%;top: 37%;width: 100px;height: 80px;border-radius: 0%;"
+		,"style": "font-size: 20em;left: 10%;top: 37%;width: 100px;height: 80px;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "そしたら<br/>大手柄だ!<br/>でなきゃ<br/>無意味だ!"
-		,"style": "font-size: 14px;left: 10.9%;top: 46%;width: 90px;height: 84px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 10.9%;top: 46%;width: 90px;height: 84px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "まぁ君なら<br/>手柄なしでも<br/>皆を救ってる<br/>じゃないか"
-		,"style": "font-size: 14px;left: 47%;top: 37%;width: 94px;height: 74px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 47%;top: 37%;width: 94px;height: 74px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "聴け"
-		,"style": "font-size: 14px;left: 81.5%;top: 39%;width: 55px;height: 30px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 81.5%;top: 39%;width: 55px;height: 30px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "医大を出て<br/>命を救うのは<br/>誰でもできる"
-		,"style": "font-size: 14px;left: 10.3%;top: 63.3%;width: 90px;height: 98px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 10.3%;top: 63.3%;width: 90px;height: 98px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "だが善行も誰も<br/>気付かなければ<br/>どうして<br/><span><span style=\"font-weight: bold;\">他人</span>の良心を</span>呼び覚ませる?"
-		,"style": "font-size: 14px;left: 9%;top: 73.6%;width: 109px;height: 109px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 9%;top: 73.6%;width: 109px;height: 109px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "私は人々に<br/>見てもらい<br/>愛される<br/>必要がある"
-		,"style": "font-size: 14px;left: 58%;top: 64.5%;width: 76px;height: 91px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 58%;top: 64.5%;width: 76px;height: 91px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "デビライザー<br/>も同じだろ?<br/>悪と戦うのを<br/>誰も観なきゃ<br/>何が良く<br/>なる?"
-		,"style": "font-size: 14px;left: 86%;top: 64%;width: 91px;height: 110px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 86%;top: 64%;width: 91px;height: 110px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ふむ"
-		,"style": "font-size: 14px;left: 61%;top: 88%;width: 49px;height: 28px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 61%;top: 88%;width: 49px;height: 28px;border-radius: 0%;"
 		,"class": "CENTER WHITE"
 	}
 ]

@@ -1,57 +1,57 @@
 [
 	{
 		"text": "よぉ<br/>親友"
-		,"style": "font-size: 16px;left: 55%;top: 4.5%;width: 70px;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 55%;top: 4.5%;width: 70px;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ハイ カズ!<br/>…"
-		,"style": "font-size: 14px;left: 76%;top: 5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 76%;top: 5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "カズの<br/>彼女…"
-		,"style": "font-size: 14px;left: 78.3%;top: 9.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 78.3%;top: 9.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ねぇ<br/>皆"
-		,"style": "font-size: 16px;left: 8.8%;top: 30%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 8.8%;top: 30%;border-radius: 10%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "体育の授業は<br/>まだだったね？<br/>なんで皆<br/>そこら中で<br/>座ってるの？"
-		,"style": "font-size: 15px;left: 15.8%;top: 30%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 15.8%;top: 30%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "神経学の授業に<br/>行こうとしたよ、<br/>けど科学棟は<br/>完全に溢れてた<br/>…奴らで"
-		,"style": "font-size: 15px;left: 36.3%;top: 30.7%;border-radius: 20%;"
+		,"style": "font-size: 15em;left: 36.3%;top: 30.7%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "料理の文化化を<br/>君と受ける<br/>気だったけど、<br/>叫んで幽霊から<br/>走って逃げて<br/>…結局<br/>ここに来たわ"
-		,"style": "font-size: 14px;left: 78.5%;top: 29.5%;border-radius: 20%;"
+		,"style": "font-size: 14em;left: 78.5%;top: 29.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "つまり幽霊は<br/>科学が好きで<br/>体育が嫌い？"
-		,"style": "font-size: 16px;left: 15%;top: 61%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 15%;top: 61%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "いや、奴らは<br/>ひどく活発で<br/>皆の科学の学習を<br/>邪魔してる、<br/>きっと逆だ"
-		,"style": "font-size: 16px;left: 28.5%;top: 60.5%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 28.5%;top: 60.5%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "多分奴らは<br/>科学を勉強して<br/>欲しくないんだ<br/>実在しないって<br/>バレちゃうから!"
-		,"style": "font-size: 16px;left: 52%;top: 60%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 52%;top: 60%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "どう思います、<br/>スケルトン<br/>忍者先生？<br/>同じアンデッド<br/>ですよね？"
-		,"style": "font-size: 14px;left: 74%;top: 60%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 74%;top: 60%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 ]

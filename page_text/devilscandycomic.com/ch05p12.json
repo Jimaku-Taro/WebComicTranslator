@@ -1,77 +1,77 @@
 [
 	{
 		"text": "うぐぅ"
-		,"style": "font-size: 17px;left: 10%;top: 4%;border-radius: 0%;"
+		,"style": "font-size: 17em;left: 10%;top: 4%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "正してくる"
-		,"style": "font-size: 16px;left: 17%;top: 4%;height: 40px;display: flex;align-items: center;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 17%;top: 4%;height: 40px;display: flex;align-items: center;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "待て"
-		,"style": "font-size: 18px;left: 13.5%;top: 9%;border-radius: 0%;"
+		,"style": "font-size: 18em;left: 13.5%;top: 9%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "奴が<br/>何て言うか<br/>オレは正確に<br/>分かる"
-		,"style": "font-size: 16px;left: 76%;top: 10%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 76%;top: 10%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "無駄<br/>だろうな"
-		,"style": "font-size: 16px;left: 69%;top: 8.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 69%;top: 8.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "“君が<br/>とんがり帽子の<br/>女の子って<br/>どういう意味?”"
-		,"style": "font-size: 16px;left: 40.5%;top: 23.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 40.5%;top: 23.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "“君の<br/>オッパイは<br/>小さいじゃ<br/>ないか”"
-		,"style": "font-size: 16px;left: 75%;top: 37%;width: 102px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 75%;top: 37%;width: 102px;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "皆がヤギーを<br/>格好良く思うのは<br/>彼が何も言わない<br/>から？"
-		,"style": "font-size: 14px;left: 8%;top: 46%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 8%;top: 46%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "だって彼の<br/>口から出る<br/>印象全部<br/>ゴミじゃん"
-		,"style": "font-size: 16px;left: 12%;top: 53.5%;width: 108px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 12%;top: 53.5%;width: 108px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ノー<br/>コメント"
-		,"style": "font-size: 17px;left: 77.5%;top: 50%;border-radius: 0%;"
+		,"style": "font-size: 17em;left: 77.5%;top: 50%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "とにかく、<br/>とんがり帽子の<br/>少女自身が<br/>奴をふる<br/>必要がある"
-		,"style": "font-size: 14px;left: 12%;top: 64.5%;width: 109px;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 12%;top: 64.5%;width: 109px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "だが…"
-		,"style": "font-size: 16px;left: 46%;top: 66.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 46%;top: 66.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "もし<br/>１人じゃ上手く<br/>できなそうなら、<br/>俺がダブルデート<br/>だって言って<br/>頼んで…"
-		,"style": "font-size: 14px;left: 54%;top: 65%;border-radius: 0%;"
+		,"style": "font-size: 14em;left: 54%;top: 65%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "しっ<br/>しっ<br/>しっ、"
-		,"style": "font-size: 15px;left: 75.5%;top: 65.5%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 75.5%;top: 65.5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "わかった"
-		,"style": "font-size: 17px;left: 81%;top: 68.7%;border-radius: 0%;"
+		,"style": "font-size: 17em;left: 81%;top: 68.7%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

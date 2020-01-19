@@ -1,47 +1,47 @@
 [
 	{
 		"text": "アンブラシティの出来事(2)"
-		,"style": "font-size: 18px;left: 28.34%;top: 6.36%;width: 42.84%;height: 2.51%;border-radius: 0%;"
+		,"style": "font-size: 18em;left: 28.34%;top: 6.36%;width: 42.84%;height: 2.51%;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "呪うぞ<br/>ホレイショー!<br/>修学旅行で<br/>母から逃げたろ。<br/>今 母の<br/>嫌がらせ相手は<br/>俺だけだ!"
-		,"style": "font-size: 14px;color: black;background-color: #FCEEC6;left: 55.07%;top: 10.05%;width: 17.18%;height: 14.50%;border-radius:45%;font-weight: normal;"
+		,"style": "font-size: 14em;color: black;background-color: #FCEEC6;left: 55.07%;top: 10.05%;width: 17.18%;height: 14.50%;border-radius:45%;font-weight: normal;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "しつこい<br/>メッセージに<br/>ウンザリだ!"
-		,"style": "font-size: 18px;color: black;background-color: #FCEEC6;left: 28.70%;top: 32.34%;width: 14.32%;height: 12.99%;border-radius:45%;"
+		,"style": "font-size: 18em;color: black;background-color: #FCEEC6;left: 28.70%;top: 32.34%;width: 14.32%;height: 12.99%;border-radius:45%;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "母より<br/>13:05 ハロー<br/>13:07 ヘリオス 母よ<br/>13:18 何故返事しないの?<br/>13:21 私死にそう<br/>13:22 嘘 死んでない<br/>13:23 相手しないと死ぬ<br/>13:35 あなたの父に起きたこと覚えてる?"
-		,"style": "font-size: 12px;color: black;background-color: #9CBD9C;left: 47.87%;top: 36.11%;width: 17.29%;height: 15.00%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: top;border-radius: 0%;font-weight: left;transform: rotate(6deg);"
+		,"style": "font-size: 12em;color: black;background-color: #9CBD9C;left: 47.87%;top: 36.11%;width: 17.29%;height: 15.00%;text-align: left;display: flex;flex-direction: column;align-items: left;justify-content: top;border-radius: 0%;font-weight: left;transform: rotate(6deg);"
 		,"class": ""
 	}
 	,{
 		"text": "俺は<br/>仕事のある大人だ。<br/>相手にする<br/>感情的余裕など無い"
-		,"style": "font-size: 14px;color: black;background-color: #FCEEC6;left: 27.51%;top: 53.30%;width: 16.23%;height: 10.81%;border-radius:45%;font-weight: normal;"
+		,"style": "font-size: 14em;color: black;background-color: #FCEEC6;left: 27.51%;top: 53.30%;width: 16.23%;height: 10.81%;border-radius:45%;font-weight: normal;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "自分の<br/>墓にでも書いてろ<br/>俺は知らん"
-		,"style": "font-size: 14px;color: black;background-color: #FCEEC6;left: 27.51%;top: 63.61%;width: 15.99%;height: 7.21%;border-radius:45%;font-weight: normal;"
+		,"style": "font-size: 14em;color: black;background-color: #FCEEC6;left: 27.51%;top: 63.61%;width: 15.99%;height: 7.21%;border-radius:45%;font-weight: normal;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "ヘリオス<br/>…"
-		,"style": "font-size: 14px;color: black;background-color: #EF424A;left: 26.31%;top: 77.35%;width: 8.11%;height: 3.86%;border-radius:45%;"
+		,"style": "font-size: 14em;color: black;background-color: #EF424A;left: 26.31%;top: 77.35%;width: 8.11%;height: 3.86%;border-radius:45%;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "なぜ返事を<br/>しないの?"
-		,"style": "font-size: 14px;color: black;background-color: #EF424A;left: 29.30%;top: 87.16%;width: 15.04%;height: 5.28%;border-radius:45%;"
+		,"style": "font-size: 14em;color: black;background-color: #EF424A;left: 29.30%;top: 87.16%;width: 15.04%;height: 5.28%;border-radius:45%;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "くぁwせ<br/>drftg<br/>ふじこlp<br/>やぁ母さん!!"
-		,"style": "font-size: 14px;color: black;background-color: #F7BD5A;left: 64.50%;top: 75.68%;width: 11.22%;height: 10.23%;border-radius:40%;"
+		,"style": "font-size: 14em;color: black;background-color: #F7BD5A;left: 64.50%;top: 75.68%;width: 11.22%;height: 10.23%;border-radius:40%;"
 		,"class": "CENTER BOLD"
 	}
 ]

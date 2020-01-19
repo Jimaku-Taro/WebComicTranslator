@@ -1,17 +1,17 @@
 [
 	{
 		"text": "秋…が<br/>冬になった"
-		,"style": "font-size: 16px;left: 68.3%;top: 43.5%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 68.3%;top: 43.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "寒気を<br/>感じるわ"
-		,"style": "font-size: 16px;left: 72%;top: 53%;border-radius: 30%;"
+		,"style": "font-size: 16em;left: 72%;top: 53%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "どんな<br/>悲しみが<br/>少女の心を<br/>凍らせたのか"
-		,"style": "font-size: 14px;left: 79.5%;top: 60.5%;border-radius: 30%;"
+		,"style": "font-size: 14em;left: 79.5%;top: 60.5%;border-radius: 30%;"
 		,"class": "WHITE"
 	}
 ]

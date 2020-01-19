@@ -1,62 +1,62 @@
 [
 	{
 		"text": "うぐぐ…<br/>中へ<br/>お入り"
-		,"style": "left: 10.92%;top: 4.85%;width: 7.28%;height: 7.46%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 10.92%;top: 4.85%;width: 7.28%;height: 7.46%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ヒトミ<br/>ワシを<br/>運んで<br/>くれんか?"
-		,"style": "left: 17.24%;top: 6.94%;width: 8.35%;height: 7.80%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 17.24%;top: 6.94%;width: 8.35%;height: 7.80%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "お爺ちゃん<br/>病院に<br/>行くべきじゃ?"
-		,"style": "left: 68.68%;top: 4.09%;width: 13.84%;height: 7.04%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 68.68%;top: 4.09%;width: 13.84%;height: 7.04%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ハイ お婆ちゃん"
-		,"style": "left: 75.36%;top: 11.64%;width: 11.22%;height: 1.59%;font-size: 11px;border-radius:10%;"
+		,"style": "left: 75.36%;top: 11.64%;width: 11.22%;height: 1.59%;font-size: 11em;border-radius:10%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "いや、<br/>いつものこと!<br/>大丈夫じゃ!"
-		,"style": "left: 4.83%;top: 37.54%;width: 12.41%;height: 7.54%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 4.83%;top: 37.54%;width: 12.41%;height: 7.54%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "いつもなら<br/>大丈夫じゃ<br/>ないでしょ!"
-		,"style": "left: 26.67%;top: 38.04%;width: 11.22%;height: 7.63%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 26.67%;top: 38.04%;width: 11.22%;height: 7.63%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "この話は<br/>したくないけど<br/>祭の最中じゃ<br/>無理ね"
-		,"style": "left: 41.11%;top: 38.21%;width: 16.35%;height: 11.90%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 41.11%;top: 38.21%;width: 16.35%;height: 11.90%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "競技のこと<br/>考えて<br/>なかったん<br/>でしょ?<br/>"
-		,"style": "left: 77.86%;top: 50.03%;width: 14.08%;height: 9.56%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 77.86%;top: 50.03%;width: 14.08%;height: 9.56%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "まぁ…ワシに<br/>他に選択肢は<br/>無いじゃろ?"
-		,"style": "left: 9.61%;top: 63.19%;width: 11.46%;height: 7.12%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 9.61%;top: 63.19%;width: 11.46%;height: 7.12%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "待って、<br/>数時間の<br/>お祭りの話?<br/>何か仕事が<br/>あるの?"
-		,"style": "left: 22.26%;top: 63.44%;width: 12.53%;height: 10.14%;font-size: 14px;border-radius:35%;"
+		,"style": "left: 22.26%;top: 63.44%;width: 12.53%;height: 10.14%;font-size: 14em;border-radius:35%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "大雲工房と<br/>カドモス工房の<br/>決闘の儀式よ。<br/>金属の棍棒を作り<br/>打ち合い<br/>職人技の研鑽を<br/>示すの"
-		,"style": "left: 36.93%;top: 63.36%;width: 20.17%;height: 13.83%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 36.93%;top: 63.36%;width: 20.17%;height: 13.83%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "２大工房の<br/>ライバル関係は<br/>都市の歴史の<br/>大半を占めるわ。<br/>片方が競技を<br/>できなきゃ<br/>大問題よ"
-		,"style": "left: 72.97%;top: 63.86%;width: 16.23%;height: 13.24%;font-size: 14px;border-radius:45%;"
+		,"style": "left: 72.97%;top: 63.86%;width: 16.23%;height: 13.24%;font-size: 14em;border-radius:45%;"
 		,"class": "CENTER WHITE"
 	}
 ]

@@ -1,52 +1,52 @@
 [
 	{
 		"text": "おや、<br/>今日は"
-		,"style": "font-size: 16px;left: 28%;top: 7%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 28%;top: 7%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "２人とも"
-		,"style": "font-size: 16px;left:54%;top: 5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left:54%;top: 5%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "待て"
-		,"style": "font-size: 16px;left: 61%;top: 8%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 61%;top: 8%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "これは<br/>どういうことか<br/>分からないが、<br/>ギターを渡すのを<br/>強く勧める"
-		,"style": "font-size: 15px;left: 42.7%;top: 24%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 42.7%;top: 24%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "今日はもう<br/>トラブルは<br/>十分だ"
-		,"style": "font-size: 16px;left: 46.5%;top: 35.7%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 46.5%;top: 35.7%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "やめろ！<br/>奴は不気味だ！<br/>俺をパンツに<br/>突っ込む気だ！"
-		,"style": "font-size: 16px;left: 10%;top: 55.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 10%;top: 55.5%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "弾け！<br/>俺を弾くんだ！<br/>何か超メタルな<br/>やつを！"
-		,"style": "font-size: 16px;left: 71.5%;top: 57.5%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 71.5%;top: 57.5%;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "どんなの？<br/>イカした<br/>パワー<br/>コード？"
-		,"style": "font-size: 15px;left: 12.5%;top: 73%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 12.5%;top: 73%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "そうだ！<br/><span style=\"font-weight: bold;\">“パワー”</span><br/>が鍵だ！"
-		,"style": "font-size: 15px;left: 11.7%;top: 82%;border-radius: 0%;"
+		,"style": "font-size: 15em;left: 11.7%;top: 82%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "あんたが<br/>ストラツィオ?"
-		,"style": "font-size: 12px;left: 59%;top: 75%;border-radius: 0%;"
+		,"style": "font-size: 12em;left: 59%;top: 75%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 ]

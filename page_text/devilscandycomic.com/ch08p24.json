@@ -1,32 +1,32 @@
 [
 	{
 		"text": "チッ"
-		,"style": "font-size: 16px;left: 46.30%;top: 28.44%;width: 5.13%;height: 3.10%;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 46.30%;top: 28.44%;width: 5.13%;height: 3.10%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "ヤギー、<br/>彼女は次は<br/>防げない。<br/>何とかしろ"
-		,"style": "font-size: 14px;left: 5.97%;top: 36.15%;width: 13.60%;height: 9.14%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 5.97%;top: 36.15%;width: 13.60%;height: 9.14%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "どう<br/>やって!?"
-		,"style": "font-size: 14px;left: 59.90%;top: 37.07%;width: 9.07%;height: 3.77%;border-radius: 50%;"
+		,"style": "font-size: 14em;left: 59.90%;top: 37.07%;width: 9.07%;height: 3.77%;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "忍者!"
-		,"style": "font-size: 16px;left: 27.68%;top: 65.57%;width: 10.14%;height: 3.27%;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 27.68%;top: 65.57%;width: 10.14%;height: 3.27%;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "忍者の事を<br/>歌うんだ!"
-		,"style": "font-size: 16px;left: 34.01%;top: 69.85%;width: 13.96%;height: 4.78%;border-radius: 50%;"
+		,"style": "font-size: 16em;left: 34.01%;top: 69.85%;width: 13.96%;height: 4.78%;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
 		"text": "ヨシ!!"
-		,"style": "font-size: 45px;left: 66.47%;top: 72.78%;width: 18.85%;height: 5.87%;border-radius: 50%;"
+		,"style": "font-size: 45em;left: 66.47%;top: 72.78%;width: 18.85%;height: 5.87%;border-radius: 50%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 ]

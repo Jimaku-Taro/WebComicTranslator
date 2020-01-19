@@ -1,27 +1,27 @@
 [
 	{
 		"text": "小学校の頃は、ピュティアがアスモディアの面倒を見ていました、<br/>しかし高校に行く頃には、２人の関係は逆転していました。"
-		,"style": "font-size: 16px;left: 22%;top: 8%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 22%;top: 8%;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "ピュティア<br/>(6)"
-		,"style": "font-size: 16px;left: 13%;top: 36%;height: 63px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 13%;top: 36%;height: 63px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "アスモディア<br/>(6)"
-		,"style": "font-size: 16px;left: 76%;top: 40%;height: 59px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 76%;top: 40%;height: 59px;border-radius: 0%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "デビルズキャンディは12月26日、通常時間に再開予定です。<br/>運が良ければ、私達はその後日にショップ（本付き！）を<br/>開店します！"
-		,"style": "font-size: 16px;left: 18%;top: 77%;width: 535px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 18%;top: 77%;width: 535px;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 	,{
 		"text": "両アカウントとも遅れてしまってすみません、<br/>しかし印刷の問題が本を遅らせ、<br/>突然の出来事でスケジュールが混乱してしまいました。<br/>全てがすぐに元に戻ることを願っています。"
-		,"style": "font-size: 16px;left: 18%;top: 84%;width: 552px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 18%;top: 84%;width: 552px;border-radius: 0%;"
 		,"class": "WHITE BOLD"
 	}
 ]
