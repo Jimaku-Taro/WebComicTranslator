@@ -1,0 +1,42 @@
+[
+	{
+		"text": "<span class=\"BOLD\">UD#: 61427<br/>別名：“スケルトン先生”、“Mr.61”<br/>生前の名前：ローワン・レッドホーン</span>職業：体育と護身術の教師<br/>種族：コボルト<br/>年齢：約40<br/>身長：5'6'''(168cm)<br/>好き：子供、武術、喫煙<br/>嫌い：無力感、喫煙<br/>面白情報：<br/>-スケルトンは死んだ時に名を捨てる、<br/>パンドラだけが彼の正体に気づいている<br/>-やり残した事が、彼を生者の世界に留めていることを、誰も知らない。<br/>なぜかヘムロックハートに惹かれるものがあるようだ。<br/>-カズの両親は、彼の妻と未だに交流がある。"
+		,"style": "left: 46.4797%;top: 2.9238%;width: 45.5847%;height: 25.1834%;font-size: 13em;border-radius: 0%;"
+		,"class": "LEFT WHITE"
+	}
+	,{
+		"text": "昔の習慣が<br/>抜けない"
+		,"style": "left: 6.3842%;top: 9.7698%;width: 9.9045%;height: 4.2380%;font-size: 13em;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "いつも<br/>ジャージ<br/>(赤か黒)"
+		,"style": "left: 6.5036%;top: 35.9311%;width: 11.5752%;height: 5.6235%;font-size: 13em;border-radius: 10%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "<ruby>アンデッド<rt>undead</rt></ruby>"
+		,"style": "left: 47.1957%;top: 32.5896%;width: 8.4726%;height: 1.6300%;font-size: 13em;border-radius: 10%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "<ruby>死ぬ前<rt>pre-dead</rt></ruby>"
+		,"style": "left: 86.5752%;top: 31.8562%;width: 10.3819%;height: 2.6895%;font-size: 13em;border-radius: 10%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "好きな銘柄"
+		,"style": "left: 70.4654%;top: 65.5155%;width: 14.3198%;height: 2.2005%;font-size: 13em;border-radius: 10%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "スカーフは必須<br/>(何があっても)"
+		,"style": "left: 79.7733%;top: 77.8219%;width: 11.3365%;height: 4.5640%;font-size: 13em;border-radius: 10%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ヘムロック・ハート・アカデミーの唯一のアンデッド教師の情報を追加する良い機会でしょう。<br/>皆さんは既に彼にもちろん会っていますが、少し詳細を追加しました、<br/>彼はこの旅行の付添人の一人ですからね。"
+		,"style": "left: 2.2076%;top: 90.3072%;width: 95.5847%;height: 5.3702%;font-size: 16em;border-radius: 0%;"
+		,"class": "CENTER BLACK"
+	}
+]
