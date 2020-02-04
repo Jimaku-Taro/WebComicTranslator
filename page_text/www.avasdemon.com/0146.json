@@ -1,0 +1,17 @@
+[
+	{
+		"text": "安心した!"
+		,"style": "left: 41.3189%;top: 1.0941%;width: 25.8765%;height: 14.8796%;font-size: 20px;color: #F50002;background-color: #000B2E;border-radius: 50%"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "何て言った?<br/>安心?"
+		,"style": "left: 31.1352%;top: 20.3501%;width: 28.7145%;height: 24.0700%;font-size: 20px;color: #EC8D3D;background-color: #310904;border-radius: 40%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "えぇ…<br/>あなたの自殺で<br/>死にたくなかったの!<br/>私は死にたかったけど<br/>そんな死に方は嫌…<br/>だから嬉しいの"
+		,"style": "left: 33.1386%;top: 51.2035%;width: 30.5509%;height: 46.6083%;font-size: 16px;color: #F50002;background-color: #000B2E;border-radius: 50%"
+		,"class": "CENTER"
+	}
+]

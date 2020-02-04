@@ -1,0 +1,92 @@
+[
+	{
+		"text": "ようこそタタラトゥスへ!"
+		,"style": "left: 18.9141%;top: 0.8277%;width: 61.8138%;height: 2.2632%;font-size: 25em;border-radius: 10%;background-color: transparent;text-shadow: white 2px 0px,  white -2px 0px, white 0px -2px, white 0px 2px, white 2px 2px , white -2px 2px, white 2px -2px, white -2px -2px, white 1px 2px,  white -1px 2px, white 1px -2px, white -1px -2px, white 2px 1px,  white -2px 1px, white 2px -1px, white -2px -1px;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "神秘的な地下で…異国の魅力的な文化を堪能しよう"
+		,"style": "left: 13.7828%;top: 15.1868%;width: 75.5370%;height: 2.9387%;font-size: 25em;border-radius: 10%;background-color: transparent;text-shadow: white 2px 0px,  white -2px 0px, white 0px -2px, white 0px 2px, white 2px 2px , white -2px 2px, white 2px -2px, white -2px -2px, white 1px 2px,  white -1px 2px, white 1px -2px, white -1px -2px, white 2px 1px,  white -2px 1px, white 2px -1px, white -2px -1px;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "大鍛冶祭"
+		,"style": "left: 9.0095%;top: 24.5265%;width: 16.3484%;height: 5.2897%;font-size: 25em;border-radius: 20%;transform: rotate(-18deg);"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "麒麟と<br/>天狗クランの<br/>伝統工芸"
+		,"style": "left: 38.8425%;top: 24.5907%;width: 21.0024%;height: 6.6331%;font-size: 16em;border-radius: 20%;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "壮麗なゴーゴンの<br/>彫刻"
+		,"style": "left: 72.1360%;top: 24.9265%;width: 18.9737%;height: 5.2821%;font-size: 16em;border-radius: 20%;transform: rotate(10deg);"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "見事な自然の驚異"
+		,"style": "left: 14.7375%;top: 42.4748%;width: 31.8616%;height: 2.5189%;font-size: 25em;border-radius: 10%;background-color: transparent;text-shadow: white 2px 0px,  white -2px 0px, white 0px -2px, white 0px 2px, white 2px 2px , white -2px 2px, white 2px -2px, white -2px -2px, white 1px 2px,  white -1px 2px, white 1px -2px, white -1px -2px, white 2px 1px,  white -2px 1px, white 2px -1px, white -2px -1px;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "世界クラスの美味しい料理"
+		,"style": "left: 53.0430%;top: 41.5512%;width: 34.3675%;height: 2.7708%;font-size: 20em;border-radius: 10%;background-color: transparent;text-shadow: white 2px 0px,  white -2px 0px, white 0px -2px, white 0px 2px, white 2px 2px , white -2px 2px, white 2px -2px, white -2px -2px, white 1px 2px,  white -1px 2px, white 1px -2px, white -1px -2px, white 2px 1px,  white -2px 1px, white 2px -1px, white -2px -1px;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "極楽の<br/>天然温泉"
+		,"style": "left: 27.5060%;top: 54.5853%;width: 21.0024%;height: 5.2821%;font-size: 20em;border-radius: 20%;transform: rotate(10deg);"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "鏡水晶の洞窟"
+		,"style": "left: 11.5155%;top: 50.9551%;width: 18.6158%;height: 6.1774%;font-size: 25em;border-radius: 20%;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "誰か<br/>芋虫って<br/>言った?"
+		,"style": "left: 52.3270%;top: 51.0390%;width: 9.6659%;height: 8.9001%;font-size: 16em;border-radius: 20%;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "受賞歴のある<br/>レストラン"
+		,"style": "left: 62.3508%;top: 50.9551%;width: 18.1384%;height: 5.6255%;font-size: 16em;border-radius: 20%;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "洞窟ワイン"
+		,"style": "left: 77.8640%;top: 55.9929%;width: 10.9785%;height: 3.8623%;font-size: 16em;border-radius: 20%;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "そして、驚く程高い犯罪率！"
+		,"style": "left: 21.0621%;top: 78.5789%;width: 58.5919%;height: 2.9387%;font-size: 20em;border-radius: 20%;"
+		,"class": "CENTER BLACK BOLD"
+	}
+	,{
+		"text": "組織的犯罪"
+		,"style": "left: 11.0382%;top: 83.3648%;width: 25.5370%;height: 3.9463%;font-size: 16em;border-radius: 20%;"
+		,"class": "CENTER BLACK BOLD"
+	}
+	,{
+		"text": "何百件もの<br/>行方不明事件"
+		,"style": "left: 38.9618%;top: 82.4412%;width: 21.7184%;height: 5.6255%;font-size: 16em;border-radius: 20%;"
+		,"class": "CENTER BLACK BOLD"
+	}
+	,{
+		"text": "食肉目的の<br/>人身売買"
+		,"style": "left: 63.0668%;top: 82.1054%;width: 25.1790%;height: 6.0453%;font-size: 16em;border-radius: 20%;"
+		,"class": "CENTER BLACK BOLD"
+	}
+	,{
+		"text": "気をつけよう、手足を失わないように!"
+		,"style": "left: 17.2434%;top: 88.8224%;width: 65.0358%;height: 2.7708%;font-size: 20em;border-radius: 20%;"
+		,"class": "CENTER BLACK BOLD"
+	}
+	,{
+		"text": "タタラトゥスでの滞在をお楽しみ下さい！"
+		,"style": "left: 10.6802%;top: 94.7838%;width: 78.4010%;height: 2.4349%;font-size: 25em;border-radius: 10%;background-color: transparent;text-shadow: black 2px 0px,  black -2px 0px, black 0px -2px, black 0px 2px, black 2px 2px , black -2px 2px, black 2px -2px, black -2px -2px, black 1px 2px,  black -1px 2px, black 1px -2px, black -1px -2px, black 2px 1px,  black -2px 1px, black 2px -1px, black -2px -1px;"
+		,"class": "CENTER BLACK BOLD"
+	}
+]
