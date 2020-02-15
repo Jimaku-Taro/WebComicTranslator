@@ -1,0 +1,52 @@
+[
+	{
+		"text": "ねぇニモ<br/>これ見てよ!<br/>面白い<br/>尻尾引くと<br/>叫ぶんだ!"
+		,"style": "font-size: 14em;left: 11.5155%;top: 2.8395%;width: 12.6492%;height: 9.3043%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ニモ?"
+		,"style": "font-size: 14em;left: 42.1838%;top: 4.6075%;width: 7.5179%;height: 3.2746%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "しまった<br/>人混みで<br/>はぐれた…"
+		,"style": "font-size: 14em;left: 58.0549%;top: 5.1952%;width: 11.8138%;height: 6.5491%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "叫びトカゲを<br/>持ち逃げする気か<br/>チビ?"
+		,"style": "font-size: 14em;left: 75.3580%;top: 20.7284%;width: 13.7232%;height: 7.1369%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "いくらするか<br/>知ってんのか?<br/>いや知らねぇよな<br/>バカな旅行者"
+		,"style": "font-size: 14em;left: 4.2363%;top: 31.2238%;width: 15.7518%;height: 10.2435%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ご免なさい<br/>友達に見せようと<br/>したけど<br/>どこかに<br/>行っちゃって"
+		,"style": "font-size: 14em;left: 31.5632%;top: 44.3220%;width: 13.8425%;height: 10.1595%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "お支払い<br/>なら…"
+		,"style": "font-size: 14em;left: 64.6181%;top: 33.2389%;width: 12.5298%;height: 5.5416%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "お前が<br/>消えても<br/>誰も気に<br/>しねぇよ"
+		,"style": "font-size: 18em;left: 30.1313%;top: 62.1222%;width: 15.2745%;height: 8.2284%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "オイ!"
+		,"style": "font-size: 14em;left: 65.8115%;top: 76.7317%;width: 5.3699%;height: 2.5189%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "はい<br/>消えます<br/>よっと!"
+		,"style": "font-size: 18em;left: 77.2673%;top: 76.8157%;width: 11.5752%;height: 6.6331%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]
