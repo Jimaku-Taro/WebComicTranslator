@@ -1,0 +1,42 @@
+[
+	{
+		"text": "君のドヤ顔<br/>掴んで太陽に<br/>投げこもうか?"
+		,"style": "font-size: 14em;left: 38.6038%;top: 13.0999%;width: 14.0811%;height: 10.1425%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "君って変身<br/>できるの?"
+		,"style": "font-size: 14em;left: 58.1742%;top: 14.8011%;width: 14.7971%;height: 4.8699%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "私は<span class=\"BOLD\">タヌキよ<br/></span>"
+		,"style": "font-size: 14em;left: 57.6969%;top: 31.0899%;width: 10.5012%;height: 5.8774%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "カイコって<br/>呼んでも<br/>いいわよ"
+		,"style": "font-size: 14em;left: 83.3532%;top: 44.5240%;width: 12.4105%;height: 7.8086%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "彼女の<br/>姿は<br/>まるで…"
+		,"style": "font-size: 14em;left: 53.8783%;top: 58.7138%;width: 9.7852%;height: 7.3887%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "わぁ!"
+		,"style": "font-size: 14em;left: 9.7255%;top: 70.3007%;width: 7.8759%;height: 2.0151%;border-radius: 10%;font-weight: normal;transform: rotate(-12deg);"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "待って! 太陽に<br/>投げないで!"
+		,"style": "font-size: 12em;left: 13.3055%;top: 71.3120%;width: 10.7399%;height: 3.7585%;border-radius: 10%;font-weight: normal;transform: rotate(-12deg);"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ヒトミ?"
+		,"style": "font-size: 14em;left: 78.4606%;top: 73.9951%;width: 9.4272%;height: 4.0302%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

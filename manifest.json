@@ -1,18 +1,39 @@
 {
-	"manifest_version": 2
-	,"name": "WebComicTranslator"
-	,"version": "4.11.0"
+	"name": "WebComicTranslator"
+	,"version": "5.0.0"
 	,"short_name": "コミトラ"
+	,"manifest_version": 2
 	,"description": "一部のWebコミックに日本語訳を人力で追加"
 	,"content_scripts": [
 		{
 			"matches": [
+				"*://www.devilscandycomic.com/comic/*"
+				,"*://devilscandycomic.com/comic/*"
+			]
+			,"js": [
+				"WebComicTranslator.js"
+			]
+			,"css": [
+				"common.css"
+				,"css/devilscandy.css"
+			]
+		 }
+		 ,{
+			"matches": [
 				"*://www.monsterpop.mayakern.com/*"
+				,"*://monsterpop.mayakern.com/*"
+
 				,"*://tapas.io/episode/*"
 				,"*://m.tapas.io/episode/*"
+
 				,"*://www.avasdemon.com/*"
-				,"*://milktoastandmaple.smackjeeves.com/*"
+				,"*://avasdemon.com/*"
+
 				,"*://hoppinggills.com/*"
+
+				,"*://milktoastandmaple.smackjeeves.com/*"
+
+				,"*://www.webtoons.com/*"
 			]
 			,"js": [
 				"WebComicTranslator.js"
@@ -23,19 +44,8 @@
 		}
 		,{
 			"matches": [
-				"*://devilscandycomic.com/comic/*"
-			]
-			,"js": [
-				"WebComicTranslator.js"
-			]
-			,"css": [
-				"common.css"
-				,"css/devilscandy.css"
-			]
-		 }
-		,{
-			"matches": [
 				"*://mayakern.com/cshort.html*"
+				,"*://www.mayakern.com/cshort.html*"
 			]
 			,"js": [
 				"WebComicTranslator.js"

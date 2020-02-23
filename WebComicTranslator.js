@@ -34,14 +34,16 @@ const IMAGE_PARENT_TAG_CLASS = "WCT_IMAGE_PARENT";
 
 // ホスト名
 const HOST_DEVILS_CANDY = "devilscandycomic.com";
-const HOST_MONSTER_POP = "www.monsterpop.mayakern.com";
+
+const HOST_MONSTER_POP = "monsterpop.mayakern.com";
 const HOST_TAPAS = "tapas.io";
 const HOST_M_TAPAS = "m.tapas.io";
-const HOST_AVAS_DEMON = "www.avasdemon.com";
+const HOST_AVAS_DEMON = "avasdemon.com";
 const HOST_MIKL_TOAST = "milktoastandmaple.smackjeeves.com";
 const HOST_MAYA_KERN = "mayakern.com";
 const HOST_HOPPING_GILLS = "hoppinggills.com";
 const HOST_HAZBIN_HOTEL = "www.hazbinhotel.com";
+const HOST_WEBTOONS = "www.webtoons.com";
 
 // フォントサイズ属性
 const ATTRIBUTE_FONT_SIZE = "fontSize";
@@ -165,46 +167,53 @@ function getTargetData() {
 	let image;
 	let imageFileName = null;
 
+
 	// ホストで取得対象を変更
 	let json_path ="page_text/";
 	// url末尾の数字部だけ取得
 	let url_number = url_last.replace(/[^0-9]/g, '');
 
-	switch (host_string) {
-		case HOST_DEVILS_CANDY:
+	// urlのホスト部分の文字列で対象を判定、分岐 wwwの有無があるので、完全一致でなくincludesで判定
+	switch (true) {
+		case host_string.includes(HOST_DEVILS_CANDY):
 			// デビルズキャンディ
+			host_string = HOST_DEVILS_CANDY;
 			imageParentElement = document.getElementById("cc-comicbody");
 			json_path += host_string + "/" + url_last + ".json";
 			base_width = 830;
 		break;
-		case HOST_MONSTER_POP:
+		case host_string.includes(HOST_MONSTER_POP):
 			// モンスターポップ
+			host_string = HOST_MONSTER_POP;
 			imageParentElement = document.getElementById("comic");
 			json_path += host_string + "/" + url_number + ".json";
 		break;
-		case HOST_TAPAS:
-		case HOST_M_TAPAS:
+		case host_string.includes(HOST_TAPAS):
+		case host_string.includes(HOST_M_TAPAS):
 			// tapas
+			host_string = HOST_TAPAS;
 			imageParentElement = document.getElementsByClassName("ep-contents").item(0);
 			if (!imageParentElement) {
 				imageParentElement = document.getElementsByClassName("art-image-wrap").item(0);
 			}
-			json_path += HOST_TAPAS + "/" + url_number + ".json";
+			json_path += host_string + "/" + url_number + ".json";
 		break;
-		case HOST_AVAS_DEMON:
+		case  host_string.includes(HOST_AVAS_DEMON):
 			// Ava's Demon
+			host_string = HOST_AVAS_DEMON;
 			imageParentElement = document.getElementById("content");
 			image = imageParentElement.getElementsByTagName("img").item(0);
 			let src = image.src;
 			let img_num = src.replace(/[^0-9]/g, '');
 			json_path += host_string + "/" + img_num + ".json";
 		break;
-		case HOST_MIKL_TOAST:
+		case host_string.includes(HOST_MIKL_TOAST):
+			host_string = HOST_MIKL_TOAST;
 			image = document.getElementById("comic_image");
 			imageParentElement = image.parentElement;
 			json_path += host_string + "/" + url_last + ".json";
 		break;
-		case HOST_MAYA_KERN:
+		case host_string.includes(HOST_MAYA_KERN):
 			// サイト構造変更前の旧処理はコメントアウト　他にはOBSERVER部分もコメントアウトしたので復活時は注意
 			// image = document.getElementsByClassName("mfp-img").item(0);
 
@@ -233,11 +242,12 @@ function getTargetData() {
 
 			// }
 			// json_path += host_string + "/" + imageFileName + ".json";
-
+			host_string = HOST_MAYA_KERN;
 			imageParentElement = document.getElementsByClassName("portfolio-slider");
 			json_path += host_string + "/portfolio-slider.json";
 		break;
-		case HOST_HOPPING_GILLS:
+		case host_string.includes(HOST_HOPPING_GILLS):
+			host_string = HOST_HOPPING_GILLS;
 			imageParentElement = document.getElementById("comic-box");
 			image = document.getElementsByClassName("img-fluid").item(0);
 			if (image) {
@@ -245,8 +255,14 @@ function getTargetData() {
 			}
 			json_path += host_string + "/" + imageFileName + ".json";
 		break;
-		case HOST_HAZBIN_HOTEL:
+		case host_string.includes(HOST_HAZBIN_HOTEL):
+			host_string = HOST_HAZBIN_HOTEL;
 			imageParentElement = document.getElementsByClassName("image-block-wrapper");
+			json_path += host_string + "/" + url_last + ".json";
+		break;
+		case host_string.includes(HOST_WEBTOONS):
+			host_string = HOST_WEBTOONS;
+			imageParentElement = document.getElementsById("_imageList");
 			json_path += host_string + "/" + url_last + ".json";
 		break;
 	}
@@ -438,6 +454,7 @@ const OBSERVER = new MutationObserver(records => {
 
 // 即時関数
 !function(){
+
 	let target;
 	let options;
 	switch (location.host) {
