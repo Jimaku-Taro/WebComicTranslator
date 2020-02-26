@@ -1,0 +1,157 @@
+[
+	{
+		"text": "アーマ"
+		,"style": "color: white;font-size: 50em;left: 44.2083%;top: 0.9038%;width: 35.1667%;height: 0.4922%;border-radius: 50%;font-weight: normal;"
+		,"class": "BOLD"
+	}
+	,{
+		"text": "作：ブランドン・<br/>サンティアゴ"
+		,"style": "color: white;font-size: 20em;left: 58.4167%;top: 2.9799%;width: 22.6667%;height: 0.4564%;border-radius: 50%;font-weight: normal;"
+		,"class": "BOLD"
+	}
+	,{
+		"text": "朝"
+		,"style": "font-size: 20em;left: 18.5000%;top: 10.2908%;width: 14.2500%;height: 0.2595%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "お早う<br/>皆"
+		,"style": "font-size: 20em;left: 44.8333%;top: 10.7114%;width: 9.0000%;height: 0.7875%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "お早う<br/>アミィ"
+		,"style": "font-size: 20em;left: 27.6667%;top: 13.3960%;width: 8.6667%;height: 0.6174%;border-radius: 10% 10% 50% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "お早う<br/>シルビア"
+		,"style": "font-size: 20em;left: 57.7500%;top: 13.4318%;width: 8.0000%;height: 0.6174%;border-radius: 10% 10% 50% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "お早う<br/>テリー"
+		,"style": "font-size: 20em;left: 28.9167%;top: 15.7226%;width: 9.8333%;height: 0.6085%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "お早う<br/>アーマ"
+		,"style": "font-size: 20em;left: 56.5000%;top: 15.7763%;width: 8.4167%;height: 0.8501%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "イコール"
+		,"style": "font-size: 20em;left: 18.0833%;top: 21.7181%;width: 9.1667%;height: 0.3848%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "いつか<br/>あの子に<br/>殺されそう"
+		,"style": "font-size: 20em;left: 25.3333%;top: 24.6622%;width: 13.0833%;height: 1.0380%;border-radius: 30% 30% 50% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "どの子?"
+		,"style": "font-size: 20em;left: 28.0833%;top: 27.7047%;width: 7.7500%;height: 0.6622%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "長髪が顔を<br/>覆ってる子?"
+		,"style": "font-size: 20em;left: 58.8333%;top: 24.7159%;width: 11.7500%;height: 1.1544%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "あの子ね"
+		,"style": "font-size: 20em;left: 60.6667%;top: 27.7494%;width: 7.1667%;height: 0.8322%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "校長はどうして<br/>あの子を<br/>入学させたの?"
+		,"style": "font-size: 15em;left: 22.5833%;top: 28.9306%;width: 15.0833%;height: 0.6353%;border-radius: 20% 20% 50% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "心配いりません<br/>私達はどの子も<br/>平等に見ますよ"
+		,"style": "font-size: 15em;left: 59.0833%;top: 28.9485%;width: 17.2500%;height: 1.0022%;border-radius: 20% 20% 50% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "失礼ね"
+		,"style": "font-size: 20em;left: 19.2500%;top: 33.1365%;width: 12.8333%;height: 0.3579%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "4番の<br/>答え何?"
+		,"style": "font-size: 20em;left: 38.2500%;top: 35.1946%;width: 8.8333%;height: 0.9485%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "アーマ<br/>クジャクって何?"
+		,"style": "font-size: 15em;left: 55.8333%;top: 35.1946%;width: 8.6667%;height: 1.1723%;border-radius: 40% 40% 50% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "こっちが<br/>先だ!"
+		,"style": "font-size: 20em;left: 37.2500%;top: 36.8770%;width: 7.0000%;height: 0.8054%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "レディー<br/>ファースト<br/>よ"
+		,"style": "font-size: 20em;left: 56.4167%;top: 36.8054%;width: 9.7500%;height: 1.0291%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "こっちが<br/>先だって!"
+		,"style": "font-size: 20em;left: 35.0833%;top: 38.4161%;width: 10.5833%;height: 1.1186%;border-radius: 10% 10% 50% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "レディー<br/>ファースト!"
+		,"style": "font-size: 20em;left: 55.4167%;top: 38.4340%;width: 9.1667%;height: 1.1454%;border-radius: 30% 30% 50% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "答えは<br/>「悲鳴」と"
+		,"style": "font-size: 20em;left: 36.7500%;top: 42.4161%;width: 8.6667%;height: 0.5638%;border-radius: 10% 10% 50% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "不公平"
+		,"style": "font-size: 20em;left: 20.3333%;top: 44.6711%;width: 11.0833%;height: 0.2685%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ちょっと!<br/>ズルよ!"
+		,"style": "font-size: 40em;left: 37.7500%;top: 45.5570%;width: 18.4167%;height: 1.8166%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "夜の映画"
+		,"style": "font-size: 20em;left: 18.2500%;top: 56.0805%;width: 17.4167%;height: 0.2953%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "何て?"
+		,"style": "font-size: 20em;left: 17.0833%;top: 67.3915%;width: 14.8333%;height: 0.3221%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "筆記用具を出して<br/>ノートに記入して"
+		,"style": "font-size: 20em;left: 53.8333%;top: 67.8926%;width: 14.5000%;height: 0.9575%;border-radius: 40% 40% 50% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "アーマ<br/>書く物<br/>ない?"
+		,"style": "font-size: 20em;left: 25.6667%;top: 74.3356%;width: 12.4167%;height: 0.7606%;border-radius: 30% 30% 50% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "それで十分…"
+		,"style": "font-size: 20em;left: 18.7500%;top: 78.2640%;width: 11.5000%;height: 0.3221%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "髪の問題"
+		,"style": "font-size: 20em;left: 17.4167%;top: 89.1186%;width: 17.4167%;height: 0.2864%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

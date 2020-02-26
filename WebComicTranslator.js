@@ -33,14 +33,19 @@ const TEXT_TAG_CLASS = "WCT";
 const IMAGE_PARENT_TAG_CLASS = "WCT_IMAGE_PARENT";
 
 // ホスト名
+// 後で下記のホスト名のいずれかを再設定（www付き等のブレがあるため）
+let host_string = location.host;
+
+// 設定用ホスト名
 const HOST_DEVILS_CANDY = "devilscandycomic.com";
 
 const HOST_MONSTER_POP = "monsterpop.mayakern.com";
+const HOST_MAYA_KERN = "mayakern.com";
+
 const HOST_TAPAS = "tapas.io";
 const HOST_M_TAPAS = "m.tapas.io";
 const HOST_AVAS_DEMON = "avasdemon.com";
-const HOST_MIKL_TOAST = "milktoastandmaple.smackjeeves.com";
-const HOST_MAYA_KERN = "mayakern.com";
+
 const HOST_HOPPING_GILLS = "hoppinggills.com";
 const HOST_HAZBIN_HOTEL = "www.hazbinhotel.com";
 const HOST_WEBTOONS = "www.webtoons.com";
@@ -143,9 +148,6 @@ const OBSERVER_2 = new MutationObserver(records => {
 // チェック対象
 let check_target;
 
-// 基準幅(単位：px)
-let base_width;
-
 /**
  * URLからそのページの画像親要素と必要なファイルのパスを返す
  * @return {imageParent, text_path}  画像の親要素、ページテキストのファイルパス
@@ -157,8 +159,7 @@ let base_width;
  * 配列返しも可 return [x,y,z]; let[x,y,z] = func();
  */
 function getTargetData() {
-	// ホスト名取得
-	let host_string = location.host;
+
 
 	let url_string = location.href;
 	// urlの末尾部分を取得
@@ -180,7 +181,6 @@ function getTargetData() {
 			host_string = HOST_DEVILS_CANDY;
 			imageParentElement = document.getElementById("cc-comicbody");
 			json_path += host_string + "/" + url_last + ".json";
-			base_width = 830;
 		break;
 		case host_string.includes(HOST_MONSTER_POP):
 			// モンスターポップ
@@ -206,12 +206,6 @@ function getTargetData() {
 			let src = image.src;
 			let img_num = src.replace(/[^0-9]/g, '');
 			json_path += host_string + "/" + img_num + ".json";
-		break;
-		case host_string.includes(HOST_MIKL_TOAST):
-			host_string = HOST_MIKL_TOAST;
-			image = document.getElementById("comic_image");
-			imageParentElement = image.parentElement;
-			json_path += host_string + "/" + url_last + ".json";
 		break;
 		case host_string.includes(HOST_MAYA_KERN):
 			// サイト構造変更前の旧処理はコメントアウト　他にはOBSERVER部分もコメントアウトしたので復活時は注意
@@ -262,8 +256,11 @@ function getTargetData() {
 		break;
 		case host_string.includes(HOST_WEBTOONS):
 			host_string = HOST_WEBTOONS;
-			imageParentElement = document.getElementsById("_imageList");
-			json_path += host_string + "/" + url_last + ".json";
+			imageParentElement = document.getElementById("_imageList");
+			let urlSearchParams = new URLSearchParams(window.location.search);
+			let title_no = urlSearchParams.get("title_no");
+			let episode_no =urlSearchParams.get("episode_no");
+			json_path += host_string + "/" + title_no + "/" + episode_no + ".json";
 		break;
 	}
 	// 拡張機能内のファイルパス取得
@@ -317,10 +314,6 @@ function writePageTexts(jsonObject, imageParentElement) {
 				}
 			}
 		}
-		// // 初期フォントサイズ設定　文字サイズ変更処理に使用予定だったがCPU使用率が高いので不採用
-		// let pixcelFontSize = figcaption.style.fontSize;
-		// let fontSize = pixcelFontSize.replace("px", "");
-		// figcaption.setAttribute(ATTRIBUTE_FONT_SIZE, fontSize);
 
 		figcaption.insertAdjacentHTML('beforeend',html_text);
 		// 親タグの下に文字表示タグを追加
@@ -345,29 +338,6 @@ const handleErrors = (res) => {
 	  default:  throw Error('UNHANDLED_ERROR');
 	}
 };
-
-// リサイズオブザーバー　リサイズ検知時の動作関数
-// 親要素の横幅に合わせて文字サイズを変更
-// 重くなりそうなので不採用
-const resizeObserver = new ResizeObserver((entries) => {
-	entries.forEach(({target, contentRect}) => {
-	  
-	  if (base_width) {
-		htmlCollectionTargetElements = target.getElementsByClassName(TEXT_TAG_CLASS);
-		let length = htmlCollectionTargetElements.length;
-		let width = contentRect.width;
-		let ratio = width / base_width;
-
-		for (let i = 0; i < length; i++) {
-			let targetElement = htmlCollectionTargetElements.item(i);
-			let base_font_size = targetElement.getAttribute(ATTRIBUTE_FONT_SIZE);
-			let final_font_size = base_font_size * ratio;
-			targetElement.style.fontSize = final_font_size + "px";
-		}
-	  }
-	})
-})
-
 
 /**
  * 主要処理
@@ -419,9 +389,7 @@ function webComicTranslator() {
 		// 指定ULRのJSONを取得　非同期なので、関数外の処理は、並行して実行されるので注意
 		// つまり通信中に変数などが書き換わっていることが割と良くある
 		fetchRequest(json_url, imageParentElement);
-		
-		// TODO リサイズ時の動作関数
-		// resizeObserver.observe(imageParentElement);
+
 		consoleLog('WCT：描画ループNo.' + i +"終了");
 	}
 
@@ -457,15 +425,15 @@ const OBSERVER = new MutationObserver(records => {
 
 	let target;
 	let options;
-	switch (location.host) {
-		case HOST_TAPAS:
+	switch (true) {
+		case host_string.includes(HOST_TAPAS):
 			target = document.getElementById("episodes");
 			options = {
 				childList: true
 			};
 			OBSERVER.observe(target, options);
 		break;
-		case HOST_AVAS_DEMON:
+		case host_string.includes(HOST_AVAS_DEMON):
 			// window.onhashchange = webComicTranslator;
 			target = document.getElementById("content");
 			options = {
@@ -473,7 +441,7 @@ const OBSERVER = new MutationObserver(records => {
 			};
 			OBSERVER.observe(target, options);
 		break;
-		case "mayakern.com":
+		case host_string.includes(HOST_MAYA_KERN):
 			// // 旧処理　コメントアウト
 			// const body = document.body;
 			// //オブザーバーの作成
