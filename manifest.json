@@ -1,6 +1,6 @@
 {
 	"name": "WebComicTranslator"
-	,"version": "5.0.1"
+	,"version": "6.0.0"
 	,"short_name": "コミトラ"
 	,"manifest_version": 2
 	,"description": "一部のWebコミックに日本語訳を人力で追加"
@@ -25,15 +25,17 @@
 
 				,"*://tapas.io/episode/*"
 				,"*://m.tapas.io/episode/*"
+				,"*://www.tapas.io/episode/*"
+				,"*://www.m.tapas.io/episode/*"
 
 				,"*://www.avasdemon.com/*"
 				,"*://avasdemon.com/*"
 
 				,"*://hoppinggills.com/*"
-
-				,"*://milktoastandmaple.smackjeeves.com/*"
+				,"*://www.hoppinggills.com/*"
 
 				,"*://www.webtoons.com/*"
+				,"*://webtoons.com/*"
 			]
 			,"js": [
 				"WebComicTranslator.js"
@@ -58,6 +60,7 @@
 		,{
 			"matches": [
 				"*://www.hazbinhotel.com/comic/*"
+				,"*://hazbinhotel.com/comic/*"
 			]
 			,"js": [
 				"WebComicTranslator.js"

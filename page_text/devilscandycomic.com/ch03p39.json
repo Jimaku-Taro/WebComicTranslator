@@ -50,8 +50,8 @@
 		,"class": "WHITE"
 	}
 	,{
-		"text": "<span style=\"font-size: 32em;\">とにかく</span><br/>ショーを<br/>始めます!!!"
-		,"style": "font-size: 20em;left: 79.5%;top: 86.5%;border-radius: 40%;"
+		"text": "<span style=\"font-size: 1.5em;\">とにかく</span><br/>ショーを<br/>始めます!!!"
+		,"style": "font-size: 20em;left: 79.1766%;top: 86.1330%;width: 15.1551%;height: 9.9076%;border-radius: 35%;"
 		,"class": "WHITE BOLD"
 	}
 ]

@@ -47,8 +47,8 @@ const HOST_M_TAPAS = "m.tapas.io";
 const HOST_AVAS_DEMON = "avasdemon.com";
 
 const HOST_HOPPING_GILLS = "hoppinggills.com";
-const HOST_HAZBIN_HOTEL = "www.hazbinhotel.com";
-const HOST_WEBTOONS = "www.webtoons.com";
+const HOST_HAZBIN_HOTEL = "hazbinhotel.com";
+const HOST_WEBTOONS = "webtoons.com";
 
 // フォントサイズ属性
 const ATTRIBUTE_FONT_SIZE = "fontSize";

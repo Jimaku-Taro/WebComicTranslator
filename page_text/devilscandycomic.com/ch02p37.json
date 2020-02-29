@@ -30,7 +30,7 @@
 		,"class": "WHITE BOLD"
 	}
 	,{
-		"text": "<span style=\"font-size: 14em;\">はい</span><br/><span style=\"font-size: 18em;\">私</span><br/><span style=\"font-size: 20em;\">私<br/>！！</span>"
+		"text": "<span style=\"font-size: 0.8em;\">はい</span><br/><span style=\"font-size: 1.0em;\">私</span><br/><span style=\"font-size: 1.3em;\">私<br/>！！</span>"
 		,"style": "font-size: 16em;left: 84%;top: 54.2%;border-radius: 40%;"
 		,"class": "WHITE BOLD"
 	}
