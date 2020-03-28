@@ -1,0 +1,62 @@
+[
+	{
+		"text": "おー!!"
+		,"style": "font-size: 14em;left: 39.7971%;top: 10.5564%;width: 7.2792%;height: 1.9279%;border-radius: 50%;font-weight: normal;transform: rotate(-20deg);"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "始まった!"
+		,"style": "font-size: 14em;left: 68.3174%;top: 7.0358%;width: 10.2625%;height: 2.5147%;border-radius: 50%;font-weight: normal;transform: rotate(8deg);"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "競技の方法<br/>知ってるの?<br/>それとも<br/>殺そうと<br/>してるだけ?"
+		,"style": "font-size: 14em;left: 10.3222%;top: 15.8638%;width: 15.3938%;height: 9.2359%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "さぁ"
+		,"style": "font-size: 14em;left: 39.2005%;top: 18.0468%;width: 5.9666%;height: 4.0302%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "まぁ続けて<br/>いいわよ。<br/>棍棒を2,30回位<br/>打ち合って握手して<br/>盛り上がって<br/>家に帰って<br/>皆ハッピーよ"
+		,"style": "font-size: 14em;left: 49.4630%;top: 16.5355%;width: 17.1838%;height: 13.4341%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "棍棒が<br/>３回地面に<br/>着いたら負けで<br/>工房は<br/>廃業だよ"
+		,"style": "font-size: 14em;left: 30.0119%;top: 56.5019%;width: 15.8711%;height: 10.4114%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "今の<br/>ノーカン!"
+		,"style": "font-size: 13em;left: 37.0525%;top: 82.8663%;width: 7.5179%;height: 6.2133%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "カドモス<br/>１点!"
+		,"style": "font-size: 20em;left: 50.5370%;top: 58.5170%;width: 12.7685%;height: 5.2897%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "大雲<br/>0点!"
+		,"style": "font-size: 20em;left: 63.5442%;top: 59.5246%;width: 12.7685%;height: 4.9538%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "ヤベッ"
+		,"style": "font-size: 13em;left: 89.3198%;top: 61.2038%;width: 6.3246%;height: 4.1142%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "なんで<br/>お爺ちゃんは<br/>説明しないの?"
+		,"style": "font-size: 13em;left: 54.5943%;top: 73.6304%;width: 11.9332%;height: 5.2057%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "忘れとった!"
+		,"style": "font-size: 20em;left: 77.6253%;top: 73.9662%;width: 13.3652%;height: 4.5340%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

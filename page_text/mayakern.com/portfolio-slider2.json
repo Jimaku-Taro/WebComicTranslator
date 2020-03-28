@@ -185,16 +185,6 @@
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "行ってもいい?"
-		,"style": "font-size: 12em;left: 73.92%;top: 7.18%;width: 19.67%;height: 3.44%;border-radius: 50%;border: solid 1px;"
-		,"class": "CENTER WHITE"
-	}
-	,{
-		"text": "行ってもいい?"
-		,"style": "font-size: 12em;left: 73.92%;top: 7.18%;width: 19.67%;height: 3.44%;border-radius: 50%;border: solid 1px;"
-		,"class": "CENTER WHITE"
-	}
-	,{
 		"text": "その…"
 		,"style": "font-size: 12em;left: 0.8571%;top: 32.6261%;width: 14.2857%;height: 0.2808%;border-radius: 50%;border: solid 1px;"
 		,"class": "CENTER WHITE"
@@ -206,7 +196,7 @@
 	}
 	,{
 		"text": "ごめん"
-		,"style": "font-size: 12em;left: 47.7143%;top: 33.0568%;width: 6.4762%;height: 0.2060%;border-radius: 50%;"
+		,"style": "font-size: 11em;left: 47.7143%;top: 33.0568%;width: 6.4762%;height: 0.2060%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
@@ -266,7 +256,7 @@
 	}
 	,{
 		"text": "大丈夫<br/>彼女のスカート<br/>見てるだけさ"
-		,"style": "font-size: 12em;color: black;background-color: #FBDBEA;left: 82.7619%;top: 43.8038%;width: 15.6190%;height: 0.3932%;border-radius: 40%;"
+		,"style": "font-size: 11em;color: black;background-color: #FBDBEA;left: 82.7619%;top: 43.8038%;width: 15.6190%;height: 0.3932%;border-radius: 40%;"
 		,"class": "CENTER"
 	}
 	,{
@@ -285,7 +275,7 @@
 		,"class": "CENTER"
 	}
 	,{
-		"text": "ごめん、引越中でさ<br/>また後で"
+		"text": "ごめん、引越中<br/>また後で"
 		,"style": "font-size: 12em;color: black;background-color: #FBDBEA;left: 74.7619%;top: 45.6293%;width: 19.6190%;height: 0.3932%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
@@ -525,7 +515,7 @@
 		,"class": "CENTER"
 	}
 	,{
-		"text": "しかしビーは完璧なお姫様でもなければ<br/>エーも救いようのない悪党でもありません"
+		"text": "しかしビーは完璧なお姫様でもなければ<br/>エーも救いようのない極悪人でもありません"
 		,"style": "font-size: 16em;left: 14.8571%;top: 88.0465%;width: 68.7619%;height: 0.4774%;border-radius: 10%;"
 		,"class": "CENTER WHITE"
 	}

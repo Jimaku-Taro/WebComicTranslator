@@ -1,0 +1,12 @@
+[
+	{
+		"text": "おい!"
+		,"style": "font-size: 14em;left: 75.8353%;top: 4.2985%;width: 6.0859%;height: 2.5147%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "わぁ!"
+		,"style": "font-size: 14em;left: 88.1265%;top: 77.3536%;width: 5.4893%;height: 2.6029%;border-radius: 50%;font-weight: normal;transform: rotate(-20deg);"
+		,"class": "CENTER WHITE BOLD"
+	}
+]
