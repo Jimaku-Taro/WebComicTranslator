@@ -1,0 +1,22 @@
+[
+	{
+		"text": "僕は今年が<br/>初競技<br/>なんだ…"
+		,"style": "font-size: 16em;left: 11.1575%;top: 6.4412%;width: 12.7685%;height: 7.9631%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "君達を<br/>困らせたく<br/>ないけど<br/>少しは実力を<br/>見せないと…<br/>ゴメンね"
+		,"style": "font-size: 14em;left: 56.7422%;top: 21.9012%;width: 15.6325%;height: 9.8237%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "カドモス家<br/>超秘技…"
+		,"style": "font-size: 16em;left: 75.3580%;top: 36.7627%;width: 14.0811%;height: 7.7246%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "カリュブディス<br/>ボルテックス!"
+		,"style": "font-size: 25em;left: 4.8329%;top: 47.9298%;width: 27.4463%;height: 4.1142%;border-radius: 45%;font-weight: normal;color: black;transform: rotate(-10deg);text-shadow: white 2px 0px,  white -2px 0px, white 0px -2px, white 0px 2px, white 2px 2px , white -2px 2px, white 2px -2px, white -2px -2px, white 1px 2px,  white -1px 2px, white 1px -2px, white -1px -2px, white 2px 1px,  white -2px 1px, white 2px -1px, white -2px -1px;"
+		,"class": "CENTER BOLD"
+	}
+]
