@@ -1,0 +1,37 @@
+[
+	{
+		"text": "パンドラ<br/>やめて!"
+		,"style": "font-size: 16em;left: 24.5227%;top: 4.2645%;width: 10.3819%;height: 5.1132%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "そんな事<br/>しなくて<br/>いいの!"
+		,"style": "font-size: 14em;left: 64.6181%;top: 3.8453%;width: 9.3079%;height: 6.6220%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "そうだよ<br/>パンドラさん<br/>無茶な注文だ!"
+		,"style": "font-size: 14em;left: 74.8807%;top: 19.3010%;width: 14.6778%;height: 8.5642%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "でも大丈夫<br/>オレに<br/>いい考えがある!"
+		,"style": "font-size: 14em;left: 14.6181%;top: 36.5134%;width: 14.6778%;height: 8.7322%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "力を<br/>合わせるんだ!"
+		,"style": "font-size: 20em;left: 11.5155%;top: 49.6956%;width: 19.4511%;height: 4.8699%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "こうして<br/>握って…"
+		,"style": "font-size: 14em;left: 18.4368%;top: 83.1129%;width: 12.0525%;height: 6.7170%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "オレが<br/>燃やす!"
+		,"style": "font-size: 18em;left: 84.9045%;top: 51.6268%;width: 10.5012%;height: 7.6406%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

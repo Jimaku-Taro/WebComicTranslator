@@ -1,0 +1,37 @@
+[
+	{
+		"text": "熱い!!"
+		,"style": "font-size: 25em;left: 29.0573%;top: 4.5971%;width: 11.2172%;height: 4.8617%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "カドモス 2点!"
+		,"style": "font-size: 18em;left: 27.2673%;top: 20.3899%;width: 17.3031%;height: 2.7708%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "大雲 0点!"
+		,"style": "font-size: 18em;left: 30.1313%;top: 22.8248%;width: 19.0931%;height: 2.9387%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "グダグダね!<br/>この調子じゃ、<br/>ヒトミさんを<br/>もっと苦しめる<br/>ことになるわ"
+		,"style": "font-size: 14em;left: 9.8449%;top: 45.4109%;width: 14.9165%;height: 12.0067%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ハデスの霧が足首を掠める。<br/>我らの傲慢への罰として、<br/>暗い深みに引きずり込む。<br/>愚かに体を鍛えても<br/>心は鋼となれず。"
+		,"style": "font-size: 14em;left: 38.6038%;top: 59.9365%;width: 28.4010%;height: 11.3350%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "言っとくけど<br/>大体アナタの<br/>せいよ…"
+		,"style": "font-size: 14em;left: 49.5823%;top: 72.0272%;width: 13.4845%;height: 6.1293%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "待って棍棒は<br/>どこにやったの?<br/>ラビ、アナタでも<br/>それはズボラ<br/>過ぎでしょ"
+		,"style": "font-size: 14em;left: 71.3007%;top: 60.5242%;width: 18.3771%;height: 9.5718%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]
