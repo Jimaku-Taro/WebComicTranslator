@@ -1,0 +1,42 @@
+[
+	{
+		"text": "カドモス<br/>2点!"
+		,"style": "font-size: 20em;left: 27.3866%;top: 25.6365%;width: 14.5585%;height: 5.7837%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "大雲<br/>1点!"
+		,"style": "font-size: 20em;left: 40.9905%;top: 27.6107%;width: 12.5298%;height: 5.6255%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "スッゲェ<br/>凄い<br/>凄いよ!"
+		,"style": "font-size: 20em;left: 10.3222%;top: 35.6712%;width: 9.9045%;height: 7.0529%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "<span class=\"BOLD\">素晴らしいよ<br/></span>ヒトミ!<br/>変な友達と<br/>一緒だから<br/>一瞬騙されたよ!"
+		,"style": "font-size: 16em;left: 35.1432%;top: 35.8391%;width: 16.8258%;height: 12.7624%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "戦う気や<br/>結婚する気に<br/>なった? 両方?<br/>とにかく僕も<br/>やる気が<br/>出たよ!"
+		,"style": "font-size: 16em;left: 73.6874%;top: 38.3580%;width: 15.5131%;height: 13.0982%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "<span>君が<span class=\"BOLD\">滅茶苦茶</span>強い</span>所を初めて見たよ!<br/>来くれて嬉しい!<br/>これこそ君の<br/>天命だろう!"
+		,"style": "font-size: 16em;left: 4.8329%;top: 67.9130%;width: 16.2291%;height: 13.2662%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "もう一戦<br/>いくよ?"
+		,"style": "font-size: 16em;left: 59.7255%;top: 65.6460%;width: 8.8305%;height: 6.9689%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "え…?"
+		,"style": "font-size: 16em;left: 79.7733%;top: 84.8735%;width: 8.1146%;height: 4.1982%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"text": "下がって<br/>…"
+		,"style": "font-size: 14em;left: 9.1289%;top: 4.3457%;width: 8.8305%;height: 4.9455%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "うわぁ…<br/>これは…"
+		,"style": "font-size: 14em;left: 79.1766%;top: 6.4520%;width: 8.2339%;height: 4.2821%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "スキュラ<br/>サイクロン!"
+		,"style": "font-size: 25em;left: 67.0048%;top: 69.4243%;width: 28.7589%;height: 6.5491%;font-weight: normal;color: black;transform: rotate(10deg);text-shadow: white 2px 0px,  white -2px 0px, white 0px -2px, white 0px 2px, white 2px 2px , white -2px 2px, white 2px -2px, white -2px -2px, white 1px 2px,  white -1px 2px, white 1px -2px, white -1px -2px, white 2px 1px,  white -2px 1px, white 2px -1px, white -2px -1px;"
+		,"class": "CENTER BOLD"
+	}
+]
