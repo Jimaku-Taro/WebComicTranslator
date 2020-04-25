@@ -7,3 +7,13 @@ figcaption.WCT {
 	, YuGothic !important;
 	line-height: normal !important;
 }
+
+.WCT_IMAGE_PARENT {
+	font-size: 1px;
+}
+
+@media screen and (max-width: 1100px) {
+	.WCT_IMAGE_PARENT {
+		font-size: calc(100vw/1100) !important;
+	}
+}

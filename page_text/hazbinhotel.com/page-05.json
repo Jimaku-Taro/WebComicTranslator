@@ -1,7 +1,7 @@
 [
 	{
 		"text": "セリフは<br/>言い終わった<br/>かい?"
-		,"style": "left: 45.1364%;top: 88.0463%;width: 25.2727%;height: 8.8046%;font-size: 25px;color: #F0315A;background-color: #F9F1EC;border-radius: 50%;transform:rotate(-5deg);"
+		,"style": "left: 45.1364%;top: 88.0463%;width: 25.2727%;height: 8.8046%;font-size: 25em;color: #F0315A;background-color: #F9F1EC;border-radius: 50%;transform:rotate(-5deg);"
 		,"class": "CENTER"
 	}
 ]

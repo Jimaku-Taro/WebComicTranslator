@@ -1,62 +1,62 @@
 [
 	{
 		"text": "バカが<br/>何だって<br/>小娘?"
-		,"style": "left: 35.5909%;top: 10.6684%;width: 15.0909%;height: 13.6247%;font-size: 25px;color: #06193F;background-color: #91CEEA;border-radius: 50%;"
+		,"style": "left: 35.5909%;top: 10.6684%;width: 15.0909%;height: 13.6247%;font-size: 25em;color: #06193F;background-color: #91CEEA;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "それじゃ<span class=\"BOLD\" />僕に</span>確認させてよ"
-		,"style": "left: 76.2273%;top: 5.4627%;width: 20.0000%;height: 8.5476%;font-size: 20px;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;transform:rotate(-10deg);"
+		,"style": "left: 76.2273%;top: 5.4627%;width: 20.0000%;height: 8.5476%;font-size: 20em;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;transform:rotate(-10deg);"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "僕はヴァルの<br/>支払いの金を見せた。<br/>鶏の糞共が<br/>ギャングの流儀を<br/>押し付ける"
-		,"style": "left: 18.0455%;top: 25.4499%;width: 30.9091%;height: 15.4884%;font-size: 25px;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;"
+		,"style": "left: 18.0455%;top: 25.4499%;width: 30.9091%;height: 15.4884%;font-size: 25em;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "こんな<br/>風に"
-		,"style": "left: 41.7727%;top: 34.6401%;width: 14.1818%;height: 10.1542%;font-size: 25px;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;"
+		,"style": "left: 41.7727%;top: 34.6401%;width: 14.1818%;height: 10.1542%;font-size: 25em;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "なぜだい?<br/>クールだと<br/>思った?<br/>そうは見えない"
-		,"style": "left: 68.0455%;top: 34.1902%;width: 18.0000%;height: 10.8612%;font-size: 20px;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;"
+		,"style": "left: 68.0455%;top: 34.1902%;width: 18.0000%;height: 10.8612%;font-size: 20em;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "哀れに<br/>見えるぜ"
-		,"style": "left: 84.9545%;top: 40.2956%;width: 11.3636%;height: 7.9049%;font-size: 20px;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;"
+		,"style": "left: 84.9545%;top: 40.2956%;width: 11.3636%;height: 7.9049%;font-size: 20em;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "やめとけ"
-		,"style": "left: 66.7727%;top: 55.5270%;width: 11.6364%;height: 4.5630%;font-size: 20px;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;"
+		,"style": "left: 66.7727%;top: 55.5270%;width: 11.6364%;height: 4.5630%;font-size: 20em;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "楽に手に入る<br/>金を見ると<br/>意思が弱くてな"
-		,"style": "left: 40.5000%;top: 61.4396%;width: 17.0000%;height: 13.0463%;font-size: 20px;color: #06193F;background-color: #91CEEA;border-radius: 45% 10% 10% 50%;"
+		,"style": "left: 40.5000%;top: 61.4396%;width: 17.0000%;height: 13.0463%;font-size: 20em;color: #06193F;background-color: #91CEEA;border-radius: 45% 10% 10% 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "ヴァルは<br/>この取引に<br/>興味が<br/>なさそうだ"
-		,"style": "left: 4.9545%;top: 76.2853%;width: 13.4545%;height: 11.9537%;font-size: 20px;color: #06193F;background-color: #91CEEA;border-radius: 50%;transform:rotate(15deg);"
+		,"style": "left: 4.9545%;top: 76.2853%;width: 13.4545%;height: 11.9537%;font-size: 20em;color: #06193F;background-color: #91CEEA;border-radius: 50%;transform:rotate(15deg);"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "代わりに<br/>貰ってやるよ。<br/>大人しく<br/>してりゃ<br/><span class=\"BOLD\" />お前の頭は</span>無事だぜ"
-		,"style": "left: 37.1364%;top: 78.8560%;width: 16.7273%;height: 18.1234%;font-size: 20px;color: #06193F;background-color: #91CEEA;border-radius: 50%;transform:rotate(15deg);"
+		,"style": "left: 37.1364%;top: 78.8560%;width: 16.7273%;height: 18.1234%;font-size: 20em;color: #06193F;background-color: #91CEEA;border-radius: 50%;transform:rotate(15deg);"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "このバカ共は<br/>別にふざけちゃ<br/>いないよな"
-		,"style": "left: 59.7727%;top: 61.5039%;width: 16.5455%;height: 8.6118%;font-size: 20px;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;transform:rotate(-15deg);"
+		,"style": "left: 59.7727%;top: 61.5039%;width: 16.5455%;height: 8.6118%;font-size: 20em;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;transform:rotate(-15deg);"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "僕が間違った雰囲気<br/>出しちゃったかな"
-		,"style": "left: 77.7727%;top: 64.3316%;width: 19.6364%;height: 10.1542%;font-size: 20px;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;transform:rotate(15deg);"
+		,"style": "left: 77.7727%;top: 64.3316%;width: 19.6364%;height: 10.1542%;font-size: 20em;color: #B9001C;background-color: #FDE3DD;border-radius: 50%;transform:rotate(15deg);"
 		,"class": "CENTER"
 	}
 ]

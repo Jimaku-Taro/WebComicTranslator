@@ -1,27 +1,27 @@
 [
 	{
 		"text": "僕がヤクの取引に<br/>支払いも持たずに<br/>来るとでも?<br/>そいつは大バカだ"
-		,"style": "left: 3.8182%;top: 1.5424%;width: 19.2727%;height: 19.0231%;font-size: 20px;color: #B9001A;background-color: #FCEFEC;border-radius: 50%;transform:rotate(10deg);"
+		,"style": "left: 3.8182%;top: 1.5424%;width: 19.2727%;height: 19.0231%;font-size: 20em;color: #B9001A;background-color: #FCEFEC;border-radius: 50%;transform:rotate(10deg);"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "僕は<br/>バカじゃ<br/>ないぜ"
-		,"style": "left: 60.0909%;top: 3.6632%;width: 14.9091%;height: 15.6812%;font-size: 30px;color: #B9001A;background-color: #FCEFEC;border-radius: 50%;"
+		,"style": "left: 60.0909%;top: 3.6632%;width: 14.9091%;height: 15.6812%;font-size: 30em;color: #B9001A;background-color: #FCEFEC;border-radius: 50%;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "じゃあ見せな"
-		,"style": "left: 45.8182%;top: 25.3213%;width: 30.4545%;height: 5.1414%;font-size: 30px;color: #004369;background-color: #80F2F9;border-radius: 50%;border: 5px solid #004369;"
+		,"style": "left: 45.8182%;top: 25.3213%;width: 30.4545%;height: 5.1414%;font-size: 30em;color: #004369;background-color: #80F2F9;border-radius: 50%;border: 5px solid #004369;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "ほら<br/>見ろ"
-		,"style": "left: 3.6364%;top: 32.7121%;width: 13.6364%;height: 12.4679%;font-size: 30px;color: #B9001A;background-color: #FCEFEC;border-radius: 50%;"
+		,"style": "left: 3.6364%;top: 32.7121%;width: 13.6364%;height: 12.4679%;font-size: 30em;color: #B9001A;background-color: #FCEFEC;border-radius: 50%;"
 		,"class": "CENTER BOLD"
 	}
 	,{
 		"text": "全て<br/>彼の…"
-		,"style": "left: 44.1818%;top: 34.8329%;width: 13.3636%;height: 13.1748%;font-size: 30px;color: #B9001A;background-color: #FCEFEC;border-radius: 50%;"
+		,"style": "left: 44.1818%;top: 34.8329%;width: 13.3636%;height: 13.1748%;font-size: 30em;color: #B9001A;background-color: #FCEFEC;border-radius: 50%;"
 		,"class": "CENTER BOLD"
 	}
 ]
