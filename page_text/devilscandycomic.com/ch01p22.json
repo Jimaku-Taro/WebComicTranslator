@@ -1,17 +1,17 @@
 [
 	{
 		"text": "どうした<br/>んだ？"
-		,"style": "font-size: 16em;left: 9%;top: 7%;border-radius: 10%;"
+		,"style": "font-size: 16em;left: 7.6969%;top: 5.7830%;width: 9.3079%;height: 5.6255%;border-radius: 45%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">アッ<br/>？！</span>"
-		,"style": "font-size: 34em;left: 38%;top: 23%;width: 80em;border-radius: 10%;"
-		,"class": "WHITE"
+		,"style": "font-size: 34em;left: 37.6492%;top: 21.6520%;width: 10.2625%;height: 10.0756%;border-radius: 45%;"
+		,"class": "WHITE BOLD"
 	}
 	,{
-		"text": "<span style=\"font-weight: bold;\">み…皆女の子<br/>作ったの？！</span>"
-		,"style": "font-size: 20em;left: 14%;top: 70%;width: 125em;border-radius: 10%;"
+		"text": "み…皆女の子<br/>作ったの？！"
+		,"style": "font-size: 20em;left: 12.4702%;top: 69.5109%;width: 17.3031%;height: 6.1293%;border-radius: 45%;"
 		,"class": "WHITE"
 	}
 	,{

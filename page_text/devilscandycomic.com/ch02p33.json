@@ -56,7 +56,7 @@
 	}
 	,{
 		"text": "彼らは<br/>言い訳なんか<br/>聞いてくれ<br/>そうもない！"
-		,"style": "font-size: 20x;left: 5%;top: 70%;border-radius: 20%;"
+		,"style": "font-size: 16em;left: 5%;top: 70%;border-radius: 20%;"
 		,"class": "WHITE"
 	}
 	,{

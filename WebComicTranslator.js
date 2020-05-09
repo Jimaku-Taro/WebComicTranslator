@@ -192,10 +192,12 @@ function getTargetData() {
 		case host_string.includes(HOST_M_TAPAS):
 			// tapas
 			host_string = HOST_TAPAS;
-			imageParentElement = document.getElementsByClassName("ep-contents").item(0);
+			imageParentElement = document.getElementsByClassName("js-episode-article main__body").item(0);
 			if (!imageParentElement) {
-				imageParentElement = document.getElementsByClassName("art-image-wrap").item(0);
+				imageParentElement = document.getElementsByClassName("ep-epub-contents").item(0);
 			}
+			// imageParentElement.innerHTML = "<div>" + imageParentElement.innerHTML + "</div>";
+			// imageParentElement = imageParentElement.getElementsByTagName("div").item(0);
 			json_path += host_string + "/" + url_number + ".json";
 		break;
 		case  host_string.includes(HOST_AVAS_DEMON):
@@ -427,11 +429,11 @@ const OBSERVER = new MutationObserver(records => {
 	let options;
 	switch (true) {
 		case host_string.includes(HOST_TAPAS):
-			target = document.getElementById("episodes");
-			options = {
-				childList: true
-			};
-			OBSERVER.observe(target, options);
+			// target = document.getElementById("episodes");
+			// options = {
+			// 	childList: true
+			// };
+			// OBSERVER.observe(target, options);
 		break;
 		case host_string.includes(HOST_AVAS_DEMON):
 			// window.onhashchange = webComicTranslator;

@@ -1,0 +1,52 @@
+[
+	{
+		"text": "カズは<br/>1つ目なの…?<br/>あたし<br/>みたいに?"
+		,"style": "font-size: 12em;left: 9.1289%;top: 4.9350%;width: 9.1885%;height: 7.0411%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "やれる"
+		,"style": "font-size: 12em;left: 31.9212%;top: 5.4471%;width: 5.6086%;height: 5.1217%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "私は<br/>やれる<br/>…"
+		,"style": "font-size: 14em;left: 43.3771%;top: 7.9660%;width: 6.3246%;height: 5.7095%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "<span>私は<span class=\"BOLD\">何でも<br/></span></span>やれるわ!"
+		,"style": "font-size: 18em;left: 54.7136%;top: 3.3480%;width: 15.0358%;height: 4.8699%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ラアアアァァァ!"
+		,"style": "font-size: 18em;left: 70.4654%;top: 4.9433%;width: 19.8444%;height: 2.8547%;border-radius: 40%;font-weight: normal;transform: rotate(10deg);"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "“何でも”は<br/>この場合<br/>“全く何も<br/>しない”<br/>って事よ"
+		,"style": "font-size: 14em;left: 16.0501%;top: 53.8098%;width: 11.8138%;height: 8.8161%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "あたしは<br/>ここに立って<br/>絶対何もしない、<br/>全てが地獄と<br/>化すまで"
+		,"style": "font-size: 14em;left: 75.3580%;top: 53.3900%;width: 14.7971%;height: 10.6633%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "本当に<br/>それで<br/>いいの?<br/>これから<br/>どうすん<br/>だよ?"
+		,"style": "font-size: 14em;left: 9.9642%;top: 76.1440%;width: 12.0525%;height: 10.8312%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "えっと…<br/>お爺ちゃん<br/>背骨が奇跡的に<br/>治るなら、今が<br/>良い時ですよ"
+		,"style": "font-size: 14em;left: 47.3150%;top: 76.0600%;width: 14.2005%;height: 10.7473%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "いえ。<br/>何でも<br/>ないです"
+		,"style": "font-size: 14em;left: 83.5919%;top: 87.6469%;width: 7.9952%;height: 5.7935%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]
