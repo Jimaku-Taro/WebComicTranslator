@@ -1,0 +1,57 @@
+[
+	{
+		"text": "高価な靴"
+		,"style": "font-size: 25em;left: 27.0425%;top: 5.4471%;width: 45.7831%;height: 3.7783%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "愚鈍な<br/>観光客を狙う罠に<br/>知性ある<br/>悪魔として<br/>興味は惹かれる"
+		,"style": "font-size: 16em;left: 28.3678%;top: 10.4849%;width: 17.1084%;height: 10.9152%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "だが、<br/>１つ例外が<br/>ある…"
+		,"style": "font-size: 16em;left: 29.0907%;top: 20.8963%;width: 16.3855%;height: 7.3887%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "フン!"
+		,"style": "font-size: 16em;left: 62.2233%;top: 10.7368%;width: 7.7108%;height: 3.0227%;border-radius: 20%;font-weight: normal;transform: rotate(10deg);"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "キリン デザイナー シューズ"
+		,"style": "font-size: 25em;left: 29.9341%;top: 31.3917%;width: 39.7590%;height: 3.5264%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "スタイリッシュ<br/>で超軽量!"
+		,"style": "font-size: 16em;left: 28.0064%;top: 43.5663%;width: 13.9759%;height: 6.4652%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "珠玉の逸品<br/>金に糸目は<br/>つけまい…"
+		,"style": "font-size: 14em;left: 41.9823%;top: 53.5553%;width: 15.9036%;height: 5.0378%;;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "２つ<br/>下さい"
+		,"style": "font-size: 16em;left: 59.6931%;top: 52.8862%;width: 11.3253%;height: 5.0378%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "金貨<br/>4千枚に<br/>なります"
+		,"style": "font-size: 20em;left: 27.0425%;top: 74.1289%;width: 12.6506%;height: 9.4878%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "なぜ<br/>金貨??<br/>高すぎる!"
+		,"style": "font-size: 20em;left: 56.1992%;top: 74.7166%;width: 14.4578%;height: 9.3199%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "そんなぁ～"
+		,"style": "font-size: 16em;left: 57.5245%;top: 89.9139%;width: 13.6145%;height: 2.3510%;border-radius: 20%;font-weight: normal;transform: rotate(15deg);"
+		,"class": "CENTER WHITE"
+	}
+]

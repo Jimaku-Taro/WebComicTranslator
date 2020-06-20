@@ -1,0 +1,52 @@
+[
+	{
+		"text": "アンドロイドが守るルールは多いです。<br/>ロボットの必修事項の１例として<br/>優先順位があります"
+		,"style": "font-size: 30em;left: 23.5417%;top: 11.2440%;width: 49.6667%;height: 2.7904%;border-radius: 10% 10% 45% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "アンドロイドにおける<br/>人間との意思疎通や<br/>礼儀についても学びます"
+		,"style": "font-size: 30em;left: 25.2083%;top: 24.5086%;width: 48.1667%;height: 1.8557%;border-radius: 10% 10% 45% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "例えば、長時間のアイコンタクトは<br/>人間に不安を与えます"
+		,"style": "font-size: 30em;left: 23.7083%;top: 37.6495%;width: 43.9167%;height: 1.1271%;border-radius: 0%;font-weight: normal;background-color: #D8E4F2;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "挨拶の時、ハグは人間側から<br/>行った時のみ許可されます"
+		,"style": "font-size: 30em;left: 26.9583%;top: 50.8179%;width: 47.5000%;height: 1.0997%;border-radius: 0%;font-weight: normal;background-color: #D8E4F2;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "※注意：ハグは10秒未満にすること"
+		,"style": "font-size: 20em;left: 26.7917%;top: 60.1787%;width: 46.9167%;height: 0.6460%;border-radius: 10%;font-weight: normal;color: #170000;background-color: transparent;"
+		,"class": "CENTER BLACK BOLD"
+	}
+	,{
+		"text": "衣服は会社が提供し所有者が承認します。<br/>常に承認された服を着て<br/>悪い印象をあたえないようにします。"
+		,"style": "font-size: 25em;left: 22.1250%;top: 63.5601%;width: 55.8333%;height: 2.2543%;border-radius: 0%;font-weight: normal;background-color: #E1E0DB;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "衣服は会社が提供し所有者が承認します。<br/>常に承認された服を着て<br/>悪い印象をあたえないようにします。"
+		,"style": "font-size: 25em;left: 22.1250%;top: 63.5601%;width: 55.8333%;height: 2.2543%;border-radius: 0%;font-weight: normal;background-color: #E1E0DB;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "人間は特定の用語や他人と<br/>比較した言い回しに敏感です"
+		,"style": "font-size: 25em;left: 24.1250%;top: 76.7560%;width: 51.0833%;height: 1.2096%;border-radius: 0%;font-weight: normal;background-color: #D7E3F1;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "太った男"
+		,"style": "font-size: 25em;left: 27.7083%;top: 83.7251%;width: 16.3333%;height: 0.7010%;border-radius: 0%;font-weight: normal;background-color: #316F9E;color: #E5FEF7;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "たくましい<br/>紳士"
+		,"style": "font-size: 25em;left: 55.9583%;top: 83.7388%;width: 16.2500%;height: 0.8935%;border-radius: 0%;font-weight: normal;background-color: #316F9E;color: #E5FEF7;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

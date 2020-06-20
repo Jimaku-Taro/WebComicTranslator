@@ -1,0 +1,27 @@
+[
+	{
+		"text": "怒りの風"
+		,"style": "font-size: 25em;left: 27.0425%;top: 5.4471%;width: 45.7831%;height: 3.7783%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "タタラトゥスは<br/>気温が高いため<br/>天狗のうちわが<br/>人気"
+		,"style": "font-size: 16em;left: 53.9976%;top: 10.9676%;width: 15.7518%;height: 11.9866%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "特に<br/>旅行者に"
+		,"style": "font-size: 16em;left: 29.8136%;top: 33.0683%;width: 13.9759%;height: 6.0453%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ダラ～…"
+		,"style": "font-size: 14em;left: 55.8377%;top: 38.7778%;width: 9.5181%;height: 2.5189%;border-radius: 20%;font-weight: normal;transform: rotate(10deg);"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "おい!<br/>何も買う気が<br/>ないなら<br/>出てけ!"
+		,"style": "font-size: 20em;left: 28.4883%;top: 54.2270%;width: 15.9036%;height: 13.8539%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

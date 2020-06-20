@@ -1,0 +1,27 @@
+[
+	{
+		"text": "絆を育む時間"
+		,"style": "font-size: 25em;left: 33.3532%;top: 5.6894%;width: 32.2196%;height: 3.5205%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "パンドラは<br/>僕が失くした目に<br/>超興味ある<br/>みたいだ…"
+		,"style": "font-size: 16em;left: 54.7136%;top: 10.4673%;width: 16.2291%;height: 11.9866%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "パンドラ<br/>見て!"
+		,"style": "font-size: 14em;left: 49.5727%;top: 32.1474%;width: 19.1566%;height: 3.6104%;border-radius: 0% 0% 45% 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "義眼さ!"
+		,"style": "font-size: 20em;left: 56.6811%;top: 52.5504%;width: 13.6145%;height: 10.8312%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "…何で<br/><span class=\"BOLD\"><span>こんな物</span>で<br/></span>僕に興味を<br/>引けるかな?!"
+		,"style": "font-size: 14em;left: 58.0064%;top: 75.9761%;width: 12.8916%;height: 11.1671%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

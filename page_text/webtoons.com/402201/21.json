@@ -1,0 +1,82 @@
+[
+	{
+		"text": "ハイ 皆さん!<br/>私はろくでなしの人間で<br/>君と子供に悪意を持って近づくわ!"
+		,"style": "font-size: 25em;left: 21.3750%;top: 6.2349%;width: 41.8333%;height: 0.9122%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "止まって! 10歩下がって下さい。<br/>従わない場合、私は許可されている<br/>非殺傷武器を使用します"
+		,"style": "font-size: 25em;left: 32.7917%;top: 13.4047%;width: 42.0833%;height: 1.1309%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "当局に通報し向かっています。<br/>ここで待ち<br/>あなたの悪い決断について<br/>考えていて下さい"
+		,"style": "font-size: 25em;left: 27.4583%;top: 27.7593%;width: 43.4167%;height: 1.4626%;border-radius: 30% 35% 50% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "自分が恥ずかしい…"
+		,"style": "font-size: 25em;left: 34.9583%;top: 29.4481%;width: 21.7500%;height: 0.6107%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ありがとう<br/>２人とも!<br/>上出来よ"
+		,"style": "font-size: 25em;left: 35.7083%;top: 31.1897%;width: 24.0833%;height: 1.4098%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "次の安全実演は<br/>加害者が<br/>従わない場合を<br/>見ます"
+		,"style": "font-size: 25em;left: 49.6250%;top: 35.1402%;width: 29.8333%;height: 1.7265%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "10歩下がらないと<br/>非殺傷武器を使いますよ"
+		,"style": "font-size: 25em;left: 36.5417%;top: 43.1921%;width: 33.9167%;height: 1.0178%;border-radius: 35% 40% 50% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "嫌だね!"
+		,"style": "font-size: 25em;left: 44.2083%;top: 45.9967%;width: 14.5000%;height: 0.5127%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "それなら…"
+		,"style": "font-size: 40em;left: 25.0417%;top: 50.9575%;width: 30.3333%;height: 0.6107%;border-radius: 10%;font-weight: normal;background-color: #F65E49;"
+		,"class": "CENTER BLACK"
+	}
+	,{
+		"text": "あぁ! 私の繊細な<br/>人間の目が!!!"
+		,"style": "font-size: 25em;left: 31.7917%;top: 65.3423%;width: 29.7500%;height: 0.9198%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "悪い人ね!"
+		,"style": "font-size: 35em;left: 28.7083%;top: 73.0172%;width: 24.5000%;height: 0.6634%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "痛い…<br/>一時的な<br/>盲目で<br/>無力だわ"
+		,"style": "font-size: 20em;left: 23.8750%;top: 75.7313%;width: 11.0833%;height: 0.8142%;border-radius: 10%;font-weight: normal;transform: rotate(-10deg);"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "そこまで!<br/>ありがとう<br/>良い出来よ"
+		,"style": "font-size: 30em;left: 62.4583%;top: 75.8972%;width: 17.5000%;height: 0.9047%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "エミーとベティの演技のように<br/>子供の保護の最終手段として<br/>防衛機能があります。<br/>子供が緊急事態の時だけ<br/>使えるわ"
+		,"style": "font-size: 25em;left: 49.7083%;top: 79.6215%;width: 30.5833%;height: 2.1713%;border-radius: 30%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "説得力ある<br/>演技だったわ!"
+		,"style": "font-size: 25em;left: 34.9583%;top: 86.9496%;width: 29.4167%;height: 0.7238%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ありがと!<br/>私も君の恐怖を<br/>感じれたわ"
+		,"style": "font-size: 25em;left: 20.2083%;top: 89.1285%;width: 15.0000%;height: 1.0479%;border-radius: 30%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

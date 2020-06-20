@@ -1,0 +1,42 @@
+[
+	{
+		"text": "ご免なさい<br/>お爺さん!<br/>工房は<br/>お終いだぁ!"
+		,"style": "font-size: 14em;left: 28.5800%;top: 15.4966%;width: 10.0239%;height: 9.4719%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "待って<br/>何の話?"
+		,"style": "font-size: 14em;left: 81.0184%;top: 16.6142%;width: 6.7470%;height: 4.6180%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "取れ!"
+		,"style": "font-size: 14em;left: 59.2112%;top: 29.5445%;width: 4.4578%;height: 4.1142%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "落と<br/>すな!"
+		,"style": "font-size: 14em;left: 86.8016%;top: 36.7653%;width: 5.0602%;height: 5.3736%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "取って<br/>ヒトミ!"
+		,"style": "font-size: 20em;left: 22.9462%;top: 45.4135%;width: 16.9880%;height: 6.2972%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "取って<br/>くれよ<br/>ヒトミ!"
+		,"style": "font-size: 20em;left: 59.6931%;top: 60.5269%;width: 13.1325%;height: 10.8312%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "君なら<br/>できる!"
+		,"style": "font-size: 14em;left: 35.2353%;top: 80.2582%;width: 6.6265%;height: 4.9538%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "頑張れ<br/>大雲!"
+		,"style": "font-size: 14em;left: 75.3558%;top: 87.9828%;width: 8.1928%;height: 4.4500%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

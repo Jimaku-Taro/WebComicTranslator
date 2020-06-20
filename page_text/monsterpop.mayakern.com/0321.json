@@ -1,0 +1,47 @@
+[
+	{
+		"text": "はいはい<br/>ごめんね"
+		,"style": "font-size: 14px;color: #3F014E;background-color: #EDA4FD;left: 6.3125%;top: 3.5714%;width: 9.7500%;height: 11.5079%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "マリナは<br/>どう思う?"
+		,"style": "font-size: 14px;color: #3F014E;background-color: #EDA4FD;left: 13.1875%;top: 18.1275%;width: 17.3750%;height: 13.1474%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "私…"
+		,"style": "font-size: 12px;color: #04433B;background-color: #95FFE9;left: 35.1875%;top: 1.3944%;width: 4.5000%;height: 4.3825%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "え…"
+		,"style": "font-size: 12px;color: #04433B;background-color: #95FFE9;left: 37.8125%;top: 4.7809%;width: 5.0000%;height: 5.1793%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "その…"
+		,"style": "font-size: 12px;color: #04433B;background-color: #95FFE9;left: 44.0625%;top: 2.9880%;width: 6.1250%;height: 5.9761%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "主人公は<br/>本当に好きよ"
+		,"style": "font-size: 14px;color: #04433B;background-color: #95FFE9;left: 53.1875%;top: 1.3944%;width: 12.8750%;height: 11.7530%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ただ<br/>マジメよね。<br/>彼女は怖かった<br/>けど自身を憐れま<br/>なかった"
+		,"style": "font-size: 14px;color: #04433B;background-color: #95FFE9;left: 70.6875%;top: 1.1952%;width: 15.2500%;height: 24.7012%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "まさに<br/>その通り!"
+		,"style": "font-size: 14px;color: #430453;background-color: #FADFFE;left: 43.5625%;top: 50.9960%;width: 9.6250%;height: 10.1594%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "これ以上<br/>ない位<br/>同感よ!"
+		,"style": "font-size: 14px;color: #430453;background-color: #FADFFE;left: 82.5625%;top: 51.1952%;width: 12.5000%;height: 11.5538%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+]

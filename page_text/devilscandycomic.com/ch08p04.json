@@ -21,11 +21,11 @@
 	}
 	,{
 		"text": "聴け、<br/>奴は小さな<br/>クレアンス。<br/>小さな<br/>クレアンスは<br/>バカだ"
-		,"style": "font-size: 14em;left: 77%;top: 5%;width: 99px;height: 118px;border-radius: 50%;"
+		,"style": "font-size: 13em;left: 77%;top: 5%;width: 99px;height: 118px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "オレはもう小さな<br/>クレアンスじゃない、<br/>だから謝れない。<br/>奴は今死んだ、<br/>小さなヤギーも一緒に<br/>葬り去れよ!"
+		"text": "オレはもう小さな<br/>クレアンスじゃない、<br/>だから謝れない。<br/>奴は今死んだ、<br/>小さなヤギーも<br/>一緒に葬り去れよ!"
 		,"style": "font-size: 14em;left: 12%;top: 34.5%;width: 191px;height: 104px;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}

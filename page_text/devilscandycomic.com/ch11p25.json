@@ -5,17 +5,17 @@
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "やれる"
+		"text": "できる"
 		,"style": "font-size: 12em;left: 31.9212%;top: 5.4471%;width: 5.6086%;height: 5.1217%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "私は<br/>やれる<br/>…"
+		"text": "私は<br/>できる<br/>…"
 		,"style": "font-size: 14em;left: 43.3771%;top: 7.9660%;width: 6.3246%;height: 5.7095%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "<span>私は<span class=\"BOLD\">何でも<br/></span></span>やれるわ!"
+		"text": "<span>私は<span class=\"BOLD\">何でも<br/></span></span>できるわ!"
 		,"style": "font-size: 18em;left: 54.7136%;top: 3.3480%;width: 15.0358%;height: 4.8699%;border-radius: 40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
@@ -30,7 +30,7 @@
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "あたしは<br/>ここに立って<br/>絶対何もしない、<br/>全てが地獄と<br/>化すまで"
+		"text": "あたしは<br/>ここに立って<br/>絶対何もしない、<br/>全てが終わる<br/>まで"
 		,"style": "font-size: 14em;left: 75.3580%;top: 53.3900%;width: 14.7971%;height: 10.6633%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
@@ -40,7 +40,7 @@
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "えっと…<br/>お爺ちゃん<br/>背骨が奇跡的に<br/>治るなら、今が<br/>良い時ですよ"
+		"text": "えっと…<br/>お爺さん<br/>背骨が奇跡的に<br/>治るなら、今が<br/>良い時ですよ"
 		,"style": "font-size: 14em;left: 47.3150%;top: 76.0600%;width: 14.2005%;height: 10.7473%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}

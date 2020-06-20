@@ -1,37 +1,37 @@
 [
 	{
 		"text": "生きてる、<br/>ニモ！<br/>実験は<br/>成功だ！"
-		,"style": "font-size: 16em;left: 44%;top: 11%;border-radius: 0%;"
-		,"class": "WHITE"
+		,"style": "font-size: 16em;left: 41.8618%;top: 7.5462%;width: 12.0482%;height: 14.1058%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "<span style=\"font-weight: bold;\">ふぁ～あ</span>"
-		,"style": "font-size: 24em;left: 76.1%;top: 8.3%;border-radius: 0%;"
-		,"class": "WHITE"
+		,"style": "font-size: 24em;left: 76.3197%;top: 7.5462%;width: 11.8072%;height: 4.0302%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "お前の<br/>課題が<br/>終わって<br/>嬉しいよ、<br/>カズ…"
-		,"style": "font-size: 14em;left: 49.5%;top: 31.3%;width: 89px;height: 82px;border-radius: 10%;"
+		,"style": "font-size: 14em;left: 49.0907%;top: 29.7124%;width: 11.3253%;height: 10.2435%;border-radius: 50%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "でも<br/>急がなきゃ<br/>俺達遅刻だ"
-		,"style": "font-size: 16em;left: 80.7%;top: 46.9%;border-radius: 0%;"
-		,"class": "WHITE"
+		,"style": "font-size: 16em;left: 79.4522%;top: 43.9074%;width: 13.0120%;height: 11.5029%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "朝食！"
-		,"style": "font-size: 16em;left: 53.4%;top: 61%;width: 66px;border-radius: 0%;"
-		,"class": "WHITE"
+		,"style": "font-size: 16em;left: 53.5486%;top: 58.7689%;width: 7.9518%;height: 6.4652%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "朝食<br/>食べ<br/>なきゃ！"
-		,"style": "font-size: 16em;left: 61.3%;top: 63%;border-radius: 10%;"
-		,"class": "WHITE"
+		,"style": "font-size: 16em;left: 60.4160%;top: 60.8680%;width: 9.5181%;height: 9.2359%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "１日で<br/>最も大切な<br/>食事だ！"
-		,"style": "font-size: 15em;left: 78.5%;top: 60.4%;border-radius: 20%;"
-		,"class": "WHITE"
+		,"style": "font-size: 15em;left: 78.4883%;top: 59.1047%;width: 9.6386%;height: 8.2284%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

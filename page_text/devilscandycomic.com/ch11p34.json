@@ -1,0 +1,27 @@
+[
+	{
+		"text": "石になった気分"
+		,"style": "font-size: 25em;left: 27.0425%;top: 5.4471%;width: 45.7831%;height: 3.7783%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "わぁ!<br/>ゴルゴンだ!<br/>本物の悪魔を<br/>石にして<br/>売ってるって<br/>聞くよ!"
+		,"style": "font-size: 16em;left: 28.5800%;top: 10.4647%;width: 17.0644%;height: 12.1542%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "根も葉も無い噂よ。<br/>学校にも<br/>ゴルゴンいるから<br/>分かるでしょ<br/>バカ!"
+		,"style": "font-size: 16em;left: 28.2474%;top: 32.1447%;width: 20.6024%;height: 9.7397%;border-radius: 30%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "は?"
+		,"style": "font-size: 30em;left: 28.1269%;top: 53.0515%;width: 13.4940%;height: 5.2897%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "私が<br/>何だって?"
+		,"style": "font-size: 25em;left: 56.0787%;top: 52.9676%;width: 14.2169%;height: 11.1671%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

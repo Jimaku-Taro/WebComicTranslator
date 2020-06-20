@@ -1,42 +1,42 @@
 [
 	{
-		"text": "性同一性障害は<br/>許す、レディ・<br/>ダーク・ロード<br/>だが<span style=\"font-weight: bold;\">お前の<br/>心の悪</span>は<br/>許さん！"
-		,"style": "font-size: 15em;left: 10.5%;top: 7%;border-radius: 10%;"
-		,"class": "WHITE"
+		"text": "性同一性障害は<br/>許す、レディ・<br/>ダーク・ロード<br/><span>だが<span style=\"font-weight: bold;\">お前の<br/></span><span>心の悪</span>は<br/></span>許さん！"
+		,"style": "font-size: 15em;left: 9.4522%;top: 6.2080%;width: 14.4578%;height: 11.9228%;border-radius: 30%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "そう言うがな、<br/>デビライザー、<br/>その鎧の下の、<br/>お前は獣だ、<br/>私と同じだ！"
-		,"style": "font-size: 15em;left: 81%;top: 8%;border-radius: 10%;"
-		,"class": "WHITE"
+		,"style": "font-size: 15em;left: 81.0184%;top: 6.5439%;width: 13.4940%;height: 11.4190%;border-radius: 45%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "仲間になれ<br/>デビライザー"
-		,"style": "font-size: 15em;left: 7%;top: 40%;border-radius: 10%;"
-		,"class": "WHITE"
+		,"style": "font-size: 15em;left: 6.5606%;top: 38.2819%;width: 11.5663%;height: 6.7170%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "仲間になれ"
-		,"style": "font-size: 16em;left: 15%;top: 47%;border-radius: 10%;"
-		,"class": "WHITE"
+		,"style": "font-size: 16em;left: 14.0305%;top: 45.1669%;width: 11.0843%;height: 5.5416%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "仲間になれ"
-		,"style": "font-size: 16em;left: 73%;top: 43.5%;border-radius: 10%;"
-		,"class": "WHITE"
+		,"style": "font-size: 16em;left: 73.3076%;top: 41.6404%;width: 9.7590%;height: 6.2972%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "獣か…<br/>そうだ、<br/>多分そう<br/>だろう…"
-		,"style": "font-size: 15em;left: 9%;top: 58%;width: 68px;border-radius: 10%;"
-		,"class": "WHITE"
+		,"style": "font-size: 15em;left: 7.1630%;top: 57.5094%;width: 10.4819%;height: 8.1444%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "<span style=\"font-weight: bold;\">…だが俺は<br/>貴様とは違う！</span><br/>俺の<ruby>顎門<rp>(</rp><rt>あぎと</rt><rp>)</rp></ruby>は<br/>正義のために<br/>のみ飢える！"
-		,"style": "font-size: 15em;left: 15%;top: 64.5%;border-radius: 20%;"
-		,"class": "WHITE"
+		"text": "<span style=\"font-weight: bold;\">…だが俺は<br/>貴様とは違う！<br/></span><span>俺の<ruby>顎門<rp>(</rp><rt>あぎと</rt><rp>)</rp></ruby>は<br/></span>正義のために<br/>のみ飢える!"
+		,"style": "font-size: 15em;left: 13.1871%;top: 64.6463%;width: 15.6627%;height: 10.2435%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "俺の爪は<br/>世界を覆う闇の<br/>血まみれの腸から<br/>希望の光を<br/>解き放つために<br/>のみ切り裂く！"
-		,"style": "font-size: 16em;left: 76%;top: 60.5%;border-radius: 20%;"
-		,"class": "WHITE"
+		,"style": "font-size: 16em;left: 75.5968%;top: 59.3566%;width: 17.1084%;height: 13.6860%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 ]

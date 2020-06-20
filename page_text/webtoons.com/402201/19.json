@@ -1,0 +1,47 @@
+[
+	{
+		"text": "赤ん坊が深夜に泣き出したら<br/>どうすべきか誰か答えられますか?<br/>どう赤子を落ち着かせます?"
+		,"style": "font-size: 30em;left: 23.7083%;top: 14.4921%;width: 40.3333%;height: 2.5547%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "答えられます<br/>バラッドバリー先生!"
+		,"style": "font-size: 25em;left: 23.1250%;top: 28.5736%;width: 25.1667%;height: 1.7944%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "はいエミー<br/>実演して<br/>みせて"
+		,"style": "font-size: 30em;left: 58.1250%;top: 28.6344%;width: 20.4167%;height: 3.1174%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "赤ちゃんの泣き声はうるさく<br/>両親を起こし<br/>睡眠を妨げます"
+		,"style": "font-size: 30em;left: 22.4583%;top: 42.9136%;width: 41.6667%;height: 2.2202%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "赤ちゃんを静かにするため<br/>泣き止むまで<br/>声を抑えさせます"
+		,"style": "font-size: 30em;left: 20.2083%;top: 57.7403%;width: 36.0000%;height: 2.0681%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ほら枕だよ～"
+		,"style": "font-size: 30em;left: 21.3750%;top: 65.1004%;width: 21.0833%;height: 1.7488%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "十分よエミー!<br/>ありがとう!"
+		,"style": "font-size: 30em;left: 60.0417%;top: 58.1509%;width: 19.5833%;height: 2.3571%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "実際には、赤子が泣くのを止めると<br/>死亡する危険性があります。<br/>それは避けねばなりません!"
+		,"style": "font-size: 30em;left: 33.4583%;top: 72.1563%;width: 45.0833%;height: 2.7524%;border-radius: 30% 40% 50% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "なるほど～…"
+		,"style": "font-size: 30em;left: 23.1250%;top: 74.9392%;width: 26.0833%;height: 1.6271%;border-radius: 50%;font-weight: normal;transform: rotate(10deg);"
+		,"class": "CENTER WHITE"
+	}
+]

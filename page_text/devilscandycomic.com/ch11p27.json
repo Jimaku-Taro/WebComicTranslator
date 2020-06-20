@@ -1,0 +1,22 @@
+[
+	{
+		"text": "手加減<br/>無しだ!"
+		,"style": "font-size: 20em;left: 11.9928%;top: 7.7012%;width: 11.9332%;height: 5.9514%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "カドモス家<br/>究極奥義!"
+		,"style": "font-size: 20em;left: 72.3438%;top: 7.7141%;width: 15.3012%;height: 7.4727%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ビトゥイーン<br/>スキュラ＆カリブディス!"
+		,"style": "font-size: 25em;left: 31.8618%;top: 27.6973%;width: 39.7590%;height: 6.4652%;height: 6.5491%;font-weight: normal;color: black;transform: rotate(2deg);text-shadow: white 2px 0px,  white -2px 0px, white 0px -2px, white 0px 2px, white 2px 2px , white -2px 2px, white 2px -2px, white -2px -2px, white 1px 2px,  white -1px 2px, white 1px -2px, white -1px -2px, white 2px 1px,  white -2px 1px, white 2px -1px, white -2px -1px;"
+		,"class": "CENTER BOLD"
+	}
+	,{
+		"text": "大丈夫だ<br/>ギガントレウス<br/>オレがついてる!<br/>俺達も必殺技だ!"
+		,"style": "font-size: 14em;left: 9.0907%;top: 81.7695%;width: 13.7349%;height: 12.4265%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"text": "数ヶ月の訓練の後、いよいよ<br/>人間の安全保護の資格の<br/>卒業証書を受けます"
+		,"style": "font-size: 30em;left: 23.4167%;top: 9.1763%;width: 52.5000%;height: 1.6077%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "おめでとうございます皆さん!<br/>最初の訓練を優秀な成績で合格し<br/>人間の家庭に配属される準備が整いました!"
+		,"style": "font-size: 30em;left: 24.1667%;top: 24.7834%;width: 53.0000%;height: 2.7143%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "やったね皆! これで一人前よ!"
+		,"style": "font-size: 30em;left: 22.1250%;top: 36.9976%;width: 56.5833%;height: 0.7725%;border-radius: 10%;font-weight: normal;background-color: #462D43;"
+		,"class": "CENTER BLACK"
+	}
+	,{
+		"text": "興奮しちゃう!"
+		,"style": "font-size: 30em;left: 19.9583%;top: 38.2817%;width: 19.8333%;height: 0.6681%;border-radius: 10%;font-weight: normal;background-color: #462D43;transform: rotate(-3deg);"
+		,"class": "CENTER BLACK"
+	}
+	,{
+		"text": "人間とハグするのが<br/>待ち遠しいわ!"
+		,"style": "font-size: 30em;left: 53.6250%;top: 37.8432%;width: 26.7500%;height: 1.3467%;border-radius: 10%;font-weight: normal;background-color: #462D43;transform: rotate(3deg);"
+		,"class": "CENTER BLACK"
+	}
+	,{
+		"text": "人間のケアは簡単な仕事ではありません。<br/>あなた達の存在意義をかけて<br/>尊厳と名誉を持って行うことを期待します。<br/>分かりましたか?"
+		,"style": "font-size: 30em;left: 25.5417%;top: 45.5789%;width: 51.4167%;height: 3.0797%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "了解!"
+		,"style": "font-size: 100em;left: 30.7083%;top: 57.7618%;width: 39.6667%;height: 1.7016%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "外に出れば、<br/>あなた達は会社、ひいては製作者達を<br/>示すものとなります"
+		,"style": "font-size: 30em;left: 22.6250%;top: 66.4057%;width: 53.8333%;height: 2.6412%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "それでは、<br/>この方を講演者として<br/>紹介する栄誉を頂き光栄です。<br/>CEOであり創始者<br/>ジョン・スターリン氏です"
+		,"style": "font-size: 30em;left: 25.9583%;top: 78.1084%;width: 47.7500%;height: 3.1005%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

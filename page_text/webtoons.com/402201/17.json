@@ -1,0 +1,72 @@
+[
+	{
+		"text": "私のようなアンドロイドは<br/>人間のケアをする前に訓練を受ける場所があります。<br/>非公式にはナンドロイド学校と呼ばれています。"
+		,"style": "font-size: 20em;left: 19.1250%;top: 10.0030%;width: 50.9167%;height: 1.4182%;border-radius: 0%;font-weight: normal;background-color: #FBFBF9;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "必要な大半はプログラム済みですが、<br/>ケアの複雑な部分をそこで学びます"
+		,"style": "font-size: 20em;left: 29.5417%;top: 17.7127%;width: 41.0833%;height: 1.4031%;border-radius: 0%;font-weight: normal;background-color: #CADEE6;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "芸術的能力の限られた<br/>子供に嘘を付くことは<br/>許容されます。<br/>安全な遊びを<br/>奨励するためね"
+		,"style": "font-size: 20em;left: 44.5417%;top: 20.1267%;width: 20.2500%;height: 3.0175%;border-radius: 20%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "なるほど～!"
+		,"style": "font-size: 30em;left: 23.3750%;top: 22.1635%;width: 18.2500%;height: 1.5088%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "このコースに不合格のアンドロイドは<br/>人間の所有者に配属されません。<br/>幸い、優れた工業技術のおかげで、<br/>そんなこと起こりそうもないけど!"
+		,"style": "font-size: 20em;left: 25.6250%;top: 27.3235%;width: 48.2500%;height: 1.8407%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "この検査は安全性と有効性の<br/>検証のために行われ<br/>所有者に最高のケアを提供できます。"
+		,"style": "font-size: 20em;left: 31.6250%;top: 34.9125%;width: 37.4167%;height: 1.3579%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "学習はとても楽しいわ! 有益な補助学習は<br/>楽しくもあるの例えば運動や…"
+		,"style": "font-size: 20em;left: 27.4583%;top: 39.9668%;width: 44.9167%;height: 1.1316%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "音楽の訓練…"
+		,"style": "font-size: 30em;left: 29.6250%;top: 49.8642%;width: 40.5000%;height: 0.7091%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "人間の歴史…"
+		,"style": "font-size: 30em;left: 30.7917%;top: 59.7164%;width: 38.9167%;height: 0.8449%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "アイルランドの<br/>ジャガイモ飢饉"
+		,"style": "font-size: 20em;left: 56.1250%;top: 61.5419%;width: 14.7500%;height: 2.8817%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "たまに演習も行うわ!"
+		,"style": "font-size: 30em;left: 28.7917%;top: 69.3422%;width: 42.8333%;height: 0.8600%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "息してない!<br/>救急が必要ね!"
+		,"style": "font-size: 20em;left: 28.3750%;top: 71.0320%;width: 16.3333%;height: 2.4140%;border-radius: 30%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "誰か911に<br/>電話を!"
+		,"style": "font-size: 20em;left: 32.3750%;top: 80.3108%;width: 20.2500%;height: 1.1617%;border-radius: 10% 10% 50% 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "フレッドの<br/>バースデーカードに<br/>サインはした?"
+		,"style": "font-size: 20em;left: 41.3750%;top: 84.1581%;width: 18.6667%;height: 1.6898%;border-radius: 50%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

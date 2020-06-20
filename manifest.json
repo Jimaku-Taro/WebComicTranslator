@@ -1,6 +1,6 @@
 {
 	"name": "WebComicTranslator"
-	,"version": "7.0.0"
+	,"version": "8.0.0"
 	,"short_name": "コミトラ"
 	,"manifest_version": 2
 	,"description": "一部のWebコミックに日本語訳を人力で追加"
@@ -23,19 +23,13 @@
 				"*://www.monsterpop.mayakern.com/*"
 				,"*://monsterpop.mayakern.com/*"
 
-				,"*://tapas.io/episode/*"
-				,"*://m.tapas.io/episode/*"
-				,"*://www.tapas.io/episode/*"
-				,"*://www.m.tapas.io/episode/*"
+
 
 				,"*://www.avasdemon.com/*"
 				,"*://avasdemon.com/*"
 
 				,"*://hoppinggills.com/*"
 				,"*://www.hoppinggills.com/*"
-
-				,"*://www.webtoons.com/*"
-				,"*://webtoons.com/*"
 			]
 			,"js": [
 				"WebComicTranslator.js"
@@ -57,6 +51,21 @@
 				,"css/cshort.css"
 			]
 		 }
+		 ,{
+			"matches": [
+				"*://tapas.io/episode/*"
+				,"*://m.tapas.io/episode/*"
+				,"*://www.tapas.io/episode/*"
+				,"*://www.m.tapas.io/episode/*"
+			]
+			,"js": [
+				"WebComicTranslator.js"
+			]
+			,"css": [
+				"common.css"
+				,"css/tapas.io.css"
+			]
+		 }
 		,{
 			"matches": [
 				"*://www.hazbinhotel.com/comic/*"
@@ -70,6 +79,20 @@
 				,"css/hazbinhotel.css"
 			]
 		 }
+		 ,{
+			 "matches": [
+				"*://www.webtoons.com/*"
+				,"*://webtoons.com/*"
+				,"*://m.webtoons.com/*"
+			 ]
+			 ,"js": [
+				 "WebComicTranslator.js"
+			 ]
+			 ,"css": [
+				 "common.css"
+				 ,"css/hazbinhotel.css"
+			 ]
+		  }
 	]
 	,"icons": {
 		"128": "icon128.png"

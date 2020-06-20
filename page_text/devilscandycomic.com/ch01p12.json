@@ -1,12 +1,12 @@
 [
 	{
-		"text": "<span style=\"font-weight: bold;\">唸れ、<br/>バーニング<br/>ブラッド！</span>"
-		,"style": "font-size: 30em;left: 68%;top: 6%;border-radius: 20%;"
-		,"class": "WHITE"
+		"text": "<span style=\"font-weight: bold;\">唸れ、<br/>バーニング<br/>ブラッド!</span>"
+		,"style": "font-size: 30em;left: 64.8739%;top: 3.5212%;width: 24.9398%;height: 16.1209%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "<span style=\"font-weight: bold;\">デビル<br/><ruby>大虐殺<rp>(</rp><rt>ヘカトン</rt><rp>)</rp></ruby>！！　</span>"
-		,"style": "font-size: 30em;left: 13.1%;top: 45%;border-radius: 30%;"
-		,"class": "WHITE"
+		"text": "デビル<br/><span><ruby>大虐殺<rp>(</rp><rt>ヘカトン</rt><rp>)</rp></ruby>!!</span>"
+		,"style": "font-size: 30em;left: 12.7052%;top: 41.3885%;width: 22.0482%;height: 14.4416%;border-radius: 50%;"
+		,"class": "CENTER WHITE BOLD"
 	}
 ]

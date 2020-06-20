@@ -1,0 +1,42 @@
+[
+	{
+		"text": "ロボットのナニーが作られる際<br/>各アンドロイドは親しみやすいように<br/>名前が付けられます。私がもらったのは“エミー”"
+		,"style": "font-size: 30em;left: 22.2917%;top: 9.1554%;width: 55.7500%;height: 1.4752%;border-radius: 0%;font-weight: normal;background-color: #FBFBF9;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "私の仕事はあなた達家族に必要な<br/>特別なお世話をすることです。<br/>私は0～100才までの人間のお世話が<br/>できるようプログラムされています。"
+		,"style": "font-size: 30em;left: 27.0417%;top: 19.0090%;width: 47.3333%;height: 1.8806%;border-radius: 0%;font-weight: normal;background-color: #FBFBF9;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ロボットのナニーは全て<br/>スターリング ロボティックスで製造されています。<br/>世界最大手のロボット企業です!<br/>品質水準の高さで有名で、<br/>私達は最も素晴らしい製品と言われています! "
+		,"style": "font-size: 30em;left: 20.6250%;top: 28.7387%;width: 59.0000%;height: 2.5450%;border-radius: 0%;font-weight: normal;background-color: #FBFBF9;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "私は15ヶ国語に精通し<br/>モールス信号や<br/>アメリカ手話も扱えます。"
+		,"style": "font-size: 30em;left: 32.7917%;top: 38.6712%;width: 37.0000%;height: 1.4527%;border-radius: 10%;font-weight: normal;background-color: #F9F9F7;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "私は数学や理論応用に<br/>優れた知能を備えています"
+		,"style": "font-size: 30em;left: 26.4583%;top: 48.3784%;width: 49.5000%;height: 0.9910%;border-radius: 10%;font-weight: normal;background-color: #F9F9F7;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "999種のレシピがプログラムされており<br/>同様にアレルギー物質代替材料も把握しています!"
+		,"style": "font-size: 30em;left: 21.8750%;top: 58.1757%;width: 56.5000%;height: 1.0473%;border-radius: 0%;font-weight: normal;background-color: #F9F9F7;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "防水性もあります!"
+		,"style": "font-size: 30em;left: 34.2083%;top: 68.5473%;width: 31.0000%;height: 0.7207%;;border-radius: 0%;font-weight: normal;background-color: #83D6DE;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "これが最重要、子供に安全!"
+		,"style": "font-size: 30em;left: 25.1250%;top: 78.7050%;width: 48.0000%;height: 0.5518%;border-radius: 0%;font-weight: normal;background-color: #F8F8F9;"
+		,"class": "CENTER WHITE"
+	}
+]

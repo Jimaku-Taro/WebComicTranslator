@@ -1,37 +1,37 @@
 [
 	{
 		"text": "縫合糸<br/>…"
-		,"style": "font-size: 16em;left: 25.1%;top: 13%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 22.1028%;top: 7.9660%;width: 11.4458%;height: 12.0067%;border-radius: 45%;"
 		,"class": "WHITE"
 	}
 	,{
 		"text": "縫合糸<br/>…"
-		,"style": "font-size: 16em;left: 71.6%;top: 30%;width: 56px;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 69.5727%;top: 27.1096%;width: 10.1205%;height: 8.6482%;border-radius: 45%;"
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "<ruby>剪刀<rp>(</rp><rt>せんとう</rt><rp>)</rp></ruby><br/>…"
-		,"style": "font-size: 16em;left: 19.2%;top: 45.5%;width: 60px;border-radius: 0%;"
-		,"class": "WHITE"
+		"text": "<ruby>剪刀<rp>(</rp><rt>せんとう</rt><rp>)</rp><br/></ruby>…"
+		,"style": "font-size: 16em;left: 18.1269%;top: 43.6503%;width: 8.9157%;height: 8.1444%;border-radius: 45%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "<ruby>剪刀<rp>(</rp><rt>せんとう</rt><rp>)</rp></ruby><br/>…"
-		,"style": "font-size: 16em;left: 65%;top: 53%;width: 64px;border-radius: 0%;"
-		,"class": "WHITE"
+		"text": "<ruby>剪刀<rp>(</rp><rt>せんとう</rt><rp>)</rp><br/></ruby>…"
+		,"style": "font-size: 16em;left: 64.3919%;top: 52.0466%;width: 8.9157%;height: 7.5567%;border-radius: 45%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "チェーン<br/>ソー…"
-		,"style": "font-size: 16em;left: 42%;top: 63%;border-radius: 0%;"
-		,"class": "WHITE"
+		,"style": "font-size: 16em;left: 41.2594%;top: 60.7788%;width: 9.3976%;height: 8.4803%;border-radius: 45%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "チェーン<br/>…"
-		,"style": "font-size: 16em;left: 29.2%;top: 68.8%;border-radius: 0%;"
-		,"class": "WHITE"
+		,"style": "font-size: 16em;left: 28.7293%;top: 67.9996%;width: 8.6747%;height: 5.2897%;border-radius: 45%;"
+		,"class": "CENTER WHITE"
 	}
 	,{
 		"text": "は…？"
-		,"style": "font-size: 14em;left: 34.2%;top: 72.8%;border-radius: 0%;"
-		,"class": "WHITE"
+		,"style": "font-size: 14em;left: 33.6691%;top: 72.5336%;width: 5.6627%;height: 2.7708%;border-radius: 45%;"
+		,"class": "CENTER WHITE"
 	}
 ]
