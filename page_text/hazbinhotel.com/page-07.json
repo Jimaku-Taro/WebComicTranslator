@@ -1,13 +1,18 @@
 [
 	{
+		"text": ""
+		,"style": "left: 0.9545%;top: 0.8355%;width: 16.4545%;height: 14.9100%;font-size: 20em;border-radius: 50%;"
+		,"class": "RED"
+	}
+	,{
 		"text": "何回<br/>言ったと思う<br/>君のこと<br/>仕事<br/>私の事情"
-		,"style": "left: 0.9545%;top: 0.8355%;width: 16.4545%;height: 14.9100%;font-size: 20em;color: #FFFFFF;background-color: #E40918;border-radius: 50%;"
-		,"class": "CENTER"
+		,"style": "left: 0.9545%;top: 0.8355%;width: 16.4545%;height: 14.9100%;font-size: 20em;border-radius: 50%;"
+		,"class": "CENTER HEARTS"
 	}
 	,{
 		"text": "エンジェル エンジェル エンジェル"
-		,"style": "left: 1.5000%;top: 1.7995%;width: 15.4545%;height: 1.8638%;font-size: 10em;color: #FFFFFF;background-color: #E40918;border-radius: 0%;transform:rotate(-10deg);"
-		,"class": "CENTER"
+		,"style": "left: 1.5000%;top: 1.7995%;width: 15.4545%;height: 1.8638%;font-size: 8em;color: #FFFFFF;background-color: #E40918;border-radius: 0%;transform:rotate(-10deg);"
+		,"class": "CENTER RED"
 	}
 	,{
 		"text": "勘弁してよ<br/>ボス<br/>それ位<br/>分かって…"
@@ -27,7 +32,12 @@
 	,{
 		"text": "俺は<br/>言った?"
 		,"style": "left: 30.2273%;top: 75.3856%;width: 18.8182%;height: 17.4165%;font-size: 35em;color: #FFFFFF;background-color: #E40918;border-radius: 50%;transform:rotate(15deg);"
-		,"class": "CENTER BOLD"
+		,"class": "CENTER BOLD RED"
+	}
+	,{
+		"text": "俺は<br/>言った?"
+		,"style": "left: 30.2273%;top: 75.3856%;width: 18.8182%;height: 17.4165%;font-size: 35em;color: #FFFFFF;background-color: #E40918;border-radius: 50%;transform:rotate(15deg);"
+		,"class": "CENTER BOLD HEARTS"
 	}
 	,{
 		"text": "…<br/>スタジオに<br/>いろ"
@@ -36,8 +46,13 @@
 	}
 	,{
 		"text": "よし<br/>今日は<br/>どこに<br/>いた?"
-		,"style": "left: 48.5909%;top: 51.2211%;width: 21.5455%;height: 18.4306%;font-size: 35px;olor: #FFFFFF;background-color: #E40918;border-radius: 50%;transform:rotate(-15deg);"
-		,"class": "CENTER"
+		,"style": "left: 48.5909%;top: 51.2211%;width: 21.5455%;height: 18.4306%;font-size: 35px;color: #FFFFFF;background-color: #E40918;border-radius: 50%;transform: rotate(-15deg);"
+		,"class": "CENTER RED"
+	}
+	,{
+		"text": "よし<br/>今日は<br/>どこに<br/>いた?"
+		,"style": "left: 48.5909%;top: 51.2211%;width: 21.5455%;height: 18.4306%;font-size: 35px;color: #FFFFFF;background-color: #E40918;border-radius: 50%;transform: rotate(-15deg);"
+		,"class": "CENTER HEARTS"
 	}
 	,{
 		"text": "スタジオ…<br/>じゃない"

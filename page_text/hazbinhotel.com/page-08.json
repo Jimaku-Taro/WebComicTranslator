@@ -1,0 +1,92 @@
+[
+	{
+		"text": ""
+		,"style": "left: 6.5000%;top: 3.5347%;width: 12.9091%;height: 12.9820%;font-size: 20em;border-radius: 50%;"
+		,"class": "RED"
+	}
+	,{
+		"text": "よく<br/>できました<br/>ダーリン"
+		,"style": "left: 6.5000%;top: 3.5347%;width: 12.9091%;height: 12.9820%;font-size: 20em;border-radius: 50%;"
+		,"class": "CENTER HEARTS"
+	}
+	,{
+		"text": ""
+		,"style": "left: 54.9545%;top: 0.8355%;width: 28.3636%;height: 11.1183%;font-size: 20em;border-radius: 50%;transform: rotate(-5deg);"
+		,"class": "RED"
+	}
+	,{
+		"text": "じゃあ君が<br/>やらなかった仕事を<br/>どう償うか話そうか"
+		,"style": "left: 54.9545%;top: 0.8355%;width: 28.3636%;height: 11.1183%;font-size: 25em;border-radius: 50%;transform: rotate(-5deg);"
+		,"class": "CENTER HEARTS"
+	}
+	,{
+		"text": "2シフト分の<br/>仕事を明日…"
+		,"style": "left: 29.5000%;top: 27.6350%;width: 14.4545%;height: 9.2545%;font-size: 20em;border-radius: 50%;"
+		,"class": "CENTER ANGEL"
+	}
+	,{
+		"text": "閃いた!"
+		,"style": "left: 34.5091%;top: 36.7823%;width: 12.2727%;height: 9.9614%;font-size: 20em;border-radius: 10% 10% 50% 10%;transform: rotate(-15deg);color: white;background-color: #F7254A;"
+		,"class": "CENTER BOLD"
+	}
+	,{
+		"text": ""
+		,"style": "left: 37.2273%;top: 54.7558%;width: 16.3636%;height: 17.8021%;font-size: 20em;border-radius: 50%;"
+		,"class": "RED"
+	}
+	,{
+		"text": "外に出て<br/>隅で立ちんぼ<br/>してなさい<br/>撮影できなかった<br/>時間を償うんだ"
+		,"style": "left: 37.2273%;top: 54.7558%;width: 16.3636%;height: 17.8021%;font-size: 20em;border-radius: 50%;"
+		,"class": "CENTER HEARTS"
+	}
+	,{
+		"text": ""
+		,"style": "left: 1.6818%;top: 80.8483%;width: 22.1818%;height: 15.3599%;font-size: 20em;border-radius: 50%; 30% 50% 30%;"
+		,"class": "RED"
+	}
+	,{
+		"text": "今日は<br/>輪姦モノの予定で、<br/>どうせ長い夜<br/>だったろ"
+		,"style": "left: 1.6818%;top: 80.8483%;width: 22.1818%;height: 15.3599%;font-size: 20em;border-radius: 50%; 30% 50% 30%;"
+		,"class": "CENTER HEARTS"
+	}
+	,{
+		"text": "了解"
+		,"style": "left: 83.9545%;top: 52.3779%;width: 11.3636%;height: 4.0488%;font-size: 20em;border-radius: 50%;"
+		,"class": "CENTER ANGEL2"
+	}
+	,{
+		"text": ""
+		,"style": "left: 85.7727%;top: 67.2879%;width: 12.5455%;height: 9.8900%;font-size: 20em;border-radius: 50%;"
+		,"class": "RED"
+	}
+	,{
+		"text": "それだけ?"
+		,"style": "left: 85.7727%;top: 67.2879%;width: 12.5455%;height: 9.8900%;font-size: 20em;border-radius: 50%;"
+		,"class": "CENTER HEARTS"
+	}
+	,{
+		"text": "あなたの望むままに<br/>ミスター・ヴァレンティノ"
+		,"style": "left: 69.5909%;top: 79.8843%;width: 27.4545%;height: 6.4267%;font-size: 20em;border-radius: 50%;"
+		,"class": "CENTER ANGEL"
+	}
+	,{
+		"text": ""
+		,"style": "left: 83.5909%;top: 89.0103%;width: 13.0909%;height: 3.2776%;font-size: 20em;border-radius: 50%;"
+		,"class": "RED"
+	}
+	,{
+		"text": "良い子だ"
+		,"style": "left: 83.5909%;top: 89.0103%;width: 13.0909%;height: 3.2776%;font-size: 20em;border-radius: 50%;"
+		,"class": "CENTER HEARTS"
+	}
+	,{
+		"text": ""
+		,"style": "left: 79.0455%;top: 92.5237%;width: 16.6364%;height: 6.3123%;font-size: 20em;border-radius: 50%;transform: rotate(-10deg);"
+		,"class": "RED"
+	}
+	,{
+		"text": "さぁ<br/>出てけ"
+		,"style": "left: 79.0455%;top: 92.5237%;width: 16.6364%;height: 6.3123%;font-size: 25em;border-radius: 60% 50% 50% 50%;color: black;transform: rotate(-10deg);"
+		,"class": "CENTER HEARTS BOLD"
+	}
+]

@@ -54,4 +54,14 @@
 		,"style": "left: 87.0000%;top: 86.9537%;width: 11.3636%;height: 10.0900%;font-size: 16em;color: #004369;background-color: #80F2F9;border-radius: 50%;"
 		,"class": "CENTER"
 	}
+	,{
+		"text": "小さな取引が<br/>片付くだけで<br/>彼には大助かり<br/>だろうぜ"
+		,"style": "left: 34.8182%;top: 74.8072%;width: 14.7273%;height: 14.0746%;font-size: 16em;color: #C01531;background-color: #EFE6E6;border-radius: 45%;transform:rotate(15deg);"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "それだけ?"
+		,"style": "left: 85.5909%;top: 67.2879%;width: 12.6364%;height: 9.8329%;font-size: 20em;color: #FFFFFF;background-color: #FBA0AF;border-radius: 45%"
+		,"class": "CENTER BOLD"
+	}
 ]

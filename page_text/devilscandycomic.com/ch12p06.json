@@ -1,0 +1,32 @@
+[
+	{
+		"text": "誰だろう?"
+		,"style": "font-size: 14em;left: 10.2029%;top: 7.4549%;width: 8.7112%;height: 7.6278%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "有名人<br/>なんだ…"
+		,"style": "font-size: 14em;left: 20.8234%;top: 10.3887%;width: 7.6372%;height: 6.3705%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "もう１戦<br/>いくわよ<br/>カドモス君?<br/>観客もお望みの<br/>ようだし"
+		,"style": "font-size: 14em;left: 42.2233%;top: 7.3835%;width: 17.5904%;height: 9.0680%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "大雲師匠、<br/>私が奴の金棒を<br/>粉砕して<br/>師匠の工房の<br/>優位を示せば、<br/>私を弟子と認めて<br/>くれますか?"
+		,"style": "font-size: 14em;left: 11.6209%;top: 36.3508%;width: 16.1446%;height: 14.0218%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ならん!<br/>何度も<br/>言ったじゃろ!<br/>金棒を下ろせ!"
+		,"style": "font-size: 14em;left: 7.6450%;top: 59.0208%;width: 13.1325%;height: 12.3426%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "下ろせば<br/>工房は終わる!<br/>貴様の汚れた手に<br/><span><span class=\"BOLD\">一瞬</span>でもあるより<br/></span>マシじゃ!"
+		,"style": "font-size: 14em;left: 39.3317%;top: 60.1123%;width: 14.6988%;height: 13.1822%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]
