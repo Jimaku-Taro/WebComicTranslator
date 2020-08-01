@@ -1,0 +1,22 @@
+[
+	{
+		"text": "ふぅ!"
+		,"style": "font-size: 14em;left: 38.6038%;top: 14.4882%;width: 7.6372%;height: 4.1911%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "何度も<br/>やったけど<br/>倒せそうに<br/>無いわね!"
+		,"style": "font-size: 14em;left: 44.3317%;top: 16.9190%;width: 12.1718%;height: 9.3881%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "フェアに<br/>戦う悪魔ね<br/>引き分けで<br/>いいかしら?"
+		,"style": "font-size: 14em;left: 72.7052%;top: 24.3362%;width: 10.4819%;height: 7.1369%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "引分<br/>だ"
+		,"style": "font-size: 12em;left: 48.6088%;top: 63.7988%;width: 4.6988%;height: 3.1906%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]
