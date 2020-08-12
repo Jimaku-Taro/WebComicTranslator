@@ -1,0 +1,32 @@
+[
+	{
+		"text": "初めてだよ<br/>こんな<br/>惨めなのも…"
+		,"style": "font-size: 14em;left: 15.1551%;top: 4.9534%;width: 12.4105%;height: 9.2205%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "皆の愛を<br/>感じたのも"
+		,"style": "font-size: 14em;left: 70.6444%;top: 5.9592%;width: 10.0239%;height: 7.7117%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ほら<br/>大雲師匠。<br/>楽しさを人と<br/>共感するのは<br/>良い事でしょ!"
+		,"style": "font-size: 14em;left: 41.8618%;top: 24.1053%;width: 13.9759%;height: 10.3275%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ところで<br/>宿泊はどこ?<br/>ゼリー<br/>ビーン君"
+		,"style": "font-size: 14em;left: 7.6450%;top: 54.2480%;width: 13.0120%;height: 8.3123%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ホテル<br/>オーフィス<br/>だけど<br/>何で?"
+		,"style": "font-size: 14em;left: 26.5606%;top: 71.9642%;width: 9.7590%;height: 7.8086%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "君の所で<br/>パーティよ!"
+		,"style": "font-size: 20em;left: 42.1028%;top: 56.7669%;width: 25.9036%;height: 5.2897%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]
