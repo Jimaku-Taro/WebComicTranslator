@@ -14,7 +14,7 @@
 				"WebComicTranslator.js"
 			]
 			,"css": [
-				"common.css"
+				"css/common.css"
 				,"css/devilscandy.css"
 			]
 		 }
@@ -35,7 +35,7 @@
 				"WebComicTranslator.js"
 			]
 			,"css": [
-				"common.css"
+				"css/common.css"
 			]
 		}
 		,{
@@ -47,7 +47,7 @@
 				"WebComicTranslator.js"
 			]
 			,"css": [
-				"common.css"
+				"css/common.css"
 				,"css/cshort.css"
 			]
 		 }
@@ -62,7 +62,7 @@
 				"WebComicTranslator.js"
 			]
 			,"css": [
-				"common.css"
+				"css/common.css"
 				,"css/tapas.io.css"
 			]
 		 }
@@ -75,7 +75,7 @@
 				"WebComicTranslator.js"
 			]
 			,"css": [
-				"common.css"
+				"css/common.css"
 				,"css/hazbinhotel.css"
 			]
 		 }
@@ -89,7 +89,7 @@
 				 "WebComicTranslator.js"
 			 ]
 			 ,"css": [
-				 "common.css"
+				 "css/common.css"
 				 ,"css/hazbinhotel.css"
 			 ]
 		  }
