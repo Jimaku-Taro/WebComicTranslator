@@ -1,0 +1,72 @@
+[
+	{
+		"text": "タヌキは<br/>変身できるけど<br/>体のパーツも<br/>変身なの?"
+		,"style": "font-size: 14em;left: 9.2482%;top: 3.6253%;width: 16.1098%;height: 8.6337%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "う～ん"
+		,"style": "font-size: 14em;left: 40.7518%;top: 4.7988%;width: 11.0979%;height: 3.7720%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "麒麟の角<br/>天狗の翼<br/>サイクロプスの<br/>目ね…"
+		,"style": "font-size: 14em;left: 39.7971%;top: 8.3194%;width: 13.3652%;height: 7.8793%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "一種の制約ね<br/>タヌキ以外の<br/>パーツは変身<br/>できないから"
+		,"style": "font-size: 14em;left: 74.7613%;top: 4.7150%;width: 13.9618%;height: 10.0587%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "でも<br/>そうすべき<br/>だと思う<br/>だって…"
+		,"style": "font-size: 14em;left: 75.8353%;top: 15.0251%;width: 12.1718%;height: 5.8676%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "君は<br/>文化大使<br/>だからね"
+		,"style": "font-size: 14em;left: 11.8735%;top: 33.4661%;width: 13.4845%;height: 6.6220%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "その通り"
+		,"style": "font-size: 14em;left: 50.2983%;top: 34.0528%;width: 10.1432%;height: 5.1970%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "そう言えば<br/>私は展示の<br/>準備中なの…"
+		,"style": "font-size: 14em;left: 68.0788%;top: 33.2984%;width: 18.0191%;height: 8.1308%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "君達の予定は<br/>知らないけど<br/>明日の夜も来るなら<br/>プライベートショーに<br/>皆を招待するわ"
+		,"style": "font-size: 14em;left: 9.3675%;top: 61.7142%;width: 18.7351%;height: 11.6513%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "もちろん<br/>ヒトミも招待するわ<br/>私の仕事を<br/>見せたいし"
+		,"style": "font-size: 14em;left: 27.0286%;top: 62.3847%;width: 16.9451%;height: 9.7234%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "確かに<br/>伝え…"
+		,"style": "font-size: 14em;left: 61.2768%;top: 63.7259%;width: 10.5012%;height: 5.6161%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "お前にゃプラチナのファンキーなケツがある"
+		,"style": "font-size: 18em;left: 48.7293%;top: 61.2825%;width: 44.5783%;height: 2.2670%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "お前は俺の"
+		,"style": "font-size: 18em;left: 46.1992%;top: 78.5789%;width: 14.9398%;height: 2.2670%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "プラチナ"
+		,"style": "font-size: 18em;left: 81.0184%;top: 78.3270%;width: 13.1325%;height: 2.6868%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]
