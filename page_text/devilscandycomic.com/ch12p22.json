@@ -1,0 +1,32 @@
+[
+	{
+		"text": "分かった"
+		,"style": "font-size: 12em;left: 27.8640%;top: 26.3097%;width: 6.3246%;height: 2.7661%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "明日の正午。<br/>生徒達には<br/>指一本<br/>触れるな!"
+		,"style": "font-size: 14em;left: 25.7160%;top: 29.5788%;width: 12.1718%;height: 8.8013%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "マズイよ!<br/>あんな<br/>エリオット<br/>見たこと<br/>無い!"
+		,"style": "font-size: 13em;left: 49.6931%;top: 64.0533%;width: 11.4458%;height: 8.9840%;height: 8.8013%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "何者かが<br/>脅迫してる<br/>可能性が<br/>あるな…"
+		,"style": "font-size: 14em;left: 81.8618%;top: 64.3052%;width: 11.2048%;height: 8.4803%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "安全か<br/>確かめ<br/>ないと!"
+		,"style": "font-size: 14em;left: 50.7775%;top: 79.8384%;width: 10.3614%;height: 8.1444%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "明日<br/>尾行しよう…<br/>例え旅程外に<br/>なっても"
+		,"style": "font-size: 14em;left: 79.2112%;top: 79.6704%;width: 12.0482%;height: 9.6558%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]
