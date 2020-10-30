@@ -1,0 +1,32 @@
+[
+	{
+		"text": "あっ!<br/>こんな時間!"
+		,"style": "font-size: 16px;left: 27.4375%;top: 7.0157%;width: 17.8750%;height: 6.5801%;border-radius: 45%;"
+		,"class": "WHITE CENTER"
+	}
+	,{
+		"text": "ありがとう<br/>ウィンクル婦人!"
+		,"style": "font-size: 16px;left: 52.1875%;top: 3.9854%;width: 19.8750%;height: 6.7532%;border-radius: 45%;"
+		,"class": "WHITE CENTER"
+	}
+	,{
+		"text": "幸運を<br/>祈って!"
+		,"style": "font-size: 20px;left: 8.8125%;top: 31.2581%;width: 21.8750%;height: 9.3506%;border-radius: 45%;"
+		,"class": "WHITE CENTER"
+	}
+	,{
+		"text": "タクシー!"
+		,"style": "font-size: 16px;left: 79.5625%;top: 39.3101%;width: 12.1250%;height: 6.4069%;border-radius: 45%;"
+		,"class": "BLACK CENTER"
+	}
+	,{
+		"text": "ケイシーさん<br/>12時の到着が…<br/>遅れました"
+		,"style": "font-size: 14px;left: 14.6875%;top: 76.4053%;width: 14.7500%;height: 10.0433%;height: 11.3420%;border-radius: 30%;background-color: #1F2221;transform: rotate(-20deg);"
+		,"class": "BLACK CENTER"
+	}
+	,{
+		"text": "入室<br/>させて"
+		,"style": "font-size: 20px;left: 46.0625%;top: 78.0114%;width: 13.3750%;height: 5.8009%;border-radius: 45%;"
+		,"class": "WHITE CENTER"
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"text": "君の<br/>寄付!?"
+		,"style": "font-size: 25em;left: 12.2315%;top: 6.2264%;width: 12.8878%;height: 8.0469%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "私に感謝したい<br/>だろうから<br/>この会合を<br/>手配したの"
+		,"style": "font-size: 14em;left: 29.4153%;top: 6.9808%;width: 14.4391%;height: 10.8969%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "<span class=\"BOLD\">ありがとう?!<br/></span>でも君の部下が…<br/>学校を壊したん<br/>ですよ!"
+		,"style": "font-size: 14em;left: 76.6706%;top: 7.9867%;width: 15.0358%;height: 10.5616%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "メイメイの<br/>せいって?<br/>あれは紫の<br/>バカの独断よ!"
+		,"style": "font-size: 14em;left: 8.8902%;top: 39.5877%;width: 14.2005%;height: 9.2205%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "私の<br/>支払いで<br/>この休暇は<br/>私の物"
+		,"style": "font-size: 14em;left: 69.2721%;top: 39.2524%;width: 12.6492%;height: 9.0528%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "私の休暇を<br/>潰すと思う?<span class=\"BOLD\">私の意思で?</span>"
+		,"style": "font-size: 14em;left: 80.7279%;top: 42.8568%;width: 11.9332%;height: 10.1425%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "じゃ私を<br/>ゴロツキ共と<br/>あざ笑うために<br/>呼んだんですね?"
+		,"style": "font-size: 14em;left: 9.8136%;top: 62.6601%;width: 14.3373%;height: 11.4190%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ゴロツキ!?"
+		,"style": "font-size: 18em;left: 24.8739%;top: 65.3148%;width: 11.9277%;height: 4.1142%;border-radius: 30%;font-weight: normal;transform: rotate(-15deg);"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "いいえ…<br/>違うわ"
+		,"style": "font-size: 14em;left: 37.2835%;top: 65.1789%;width: 9.2771%;height: 5.7095%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "あなたが<br/>心配なのよ"
+		,"style": "font-size: 14em;left: 77.7654%;top: 81.9716%;width: 11.5663%;height: 8.9001%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

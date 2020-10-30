@@ -1,7 +1,7 @@
 [
 	{
 		"text": "蛇は尽きた"
-		,"style": "font-size: 16em;left: 55.67%;top: 47.94%;width: 21.84%;height: 2.68%;border-radius: 0%;"
+		,"style": "font-size: 16em;left: 55.67%;top: 47.94%;width: 21.84%;height: 2.98%;border-radius: 0%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
@@ -20,7 +20,7 @@
 		,"class": "CENTER BOLD"
 	}
 	,{
-		"text": "頭を一つ斬り落とす…"
+		"text": "頭を切り落とされた…"
 		,"style": "font-size: 16em;color: white;background-color: black;left: 62.23%;top: 79.73%;width: 23.15%;height: 2.51%;border-radius: 0%;"
 		,"class": "CENTER BOLD"
 	}

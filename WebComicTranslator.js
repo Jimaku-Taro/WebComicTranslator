@@ -50,6 +50,9 @@ const HOST_HOPPING_GILLS = "hoppinggills.com";
 const HOST_HAZBIN_HOTEL = "hazbinhotel.com";
 const HOST_WEBTOONS = "webtoons.com";
 
+const HOST_ZOOPHOBIA = "zoophobiacomic.com";
+const ZOOPHOBIA_CHARACTERS_PATH = "characters";
+
 // フォントサイズ属性
 const ATTRIBUTE_FONT_SIZE = "fontSize";
 
@@ -196,9 +199,11 @@ function getTargetData() {
 			if (!imageParentElement) {
 				imageParentElement = document.getElementsByClassName("ep-epub-contents").item(0);
 			}
+			// サイトの仕様変更でURLの変更が画面描画後になったので、ページIDは属性から取得
+			let data_ep_id = imageParentElement.parentElement.parentElement.getAttribute("data-ep-id");
 			// imageParentElement.innerHTML = "<div>" + imageParentElement.innerHTML + "</div>";
 			// imageParentElement = imageParentElement.getElementsByTagName("div").item(0);
-			json_path += host_string + "/" + url_number + ".json";
+			json_path += host_string + "/" + data_ep_id + ".json";
 		break;
 		case  host_string.includes(HOST_AVAS_DEMON):
 			// Ava's Demon
@@ -259,10 +264,31 @@ function getTargetData() {
 		case host_string.includes(HOST_WEBTOONS):
 			host_string = HOST_WEBTOONS;
 			imageParentElement = document.getElementById("_imageList");
+			// URLからパラメーターを取得
 			let urlSearchParams = new URLSearchParams(window.location.search);
 			let title_no = urlSearchParams.get("title_no");
-			let episode_no =urlSearchParams.get("episode_no");
+			let episode_no = urlSearchParams.get("episode_no");
 			json_path += host_string + "/" + title_no + "/" + episode_no + ".json";
+		break;
+		case host_string.includes(HOST_ZOOPHOBIA):
+			host_string = HOST_ZOOPHOBIA;
+			imageParentElement = document.getElementsByClassName("photo-hires-item").item(0);
+			if (imageParentElement) {
+				// 画像の親があれば、コミックページ用処理
+				image = imageParentElement.firstElementChild;
+				if (image.tagName !== "img") {
+					image = image.firstElementChild;
+				}
+				imageFileName = getUrlLast(image.src);
+				json_path += host_string + "/" + imageFileName + ".json";
+			} else if (ZOOPHOBIA_CHARACTERS_PATH === url_last) {
+				// charactersページ用処理
+				imageParentElement = document.getElementsByTagName("p");
+				json_path += host_string + "/character" + ".json";
+			}
+			
+			
+			// TODO
 		break;
 	}
 	// 拡張機能内のファイルパス取得
@@ -429,11 +455,12 @@ const OBSERVER = new MutationObserver(records => {
 	let options;
 	switch (true) {
 		case host_string.includes(HOST_TAPAS):
-			// target = document.getElementById("episodes");
-			// options = {
-			// 	childList: true
-			// };
-			// OBSERVER.observe(target, options);
+			
+			target = document.getElementsByClassName("js-episode-viewer").item(0);
+			options = {
+				childList: true
+			};
+			OBSERVER.observe(target, options);
 		break;
 		case host_string.includes(HOST_AVAS_DEMON):
 			// window.onhashchange = webComicTranslator;

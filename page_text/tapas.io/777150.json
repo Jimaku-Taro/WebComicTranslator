@@ -1,0 +1,32 @@
+[
+	{
+		"text": "外は<br/>清々しいね!"
+		,"style": "font-size: 14em;left: 66.5833%;top: 34.1463%;width: 15.0000%;height: 11.8293%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ねぇ"
+		,"style": "font-size: 14em;left: 16.9167%;top: 75.0000%;width: 12.1667%;height: 7.3171%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "昨日、<br/>学校で足し算<br/>やったよ"
+		,"style": "font-size: 14em;left: 33.7500%;top: 85.1220%;width: 15.5000%;height: 12.5610%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "全問正解<br/>したよ!"
+		,"style": "font-size: 14em;left: 47.9167%;top: 74.7561%;width: 11.6667%;height: 10.6098%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "スゴイです<br/>ご主人様!"
+		,"style": "font-size: 12em;left: 57.4167%;top: 87.3171%;width: 11.3333%;height: 9.2683%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "問題<br/>出して<br/>みてよ"
+		,"style": "font-size: 12em;left: 85.5833%;top: 87.5610%;width: 8.8333%;height: 8.1707%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+]

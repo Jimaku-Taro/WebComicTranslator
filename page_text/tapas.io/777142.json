@@ -1,0 +1,32 @@
+[
+	{
+		"text": "お早う<br/>小さな<br/>ご主人様"
+		,"style": "font-size: 15em;left: 63.5833%;top: 6.0976%;width: 12.6667%;height: 10.2439%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "今晩は<br/>よく寝れ<br/>ました?"
+		,"style": "font-size: 15em;left: 3.2500%;top: 45.3659%;width: 14.6667%;height: 10.8537%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "でも<br/>少しお腹<br/>空いた"
+		,"style": "font-size: 15em;left: 43.7500%;top: 45.6098%;width: 13.8333%;height: 7.8049%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "それじゃ<br/>朝食に<br/>しましょ"
+		,"style": "font-size: 15em;left: 81.4167%;top: 43.4146%;width: 13.1667%;height: 9.5122%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "今日は<br/>何の夢を<br/>みました?"
+		,"style": "font-size: 15em;left: 7.2500%;top: 79.6341%;width: 13.5000%;height: 9.2683%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "空を<br/>飛んだよ!"
+		,"style": "font-size: 15em;left: 72.5833%;top: 87.3171%;width: 13.8333%;height: 10.1220%;border-radius: 50%;"
+		,"class": "CENTER WHITE"
+	}
+]

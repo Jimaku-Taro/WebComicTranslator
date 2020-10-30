@@ -1,0 +1,52 @@
+[
+	{
+		"text": "完璧に<br/>忘れてる<br/>わね"
+		,"style": "font-size: 14em;left: 7.5776%;top: 24.7512%;width: 12.0525%;height: 7.0411%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "あなたに<br/>悪役は<br/>似合わないわ<br/>エリー"
+		,"style": "font-size: 14em;left: 35.5012%;top: 27.7688%;width: 12.6492%;height: 9.3881%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "私に<br/>任せれば<br/>いいのに"
+		,"style": "font-size: 14em;left: 35.0239%;top: 37.3245%;width: 13.4845%;height: 6.7896%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "皆<br/>待たせた<br/>わね!"
+		,"style": "font-size: 14em;left: 19.0334%;top: 53.0831%;width: 10.6205%;height: 7.7955%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "お昼に<br/>しましょ!"
+		,"style": "font-size: 14em;left: 29.5727%;top: 54.2637%;width: 9.6386%;height: 6.1293%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "皆、何食べたい?"
+		,"style": "font-size: 14em;left: 56.1992%;top: 54.0958%;width: 19.2771%;height: 3.0227%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "あなたの<br/>好きな物で!"
+		,"style": "font-size: 14em;left: 51.3799%;top: 56.9506%;width: 10.1205%;height: 3.4425%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "うどん!"
+		,"style": "font-size: 14em;left: 69.2112%;top: 57.7062%;width: 8.9157%;height: 2.4349%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "奴らを<br/>追おう!"
+		,"style": "font-size: 14em;left: 58.8498%;top: 75.4224%;width: 10.6024%;height: 4.3661%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "12章：終"
+		,"style": "font-size: 25em;left: 66.1992%;top: 92.8973%;width: 25.4217%;height: 3.1906%;border-radius: 10%;font-weight: normal;"
+		,"class": "RIGHT WHITE BOLD"
+	}
+]

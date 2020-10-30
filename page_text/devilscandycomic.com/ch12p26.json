@@ -1,0 +1,62 @@
+[
+	{
+		"text": "他の<br/>悪魔は<br/>分かる?"
+		,"style": "font-size: 14em;left: 9.6062%;top: 4.2985%;width: 9.7852%;height: 7.1249%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ケチャップ"
+		,"style": "font-size: 14em;left: 38.8425%;top: 17.2071%;width: 11.0979%;height: 3.1852%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "ピンセット"
+		,"style": "font-size: 14em;left: 78.8186%;top: 17.7939%;width: 11.6945%;height: 3.9396%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "ナップス"
+		,"style": "font-size: 14em;left: 38.4845%;top: 25.1703%;width: 7.7566%;height: 3.4367%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "スープ<br/>レクシア"
+		,"style": "font-size: 14em;left: 77.8640%;top: 25.5056%;width: 10.7399%;height: 3.3529%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "…悪い奴…"
+		,"style": "font-size: 14em;left: 46.0024%;top: 37.1569%;width: 10.7399%;height: 4.0235%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "1人は絶対違うよ<br/>カイコさんだ…"
+		,"style": "font-size: 14em;left: 59.3675%;top: 35.8995%;width: 15.9905%;height: 9.1366%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "わぁ<br/>お久しぶり?"
+		,"style": "font-size: 14em;left: 9.8449%;top: 52.7478%;width: 12.1718%;height: 7.2087%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "<span class=\"BOLD\">君は!<br/></span>生徒のスパイを!?<br/>昨夜のパーティも<br/>そのため?"
+		,"style": "font-size: 14em;left: 30.6086%;top: 63.6447%;width: 14.6778%;height: 9.6396%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "え? 違うわ<br/>生徒達は<br/>大好きよ"
+		,"style": "font-size: 14em;left: 32.6372%;top: 77.3916%;width: 11.3365%;height: 6.0352%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "そうよエリー<br/>あなたの生徒は<br/><span class=\"BOLD\">素敵よ<br/></span>"
+		,"style": "font-size: 14em;left: 74.4033%;top: 54.6757%;width: 13.2458%;height: 6.7058%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "だから<span class=\"BOLD\">私が寄付して<br/></span>皆、修学旅行に<br/>行けたじゃない"
+		,"style": "font-size: 14em;left: 74.4033%;top: 61.4653%;width: 14.2005%;height: 9.2205%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

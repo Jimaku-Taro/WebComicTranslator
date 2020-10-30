@@ -4,3 +4,9 @@
 	display: inline-block;
 	width:auto !important;
 }
+
+@media screen and (max-width: 640px) {
+	.WCT_IMAGE_PARENT {
+		font-size: calc(100vw/640) !important;
+	}
+}

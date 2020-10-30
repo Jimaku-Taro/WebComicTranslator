@@ -1,0 +1,32 @@
+[
+	{
+		"text": "あの<br/><span><ruby>御輿<rt>みこし</rt></ruby>は…</span>"
+		,"style": "font-size: 14em;left: 12.5895%;top: 8.7411%;width: 10.3819%;height: 5.7837%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "うちの教師が<br/>捕まってる!!"
+		,"style": "font-size: 14em;left: 76.7900%;top: 7.6514%;width: 11.8138%;height: 7.8793%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "ゲッ!"
+		,"style": "font-size: 14em;left: 10.6570%;top: 34.7004%;width: 4.9398%;height: 3.9463%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "都会の<br/>奴隷の<br/>主人だ…"
+		,"style": "font-size: 14em;left: 8.5322%;top: 44.1979%;width: 10.3819%;height: 8.7175%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "加速だ。<br/>逃げるぞ"
+		,"style": "font-size: 14em;left: 39.4391%;top: 44.3656%;width: 9.3079%;height: 5.7837%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "待て!<br/>うちの<br/>体育教師を<br/>返せ!"
+		,"style": "font-size: 14em;left: 52.2076%;top: 34.3907%;width: 13.6038%;height: 8.1308%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

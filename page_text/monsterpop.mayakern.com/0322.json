@@ -1,0 +1,17 @@
+[
+	{
+		"text": "今晩はここまで!<br/>私は10時から授業"
+		,"style": "font-size: 14px;color: #3F014E;background-color: #FDCDFF;left: 6.7500%;top: 3.9683%;width: 16.3750%;height: 13.8889%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "行くわ!"
+		,"style": "font-size: 14px;color: #3F014E;background-color: #FDCDFF;left: 46.6250%;top: 2.3810%;width: 7.1250%;height: 8.3333%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "じゃあ皆<br/>またね"
+		,"style": "font-size: 14px;color: #3F014E;background-color: #FDCDFF;left: 72.5000%;top: 56.7460%;width: 14.5000%;height: 15.4762%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+]

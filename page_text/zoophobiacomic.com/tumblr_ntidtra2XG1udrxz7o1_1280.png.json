@@ -1,0 +1,22 @@
+[
+	{
+		"text": "また<br/>あの夢を見たの…<br/>今回は鮮明<br/>だったわ"
+		,"style": "font-size: 16px;left: 15.1250%;top: 10.6521%;width: 25.2500%;height: 10.7359%;border-radius: 45%;color: #FEFEFE;background-color: #000000;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "夢で与えられた<br/>役の通り動いた?"
+		,"style": "font-size: 16px;left: 32.7500%;top: 20.6953%;width: 21.1250%;height: 8.9177%;border-radius: 45%;color: #FEFEFE;background-color: #000000;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "多分…<br/>でも何故こんな夢を?<br/>夢はずっと<br/>見なかったのに"
+		,"style": "font-size: 16px;left: 20.6250%;top: 30.3923%;width: 22.2500%;height: 9.0043%;border-radius: 45%;color: #FEFEFE;background-color: #000000;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "こんなの…<br/>予想外よ"
+		,"style": "font-size: 16px;left: 73.3750%;top: 64.7646%;width: 15.8750%;height: 6.6667%;border-radius: 45%;color: #000000;background-color: #FEFEFE;"
+		,"class": "CENTER"
+	}
+]
