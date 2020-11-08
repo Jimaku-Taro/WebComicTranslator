@@ -1,0 +1,22 @@
+[
+	{
+		"text": "<やぁ><br/>…"
+		,"style": "font-size: 14em;left: 10.9189%;top: 6.8970%;width: 8.9499%;height: 4.7779%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "<君も<br/>私のように<br/>羽をケガ<br/>してるね>"
+		,"style": "font-size: 14em;left: 29.3317%;top: 6.4888%;width: 11.4458%;height: 8.8161%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "<座って共に<br/>演奏しよう…<br/>魂は<br/>飛び立てる>"
+		,"style": "font-size: 14em;left: 74.8739%;top: 6.3208%;width: 13.8554%;height: 9.8237%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "12章おまけ：終"
+		,"style": "font-size: 25em;left: 57.8859%;top: 92.7188%;width: 34.3373%;height: 3.6944%;border-radius: 10%;font-weight: normal;"
+		,"class": "RIGHT WHITE BOLD"
+	}
+]

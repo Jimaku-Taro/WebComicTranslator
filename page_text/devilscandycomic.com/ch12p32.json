@@ -1,0 +1,17 @@
+[
+	{
+		"text": "Dr.エースの<br/>功績を称えて"
+		,"style": "font-size: 14em;left: 39.6778%;top: 13.0160%;width: 16.2291%;height: 4.9455%;border-radius: 0%;font-weight: normal;border:solid 1px;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "<旅人<br/>だ!>"
+		,"style": "font-size: 14em;left: 10.7775%;top: 64.9271%;width: 8.1928%;height: 4.1982%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "<珍しい!>"
+		,"style": "font-size: 14em;left: 20.7775%;top: 66.3544%;width: 9.1566%;height: 4.5340%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]
