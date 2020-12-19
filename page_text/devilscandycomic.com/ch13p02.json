@@ -1,0 +1,37 @@
+[
+	{
+		"text": "ウザいな…"
+		,"style": "font-size: 14em;left: 8.0549%;top: 4.7176%;width: 12.4105%;height: 5.0293%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "だが<br/>ここまでだ"
+		,"style": "font-size: 14em;left: 18.6754%;top: 5.8073%;width: 10.0239%;height: 5.9514%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "3…2…1…"
+		,"style": "font-size: 14em;left: 32.2233%;top: 4.6416%;width: 14.2169%;height: 4.1982%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "跳べ!"
+		,"style": "font-size: 30em;left: 46.8016%;top: 3.8020%;width: 12.7711%;height: 5.7935%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "うわぁ!"
+		,"style": "font-size: 14em;left: 63.0666%;top: 6.5727%;width: 8.0723%;height: 2.9387%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "え?"
+		,"style": "font-size: 12em;left: 25.4763%;top: 32.0975%;width: 3.4940%;height: 2.2670%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "簡単には<br/>諦めませんよ!"
+		,"style": "font-size: 16em;left: 7.5245%;top: 51.9967%;width: 14.4578%;height: 7.3048%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]
