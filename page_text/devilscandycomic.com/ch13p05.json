@@ -20,12 +20,12 @@
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "大統領以上に<br/>有名って<br/>ことだよ!"
-		,"style": "font-size: 14em;left: 71.9823%;top: 6.8666%;width: 17.3494%;height: 6.6331%;border-radius: 45%;font-weight: normal;"
+		"text": "大統領以上に<br/>有名なんだよ!"
+		,"style": "font-size: 18em;left: 71.9823%;top: 6.8666%;width: 17.3494%;height: 6.6331%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
-		"text": "…うちの<br/>学校の校長と<br/>何の繋がりが?"
+		"text": "…うちの<br/>学長と何の<br/>繋がりが?"
 		,"style": "font-size: 14em;left: 76.1992%;top: 24.6668%;width: 16.8675%;height: 7.3887%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
@@ -60,12 +60,17 @@
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "あら!<br/>舌の行き先<br/>知らない<br/>みたいね!"
+		"text": "うわ!<br/>ばっちい!"
 		,"style": "font-size: 14em;left: 41.3799%;top: 59.4275%;width: 11.9277%;height: 8.3123%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "そうね<br/>ストラツィオ<br/>でも検討は<br/>付かない?"
+		"text": "キモッ!"
+		,"style": "font-size: 14em;left: 57.2835%;top: 60.4823%;width: 7.7108%;height: 2.3510%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "そうよ<br/>ストラツィオ<br/>…それとも<br/>覚悟の上?"
 		,"style": "font-size: 14em;left: 80.2956%;top: 58.6718%;width: 12.0482%;height: 8.8161%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
