@@ -1,0 +1,17 @@
+[
+	{
+		"text": "ごめん<br/>その…<br/>家の用事が!"
+		,"style": "font-size: 14em;color: #5F3A03;background-color: #FFE957;left: 8.0000%;top: 5.5556%;width: 11.8750%;height: 15.4762%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "ま…またね<br/>それじゃ!"
+		,"style": "font-size: 14em;color: #5F3A03;background-color: #FFE957;left: 38.7500%;top: 5.1793%;width: 12.6250%;height: 15.1394%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "う…うん<br/>またね…"
+		,"style": "font-size: 14em;color: #004C42;background-color: #9AFFF7;left: 72.6250%;top: 6.1753%;width: 11.7500%;height: 13.1474%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+]

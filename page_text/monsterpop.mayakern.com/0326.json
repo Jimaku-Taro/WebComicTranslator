@@ -1,0 +1,47 @@
+[
+	{
+		"text": "ママ"
+		,"style": "font-size: 14em;color: #535353;background-color: #FAFAFA;left: 40.3750%;top: 2.9880%;width: 4.7500%;height: 3.9841%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "サシャ"
+		,"style": "font-size: 14em;color: #535353;background-color: #FAFAFA;left: 62.8750%;top: 2.7888%;width: 5.6250%;height: 4.3825%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "マリナ"
+		,"style": "font-size: 14em;color: #535353;background-color: #FAFAFA;left: 85.3750%;top: 2.9880%;width: 6.2500%;height: 4.1833%;border-radius: 10%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "帰りにパンを買うの<br/>忘れないで!"
+		,"style": "font-size: 10em;color: black;background-color: #E9E8EE;left: 32.3750%;top: 9.3625%;width: 15.1250%;height: 5.1793%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "帰りは遅くなるわ。ピザのお金はパンの箱の中。エリに宿題やらせて!"
+		,"style": "font-size: 10em;color: black;background-color: #E9E8EE;left: 32.8500%;top: 20.9163%;width: 14.3750%;height: 8.3665%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "またね!"
+		,"style": "font-size: 8em;color: black;background-color: #E9E8EE;left: 33.0000%;top: 35.4582%;width: 5.0000%;height: 3.5857%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "うん!"
+		,"style": "font-size: 10em;color: white;background-color: #249AFE;left: 48.0000%;top: 40.6375%;width: 5.5000%;height: 3.7849%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "あなたのフレンドカード<br/>解除中"
+		,"style": "font-size: 10em;color: white;background-color: #249AFE;left: 60.8750%;top: 9.1633%;width: 15.1250%;height: 5.3785%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "勘弁してよ<br/>この動画でどう"
+		,"style": "font-size: 10em;color: black;background-color: #D4F4C3;left: 55.6250%;top: 16.1355%;width: 14.2500%;height: 4.9801%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+]

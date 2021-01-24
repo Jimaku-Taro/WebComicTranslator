@@ -1,0 +1,37 @@
+[
+	{
+		"text": "メッヘッへ!<br/>ムズがゆい!<br/>ムズがゆい!"
+		,"style": "font-size: 13em;left: 11.0382%;top: 30.7864%;width: 11.5752%;height: 4.7779%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "何してるの!<br/>早く逃げて!"
+		,"style": "font-size: 14em;left: 31.5632%;top: 28.4393%;width: 11.5752%;height: 9.1366%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "こいつに<br/>近寄りたく<br/>ないでしょ!"
+		,"style": "font-size: 14em;left: 57.9356%;top: 28.3555%;width: 11.3365%;height: 9.6396%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "オレの<br/>肌を剥ぐ<br/>気かよ?!"
+		,"style": "font-size: 14em;left: 84.6659%;top: 29.1937%;width: 9.6659%;height: 6.9573%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "あぁ～っ!<br/>パンディーパンツ!"
+		,"style": "font-size: 14em;left: 9.8449%;top: 69.2608%;width: 16.8258%;height: 5.1970%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "いえ…<br/>可愛い名前は<br/>似合わないわね!<br/><ruby class=\"BOLD\">パンディーにきび<rp>(</rp><rt>PANDY-PIMPLE</rt><rp>)</rp>!</ruby>"
+		,"style": "font-size: 14em;left: 63.0668%;top: 68.6740%;width: 16.3484%;height: 8.6337%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "パンディ<br/><ruby>吹き出物<rp>(</rp><rt>PUSTLE</rt><rp>)</rp></ruby>"
+		,"style": "font-size: 14em;left: 81.5632%;top: 74.3740%;width: 8.1146%;height: 4.9455%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"text": "何かの<br/>冗談?<br/>どういう<br/>意味?"
+		,"style": "font-size: 14em;left: 11.3962%;top: 6.5617%;width: 10.9785%;height: 9.3881%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "肌が半分<br/>透けた子供が<br/>スパイしてる<br/>ように見える"
+		,"style": "font-size: 18em;left: 41.3799%;top: 5.9850%;width: 18.1928%;height: 10.4114%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "君!<br/>こっちに<br/>来い!"
+		,"style": "font-size: 14em;left: 59.0907%;top: 5.2293%;width: 8.5542%;height: 6.3812%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "ヤバ!"
+		,"style": "font-size: 14em;left: 80.0546%;top: 15.8087%;width: 5.7831%;height: 3.7783%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "いや<br/><span class=\"BOLD\">こちらから<br/></span>行こう"
+		,"style": "font-size: 16em;left: 11.8618%;top: 37.5551%;width: 11.5663%;height: 7.9765%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "動くなよ。<br/>君の両側を<br/>同じにして<br/>あげよう"
+		,"style": "font-size: 15em;left: 60.8980%;top: 55.1873%;width: 12.8916%;height: 9.9916%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "え!?"
+		,"style": "font-size: 14em;left: 82.4642%;top: 76.7658%;width: 4.3373%;height: 2.6868%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

@@ -1,37 +1,37 @@
 [
 	{
 		"text": "その通り!<br/>心に響く素晴らしい<br/>書き筋だったわ!"
-		,"style": "font-size: 14px;color: #280037;background-color: #EFA4FF;left: 1.56%;top: 1.98%;width: 17.00%;height: 18.85%;border-radius: 50%;"
+		,"style": "font-size: 14em;color: #280037;background-color: #EFA4FF;left: 1.56%;top: 1.98%;width: 17.00%;height: 18.85%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "ファンタジーの<br/>辻褄が合う説得力も<br/>十分あったし"
-		,"style": "font-size: 14px;color: #280037;background-color: #EFA4FF;left: 20.69%;top: 8.13%;width: 17.38%;height: 19.84%;border-radius: 50%;"
+		,"style": "font-size: 14em;color: #280037;background-color: #EFA4FF;left: 20.69%;top: 8.13%;width: 17.38%;height: 19.84%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "ジョージはどう?<br/>どう思う?"
-		,"style": "font-size: 14px;color: #280037;background-color: #EFA4FF;left: 19.19%;top: 31.75%;width: 20.13%;height: 12.30%;border-radius: 50%;"
+		,"style": "font-size: 14em;color: #280037;background-color: #EFA4FF;left: 19.19%;top: 31.75%;width: 20.13%;height: 12.30%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "…え?"
-		,"style": "font-size: 14px;color: #573F01;background-color: #FFFC81;left: 54.81%;top: 0.99%;width: 8.88%;height: 7.74%;border-radius: 50%;"
+		,"style": "font-size: 14em;color: #573F01;background-color: #FFFC81;left: 54.81%;top: 0.99%;width: 8.88%;height: 7.74%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "あ、ゴメン<br/>いえ、あなたの<br/>言った通りだと<br/>思うわよ"
-		,"style": "font-size: 14px;color: #573F01;background-color: #FFFC81;left: 54.44%;top: 19.05%;width: 17.13%;height: 15.48%;border-radius: 50%;"
+		,"style": "font-size: 14em;color: #573F01;background-color: #FFFC81;left: 54.44%;top: 19.05%;width: 17.13%;height: 15.48%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "今回は<br/>読んだの?"
-		,"style": "font-size: 14px;color: #280037;background-color: #EA81FF;left: 62.31%;top: 47.22%;width: 13.00%;height: 14.09%;border-radius: 50%;"
+		,"style": "font-size: 14em;color: #280037;background-color: #EA81FF;left: 62.31%;top: 47.22%;width: 13.00%;height: 14.09%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 	,{
 		"text": "最中よ!<br/>読むの遅いの<br/>知ってるよね!"
-		,"style": "font-size: 14px;color: #573F01;background-color: #FFFC81;left: 83.69%;top: 53.17%;width: 15.63%;height: 16.67%;border-radius: 50%;"
+		,"style": "font-size: 14em;color: #573F01;background-color: #FFFC81;left: 83.69%;top: 53.17%;width: 15.63%;height: 16.67%;border-radius: 50%;"
 		,"class": "CENTER"
 	}
 ]

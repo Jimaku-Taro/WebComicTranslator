@@ -1,0 +1,32 @@
+[
+	{
+		"text": "パンディ<br/><ruby>うんち<rp>(</rp><rt>POO POO</rt><rp>)</rp>!</ruby>"
+		,"style": "font-size: 14em;left: 52.7052%;top: 5.2293%;width: 10.4819%;height: 6.2133%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "パンディ<br/><ruby>脱腸<rp>(</rp><rt>PROLAPSE</rt><rp>)</rp>!</ruby>"
+		,"style": "font-size: 11em;left: 72.8257%;top: 13.6256%;width: 8.0723%;height: 3.1906%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "<ruby>弱くて<rp>(</rp><rt>NAMBY</rt><rp>)</rp></ruby>"
+		,"style": "font-size: 30em;left: 9.5727%;top: 28.7390%;width: 23.3735%;height: 4.1982%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "<ruby>女々しい<rp>(</rp><rt>PAMBY</rt><rp>)</rp></ruby>"
+		,"style": "font-size: 30em;left: 36.0787%;top: 28.6550%;width: 25.7831%;height: 4.3661%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "<ruby>パンディ<rp>(</rp><rt>PANDY</rt><rp>)</rp></ruby>"
+		,"style": "font-size: 30em;left: 64.9944%;top: 28.4871%;width: 26.0241%;height: 4.5340%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "ワン<br/>パンよ"
+		,"style": "font-size: 14em;left: 71.1389%;top: 73.2394%;width: 7.7108%;height: 5.9614%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

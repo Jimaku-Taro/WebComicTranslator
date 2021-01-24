@@ -1,0 +1,22 @@
+[
+	{
+		"text": "ジョージ<br/>待って!"
+		,"style": "font-size: 14em;color: #004C42;background-color: #9AFFF7;left: 5.3750%;top: 20.1195%;width: 9.0000%;height: 9.3625%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "今晩<br/>空いてる?"
+		,"style": "font-size: 14em;color: #004C42;background-color: #9AFFF7;left: 52.1250%;top: 1.7928%;width: 12.2500%;height: 12.3506%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "私は寮に<br/>帰るだけ<br/>だけど…"
+		,"style": "font-size: 14em;color: #004C42;background-color: #9AFFF7;left: 53.5000%;top: 45.2191%;width: 12.7500%;height: 16.3347%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "もし<br/>時間が<br/>あれば…"
+		,"style": "font-size: 14em;color: #004C42;background-color: #9AFFF7;left: 84.6250%;top: 47.2112%;width: 14.0000%;height: 16.7331%;height: 16.3347%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+]
