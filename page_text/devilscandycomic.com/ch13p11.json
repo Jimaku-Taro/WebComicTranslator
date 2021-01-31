@@ -1,0 +1,42 @@
+[
+	{
+		"text": "メイメイ!<br/>こいつ一発<br/>殴らせて!"
+		,"style": "font-size: 16em;left: 12.2315%;top: 3.9632%;width: 12.8878%;height: 7.2087%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "お願い!"
+		,"style": "font-size: 20em;left: 25.9547%;top: 5.3882%;width: 10.8592%;height: 3.7720%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "一生の<br/>お願い!"
+		,"style": "font-size: 30em;left: 44.9284%;top: 2.9574%;width: 18.0191%;height: 9.9749%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "いいけど<br/>他の悪魔を<br/>巻き添えに<br/>しないでよ?"
+		,"style": "font-size: 16em;left: 66.0501%;top: 6.5617%;width: 14.6778%;height: 8.6337%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "今のうちに<br/>行くわよ"
+		,"style": "font-size: 14em;left: 70.3461%;top: 51.2390%;width: 10.6205%;height: 5.9514%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "イカレてる!<br/>そうだ!<br/>警察呼ぼう!"
+		,"style": "font-size: 14em;left: 82.5179%;top: 51.4066%;width: 11.6945%;height: 7.2087%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ハァ…<br/>後で脅される<br/>だけよ"
+		,"style": "font-size: 14em;left: 60.2029%;top: 71.3563%;width: 12.0525%;height: 5.9514%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "警察は<br/>奴らの手下さ<br/>常識だよ<br/>ニモ"
+		,"style": "font-size: 14em;left: 58.8498%;top: 78.6970%;width: 11.3253%;height: 8.4803%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

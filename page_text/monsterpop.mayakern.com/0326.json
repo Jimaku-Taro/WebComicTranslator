@@ -20,7 +20,7 @@
 		,"class": "LEFT"
 	}
 	,{
-		"text": "帰りは遅くなるわ。ピザのお金はパンの箱の中。エリに宿題やらせて!"
+		"text": "帰りは遅れる。ピザ代はパンの箱の中。<br/>エリに宿題やらせて!"
 		,"style": "font-size: 10em;color: black;background-color: #E9E8EE;left: 32.8500%;top: 20.9163%;width: 14.3750%;height: 8.3665%;border-radius: 20%;"
 		,"class": "LEFT"
 	}
@@ -35,13 +35,83 @@
 		,"class": "LEFT"
 	}
 	,{
-		"text": "あなたのフレンドカード<br/>解除中"
+		"text": "あなたのフレンドカード<br/>解除するわ"
 		,"style": "font-size: 10em;color: white;background-color: #249AFE;left: 60.8750%;top: 9.1633%;width: 15.1250%;height: 5.3785%;border-radius: 20%;"
 		,"class": "LEFT"
 	}
 	,{
 		"text": "勘弁してよ<br/>この動画でどう"
 		,"style": "font-size: 10em;color: black;background-color: #D4F4C3;left: 55.6250%;top: 16.1355%;width: 14.2500%;height: 4.9801%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "youtu.be/8PpXAPanaDU"
+		,"style": "font-size: 10em;color: black;background-color: #D4F4C3;left: 55.4750%;top: 22.5100%;width: 14.5000%;height: 4.9801%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "へぇ"
+		,"style": "font-size: 10em;color: white;background-color: #249AFE;left: 73.1000%;top: 28.6853%;width: 2.8750%;height: 4.3825%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "わぁ"
+		,"style": "font-size: 10em;color: white;background-color: #249AFE;left: 72.3500%;top: 34.0637%;width: 3.5000%;height: 3.5857%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "アハハハハ"
+		,"style": "font-size: 10em;color: white;background-color: #249AFE;left: 63.9750%;top: 38.8446%;width: 11.6250%;height: 3.5857%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "😎"
+		,"style": "font-size: 10em;color: black;background-color: #D4F4C3;left: 55.2250%;top: 43.6255%;width: 2.2500%;height: 3.1873%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "グッドよ"
+		,"style": "font-size: 10em;color: white;background-color: #249AFE;left: 68.9750%;top: 48.8048%;width: 6.5000%;height: 3.3865%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "ジョージ、もう帰った?<br/>見当たらないわ"
+		,"style": "font-size: 10em;color: black;background-color: #BFF5F5;left: 78.6000%;top: 9.5618%;width: 13.5000%;height: 5.1793%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "大丈夫?<br/>落ち込んで見えたわ"
+		,"style": "font-size: 10em;color: black;background-color: #BFF5F5;left: 78.3500%;top: 15.3386%;width: 14.3750%;height: 5.5777%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "私は昼食に行くけど?"
+		,"style": "font-size: 10em;color: black;background-color: #BFF5F5;left: 78.3500%;top: 22.3108%;width: 14.7500%;height: 4.9801%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "ねぇ?"
+		,"style": "font-size: 10em;color: black;background-color: #BFF5F5;left: 78.3500%;top: 29.4821%;width: 4.1250%;height: 3.5857%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "ゴメン。帰宅中"
+		,"style": "font-size: 10em;color: white;background-color: #249AFE;left: 84.6000%;top: 34.4622%;width: 13.3750%;height: 3.3865%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "また今度ね"
+		,"style": "font-size: 10em;color: black;background-color: #BFF5F5;left: 78.2250%;top: 38.8446%;width: 9.0000%;height: 3.5857%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "週末どこか行かない?"
+		,"style": "font-size: 10em;color: black;background-color: #BFF5F5;left: 78.3500%;top: 44.2231%;width: 14.2500%;height: 4.5817%;border-radius: 20%;"
+		,"class": "LEFT"
+	}
+	,{
+		"text": "少し話したいことが…"
+		,"style": "font-size: 10em;color: black;background-color: #BFF5F5;left: 78.4750%;top: 50.3984%;width: 14.1250%;height: 4.9801%;border-radius: 20%;"
 		,"class": "LEFT"
 	}
 ]
