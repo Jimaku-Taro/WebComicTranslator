@@ -1,0 +1,42 @@
+[
+	{
+		"text": "あれ?"
+		,"style": "font-size: 14em;left: 51.9690%;top: 6.4045%;width: 6.2053%;height: 3.8558%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "消し<br/>飛んだ?"
+		,"style": "font-size: 14em;left: 70.4654%;top: 6.2369%;width: 9.4272%;height: 5.9514%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "<span class=\"BOLD\">ズルい!<br/>ズルい!<br/>避ける</span>なんて!"
+		,"style": "font-size: 14em;left: 74.6329%;top: 36.6420%;width: 15.6627%;height: 8.2284%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "3分!"
+		,"style": "font-size: 40em;left: 12.1028%;top: 65.4413%;width: 11.2048%;height: 6.8010%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "メイメイ!<br/>3分だけ<br/>戦っていい?"
+		,"style": "font-size: 20em;left: 24.6329%;top: 65.6093%;width: 16.2651%;height: 7.8925%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "一生の<br/>お願い!"
+		,"style": "font-size: 30em;left: 45.3558%;top: 65.9451%;width: 16.3855%;height: 9.3199%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "好きに<br/>して"
+		,"style": "font-size: 14em;left: 72.4642%;top: 66.1970%;width: 8.0723%;height: 4.1142%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "今回はズル無しよ!<br/>狸! チビが黒魔法<br/>使ったら殺して!"
+		,"style": "font-size: 14em;left: 45.5968%;top: 82.3179%;width: 16.3855%;height: 9.5718%;border-radius: 30%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

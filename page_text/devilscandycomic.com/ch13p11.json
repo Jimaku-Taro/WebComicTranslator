@@ -5,7 +5,7 @@
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "お願い!"
+		"text": "頼むから!"
 		,"style": "font-size: 20em;left: 25.9547%;top: 5.3882%;width: 10.8592%;height: 3.7720%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE BOLD"
 	}
@@ -30,7 +30,7 @@
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "ハァ…<br/>後で脅される<br/>だけよ"
+		"text": "ハァ…<br/>君がカツアゲ<br/>されるだけよ"
 		,"style": "font-size: 14em;left: 60.2029%;top: 71.3563%;width: 12.0525%;height: 5.9514%;border-radius: 45%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
