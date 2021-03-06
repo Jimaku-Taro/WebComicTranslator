@@ -53,6 +53,8 @@ const HOST_WEBTOONS = "webtoons.com";
 const HOST_ZOOPHOBIA = "zoophobiacomic.com";
 const ZOOPHOBIA_CHARACTERS_PATH = "characters";
 
+const HOST_MALIKI = "maliki.com";
+
 // フォントサイズ属性
 const ATTRIBUTE_FONT_SIZE = "fontSize";
 
@@ -215,6 +217,7 @@ function getTargetData() {
 			json_path += host_string + "/" + img_num + ".json";
 		break;
 		case host_string.includes(HOST_MAYA_KERN):
+			// マヤカーン短編
 			// サイト構造変更前の旧処理はコメントアウト　他にはOBSERVER部分もコメントアウトしたので復活時は注意
 			// image = document.getElementsByClassName("mfp-img").item(0);
 
@@ -286,9 +289,11 @@ function getTargetData() {
 				imageParentElement = document.getElementsByTagName("p");
 				json_path += host_string + "/character" + ".json";
 			}
-			
-			
-			// TODO
+		break;
+		case host_string.includes(HOST_MALIKI):
+			host_string = HOST_MALIKI;
+			imageParentElement = document.getElementsByClassName("col-xs-12").item(0);
+			json_path += host_string + "/" + url_last + ".json";
 		break;
 	}
 	// 拡張機能内のファイルパス取得

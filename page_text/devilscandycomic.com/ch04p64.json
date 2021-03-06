@@ -20,8 +20,8 @@
 		,"class": "WHITE"
 	}
 	,{
-		"text": "つまり<br/><ruby style=\"font-size: 21em\">叩き潰せ!<rp>(</rp><rt>CRUSH</rt><rp>)</rp></ruby>"
-		,"style": "font-size: 18em;left: 13%;top: 31.9%;border-radius: 20%;"
+		"text": "つまり<br/><ruby style=\"font-size: 1em\">叩き潰せ!<rp>(</rp><rt>CRUSH</rt><rp>)</rp></ruby>"
+		,"style": "font-size: 23em;left: 13%;top: 31.9%;border-radius: 20%;"
 		,"class": "WHITE BOLD"
 	}
 	,{

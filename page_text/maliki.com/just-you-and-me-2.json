@@ -1,0 +1,37 @@
+[
+	{
+		"text": "２人きり"
+		,"style": "color: #A2C2B0;background-color: #0F1932;font-size: 50em;left: 25.3879%;top: 1.3425%;width: 20.6897%;height: 3.8198%;border-radius: 45%;font-weight: normal;"
+		,"class": "LEFT BOLD"
+	}
+	,{
+		"text": "はぁ…<br/>何て日よ"
+		,"style": "background-color: #A3C2B0;font-size: 14em;left: 31.6810%;top: 6.9867%;width: 6.9828%;height: 3.2787%;border-radius: 35%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "世話に仕事に<br/>大忙しだったわね"
+		,"style": "background-color: #A3C2B0;font-size: 14em;left: 55.8190%;top: 8.5831%;width: 11.1207%;height: 4.5040%;border-radius: 35%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "でも<br/>ティコは<br/>寝てるし"
+		,"style": "background-color: #A3C2B0;font-size: 14em;left: 29.3534%;top: 24.9457%;width: 7.5862%;height: 4.3900%;border-radius: 35%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "私達も<br/>ベッドインの<br/>時間ね…"
+		,"style": "background-color: #A3C2B0;font-size: 14em;left: 43.2328%;top: 28.1384%;width: 9.5690%;height: 3.9339%;border-radius: 35%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "秘密の<br/>時間ね"
+		,"style": "background-color: #A3C2B0;font-size: 14em;left: 66.5948%;top: 29.7917%;width: 6.2069%;height: 3.8198%;border-radius: 35%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ダメ!"
+		,"style": "color: black;background-color: #6FB49F;font-size: 60em;left: 45.2155%;top: 58.4120%;width: 15.3448%;height: 7.2406%;border-radius: 35%;font-weight: normal;"
+		,"class": "CENTER BOLD"
+	}
+]

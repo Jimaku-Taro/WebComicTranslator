@@ -1,0 +1,13 @@
+.WCT_IMAGE_PARENT {
+	font-size: 1px;
+}
+
+@media screen and (max-width: 769px) {
+	.WCT_IMAGE_PARENT {
+		font-size: calc(100vw/769) !important;
+	}
+}
+
+.VAL {
+	color: white;
+}

@@ -1,14 +1,13 @@
 {
 	"name": "WebComicTranslator"
-	,"version": "9.10.0"
+	,"version": "10.0.0"
 	,"short_name": "コミトラ"
 	,"manifest_version": 2
 	,"description": "一部のWebコミックに日本語訳を人力で追加"
 	,"content_scripts": [
 		{
 			"matches": [
-				"*://www.devilscandycomic.com/comic/*"
-				,"*://devilscandycomic.com/comic/*"
+				"*://*.devilscandycomic.com/comic/*"
 			]
 			,"js": [
 				"WebComicTranslator.js"
@@ -20,16 +19,9 @@
 		 }
 		 ,{
 			"matches": [
-				"*://www.monsterpop.mayakern.com/*"
-				,"*://monsterpop.mayakern.com/*"
-
-
-
-				,"*://www.avasdemon.com/*"
-				,"*://avasdemon.com/*"
-
-				,"*://hoppinggills.com/*"
-				,"*://www.hoppinggills.com/*"
+				"*://*.monsterpop.mayakern.com/*"
+				,"*://*.avasdemon.com/*"
+				,"*://*.hoppinggills.com/*"
 			]
 			,"js": [
 				"WebComicTranslator.js"
@@ -40,8 +32,7 @@
 		}
 		,{
 			"matches": [
-				"*://mayakern.com/cshort.html*"
-				,"*://www.mayakern.com/cshort.html*"
+				"*://*.mayakern.com/cshort.html*"
 			]
 			,"js": [
 				"WebComicTranslator.js"
@@ -53,10 +44,7 @@
 		 }
 		 ,{
 			"matches": [
-				"*://tapas.io/episode/*"
-				,"*://m.tapas.io/episode/*"
-				,"*://www.tapas.io/episode/*"
-				,"*://www.m.tapas.io/episode/*"
+				"*://*.tapas.io/episode/*"
 			]
 			,"js": [
 				"WebComicTranslator.js"
@@ -68,8 +56,7 @@
 		 }
 		,{
 			"matches": [
-				"*://www.hazbinhotel.com/comic/*"
-				,"*://hazbinhotel.com/comic/*"
+				"*://*.hazbinhotel.com/comic/*"
 			]
 			,"js": [
 				"WebComicTranslator.js"
@@ -81,9 +68,7 @@
 		 }
 		 ,{
 			 "matches": [
-				"*://www.webtoons.com/*"
-				,"*://webtoons.com/*"
-				,"*://m.webtoons.com/*"
+				"*://*.webtoons.com/*"
 			 ]
 			 ,"js": [
 				 "WebComicTranslator.js"
@@ -95,7 +80,7 @@
 		  }
 		 ,{
 			 "matches": [
-				"*://zoophobiacomic.com/*"
+				"*://*.zoophobiacomic.com/*"
 			 ]
 			 ,"js": [
 				 "WebComicTranslator.js"
@@ -104,6 +89,18 @@
 				 "css/common.css"
 			 ]
 		  }
+		  ,{
+			"matches": [
+			   "*://*.maliki.com/en/strips/*"
+			]
+			,"js": [
+				"WebComicTranslator.js"
+			]
+			,"css": [
+				"css/common.css"
+				,"css/maliki.css"
+			]
+		 }
 	]
 	,"icons": {
 		"128": "icon128.png"
