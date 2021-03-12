@@ -1,0 +1,17 @@
+[
+	{
+		"text": "アンタは<br/>存在すべき<br/>じゃない"
+		,"style": "font-size: 16em;left: 47.4940%;top: 12.3926%;width: 11.8138%;height: 6.8734%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "<span class=\"BOLD\">消える</span>べきよ!"
+		,"style": "font-size: 25em;left: 57.9952%;top: 15.0749%;width: 11.8138%;height: 7.9631%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "唸れ…"
+		,"style": "font-size: 30em;left: 77.1028%;top: 70.8517%;width: 11.9277%;height: 6.2972%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

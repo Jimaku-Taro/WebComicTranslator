@@ -1,0 +1,32 @@
+[
+	{
+		"text": "なぜあの女性が<br/>パンドラを嫌うか<br/>分かりますか?"
+		,"style": "font-size: 14em;left: 8.9499%;top: 33.9218%;width: 16.1098%;height: 8.2146%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "え…"
+		,"style": "font-size: 14em;left: 29.7136%;top: 48.0040%;width: 4.4153%;height: 2.0117%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "皆を嫌う<br/>ペットを<br/>想像して、<br/>ピアがその<br/>ペットなの"
+		,"style": "font-size: 14em;left: 51.4320%;top: 34.5086%;width: 12.4105%;height: 9.8072%;border-radius: 10% 20% 30% 20%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "なるほど"
+		,"style": "font-size: 14em;left: 65.8711%;top: 34.2571%;width: 7.3986%;height: 4.0235%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "何それ!?"
+		,"style": "font-size: 14em;left: 75.7775%;top: 34.3986%;width: 7.1084%;height: 3.6104%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "ご免なさい<br/>全く見当も<br/>付かないわ"
+		,"style": "font-size: 14em;left: 28.3076%;top: 53.4582%;width: 14.8193%;height: 7.8925%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]
