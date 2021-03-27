@@ -1,0 +1,32 @@
+[
+	{
+		"text": "何が<br/>したいのか<br/>分からないけど<br/>アナタには<br/>無理よ"
+		,"style": "font-size: 16em;left: 31.8019%;top: 6.3102%;width: 14.9165%;height: 11.4837%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "私や友達に<br/>手を出すなら"
+		,"style": "font-size: 16em;left: 42.8998%;top: 13.9381%;width: 16.1098%;height: 7.1249%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "何度<br/>でも…"
+		,"style": "font-size: 25em;left: 43.4964%;top: 20.4762%;width: 15.6325%;height: 6.6220%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "叩き<br/>潰す!"
+		,"style": "font-size: 25em;left: 75.4773%;top: 34.7260%;width: 12.1718%;height: 8.7175%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "大バカね!<br/>何も知らない<br/>クセに…"
+		,"style": "font-size: 16em;left: 8.8902%;top: 47.8861%;width: 13.8425%;height: 9.8910%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "アンタを<br/>殺す前に…"
+		,"style": "font-size: 20em;left: 13.6635%;top: 56.6874%;width: 13.8425%;height: 8.9690%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]
