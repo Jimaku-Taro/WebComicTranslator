@@ -1,0 +1,18 @@
+[
+
+	{
+		"text": "デビル"
+		,"style": "color: black;font-size: 25em;left: 42.4642%;top: 2.4585%;width: 16.9880%;height: 3.5264%;border-radius: 45%;font-weight: normal;text-shadow: white 2px 0px,  white -2px 0px, white 0px -2px, white 0px 2px, white 2px 2px , white -2px 2px, white 2px -2px, white -2px -2px, white 1px 2px,  white -1px 2px, white 1px -2px, white -1px -2px, white 2px 1px,  white -2px 1px, white 2px -1px, white -2px -1px;"
+		,"class": "CENTER BOLD"
+	}
+	,{
+		"text": "ヘカトン！"
+		,"style": "color: black;font-size: 25em;left: 10.0546%;top: 21.9380%;width: 36.3855%;height: 3.8623%;border-radius: 45%;font-weight: normal;text-shadow: white 2px 0px,  white -2px 0px, white 0px -2px, white 0px 2px, white 2px 2px , white -2px 2px, white 2px -2px, white -2px -2px, white 1px 2px,  white -1px 2px, white 1px -2px, white -1px -2px, white 2px 1px,  white -2px 1px, white 2px -1px, white -2px -1px;"
+		,"class": "CENTER BOLD"
+	}
+	,{
+		"text": "時間<br/>切れよ"
+		,"style": "font-size: 16em;left: 21.7780%;top: 72.7813%;width: 9.1885%;height: 8.7175%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

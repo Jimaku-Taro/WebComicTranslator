@@ -1,0 +1,22 @@
+[
+	{
+		"text": "冗談だろ?<br/>無味乾燥過ぎ!<br/>ほとんど<br/>寝かけたよ!"
+		,"style": "font-size: 14em;color: #46842A;background-color: #BBFF84;left: 1.7250%;top: 1.5905%;width: 18.5000%;height: 17.8926%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "“ほとんど”って<br/>どういう意味?"
+		,"style": "font-size: 12em;color: #127B6F;background-color: #82FFEF;left: 23.7250%;top: 14.3426%;width: 13.0000%;height: 13.3466%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "あれでも<br/>頑張ったよ!"
+		,"style": "font-size: 14em;color: #46842A;background-color: #BBFF84;left: 59.2250%;top: 3.5857%;width: 12.0000%;height: 12.7490%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+	,{
+		"text": "知ってる!<br/>でも気をつけて<br/>ほぼバレてる!"
+		,"style": "font-size: 14em;color: #127B6F;background-color: #82FFEF;left: 74.9750%;top: 41.4343%;width: 16.0000%;height: 19.1235%;border-radius: 50%;"
+		,"class": "CENTER"
+	}
+]
