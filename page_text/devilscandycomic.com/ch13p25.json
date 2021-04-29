@@ -1,0 +1,27 @@
+[
+	{
+		"text": "風に揺らめく<br/>葉のように、<br/>本のページは<br/>めくれ<br/>新たな世界が<br/>訪れる"
+		,"style": "font-size: 16em;left: 11.9928%;top: 59.7051%;width: 16.5871%;height: 14.7527%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "ちょっと<br/>やめて…"
+		,"style": "font-size: 14em;left: 12.5847%;top: 75.9262%;width: 9.5181%;height: 2.9387%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "今は<br/>ダメよ"
+		,"style": "font-size: 13em;left: 63.0666%;top: 78.1932%;width: 8.7952%;height: 3.1066%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "それは官能か?<br/>堕落か?<br/>あるいは<br/>血塗れの復讐か?<br/>はたまた<br/>輝ける正義か?"
+		,"style": "font-size: 16em;left: 73.1871%;top: 59.9732%;width: 19.2771%;height: 13.0143%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "きっと<br/>どれも同じこと…<br/>文学の世界では、<br/>フィクションこそが<br/>真理なのだから!"
+		,"style": "font-size: 16em;left: 74.2715%;top: 72.9875%;width: 18.3133%;height: 12.0067%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]
