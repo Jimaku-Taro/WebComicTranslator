@@ -1,0 +1,77 @@
+[
+	{
+		"text": "パンドラ…<br />大丈夫?"
+		,"style": "font-size: 14em;left: 48.0310%;top: 6.2264%;width: 12.1718%;height: 7.2925%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "うん"
+		,"style": "font-size: 14em;left: 69.7494%;top: 14.5248%;width: 6.4439%;height: 4.2749%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "私も<br />行く"
+		,"style": "font-size: 14em;left: 83.7112%;top: 14.5248%;width: 8.3532%;height: 7.0411%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "あたしも。<br />カイコに<br />話しが<br/>あるの"
+		,"style": "font-size: 14em;left: 9.0907%;top: 38.4787%;width: 12.6506%;height: 8.9001%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "<span class=\"BOLD\">リケット?<br />ヒトミ?<br /></span>いつから?<br />聞いてたの?"
+		,"style": "font-size: 14em;left: 34.9944%;top: 39.5702%;width: 17.5904%;height: 7.9765%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "いけない?<br />友達<br />なのに…"
+		,"style": "font-size: 14em;left: 54.9944%;top: 39.4863%;width: 11.4458%;height: 9.1520%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "消えるわ、<br />君が望む<br />なら…"
+		,"style": "font-size: 14em;left: 67.0425%;top: 39.6542%;width: 10.4819%;height: 8.7322%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "酷い!"
+		,"style": "font-size: 40em;left: 78.9703%;top: 40.8297%;width: 15.1807%;height: 4.9538%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "違っ…<br />そんな…"
+		,"style": "font-size: 14em;left: 85.1148%;top: 47.0429%;width: 10.0000%;height: 2.6868%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "へっ! せいぜい<br />頑張って出なよ。<br />出ようとしたけど<br />ラリベラに<br />止められたぜ。"
+		,"style": "font-size: 14em;left: 10.0546%;top: 65.5148%;width: 22.4096%;height: 11.4190%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "考えはあるわ<br />大丈夫よ"
+		,"style": "font-size: 13em;left: 32.8257%;top: 78.1093%;width: 13.3735%;height: 4.6180%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "それ本当にラリベラ先生?<br /><span>あの悪魔は<span class=\"BOLD\">何でも</span>信じるよ。<br /></span>ぼくが大統領に会うって<br />言った時も早退させて<br />くれたよ"
+		,"style": "font-size: 14em;left: 34.5124%;top: 65.5988%;width: 23.6145%;height: 12.0907%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "やったね!<br />聞いた、クレアンス?　<br />ジョー・パリアッチョ<br />の店に一緒に行こう!"
+		,"style": "font-size: 13em;left: 60.1751%;top: 65.5988%;width: 16.8675%;height: 8.9001%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ニモ!<br/>頭持って<br/>行こう!"
+		,"style": "font-size: 14em;left: 77.8859%;top: 65.5148%;width: 11.8072%;height: 7.5567%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ドン・<br/>チョンマゲだ"
+		,"style": "font-size: 13em;left: 74.3919%;top: 73.4073%;width: 9.8795%;height: 4.0821%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

@@ -1,8 +1,8 @@
 {
 	"name": "WebComicTranslator"
-	,"version": "10.14.0"
+	,"version": "11.0.0"
 	,"short_name": "コミトラ"
-	,"manifest_version": 2
+	,"manifest_version": 3
 	,"description": "一部のWebコミックに日本語訳を人力で追加"
 	,"content_scripts": [
 		{
@@ -106,6 +106,45 @@
 		"128": "icon128.png"
 	}
 	,"web_accessible_resources": [
-		"page_text/*/*.json"
+		{
+			"matches": [ "*://*.devilscandycomic.com/*" ]
+			,"resources": [ "page_text/devilscandycomic.com/*.json" ]
+		}
+		,{
+			"matches": [ "*://*.avasdemon.com/*" ]
+			,"resources": [ "page_text/avasdemon.com/*.json" ]
+		}
+		,{
+			"matches": [ "*://*.hazbinhotel.com/*" ]
+			,"resources": [ "page_text/hazbinhotel.com/*.json" ]
+		}
+		,{
+			"matches": [ "*://*.hoppinggills.com/*" ]
+			,"resources": [ "page_text/hoppinggills.com/*.json" ]
+		}
+		,{
+			"matches": [ "*://*.maliki.com/*" ]
+			,"resources": [ "page_text/maliki.com/*.json" ]
+		}
+		,{
+			"matches": [ "*://*.mayakern.com/*" ]
+			,"resources": [ "page_text/mayakern.com/*.json" ]
+		}
+		,{
+			"matches": [ "*://*.monsterpop.mayakern.com/*" ]
+			,"resources": [ "page_text/monsterpop.mayakern.com/*.json" ]
+		}
+		,{
+			"matches": [ "*://*.tapas.io/*" ]
+			,"resources": [ "page_text/tapas.io/*.json" ]
+		}
+		,{
+			"matches": [ "*://*.webtoons.com/*" ]
+			,"resources": [ "page_text/webtoons.com/*.json" ]
+		}
+		,{
+			"matches": [ "*://*.zoophobiacomic.com/*" ]
+			,"resources": [ "page_text/zoophobiacomic.com/*.json" ]
+		}
 	]
 }

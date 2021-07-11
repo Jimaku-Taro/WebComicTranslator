@@ -7,7 +7,7 @@
 
 // と言うかここ読める時点で、ソース読めてる。
 // そもそもライセンス適用する程大した内容ではないけど
-// …と言うか訳文ファイルの塊と言った方が正しい
+// 訳文ファイルの塊で、画像に文字を重ねているだけと言ったほうが正しい。
 
 // jQuery等のライブラリを使う場合は、
 // manifest.jsonのjsに、同梱するライブラリのファイルパスを
@@ -297,7 +297,7 @@ function getTargetData() {
 		break;
 	}
 	// 拡張機能内のファイルパス取得
-	let json_url = chrome.extension.getURL(json_path);
+	let json_url = chrome.runtime.getURL(json_path);
 	let elementOrElemnts = imageParentElement;
 	return [imageParentElement, json_url];
 }
@@ -393,7 +393,7 @@ function webComicTranslator() {
 		imageParentElement = elementOrElemnts;
 		length = 1;
 	} else {
-		// 対象がHTMLCollectionだった場合は、複数用処理 
+		// 対象がHTMLCollectionだった場合は、複数用処理
 		imageParentElementList = elementOrElemnts;
 		imageParentElement = elementOrElemnts.item(0);
 		// length = 3; // デバッグ用 最終対象数を固定
@@ -418,7 +418,7 @@ function webComicTranslator() {
 			consoleLog("WCT：すでにWCT用のタグ追加済みのようです。");
 			return;
 		}
-	
+
 		// 指定ULRのJSONを取得　非同期なので、関数外の処理は、並行して実行されるので注意
 		// つまり通信中に変数などが書き換わっていることが割と良くある
 		fetchRequest(json_url, imageParentElement);
@@ -460,7 +460,7 @@ const OBSERVER = new MutationObserver(records => {
 	let options;
 	switch (true) {
 		case host_string.includes(HOST_TAPAS):
-			
+
 			target = document.getElementsByClassName("js-episode-viewer").item(0);
 			options = {
 				childList: true
