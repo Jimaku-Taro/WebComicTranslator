@@ -6,12 +6,12 @@
 	}
 	,{
 		"text": "わんこそば大会!"
-		,"style": "font-size: 25em;left: 34.9944%;top: 9.2412%;width: 30.6024%;height: 4.7019%;border-radius: 10%;font-weight: normal;"
+		,"style": "font-size: 30em;left: 34.9944%;top: 9.2412%;width: 30.6024%;height: 4.7019%;border-radius: 10%;font-weight: normal;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
-		"text": "洞窟釣り!"
-		,"style": "font-size: 25em;left: 56.5606%;top: 43.0783%;width: 14.4578%;height: 6.9689%;border-radius: 40%;font-weight: normal;"
+		"text": "洞窟<br />釣り!"
+		,"style": "font-size: 30em;left: 56.5606%;top: 43.0783%;width: 14.4578%;height: 6.9689%;border-radius: 40%;font-weight: normal;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
