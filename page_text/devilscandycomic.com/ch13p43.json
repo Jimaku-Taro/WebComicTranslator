@@ -1,0 +1,37 @@
+[
+	{
+		"text": "芋虫"
+		,"style": "font-size: 20em;left: 43.0191%;top: 6.0195%;width: 12.6492%;height: 3.1014%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "やっとね!<br />お腹ペコペコ!"
+		,"style": "font-size: 16em;left: 56.2649%;top: 9.8413%;width: 14.9165%;height: 5.1970%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "うぇえ～!?<br />なんで全部<br />芋虫?"
+		,"style": "font-size: 20em;left: 54.0305%;top: 41.7979%;width: 16.9880%;height: 6.3812%;border-radius: 30%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "え?<br />食べたいん<br />じゃないの?<br />ここ専門店<br />だよ"
+		,"style": "font-size: 16em;left: 26.9823%;top: 53.0489%;width: 13.7349%;height: 14.0218%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "えぇ～～?"
+		,"style": "font-size: 14em;left: 44.9341%;top: 54.2244%;width: 11.8072%;height: 3.1906%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "誰がここ<br />選んだのよ?"
+		,"style": "font-size: 16em;left: 57.7052%;top: 53.7206%;width: 13.9759%;height: 6.1293%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "それ<br />でしたら<br />…"
+		,"style": "font-size: 16em;left: 30.3558%;top: 74.9633%;width: 10.4819%;height: 7.4727%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

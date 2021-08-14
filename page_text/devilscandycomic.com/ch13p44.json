@@ -1,0 +1,32 @@
+[
+	{
+		"text": "部活動"
+		,"style": "font-size: 25em;left: 38.7293%;top: 6.0506%;width: 20.2410%;height: 2.5189%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "わんこそば大会!"
+		,"style": "font-size: 25em;left: 34.9944%;top: 9.2412%;width: 30.6024%;height: 4.7019%;border-radius: 10%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "洞窟釣り!"
+		,"style": "font-size: 25em;left: 56.5606%;top: 43.0783%;width: 14.4578%;height: 6.9689%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "おチビちゃんの救出!"
+		,"style": "font-size: 25em;left: 33.6691%;top: 52.2303%;width: 31.8072%;height: 2.9387%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "まさに文芸部!!"
+		,"style": "font-size: 30em;left: 29.3317%;top: 74.8163%;width: 31.5663%;height: 4.7019%;border-radius: 30%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "本は<br />どこよ!?"
+		,"style": "font-size: 20em;left: 57.4040%;top: 79.9381%;width: 14.8193%;height: 5.2897%;border-radius: 30%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

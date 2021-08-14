@@ -1,0 +1,42 @@
+[
+	{
+		"text": "親友達"
+		,"style": "font-size: 25em;left: 38.2530%;top: 5.9689%;width: 22.5301%;height: 3.0962%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "ニモ!<br />いいもの<br />見つけた!"
+		,"style": "font-size: 16em;left: 28.7895%;top: 10.7866%;width: 12.4096%;height: 8.3963%;border-radius: 40%;font-weight: normal;background-color: #E8E2F5;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "また<br />変な物<br />売りつけ<br />られたか?"
+		,"style": "font-size: 16em;left: 57.3438%;top: 10.3668%;width: 13.7349%;height: 9.8237%;border-radius: 40%;font-weight: normal;background-color: #DBF7FF;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "<span class=\"BOLD\" >友情の<br />ブレスレット!<br /></span>お互いの<br />腕に付けて<br />外れると<br /><span class=\"BOLD\" >願いが叶うんだ!</span>"
+		,"style": "font-size: 16em;left: 53.2474%;top: 32.1972%;width: 17.9518%;height: 17.8002%;border-radius: 40%;font-weight: normal;background-color: #E8E2F5;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "プッ…<br />お前５才児かよ?<br /><span>でも<span class=\"BOLD\" >どうしても<br /></span></span>って言うなら<br />付けてやるぜ…"
+		,"style": "font-size: 16em;left: 28.9100%;top: 53.7757%;width: 15.0602%;height: 13.9379%;border-radius: 20%;font-weight: normal;background-color: #DBF7FF;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "うん!<br />パンドラにも<br />あげたよ!<br />クレアンスと<br />ヤギー…"
+		,"style": "font-size: 14em;left: 28.3076%;top: 76.0259%;width: 15.9036%;height: 9.840%;border-radius: 40%;font-weight: normal;background-color: #E8E2F5;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ヒトミに<br />ホレイショー<br />ラリベラ先生も"
+		,"style": "font-size: 14em;left: 43.8498%;top: 75.8580%;width: 13.6145%;height: 5.6255%;border-radius: 40%;font-weight: normal;background-color: #E8E2F5;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "死に<br />てぇ!"
+		,"style": "font-size: 25em;left: 59.0305%;top: 75.5221%;width: 11.8072%;height: 8.3963%;border-radius: 20%;font-weight: normal;background-color: #DBF7FF;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"text": "おかしくなる"
+		,"style": "font-size: 20em;left: 38.0072%;top: 6.3705%;width: 23.3890%;height: 2.7661%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "ラリベラ先生は<br />ソワソワすると<br />悪い癖が<br />出ます…"
+		,"style": "font-size: 14em;left: 29.1510%;top: 9.6558%;width: 14.0964%;height: 11.0831%;border-radius: 0%;font-weight: normal;background-color: #FFEF96;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "エリオットはどこだ<br />エリオットはどこだ<br />エリオットはどこだ<br />エリオットはどこだ<br />エリオットはどこだ<br />エリオットはどこだ"
+		,"style": "font-size: 14em;left: 26.1389%;top: 30.9824%;width: 18.4337%;height: 12.7624%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "エリオットはどこだ<br />エリオットはどこだ<br />エリオットはどこだ<br />エリオットはどこだ<br />エリオットはどこだ<br />エリオットはどこだ"
+		,"style": "font-size: 14em;left: 26.9823%;top: 52.3090%;width: 18.1928%;height: 12.1746%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "エリオットはどこだ<br />エリオットはどこだ<br />エリオットはどこだ<br />エリオットはどこだ<br />エリオットはどこだ<br />エリオットはどこだ"
+		,"style": "font-size: 14em;left: 26.9823%;top: 52.3090%;width: 18.1928%;height: 12.1746%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "やめて!"
+		,"style": "font-size: 20em;left: 59.0305%;top: 75.1469%;width: 10.4819%;height: 8.9001%;border-radius: 20%;font-weight: normal;background-color: #FFD7E3;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

@@ -26,7 +26,7 @@
 	}
 	,{
 		"text": "いえいえ!言葉の綾です!<br/>“わぁニモ、それ警察呼ばなくて<br/>いいの?”みたいな"
-		,"style": "font-size: 18em;left: 33%;top: 53.5%;width: 283px;height: 95px;border-radius: 0%;"
+		,"style": "font-size: 18em;left: 33%;top: 53.5%;width: 283px;height: 95px;border-radius: 0% 0% 30% 35%;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{

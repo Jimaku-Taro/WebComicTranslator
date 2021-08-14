@@ -20,7 +20,7 @@
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "昨日の<br/>電話の件か?<br/>自分から面倒に<br/>首突っ込んだのか?"
+		"text": "昨日の<br/>電話の件か?<br/>自分から面倒に<br/>首突っ込むか?"
 		,"style": "font-size: 14em;left: 73.3294%;top: 25.5894%;width: 15.6325%;height: 12.8248%;border-radius: 40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
@@ -40,8 +40,8 @@
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "罠の可能性<br/>特大だな…"
-		,"style": "font-size: 14em;left: 28.0064%;top: 63.2478%;width: 11.9277%;height: 7.3048%;border-radius: 40%;font-weight: normal;"
+		"text": "確実に<br/>罠だな…"
+		,"style": "font-size: 16em;left: 28.0064%;top: 63.2478%;width: 11.9277%;height: 7.3048%;border-radius: 40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}
 	,{
@@ -55,7 +55,7 @@
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "問題は多いけど<br/>彼女なら<br/>エリオット探しに<br/>協力してくれそうだし…<br/>ルーチとの関係も<br/>知ってそうだね"
+		"text": "問題は多いけど<br/>彼女なら<br/>エリオット探しに<br/>協力してくれそうだし…<br/>ルーチとの関係も<br/>知ってそうだ"
 		,"style": "font-size: 14em;left: 70.2956%;top: 72.3158%;width: 22.7711%;height: 12.4265%;border-radius: 40%;font-weight: normal;"
 		,"class": "CENTER WHITE"
 	}

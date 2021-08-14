@@ -1,0 +1,37 @@
+[
+	{
+		"text": "閃光の如く"
+		,"style": "font-size: 20em;left: 31.5036%;top: 5.9540%;width: 37.7088%;height: 2.9338%;border-radius: 0%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "ラリベラ先生を<br />出し抜く方法を<br />思いついた"
+		,"style": "font-size: 14em;left: 26.7303%;top: 10.0613%;width: 17.1838%;height: 6.4543%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "見えない<br />速さで動く!<br />見てな、<br />脱走するぜ!"
+		,"style": "font-size: 16em;left: 25.7775%;top: 16.7113%;width: 18.0723%;height: 10.0756%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "間抜けな<br />作戦だが<br />信じてるぜ"
+		,"style": "font-size: 16em;left: 60.4763%;top: 9.9942%;width: 13.3735%;height: 10.1595%;height: 10.0756%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "わぁ"
+		,"style": "font-size: 14em;left: 62.5245%;top: 59.7004%;width: 7.9518%;height: 2.6029%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "バ…<br />バカな!<br />超スピード<br />なのに!"
+		,"style": "font-size: 16em;left: 28.7895%;top: 74.9816%;width: 12.2892%;height: 7.5567%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ちょい速い<br />止まりだよ"
+		,"style": "font-size: 16em;left: 56.2594%;top: 87.3242%;width: 14.3373%;height: 7.8086%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

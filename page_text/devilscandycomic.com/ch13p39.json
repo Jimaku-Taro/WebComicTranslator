@@ -15,12 +15,12 @@
 		,"class": "CENTER WHITE"
 	}
 	,{
-		"text": "疑問を挟む<br />余地は無いな。<br />やるべきことを<br />やって来なさい!"
-		,"style": "font-size: 18em;left: 12.9462%;top: 80.2923%;width: 18.5542%;height: 12.0907%;border-radius: 40%;font-weight: normal;"
+		"text": "疑問の<br />余地は無いな。<br />行って<br />らっしゃい!"
+		,"style": "font-size: 20em;left: 12.9462%;top: 80.2923%;width: 18.5542%;height: 12.0907%;border-radius: 40%;font-weight: normal;"
 		,"class": "CENTER WHITE BOLD"
 	}
 	,{
-		"text": "10章：終"
+		"text": "13章：終"
 		,"style": "font-size: 25em;left: 71.1389%;top: 90.2839%;width: 22.8916%;height: 3.6944%;border-radius: 0%;font-weight: normal;border: 1px solid;"
 		,"class": "CENTER WHITE BOLD"
 	}
