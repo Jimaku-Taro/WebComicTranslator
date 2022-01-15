@@ -1,0 +1,22 @@
+[
+	{
+		"text": "パンドラ!<br />ちゃんと連携しろ!<br />オレの武器は防御用だ。<br />奴を止めはできるが<br />倒せない"
+		,"style": "font-size: 16em;left: 7.7831%;top: 51.0306%;width: 22.1957%;height: 10.9807%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "分かった"
+		,"style": "font-size: 14em;left: 36.5274%;top: 52.9635%;width: 7.2289%;height: 6.0453%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "もう嫌。<br />アンタの<br />相手はしない。<br />出てけ"
+		,"style": "font-size: 14em;left: 48.2141%;top: 53.3833%;width: 11.8072%;height: 8.5642%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "オレには<br />指一本触れないぜ<br />やってみな"
+		,"style": "font-size: 16em;left: 49.2984%;top: 80.0836%;width: 18.4337%;height: 7.4727%;border-radius: 40%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

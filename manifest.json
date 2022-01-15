@@ -1,6 +1,6 @@
 {
 	"name": "WebComicTranslator"
-	,"version": "11.4.0"
+	,"version": "12.0.0"
 	,"short_name": "コミトラ"
 	,"manifest_version": 3
 	,"description": "一部のWebコミックに日本語訳を人力で追加"
@@ -22,6 +22,7 @@
 				"*://*.monsterpop.mayakern.com/*"
 				,"*://*.avasdemon.com/*"
 				,"*://*.hoppinggills.com/*"
+				,"*://*.manga.bilibili.com/*"
 			]
 			,"js": [
 				"WebComicTranslator.js"
@@ -101,6 +102,18 @@
 				,"css/maliki.css"
 			]
 		 }
+		 ,{
+			"matches": [
+				"*://*.manga.bilibili.com/*"
+			]
+			,"js": [
+				"WebComicTranslator.js"
+			]
+			,"css": [
+				"css/common.css"
+				,"css/manga.bilibili.com.css"
+			]
+		}
 	]
 	,"icons": {
 		"128": "icon128.png"
@@ -145,6 +158,10 @@
 		,{
 			"matches": [ "*://*.zoophobiacomic.com/*" ]
 			,"resources": [ "page_text/zoophobiacomic.com/*.json" ]
+		}
+		,{
+			"matches": [ "*://*.manga.bilibili.com/*" ]
+			,"resources": [ "page_text/manga.bilibili.com/*/*.json" ]
 		}
 	]
 }

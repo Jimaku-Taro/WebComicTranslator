@@ -1,0 +1,17 @@
+[
+	{
+		"text": "手を繋いで!<br />はぐれる!"
+		,"style": "font-size: 16em;left: 20.0477%;top: 60.8786%;width: 15.3938%;height: 7.3764%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "リケット!"
+		,"style": "font-size: 16em;left: 53.8186%;top: 76.0989%;width: 13.8425%;height: 3.5205%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "あっ!"
+		,"style": "font-size: 16em;left: 83.6516%;top: 75.5475%;width: 6.4439%;height: 4.6940%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

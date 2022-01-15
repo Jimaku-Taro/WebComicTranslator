@@ -1,0 +1,47 @@
+[
+	{
+		"text": "なぜ<br />そう話を<br />難しく<br />するの?"
+		,"style": "font-size: 16em;left: 20.3792%;top: 6.1653%;width: 13.4845%;height: 10.6454%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "皆にとって<br />良い結果に<br />ならないわ"
+		,"style": "font-size: 16em;left: 43.3413%;top: 7.3573%;width: 14.2169%;height: 10.2521%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ドアが無い…<br />閉じ込める気?"
+		,"style": "font-size: 16em;left: 76.1124%;top: 28.0296%;width: 14.2169%;height: 11.1765%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "違うわ!"
+		,"style": "font-size: 16em;left: 68.2810%;top: 41.8951%;width: 6.8675%;height: 4.5378%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "逆よ!<br />出そうと<br />したけど<br />なぜか皆が<br />固まって<br />いたから!"
+		,"style": "font-size: 16em;left: 74.6666%;top: 41.4750%;width: 18.4337%;height: 15.8824%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "信じるとでも?<br />呼んでおいて<br />なぜ追い出す?"
+		,"style": "font-size: 16em;left: 43.2208%;top: 59.4582%;width: 15.1807%;height: 10.7563%;border-radius: 35%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "用があるのは<br />パンドラ<br />だけよ"
+		,"style": "font-size: 16em;left: 35.9919%;top: 73.8279%;width: 11.5663%;height: 10.1681%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "分かった<br />皆は帰って<br />私は残る"
+		,"style": "font-size: 16em;left: 51.8955%;top: 74.3321%;width: 10.4819%;height: 9.1597%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "絶対<br />ダメ!"
+		,"style": "font-size: 25em;left: 75.0280%;top: 73.7439%;width: 16.9880%;height: 5.2941%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

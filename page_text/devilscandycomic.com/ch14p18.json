@@ -1,0 +1,17 @@
+[
+	{
+		"text": "おい<br />パンドラ!"
+		,"style": "font-size: 14em;left: 34.6327%;top: 8.3651%;width: 12.0525%;height: 4.1073%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "待て!<br />１人で<br />行くな!"
+		,"style": "font-size: 18em;left: 49.3105%;top: 8.2812%;width: 12.8878%;height: 7.2925%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "グ!"
+		,"style": "font-size: 18em;left: 85.5430%;top: 86.4006%;width: 6.0241%;height: 4.7019%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

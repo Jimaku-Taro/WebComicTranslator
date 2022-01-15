@@ -1,0 +1,22 @@
+[
+	{
+		"text": "わぁ!"
+		,"style": "font-size: 20em;left: 10.2029%;top: 23.6196%;width: 9.7852%;height: 5.2808%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "きゃあ!"
+		,"style": "font-size: 14em;left: 85.4763%;top: 31.9716%;width: 6.2651%;height: 4.5340%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "今はダメ<br />皆の安全を<br />確保しないと"
+		,"style": "font-size: 14em;left: 43.0666%;top: 77.5635%;width: 14.4578%;height: 10.9992%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "今は…?<br />じゃ…後なら?<span class=\"BOLD\">いつなら<br />いいの?</span>"
+		,"style": "font-size: 14em;left: 80.1751%;top: 77.0597%;width: 13.6145%;height: 9.0680%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

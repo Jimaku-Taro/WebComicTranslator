@@ -1,0 +1,17 @@
+[
+	{
+		"text": "ヤメロォ!"
+		,"style": "font-size: 25em;left: 9.0957%;top: 13.3106%;width: 20.5251%;height: 3.0467%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "わぁ!"
+		,"style": "font-size: 25em;left: 84.3587%;top: 27.8585%;width: 8.8771%;height: 4.4500%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "グッ!"
+		,"style": "font-size: 14em;left: 10.3828%;top: 58.6730%;width: 5.0012%;height: 3.0227%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+]

@@ -1,0 +1,42 @@
+[
+	{
+		"text": "警察は役に<br />立たねぇから<br />自分で守るぜ!"
+		,"style": "font-size: 18em;left: 5.2771%;top: 6.5210%;width: 18.3771%;height: 8.9690%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "ホフマンMkⅡの<br />究極形態…<br />本物に勝るとも<br />劣らない!"
+		,"style": "font-size: 18em;left: 67.0093%;top: 15.0122%;width: 20.9639%;height: 10.7473%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "名付けて"
+		,"style": "font-size: 16em;left: 31.7081%;top: 28.8661%;width: 9.8795%;height: 4.5340%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "*本物"
+		,"style": "font-size: 11em;left: 83.1539%;top: 12.4271%;width: 4.6988%;height: 1.6793%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "ホーミング<br />オーブ<br />フォース<br />フィールド!"
+		,"style": "font-size: 14em;left: 30.7442%;top: 32.8963%;width: 11.3253%;height: 7.6406%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "略してホフ<br />システム!"
+		,"style": "font-size: 14em;left: 31.2262%;top: 40.3690%;width: 10.6024%;height: 4.1142%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+	,{
+		"text": "おい!<br />無視<br />すんな!"
+		,"style": "font-size: 20em;left: 8.3346%;top: 63.7947%;width: 14.6988%;height: 7.6406%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE BOLD"
+	}
+	,{
+		"text": "頑張って<br />作ったんだぞ!<br />誰かさんみたいな<br /><span><span class=\"BOLD\">魔法の手</span>なんて</span>ズル無しで!"
+		,"style": "font-size: 20em;left: 68.6960%;top: 63.7947%;width: 19.7590%;height: 12.4265%;border-radius: 45%;font-weight: normal;"
+		,"class": "CENTER WHITE"
+	}
+]

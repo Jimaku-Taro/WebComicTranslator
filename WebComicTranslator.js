@@ -6,7 +6,7 @@
 // 適用したブラウザのフォルダ内に展開されたものを読んで下さい。
 
 // と言うかここ読める時点で、ソース読めてる。
-// そもそもライセンス適用する程大した内容ではないけど
+// そもそもライセンス適用する程大した内容ではないけど。
 // 訳文ファイルの塊で、画像に文字を重ねているだけと言ったほうが正しい。
 
 // jQuery等のライブラリを使う場合は、
@@ -54,6 +54,8 @@ const HOST_ZOOPHOBIA = "zoophobiacomic.com";
 const ZOOPHOBIA_CHARACTERS_PATH = "characters";
 
 const HOST_MALIKI = "maliki.com";
+
+const HOST_BILIBILI = "manga.bilibili.com";
 
 // フォントサイズ属性
 const ATTRIBUTE_FONT_SIZE = "fontSize";
@@ -133,15 +135,16 @@ document.onkeydown = KeyDownFunc;
  * URLを"/"で分割して、最後の部分を取得
  * (末尾スラッシュを自動削除して処理する)
  * @param {String} url_string url文字列
+ * @param {Number} fromLastNumber 最後から何番目のULRパスを取得するか　デフォルト=1
  * @returns {String} url_last urlの最後部分
  */
-function getUrlLast(url_string) {
+function getUrFromlLast(url_string, fromLastNumber = 1) {
 	// 末尾が/(スラッシュ)なら/削除
 	if (url_string.endsWith('/')) {
-		url_string = url_string.substr(0, url_string.length - 1);
+		url_string = url_string.substring(0, url_string.length - 1);
 	}
 	let url_list = url_string.split("/");
-	let url_last = url_list[url_list.length - 1];
+	let url_last = url_list[url_list.length - fromLastNumber];
 	return url_last;
 }
 
@@ -167,19 +170,22 @@ function getTargetData() {
 
 
 	let url_string = location.href;
+	// パラメータ無しのURLも用意。
+	let no_param_url_string = url_string.split("?")[0];
 	// urlの末尾部分を取得
-	let url_last = getUrlLast(url_string);
+	let url_last = getUrFromlLast(url_string);
+	// URLの末尾から2つ目を取得
+	let url_two_from_last = getUrFromlLast(url_string, 2);
 
 	let image;
 	let imageFileName = null;
-
 
 	// ホストで取得対象を変更
 	let json_path ="page_text/";
 	// url末尾の数字部だけ取得
 	let url_number = url_last.replace(/[^0-9]/g, '');
 
-	// urlのホスト部分の文字列で対象を判定、分岐 wwwの有無があるので、完全一致でなくincludesで判定
+	// urlのホスト部分の文字列で対象を判定、分岐。wwwの有無があるので、完全一致でなくincludesで判定
 	switch (true) {
 		case host_string.includes(HOST_DEVILS_CANDY):
 			// デビルズキャンディ
@@ -255,7 +261,7 @@ function getTargetData() {
 			imageParentElement = document.getElementById("comic-box");
 			image = document.getElementsByClassName("img-fluid").item(0);
 			if (image) {
-				imageFileName = getUrlLast(image.src);
+				imageFileName = getUrFromlLast(image.src);
 			}
 			json_path += host_string + "/" + imageFileName + ".json";
 		break;
@@ -282,7 +288,7 @@ function getTargetData() {
 				if (image.tagName !== "img") {
 					image = image.firstElementChild;
 				}
-				imageFileName = getUrlLast(image.src);
+				imageFileName = getUrFromlLast(image.src);
 				json_path += host_string + "/" + imageFileName + ".json";
 			} else if (ZOOPHOBIA_CHARACTERS_PATH === url_last) {
 				// charactersページ用処理
@@ -294,6 +300,13 @@ function getTargetData() {
 			host_string = HOST_MALIKI;
 			imageParentElement = document.getElementsByClassName("col-xs-12").item(0);
 			json_path += host_string + "/" + url_last + ".json";
+		break;
+		case host_string.includes(HOST_BILIBILI):
+			// TODO
+			host_string = HOST_BILIBILI;
+			url_last = getUrFromlLast(no_param_url_string);
+			imageParentElement = document.getElementsByClassName("image-list").item(0);
+			json_path += host_string + "/" + url_two_from_last + "/" + url_last + ".json";
 		break;
 	}
 	// 拡張機能内のファイルパス取得
@@ -425,7 +438,8 @@ function webComicTranslator() {
 
 		consoleLog('WCT：描画ループNo.' + i +"終了");
 	}
-
+	// メイン処理終了時にオブザーバー終了
+	OBSERVER.disconnect();
 	consoleLog('WCT：メイン処理動作終了');
 };
 
@@ -457,23 +471,23 @@ const OBSERVER = new MutationObserver(records => {
 !function(){
 
 	let target;
-	let options;
+	let observerOptions;
 	switch (true) {
 		case host_string.includes(HOST_TAPAS):
 
 			target = document.getElementsByClassName("js-episode-viewer").item(0);
-			options = {
+			observerOptions = {
 				childList: true
 			};
-			OBSERVER.observe(target, options);
+			OBSERVER.observe(target, observerOptions);
 		break;
 		case host_string.includes(HOST_AVAS_DEMON):
 			// window.onhashchange = webComicTranslator;
 			target = document.getElementById("content");
-			options = {
+			observerOptions = {
 				childList: true
 			};
-			OBSERVER.observe(target, options);
+			OBSERVER.observe(target, observerOptions);
 		break;
 		case host_string.includes(HOST_MAYA_KERN):
 			// // 旧処理　コメントアウト
@@ -484,6 +498,16 @@ const OBSERVER = new MutationObserver(records => {
 			// 	childList: true
 			// };
 			// OBSERVER.observe(target, options);
+		break;
+		case host_string.includes(HOST_BILIBILI):
+			const body = document.body;
+			//オブザーバーの作成
+			target = document.body;
+			 observerOptions = {
+				childList: true
+				,subtree: true
+			 };
+			OBSERVER.observe(target, observerOptions);
 		break;
 	}
 
